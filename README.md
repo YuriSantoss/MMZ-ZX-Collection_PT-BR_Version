@@ -1,13 +1,13 @@
 # Mega Man Zero/ZX Collection PTBR Script
 
 Este projeto é um **mod de tradução para o Portugues** para *Mega Man Zero/ZX Legacy Collection*,  
-baseado na Tradução em espanhol (https://github.com/Vo1dTear/MMZC-Spanish-Script.git) do **Vo1dTear**.
+baseado na Tradução em espanhol (https://github.com/Vo1dTear/MMZC-Spanish-Script.git) do **Vo1dTear**, e na Tradução do Solid One (Versão de GBA)
 
 Ele serviu totalmente como base, pois como sou iniciante não conseguiria fazer metade do que o Vo1dTear fez.
 
 **Status do MOD**
 
-- Mega Man Zero 1  | Totalmente traduzido
+- Mega Man Zero 1  | Totalmente traduzido (Falta comparação com a do Solid One e correções)
 - Mega Man Zero 2  | Processo não iniciado
 
 
