@@ -33,3 +33,11 @@ Ele serviu totalmente como base, pois como sou iniciante não conseguiria fazer 
 3. Se `show_console = true` no arquivo `modloader.toml`, o console deverá mostrar:
 ```text
 Loading Mod DLL: mods\MMZC PTBR Script\MMZC PTBR Script.dll
+
+## Credits
+
+* **Original Mod:** [StraDaMa — MMZC GBA Script Restoration](https://github.com/StraDaMa/MMZC-GBA-Script-Restoration)
+* **Spanish Translation:**  (https://github.com/Vo1dTear/MMZC-Spanish-Script.git)
+* **Mod Loader:** [MZZXLC Mod Loader](https://github.com/StraDaMa/MZZXLC-Mod-Loader)
+**Tradução Solid One GBA**
+
