@@ -25,6 +25,12 @@ Ele serviu totalmente como base, pois como sou iniciante não conseguiria fazer 
    Baixe a versão mais recente do MOD (LINK dos LASTEST), extraia o arquivo e coloque a pasta **MMZC-ZX-Collection_PT-BR_Version** dentro do seu diretório `mods`.
 
 ----
+## Credits
+
+* **Original Mod:** [StraDaMa — MMZC GBA Script Restoration](https://github.com/StraDaMa/MMZC-GBA-Script-Restoration)
+* **Spanish Translation:**  (https://github.com/Vo1dTear/MMZC-Spanish-Script.git)
+* **Mod Loader:** [MZZXLC Mod Loader](https://github.com/StraDaMa/MZZXLC-Mod-Loader)
+**Tradução Solid One GBA**
 
 ## Para Usar
 
@@ -32,7 +38,8 @@ Ele serviu totalmente como base, pois como sou iniciante não conseguiria fazer 
 2. Ative o **MMZC PTBR MOD** na lista de mods.  
 3. Se `show_console = true` no arquivo `modloader.toml`, o console deverá mostrar:
 ```text
-Loading Mod DLL: mods\MMZC PTBR Script\MMZC PTBR Script.dll
+Loading Mod DLL: mods\MMZC PTBR Script\MMZC PTBR Script.dll 
+```
 
 ## Credits
 
