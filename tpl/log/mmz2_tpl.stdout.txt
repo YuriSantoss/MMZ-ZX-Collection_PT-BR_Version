@@ -1,0 +1,21 @@
+TextPet v1.0.0 by Prof. 9
+
+Loading plugins...
+Reading 9 files...
+Loaded Game Info plugin mmz1.
+Loaded Game Info plugin mmz2.
+Loaded Game Info plugin mmz3.
+Loaded Game Info plugin mmz4.
+Loaded Encoding plugin mmz1-utf8.
+Loaded Command Database plugin mmz1.
+Loaded Encoding plugin mmz2-utf8.
+Loaded Command Database plugin mmz2.
+Loaded Encoding plugin mmz3-utf8.
+Loaded Command Database plugin mmz3.
+Loaded Encoding plugin mmz4-utf8.
+Loaded Command Database plugin mmz4.
+Initializing game...
+Initialized plugins for game Mega Man Zero 2.
+Reading 21 text archives...
+Writing 21 text archives...
+Done.
