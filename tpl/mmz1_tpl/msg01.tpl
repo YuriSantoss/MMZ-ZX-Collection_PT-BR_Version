@@ -3,19 +3,19 @@
 
 script 0 mmz1 {
     """
-    Você obteve o Z Saber!!
+    Voce obteve o Z Saber!!
     """
     end
 }
 script 1 mmz1 {
     """
-    Você obteve o Triple Rod!!
+    Voce obteve o Triple Rod!!
     """
     end
 }
 script 2 mmz1 {
     """
-    Você obteve o Shield
+    Voce obteve o Shield
     """
     msgClear
     """
@@ -29,7 +29,7 @@ script 3 mmz1 {
     """
     msgClear
     """
-    Agora você pode carregar o
+    Agora voce pode carregar o
     """
     msgClear
     """
@@ -43,7 +43,7 @@ script 4 mmz1 {
     """
     msgClear
     """
-    Agora você pode carregar o
+    Agora voce pode carregar o
     """
     msgClear
     """
@@ -57,7 +57,7 @@ script 5 mmz1 {
     """
     msgClear
     """
-    Agora você pode carregar o
+    Agora voce pode carregar o
     """
     msgClear
     """
@@ -71,7 +71,7 @@ script 6 mmz1 {
     """
     msgClear
     """
-    Agora você pode atirar 4
+    Agora voce pode atirar 4
     """
     msgClear
     """
@@ -85,7 +85,7 @@ script 7 mmz1 {
     """
     msgClear
     """
-    Agora você pode atirar 4
+    Agora voce pode atirar 4
     """
     msgClear
     """
@@ -99,7 +99,7 @@ script 8 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -113,7 +113,7 @@ script 9 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -127,7 +127,7 @@ script 10 mmz1 {
     """
     msgClear
     """
-    Agora você pode carregar o
+    Agora voce pode carregar o
     """
     msgClear
     """
@@ -141,7 +141,7 @@ script 11 mmz1 {
     """
     msgClear
     """
-    Agora você pode carregar o
+    Agora voce pode carregar o
     """
     msgClear
     """
@@ -155,7 +155,7 @@ script 12 mmz1 {
     """
     msgClear
     """
-    Agora você pode carregar o
+    Agora voce pode carregar o
     """
     msgClear
     """
@@ -169,7 +169,7 @@ script 13 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -183,7 +183,7 @@ script 14 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -197,7 +197,7 @@ script 15 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -211,7 +211,7 @@ script 16 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -225,7 +225,7 @@ script 17 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -239,7 +239,7 @@ script 18 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -253,7 +253,7 @@ script 19 mmz1 {
     """
     msgClear
     """
-    Agora você pode carregar o
+    Agora voce pode carregar o
     """
     msgClear
     """
@@ -267,7 +267,7 @@ script 20 mmz1 {
     """
     msgClear
     """
-    Agora você pode carregar o
+    Agora voce pode carregar o
     """
     msgClear
     """
@@ -281,7 +281,7 @@ script 21 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -295,7 +295,7 @@ script 22 mmz1 {
     """
     msgClear
     """
-    Agora você pode realizar um
+    Agora voce pode realizar um
     """
     msgClear
     """
@@ -305,31 +305,31 @@ script 22 mmz1 {
 }
 script 23 mmz1 {
     """
-    Você obteve o Thunder Chip!!
+    Voce obteve o Thunder Chip!!
     """
     end
 }
 script 24 mmz1 {
     """
-    Você obteve o Flame Chip!!
+    Voce obteve o Flame Chip!!
     """
     end
 }
 script 25 mmz1 {
     """
-    Você obteve o Ice Chip!!
+    Voce obteve o Ice Chip!!
     """
     end
 }
 script 26 mmz1 {
     """
-    Você obteve um Cyber-Elfo!
+    Voce obteve um Cyber-Elfo!
     """
     end
 }
 script 27 mmz1 {
     """
-    Você obteve a Escape Unit!!
+    Voce obteve a Escape Unit!!
     """
     end
 }

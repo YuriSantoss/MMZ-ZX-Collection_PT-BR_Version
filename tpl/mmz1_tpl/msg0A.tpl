@@ -19,7 +19,7 @@ script 1 mmz1 {
     mugshotShow
         mugshot = 33
     """
-    Hmph! Você tem se
+    Hmph! Voce tem se
     saído bem...
     """
     msgClear
@@ -35,7 +35,7 @@ script 1 mmz1 {
     """
     msgClear
     """
-    Cada geracão
+    Cada geracao
     tem a sua lenda.
     Porém, uma
     lenda perdida
@@ -56,21 +56,21 @@ script 2 mmz1 {
     mugshotShow
         mugshot = 33
     """
-    Isso não pode
+    Isso nao pode
     ser verdade...
     """
     msgClear
     """
     Mesmo assim... tenho
     mais surpresas
-    para você.
+    para voce.
     """
     msgClear
     """
     As bombas que
     coloquei por toda
     a fábrica
-    explodirão a
+    explodirao a
     """
     msgClear
     """
@@ -86,7 +86,7 @@ script 2 mmz1 {
     msgClear
     """
     Sua lenda
-    terminará, não com
+    terminará, nao com
     um suspiro, mas
     com um estrondo!!
     """
@@ -96,7 +96,7 @@ script 3 mmz1 {
     cmdF8
         parameter1 = 157
     """
-    CIEL:Não há tempo
+    CIEL:Nao há tempo
     """
     msgClear
     """
@@ -120,7 +120,7 @@ script 4 mmz1 {
     cmdF8
         parameter1 = 154
     """
-    CIEL:Você vai desarmar
+    CIEL:Voce vai desarmar
     """
     msgClear
     """
@@ -148,7 +148,7 @@ script 4 mmz1 {
     """
     msgClear
     """
-    CIEL:não se sinta
+    CIEL:nao se sinta
     """
     msgClear
     """
@@ -234,7 +234,7 @@ script 12 mmz1 {
 }
 script 13 mmz1 {
     """
-    ZERO:Ainda não desarmei
+    ZERO:Ainda nao desarmei
     """
     msgClear
     """
@@ -248,7 +248,7 @@ script 14 mmz1 {
     """
     msgClear
     """
-    CIEL:da explosão!
+    CIEL:da explosao!
     """
     msgClear
     """

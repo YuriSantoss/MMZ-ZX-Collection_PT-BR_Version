@@ -54,7 +54,7 @@ script 1 mmz1 {
     msgClear
     """
     Os Reploids que
-    você procura estão
+    voce procura estão
     nas profundezas
     do deserto.
     """
@@ -76,7 +76,7 @@ script 2 mmz1 {
     mugshotShow
         mugshot = 5
     """
-    Ei! Você está
+    Ei! Voce está
     bem?
     """
     msgClear
@@ -85,7 +85,7 @@ script 2 mmz1 {
     """
     Hmm... Estou...
     bem...
-    Você veio me
+    Voce veio me
     resgatar...
     """
     msgClear
@@ -142,7 +142,7 @@ script 4 mmz1 {
     """
     msgClear
     """
-    CIEL:Você pode levá-lo
+    CIEL:Voce pode levá-lo
     """
     msgClear
     """
@@ -218,7 +218,7 @@ script 7 mmz1 {
 }
 script 8 mmz1 {
     """
-    SOLDADO:Não!
+    SOLDADO:Nao!
     """
     end
 }

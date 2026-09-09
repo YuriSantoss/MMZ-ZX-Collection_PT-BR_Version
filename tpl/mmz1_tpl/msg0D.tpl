@@ -22,7 +22,7 @@ script 0 mmz1 {
     """
     msgClear
     """
-    depois que você
+    depois que voce
     salvar a todos.
     """
     msgClear
@@ -34,7 +34,7 @@ script 0 mmz1 {
     """
     msgClear
     """
-    por você.
+    por voce.
     """
     end
 }
@@ -91,13 +91,13 @@ script 6 mmz1 {
     mugshotShow
         mugshot = 44
     """
-    Você resgatou
+    Voce resgatou
     todos os outros?
     Muito obrigado.
     """
     msgClear
     """
-    Não temos
+    Nao temos
     mais nada com que
     nos preocupar.
     Vamos ao hangar!
@@ -125,7 +125,7 @@ script 7 mmz1 {
     """
     msgClear
     """
-    depois que você
+    depois que voce
     salvar a todos.
     """
     msgClear
@@ -137,7 +137,7 @@ script 7 mmz1 {
     """
     msgClear
     """
-    por você.
+    por voce.
     """
     end
 }
@@ -190,7 +190,7 @@ script 13 mmz1 {
     mugshotShow
         mugshot = 46
     """
-    Você resgatou
+    Voce resgatou
     todos os outros?
     Maravilha! Mui-
     to obrigada!!
@@ -199,7 +199,7 @@ script 13 mmz1 {
 }
 script 14 mmz1 {
     """
-    CIEL:Conto com você,
+    CIEL:Conto com voce,
     """
     msgClear
     """
@@ -253,7 +253,7 @@ script 16 mmz1 {
     """
     msgClear
     """
-    CIEL:a porta para você.
+    CIEL:a porta para voce.
     """
     msgClear
     """
@@ -309,7 +309,7 @@ script 18 mmz1 {
     """
     msgClear
     """
-    CIEL:Não posso abri-la
+    CIEL:Nao posso abri-la
     """
     msgClear
     """
@@ -327,7 +327,7 @@ script 19 mmz1 {
     """
     msgClear
     """
-    CIEL:Você está bem?
+    CIEL:Voce está bem?
     """
     end
 }
@@ -349,7 +349,7 @@ script 20 mmz1 {
     """
     msgClear
     """
-    CIEL:você pode evacuar
+    CIEL:voce pode evacuar
     """
     msgClear
     """
@@ -370,7 +370,7 @@ script 21 mmz1 {
     """
     Por favor, resgate
     os demais e
-    então poderemos
+    entao poderemos
     evacuar por
     """
     msgClear
@@ -392,7 +392,7 @@ script 22 mmz1 {
     """
     Por favor, resgate
     os demais e
-    então poderemos
+    entao poderemos
     evacuar por
     """
     msgClear
@@ -412,7 +412,7 @@ script 23 mmz1 {
     msgClear
     """
     Mas isso ainda
-    não acabou...
+    nao acabou...
     """
     msgClear
     """
@@ -423,7 +423,7 @@ script 23 mmz1 {
     """
     msgClear
     """
-    Não há como
+    Nao há como
     derrotá-lo
     sem sua ajuda.
     """
@@ -446,12 +446,12 @@ script 25 mmz1 {
         mugshot = 22
     """
     Hmmmm...
-    Você deve ser
+    Voce deve ser
     o Zero...
     """
     msgClear
     """
-    Você foi bem
+    Voce foi bem
     em chegar até
     aqui, mas este
     é o lugar onde
@@ -474,7 +474,7 @@ script 25 mmz1 {
     """
     msgClear
     """
-    Você não vai
+    Voce nao vai
     me vencer!
     """
     msgClear
@@ -499,7 +499,7 @@ script 27 mmz1 {
         mugshot = 42
     """
     CIEL:
-    "Entendido! E não
+    "Entendido! E nao
      esqueca de trazer
      o Ice Chip!
     """
@@ -570,7 +570,7 @@ script 36 mmz1 {
     msgClear
     """
     Mas isso ainda
-    não acabou...
+    nao acabou...
     """
     msgClear
     """
@@ -581,7 +581,7 @@ script 36 mmz1 {
     """
     msgClear
     """
-    Não há como
+    Nao há como
     derrotá-lo
     sem sua ajuda.
     """

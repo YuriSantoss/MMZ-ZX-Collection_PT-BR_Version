@@ -24,7 +24,7 @@ script 0 mmz1 {
     msgClear
     """
     SOLDADO:
-     Não podemos
+     Nao podemos
      aguentar muito
      mais!"
     """
@@ -62,7 +62,7 @@ script 1 mmz1 {
     """
     msgClear
     """
-    Você também deve
+    Voce também deve
     evacuar, Zero.
     """
     msgClear
@@ -139,26 +139,26 @@ script 1 mmz1 {
     mugshotShow
         mugshot = 4
     """
-    O quê? O que você
+    O quê? O que voce
     quer dizer com
     "regenerou"...?
     """
     msgClear
     """
     Ressuscitou o X
-    como você me
+    como voce me
     ressuscitou?
     """
     msgClear
     mugshotShow
         mugshot = 7
     """
-    Não. É
+    Nao. É
     diferente...
     """
     msgClear
     """
-    Você é um
+    Voce é um
     original,
     o que significa
     """
@@ -177,7 +177,7 @@ script 2 mmz1 {
     mugshotShow
         mugshot = 7
     """
-    Você deve ir
+    Voce deve ir
     agora...
     """
     msgClear
@@ -205,7 +205,7 @@ script 3 mmz1 {
     msgClear
     """
     SOLDADO:
-     Como não podemos
+     Como nao podemos
      ativar o
      elevador, os
     """
@@ -214,7 +214,7 @@ script 3 mmz1 {
     SOLDADO:
      Reploids nos
      níveis superiores
-     não podem ir
+     nao podem ir
     """
     msgClear
     """
@@ -303,11 +303,11 @@ script 6 mmz1 {
     """
     Ora ora ora.
     Ouvi falar muito
-    sobre você.
+    sobre voce.
     """
     msgClear
     """
-    Você deve ser
+    Voce deve ser
     o Zero, o
     Reploid
     lendário...

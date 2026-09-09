@@ -43,7 +43,7 @@ script 1 mmz1 {
 }
 script 2 mmz1 {
     """
-    CIEL:Você está bem, Zero?
+    CIEL:Voce está bem, Zero?
     """
     msgClear
     """
@@ -63,7 +63,7 @@ script 2 mmz1 {
     """
     msgClear
     """
-    CIEL:Não se preocupe.
+    CIEL:Nao se preocupe.
     """
     end
 }
@@ -121,7 +121,7 @@ script 4 mmz1 {
 }
 script 5 mmz1 {
     """
-    CIEL:A porta não vai
+    CIEL:A porta nao vai
     """
     msgClear
     """
@@ -143,7 +143,7 @@ script 6 mmz1 {
     """
     msgClear
     """
-    CIEL:gracas a você!!
+    CIEL:gracas a voce!!
     """
     msgClear
     """
@@ -189,7 +189,7 @@ script 7 mmz1 {
     """
     msgClear
     """
-    CIEL:Você também deve
+    CIEL:Voce também deve
     """
     msgClear
     """

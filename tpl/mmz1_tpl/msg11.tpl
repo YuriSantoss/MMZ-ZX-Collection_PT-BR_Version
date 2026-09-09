@@ -8,7 +8,7 @@ script 1 mmz1 {
     mugshotShow
         mugshot = 4
     """
-    Você é  muito grande
+    Voce é  muito grande
     pra
     ser uma lesma.
     """

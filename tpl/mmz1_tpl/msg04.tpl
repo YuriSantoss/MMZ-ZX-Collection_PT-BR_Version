@@ -75,14 +75,14 @@ script 3 mmz1 {
     """
     msgClear
     """
-    você tinha foi
+    voce tinha foi
     armazenada no
     servidor dentro do
     meu corpo.
     """
     msgClear
     """
-    Se você a quer
+    Se voce a quer
     de volta,
     terá que
     me destruir e
@@ -106,7 +106,7 @@ script 4 mmz1 {
     """
     Mas já é tarde
     demais. Ainda assim,
-    você vai perecer!
+    voce vai perecer!
     """
     end
 }
@@ -124,7 +124,7 @@ script 5 mmz1 {
     """
     msgClear
     """
-    CIEL:Você tem que evacuar
+    CIEL:Voce tem que evacuar
     """
     msgClear
     """
@@ -146,7 +146,7 @@ script 6 mmz1 {
     """
     msgClear
     """
-    CIEL:Você está vivo...
+    CIEL:Voce está vivo...
     """
     msgClear
     """
@@ -158,7 +158,7 @@ script 6 mmz1 {
     """
     msgClear
     """
-    CIEL:Esperarei você voltar
+    CIEL:Esperarei voce voltar
     """
     msgClear
     """

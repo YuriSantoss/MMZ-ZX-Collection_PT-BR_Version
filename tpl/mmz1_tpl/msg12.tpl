@@ -18,7 +18,7 @@ script 1 mmz1 {
     msgClear
     """
     Agora é hora
-    de você
+    de voce
     fazer o mesmo...
     """
     end
@@ -27,7 +27,7 @@ script 2 mmz1 {
     mugshotShow
         mugshot = 27
     """
-    Ainda não
+    Ainda nao
     acredito que me
     derrotou...
     """
@@ -65,7 +65,7 @@ script 3 mmz1 {
     """
     Com a minha nevasca,
     se arrependerá
-    de não ter
+    de nao ter
     ficado lá!
     """
     msgClear
@@ -97,9 +97,9 @@ script 5 mmz1 {
     mugshotShow
         mugshot = 35
     """
-    Este não é
+    Este nao é
     um lugar para
-    alguém como você!
+    alguém como voce!
     """
     msgClear
     """
@@ -113,7 +113,7 @@ script 6 mmz1 {
     mugshotShow
         mugshot = 35
     """
-    Não...
+    Nao...
     """
     msgClear
     """
@@ -155,12 +155,12 @@ script 8 mmz1 {
     """
     msgClear
     """
-    Não...
+    Nao...
     """
     msgClear
     """
-    Não permitirei
-    que você chegue
+    Nao permitirei
+    que voce chegue
     até onde está
     o mestre X...
     """
@@ -186,14 +186,14 @@ script 9 mmz1 {
     """
     msgClear
     """
-    Você me fez
+    Voce me fez
     esperar bastante
-    tempo, então 
+    tempo, entao 
     por favor
     """
     msgClear
     """
-    não se renda
+    nao se renda
     tão facilmente.
     """
     msgClear
@@ -206,20 +206,20 @@ script 10 mmz1 {
     mugshotShow
         mugshot = 37
     """
-    Não!
-    Ainda não...
+    Nao!
+    Ainda nao...
     """
     msgClear
     """
     Mas...
-    Não! Por que não
+    Nao! Por que nao
     consigo mover
     a minha perna...?
     """
     msgClear
     """
     Que assim seja.
-    Deixarei você viver
+    Deixarei voce viver
     um pouco mais.
     """
     msgClear
@@ -235,12 +235,12 @@ script 11 mmz1 {
     """
     Eu estive
     esperando
-    brincar com você
+    brincar com voce
     de novo.
     """
     msgClear
     """
-    Você não tem
+    Voce nao tem
     chance nenhuma de
     ganhar desta vez!
     """
@@ -259,7 +259,7 @@ script 12 mmz1 {
     """
     msgClear
     """
-    Você venceu.
+    Voce venceu.
     Eu aceito a
     minha derrota...
     """
@@ -278,7 +278,7 @@ script 12 mmz1 {
     """
     Estive procurando
     por um Reploid
-    como você...
+    como voce...
     """
     msgClear
     """
@@ -304,7 +304,7 @@ script 14 mmz1 {
     mugshotShow
         mugshot = 37
     """
-    Não permitirei
+    Nao permitirei
     que continue
     avancando!
     """
@@ -330,7 +330,7 @@ script 17 mmz1 {
     mugshotShow
         mugshot = 39
     """
-    Vocês não são
+    Voces nao são
     páreos para ele.
     Retirem-se!
     """
@@ -348,7 +348,7 @@ script 17 mmz1 {
     mugshotShow
         mugshot = 36
     """
-    ...Não!
+    ...Nao!
     """
     msgClear
     mugshotShow
@@ -378,8 +378,8 @@ script 18 mmz1 {
     mugshotShow
         mugshot = 4
     """
-    Você...
-    Você deve ser a
+    Voce...
+    Voce deve ser a
     cópia pirata do
     X...
     """
@@ -387,7 +387,7 @@ script 18 mmz1 {
     mugshotShow
         mugshot = 39
     """
-    Não...
+    Nao...
     Uma cópia
     perfeita do X
     original.
@@ -401,7 +401,7 @@ script 18 mmz1 {
     """
     msgClear
     """
-    Não percebeu...?
+    Nao percebeu...?
     Os humanos
     encontraram a
     felicidade,
@@ -425,7 +425,7 @@ script 18 mmz1 {
     msgClear
     """
     Isto é algo que
-    nem você nem o X
+    nem voce nem o X
     original puderam
     criar...
     """
@@ -463,7 +463,7 @@ script 18 mmz1 {
     """
     msgClear
     """
-    Você é tão
+    Voce é tão
     engracado...
     """
     msgClear
@@ -510,14 +510,14 @@ script 19 mmz1 {
     que o X
     original era
     mais poderoso
-    que você...
+    que voce...
     """
     msgClear
     mugshotShow
         mugshot = 29
     """
     Silêncio.
-    Agora você sentirá
+    Agora voce sentirá
     o meu verdadeiro
     poder!!
     """
@@ -582,9 +582,9 @@ script 21 mmz1 {
     """
     msgClear
     """
-    Ele não era
+    Ele nao era
     tão ingênuo
-    quanto você.
+    quanto voce.
     """
     msgClear
     """
@@ -596,7 +596,7 @@ script 21 mmz1 {
     mugshotShow
         mugshot = 41
     """
-    Não te perdoarei.
+    Nao te perdoarei.
     Vou te levar
     comigo...
     """
@@ -641,7 +641,7 @@ script 23 mmz1 {
     mugshotShow
         mugshot = 14
     """
-    Desde que você
+    Desde que voce
     desapareceu estive
     lutando sozinho
     nesta guerra
@@ -672,7 +672,7 @@ script 23 mmz1 {
     Mas o mais
     difícil foi
     perceber que
-    eu não tinha mais
+    eu nao tinha mais
     """
     msgClear
     """
@@ -688,7 +688,7 @@ script 24 mmz1 {
     """
     Vou deixar
     este mundo
-    com você...
+    com voce...
     """
     msgClear
     """
@@ -751,7 +751,7 @@ script 27 mmz1 {
         mugshot = 4
     """
     Farei o que
-    você quiser...
+    voce quiser...
     """
     msgClear
     """
@@ -765,7 +765,7 @@ script 27 mmz1 {
     """
     msgClear
     """
-    Não me deterei!
+    Nao me deterei!
     """
     msgClear
     """

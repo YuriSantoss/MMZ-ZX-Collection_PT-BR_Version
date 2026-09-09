@@ -33,7 +33,7 @@ script 2 mmz1 {
     mugshotShow
         mugshot = 10
     """
-    Não. Sinto uma
+    Nao. Sinto uma
     forte energia
     lá dentro. Este
     deve ser o lugar.
@@ -54,7 +54,7 @@ script 4 mmz1 {
     mugshotShow
         mugshot = 56
     """
-    Você deveria ir.
+    Voce deveria ir.
     Eu cuidarei
     deles!
     """
@@ -146,7 +146,7 @@ script 10 mmz1 {
     mugshotShow
         mugshot = 8
     """
-    Não há tempo
+    Nao há tempo
     para discutir!
     """
     end
@@ -204,9 +204,9 @@ script 13 mmz1 {
     mugshotShow
         mugshot = 10
     """
-    Você deveria usar
+    Voce deveria usar
     o meu poder!!
-    Você não tem
+    Voce nao tem
     escolha!
     """
     end
@@ -218,7 +218,7 @@ script 14 mmz1 {
     """
     O quê!? Passy...
     Se eu fizer isso,
-    você vai...
+    voce vai...
     """
     end
 }
@@ -227,7 +227,7 @@ script 15 mmz1 {
         mugshot = 10
     msgBottom
     """
-    Não se preocupe
+    Nao se preocupe
     comigo. Lembre-se,
     todos estão
     esperando o seu
@@ -263,7 +263,7 @@ script 17 mmz1 {
     mugshotShow
         mugshot = 10
     """
-    Não. Eu é que
+    Nao. Eu é que
     devo te
     agradecer, Ciel.
     Adeus...
@@ -320,7 +320,7 @@ script 21 mmz1 {
     mugshotShow
         mugshot = 7
     """
-    Você...
+    Voce...
     Obrigada...
     """
     end
@@ -376,8 +376,8 @@ script 25 mmz1 {
     mugshotShow
         mugshot = 7
     """
-    Zero! Não! Corra...
-    Você não pode
+    Zero! Nao! Corra...
+    Voce nao pode
     ferir isso com
     um Buster...
     """
@@ -410,19 +410,19 @@ script 28 mmz1 {
     mugshotShow
         mugshot = 4
     """
-    Quem é você!?
+    Quem é voce!?
     """
     msgClear
     mugshotShow
         mugshot = 14
     """
     DEPRESSA...
-    VOCÊ TEM QUE...
+    VOCE TEM QUE...
     SALVÁ-LA...
     """
     msgClear
     """
-    NÃO PERCA
+    NAO PERCA
     TEMPO...
     """
     end
@@ -431,15 +431,15 @@ script 29 mmz1 {
     mugshotShow
         mugshot = 7
     """
-    Não posso
-    acreditar que você
+    Nao posso
+    acreditar que voce
     conseguiu
     destruir um Golem...
     """
     msgClear
     """
     Estávamos certos.
-    Você É o Zero,
+    Voce É o Zero,
     o Reploid
     lendário!
     """
@@ -461,7 +461,7 @@ script 29 mmz1 {
     """
     msgClear
     """
-    Ugh, eu não
+    Ugh, eu nao
     consigo lembrar...
     """
     msgClear
@@ -469,7 +469,7 @@ script 29 mmz1 {
         mugshot = 7
     """
     Relaxe um
-    pouco. Você tem
+    pouco. Voce tem
     amnésia por
     hibernacão.
     """
@@ -500,19 +500,19 @@ script 29 mmz1 {
     mugshotShow
         mugshot = 4
     """
-    E se eu não for
+    E se eu nao for
     o Zero de que
-    você estava
+    voce estava
     falando?
     """
     msgClear
     mugshotShow
         mugshot = 7
     """
-    Você me provou
+    Voce me provou
     isso ao me
     salvar do Golem,
-    você é o Zero.
+    voce é o Zero.
     """
     end
 }

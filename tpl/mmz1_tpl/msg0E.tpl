@@ -87,7 +87,7 @@ script 1 mmz1 {
 }
 script 2 mmz1 {
     """
-    CIEL:Você destruiu
+    CIEL:Voce destruiu
     """
     msgClear
     """
@@ -147,7 +147,7 @@ script 4 mmz1 {
     """
     msgClear
     """
-    CIEL:você voltar
+    CIEL:voce voltar
     """
     msgClear
     """
@@ -190,7 +190,7 @@ script 6 mmz1 {
     msgClear
     """
     Após ouvir
-    tanto sobre você
+    tanto sobre voce
     daquele garoto
     fofo e do outro
     """
@@ -199,7 +199,7 @@ script 6 mmz1 {
     obcecado por
     batalha, estive
     esperando para
-    ver você.
+    ver voce.
     """
     msgClear
     """
@@ -215,7 +215,7 @@ script 6 mmz1 {
     """
     msgClear
     """
-    Agora, não se
+    Agora, nao se
     segure só
     porque eu sou
     uma mulher!
@@ -227,7 +227,7 @@ script 7 mmz1 {
     mugshotShow
         mugshot = 30
     """
-    Por que não
+    Por que nao
     me eliminou...?
     Está tendo pena
     de mim?
@@ -236,7 +236,7 @@ script 7 mmz1 {
     """
     Que indelicado...
     Eu te disse para
-    não se segurar
+    nao se segurar
     de forma alguma.
     """
     msgClear
@@ -254,7 +254,7 @@ script 7 mmz1 {
 }
 script 8 mmz1 {
     """
-    CIEL:Você se lembra
+    CIEL:Voce se lembra
     """
     msgClear
     """
@@ -280,7 +280,7 @@ script 9 mmz1 {
     """
     msgClear
     """
-    CIEL:para você.
+    CIEL:para voce.
     """
     msgClear
     """
@@ -304,7 +304,7 @@ script 10 mmz1 {
 }
 script 12 mmz1 {
     """
-    CIEL:Você já destruiu
+    CIEL:Voce já destruiu
     """
     msgClear
     """

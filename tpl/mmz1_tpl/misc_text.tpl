@@ -140,7 +140,7 @@ script 21 mmz1 {
 }
 script 22 mmz1 {
     """
-    Deter o Hackeamento
+    Deter o Hacker
     """
     end
 }
@@ -3111,7 +3111,7 @@ script 501 mmz1 {
     Para jogar no modo HARD,
     salve os dados, depois
     mantenha o Botao L
-    pressionado ao escolher 'NEW GAME'.
+    pressionado ao 'NEW GAME'.
     """
     end
 }

@@ -35,7 +35,7 @@ script 0 mmz1 {
 }
 script 1 mmz1 {
     """
-    CIEL:Cuidado para não
+    CIEL:Cuidado para nao
     """
     msgClear
     """
@@ -101,7 +101,7 @@ script 4 mmz1 {
     """
     msgClear
     """
-    CIEL:Não tem escolha,
+    CIEL:Nao tem escolha,
     """
     msgClear
     """
@@ -115,7 +115,7 @@ script 4 mmz1 {
 }
 script 5 mmz1 {
     """
-    CIEL:Você pode pisar nas
+    CIEL:Voce pode pisar nas
     """
     msgClear
     """
@@ -180,7 +180,7 @@ script 7 mmz1 {
     msgClear
     """
     CIEL:
-     Não esqueca de pegar
+     Nao esqueca de pegar
      o Flame Chip
      antes de voltar
     """

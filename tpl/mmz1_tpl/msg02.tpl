@@ -5,7 +5,7 @@ script 0 mmz1 {
     mugshotShow
         mugshot = 50
     """
-    Uau! Você é o
+    Uau! Voce é o
     Zero? Nunca pensei
     que fosse te
     conhecer.
@@ -41,7 +41,7 @@ script 0 mmz1 {
     Aprender mais sobre
     as armas?
       Sim, por favor.
-      Não mesmo...
+      Nao mesmo...
     """
     msgClear
     """
@@ -64,12 +64,12 @@ script 0 mmz1 {
     """
     msgClear
     """
-    você obteve o
+    voce obteve o
     Z-Saber.
     """
     msgClear
     """
-    Não se preocupe,
+    Nao se preocupe,
     tudo que aprendeu
     nas batalhas da sua
     """
@@ -82,7 +82,7 @@ script 0 mmz1 {
     """
     O número de
     habilidades que
-    você relembrou é
+    voce relembrou é
     mostrado na
     """
     msgClear
@@ -97,7 +97,7 @@ script 0 mmz1 {
         subindex = 1
     """
     Entendo... Que pena.
-    Não sou muito bom
+    Nao sou muito bom
     em convencer alguém
     a
     """
@@ -111,8 +111,8 @@ script 1 mmz1 {
     mugshotShow
         mugshot = 50
     """
-    Ainda não acredito
-    que você seja quem a
+    Ainda nao acredito
+    que voce seja quem a
     Ciel diz que é.
     """
     msgClear
@@ -160,7 +160,7 @@ script 2 mmz1 {
     """
     msgClear
     """
-    armas para você...
+    armas para voce...
     """
     msgClear
     """
@@ -172,7 +172,7 @@ script 2 mmz1 {
     msgClear
     """
     velhos tempos.
-    Mas você deveria
+    Mas voce deveria
     tentar fazer
     """
     msgClear
@@ -259,12 +259,12 @@ script 6 mmz1 {
     """
     Zero, criei uma
     arma nova para
-    você! O nome
+    voce! O nome
     dela... Ah,
     """
     msgClear
     """
-    ainda não dei um
+    ainda nao dei um
     nome... Já sei, a
     chamarei de Shield
     Boomerang!
@@ -275,7 +275,7 @@ script 7 mmz1 {
     mugshotShow
         mugshot = 50
     """
-    Você não só pode
+    Voce nao só pode
     usá-la para
     bloquear os
     projéteis inimigos
@@ -283,12 +283,12 @@ script 7 mmz1 {
     msgClear
     """
     como também pode
-    atirá-la se você
+    atirá-la se voce
     a carregar.
     """
     msgClear
     """
-    No entanto, não
+    No entanto, nao
     pode realizar
     um dash enquanto
     estiver com o
@@ -307,7 +307,7 @@ script 8 mmz1 {
     """
     Isso é tudo o
     que posso fazer
-    por você por hora.
+    por voce por hora.
     Boa sorte!
     """
     end
@@ -317,7 +317,7 @@ script 9 mmz1 {
         mugshot = 50
     """
     Como talvez saiba,
-    quanto mais você
+    quanto mais voce
     usar uma
     arma,
     """
@@ -335,7 +335,7 @@ script 10 mmz1 {
     """
     Cá entre nós,
     criar armas
-    não é nada
+    nao é nada
     fácil.
     """
     end
@@ -368,7 +368,7 @@ script 12 mmz1 {
         mugshot = 50
     """
     Gracas a Deus!
-    Zero, você está
+    Zero, voce está
     bem? Pensei que
     """
     msgClear
@@ -391,14 +391,14 @@ script 13 mmz1 {
     """
     msgClear
     """
-    Não precisa mais
+    Nao precisa mais
     se preocupar
     comigo ou com meu
     laboratório.
     """
     msgClear
     """
-    Você deveria ir
+    voce deveria ir
     ver como a Ciel
     está.
     """
@@ -411,7 +411,7 @@ script 14 mmz1 {
     Estou orgulhoso
     de ter
     ajudado um
-    Reploid como você.
+    Reploid como voce.
     """
     end
 }
@@ -448,7 +448,7 @@ script 17 mmz1 {
     """
     Quero desenvolver
     mais armas para
-    você... Volte
+    voce... Volte
     com vida, Zero.
     """
     end
@@ -466,8 +466,8 @@ script 19 mmz1 {
     mugshotShow
         mugshot = 54
     """
-    Oh, não reconheco
-    você.
+    Oh, nao reconheco
+    voce.
     É novo por aqui?
     """
     msgClear
@@ -917,7 +917,7 @@ script 26 mmz1 {
         mugshot = 54
     """
     Olá, garoto.
-    Você está bem?
+    Voce está bem?
     """
     end
 }
@@ -970,7 +970,7 @@ script 29 mmz1 {
     msgClear
     """
     salvou a nossa
-    base. Você deveria
+    base. Voce deveria
     seguir o exemplo
     dele e ser um herói.
     """
@@ -997,7 +997,7 @@ script 31 mmz1 {
         mugshot = 54
     """
     Olá, garoto.
-    Você parece muito
+    Voce parece muito
     mais forte que
     quando chegou.
     """
@@ -1005,7 +1005,7 @@ script 31 mmz1 {
     """
     Pode ser apenas
     impressão minha,
-    mas você me parece
+    mas voce me parece
     familiar...
     """
     msgClear
@@ -1025,13 +1025,13 @@ script 32 mmz1 {
     """
     msgClear
     """
-    quando você
+    quando voce
     viesse aqui
     de novo...
     """
     msgClear
     """
-    Não importa. Já
+    Nao importa. Já
     é tarde demais
     para isso.
     Nos vemos por aí.
@@ -1042,7 +1042,7 @@ script 33 mmz1 {
     mugshotShow
         mugshot = 48
     """
-    Você não me
+    Voce nao me
     parece familiar,
     senhor...
     """
@@ -1058,7 +1058,7 @@ script 34 mmz1 {
     mugshotShow
         mugshot = 48
     """
-    Então o chamarei
+    Entao o chamarei
     de senhor Zero.
     O meu nome é
     Dande.
@@ -1068,7 +1068,7 @@ script 34 mmz1 {
     A Ciel que me deu.
     Antes me chamavam
     de ONB6. Um nome
-    bem chato, não é?
+    bem chato, nao é?
     """
     end
 }
@@ -1078,13 +1078,13 @@ script 35 mmz1 {
     """
     Muito obrigado,
     senhor! Dizem que
-    você salvou um
+    voce salvou um
     amigo meu.
     """
     msgClear
     """
     Sou muito
-    grato a você!
+    grato a voce!
     """
     end
 }
@@ -1098,7 +1098,7 @@ script 37 mmz1 {
     mugshotShow
         mugshot = 48
     """
-    Não sei como
+    Nao sei como
     te agradecer,
     Sr. Zero.
     """
@@ -1125,7 +1125,7 @@ script 39 mmz1 {
     """
     msgClear
     """
-    Você faz jus
+    Voce faz jus
     à sua fama.
     Continue lutando
     pela paz
@@ -1154,7 +1154,7 @@ script 40 mmz1 {
     msgClear
     """
     Mas eu acho que
-    você é um
+    voce é um
     excelente Reploid.
     """
     end
@@ -1226,7 +1226,7 @@ script 45 mmz1 {
         mugshot = 48
     """
     A senhorita Ciel
-    estava bem, não é?
+    estava bem, nao é?
     Oh, gracas aos
     céus.
     """
@@ -1268,7 +1268,7 @@ script 49 mmz1 {
     mugshotShow
         mugshot = 48
     """
-    Sr. Zero, não
+    Sr. Zero, nao
     se esforce tanto
     assim, senhor.
     
@@ -1291,8 +1291,8 @@ script 51 mmz1 {
     """
     Prazer em
     te conhecer. Foi
-    você quem salvou
-    a Ciel, não é?
+    voce quem salvou
+    a Ciel, nao é?
     """
     msgClear
     """
@@ -1336,12 +1336,12 @@ script 53 mmz1 {
         mugshot = 52
     """
     Eu diria que
-    você é como um 
+    voce é como um 
     """
     printCodeName
     """
     .
-    Por isso você
+    Por isso voce
     conseguiu salvar
     a Ciel,
     """
@@ -1437,7 +1437,7 @@ script 56 mmz1 {
     Nós nos sentimos
     mais seguros com
     um Reploid como
-    você, Zero.
+    voce, Zero.
     """
     end
 }
@@ -1458,7 +1458,7 @@ script 58 mmz1 {
     Eu me pergunto
     se este lugar é
     seguro. Queria que
-    você ficasse
+    voce ficasse
     """
     msgClear
     """
@@ -1498,7 +1498,7 @@ script 60 mmz1 {
     msgClear
     """
     ela fica
-    tranquila não
+    tranquila nao
     importa o que,
     se eu estiver
     """
@@ -1539,7 +1539,7 @@ script 62 mmz1 {
     """
     Zero, eu estava
     com medo...!
-    A Ciel não se
+    A Ciel nao se
     machucou, né?
     """
     end
@@ -1551,7 +1551,7 @@ script 63 mmz1 {
     Zero, o que vai
     acontecer com a
     nossa base agora?
-    Eu não quero
+    Eu nao quero
     """
     msgClear
     """
@@ -1565,16 +1565,16 @@ script 64 mmz1 {
     mugshotShow
         mugshot = 52
     """
-    Não fui feita
+    Nao fui feita
     para combates,
-    por isso não
+    por isso nao
     posso ajudá-lo.
     """
     msgClear
     """
     Mas lembre-se que
     sempre estarei
-    rezando por você.
+    rezando por voce.
     """
     end
 }
@@ -1590,10 +1590,10 @@ script 66 mmz1 {
     mugshotShow
         mugshot = 52
     """
-    Zero, não nos
-    deixe... Você
+    Zero, nao nos
+    deixe... Voce
     vai ficar aqui
-    com a gente, não é?
+    com a gente, nao é?
     """
     end
 }
@@ -1616,9 +1616,9 @@ script 68 mmz1 {
     mugshotShow
         mugshot = 61
     """
-    Hã? Quem é você?
+    Hã? Quem é voce?
     Ah, tanto faz.
-    Você poderia
+    Voce poderia
     me fazer
     """
     msgClear
@@ -1646,7 +1646,7 @@ script 68 mmz1 {
     msgClear
     """
     É sério?! Como
-    você é gentil!
+    voce é gentil!
     """
     msgSubEnd
     msgSub
@@ -1662,7 +1662,7 @@ script 69 mmz1 {
         mugshot = 61
     """
     Muito obrigado!
-    Mas não tenho
+    Mas nao tenho
     nada para te dar
     em troca.
     """
@@ -1677,7 +1677,7 @@ script 70 mmz1 {
         mugshot = 61
     """
     Ei, dá um
-    tempo. Você
+    tempo. Voce
     realmente acha
     que eu posso me
     """
@@ -1715,7 +1715,7 @@ script 72 mmz1 {
     """
     msgClear
     """
-    Você percebeu o
+    Voce percebeu o
     seu erro e
     """
     msgClear
@@ -1725,7 +1725,7 @@ script 72 mmz1 {
     decidiu me dar
     Energy Crystals?
       Sim, tudo bem.
-      Claro que não.
+      Claro que nao.
     """
     msgClear
     """
@@ -1744,7 +1744,7 @@ script 73 mmz1 {
         mugshot = 61
     """
     Muito obrigado!
-    Mas não tenho
+    Mas nao tenho
     nada para te dar
     em troca.
     """
@@ -1758,7 +1758,7 @@ script 74 mmz1 {
     mugshotShow
         mugshot = 61
     """
-    Ei, isso não é
+    Ei, isso nao é
     o bastante.
     O que está
     tentando fazer?
@@ -1776,7 +1776,7 @@ script 75 mmz1 {
     """
     msgClear
     """
-    Mas eu não pedi
+    Mas eu nao pedi
     para ser criado
     assim.
     """
@@ -1787,7 +1787,7 @@ script 76 mmz1 {
         mugshot = 60
     """
     Somos Reploids.
-    Não podemos fazer
+    Nao podemos fazer
     dieta, sabia?
     """
     end
@@ -1805,7 +1805,7 @@ script 77 mmz1 {
     """
     lutarmos por conta
     própria.
-    A culpa não
+    A culpa nao
     é minha!
     """
     end
@@ -1824,7 +1824,7 @@ script 79 mmz1 {
     mugshotShow
         mugshot = 60
     """
-    Ver você
+    Ver voce
     lutando me fez
     perceber que o
     mais importante
@@ -1859,11 +1859,11 @@ script 81 mmz1 {
     Eu fico tão feliz
     de ter te
     conhecido!
-    Ainda que eu não
+    Ainda que eu nao
     """
     msgClear
     """
-    saiba se você
+    saiba se voce
     sente o mesmo
     por mim.
     """
@@ -1903,7 +1903,7 @@ script 83 mmz1 {
     inimigo chegar.
     Eu te avisarei
     se um trem chegar,
-    então pode deixar
+    entao pode deixar
     """
     msgClear
     """
@@ -1948,10 +1948,10 @@ script 86 mmz1 {
     mugshotShow
         mugshot = 45
     """
-    Você é quem
+    Voce é quem
     chamam de Zero?
     A Ciel tem procurado
-    por você.
+    por voce.
     """
     msgClear
     """
@@ -1972,7 +1972,7 @@ script 87 mmz1 {
     msgClear
     """
     bem vigiada. Eu
-    temo que eu não
+    temo que eu nao
     esteja à altura
     dessa missão...
     """
@@ -2011,7 +2011,7 @@ script 89 mmz1 {
     """
     msgClear
     """
-    Você não tem
+    Voce nao tem
     com o que
     se preocupar.
     Apenas confie
@@ -2041,13 +2041,13 @@ script 90 mmz1 {
 }
 script 91 mmz1 {
     """
-    CIEL:Ainda não
+    CIEL:Ainda nao
     CIEL:decifrei a
     CIEL:senha...
     """
     msgClear
     """
-    CIEL:Não podemos
+    CIEL:Nao podemos
     CIEL:abrir a porta
     CIEL:por agora.
     """
@@ -2102,7 +2102,7 @@ script 94 mmz1 {
     msgClear
     """
     Até o momento,
-    não há nada
+    nao há nada
     de incomum.
     """
     end
@@ -2160,7 +2160,7 @@ script 97 mmz1 {
     """
     msgClear
     """
-    CIEL:...Não poderemos
+    CIEL:...Nao poderemos
     """
     msgClear
     """
@@ -2186,7 +2186,7 @@ script 97 mmz1 {
 }
 script 98 mmz1 {
     """
-    CIEL:Não podemos
+    CIEL:Nao podemos
     """
     msgClear
     """
@@ -2232,7 +2232,7 @@ script 100 mmz1 {
     mugshotShow
         mugshot = 44
     """
-    Então foi você
+    Entao foi voce
     quem salvou a
     Dra. Ciel.
     """
@@ -2254,7 +2254,7 @@ script 101 mmz1 {
     mugshotShow
         mugshot = 56
     """
-    Você é o
+    Voce é o
     Reploid conhecido
     como Zero, senhor?
     """
@@ -2275,7 +2275,7 @@ script 101 mmz1 {
     Sabe como usar
     um Trans Server?
       Sim
-      Não
+      Nao
     """
     msgClear
     """
@@ -2320,8 +2320,8 @@ script 101 mmz1 {
     msgClear
     """
     Alguns Cyber-Elfos
-    que você capturar
-    não são usáveis de
+    que voce capturar
+    nao são usáveis de
     """
     msgClear
     """
@@ -2329,7 +2329,7 @@ script 101 mmz1 {
     """
     msgClear
     """
-    Você deverá dar
+    Voce deverá dar
     a esses
     Cyber-Elfos
     pequenos itens
@@ -2347,7 +2347,7 @@ script 101 mmz1 {
     """
     msgClear
     """
-    Conforme você for
+    Conforme voce for
     alimentando
     o Cyber-Elfo com
     """
@@ -2384,7 +2384,7 @@ script 101 mmz1 {
     msgClear
     """
     eles se voltarão
-    contra você.
+    contra voce.
     """
     end
 }
@@ -2394,7 +2394,7 @@ script 102 mmz1 {
     """
     Um enorme Cyber-
     Elfo desconhecido
-    surgiu não faz
+    surgiu nao faz
     muito tempo, e
     """
     msgClear
@@ -2405,7 +2405,7 @@ script 102 mmz1 {
     """
     msgClear
     """
-    Agora você
+    Agora voce
     é capaz de ir
     direto para Neo
     Arcadia...
@@ -2413,7 +2413,7 @@ script 102 mmz1 {
     msgClear
     """
     Protegerei a
-    base enquanto você
+    base enquanto voce
     estiver fora.
     Boa sorte!
     """
@@ -2472,7 +2472,7 @@ script 105 mmz1 {
     O desenvolvimento
     de uma energia
     substituta é o
-    sonho não só
+    sonho nao só
     """
     msgClear
     """
@@ -2490,7 +2490,7 @@ script 106 mmz1 {
     Sabe como usar
     um Trans Server?
       Sim
-      Não
+      Nao
     """
     msgClear
     """
@@ -2535,8 +2535,8 @@ script 106 mmz1 {
     msgClear
     """
     Alguns Cyber-Elfos
-    que você capturar
-    não são usáveis de
+    que voce capturar
+    nao são usáveis de
     """
     msgClear
     """
@@ -2544,7 +2544,7 @@ script 106 mmz1 {
     """
     msgClear
     """
-    Você deverá dar
+    Voce deverá dar
     a esses
     Cyber-Elfos
     pequenos itens
@@ -2562,7 +2562,7 @@ script 106 mmz1 {
     """
     msgClear
     """
-    Conforme você for
+    Conforme voce for
     alimentando
     o Cyber-Elfo com
     """
@@ -2599,7 +2599,7 @@ script 106 mmz1 {
     msgClear
     """
     eles se voltarão
-    contra você.
+    contra voce.
     """
     end
 }
@@ -2607,7 +2607,7 @@ script 110 mmz1 {
     mugshotShow
         mugshot = 47
     """
-    Você atacará
+    Voce atacará
     a base inimiga,
     enquanto mantemos
     a nossa
@@ -2625,14 +2625,14 @@ script 150 mmz1 {
     mugshotShow
         mugshot = 46
     """
-    Desde que você
+    Desde que voce
     retomou o
     controle da fábrica,
     parece que nós
     """
     msgClear
     """
-    não temos mais
+    nao temos mais
     falta de energia.
     Obrigado,
     Zero.
@@ -2646,12 +2646,12 @@ script 151 mmz1 {
     Olhe! Há
     cristais por
     todas as partes!
-    Se você não pegar
+    Se voce nao pegar
     """
     msgClear
     """
     todos eles,
-    você vai
+    voce vai
     se arrepender!!
     """
     end
@@ -2663,7 +2663,7 @@ script 152 mmz1 {
     Deve haver ainda
     mais cristais
     mais à frente,
-    mas não tenho
+    mas nao tenho
     """
     msgClear
     """
@@ -2678,7 +2678,7 @@ script 200 mmz1 {
     """
     Fomos salvos
     outra vez,
-    gracas a você...
+    gracas a voce...
     """
     msgClear
     """
@@ -2694,9 +2694,9 @@ script 200 mmz1 {
     mugshotShow
         mugshot = 4
     """
-    Então, só
+    Entao, só
     será feliz se
-    o X não existisse...
+    o X nao existisse...
     """
     msgClear
     """
@@ -2709,7 +2709,7 @@ script 200 mmz1 {
     mugshotShow
         mugshot = 7
     """
-    Você pode ir
+    Voce pode ir
     diretamente ao
     núcleo da base
     inimiga por meio
@@ -2722,7 +2722,7 @@ script 200 mmz1 {
     msgClear
     """
     Infelizmente,
-    ainda não deciframos
+    ainda nao deciframos
     o sistema de
     """
     msgClear
@@ -2736,7 +2736,7 @@ script 200 mmz1 {
     """
     Sem o
     Trans Server,
-    não poderá chegar
+    nao poderá chegar
     ao seu
     """
     msgClear
@@ -2749,7 +2749,7 @@ script 200 mmz1 {
     E se ficar
     fora da base
     por tanto tempo,
-    eu não
+    eu nao
     """
     msgClear
     """
@@ -2784,7 +2784,7 @@ script 202 mmz1 {
     """
     msgClear
     """
-    MAS AGORA VOCÊ PODE
+    MAS AGORA VOCE PODE
     ENTRAR EM NEO
     ARCADIA QUANDO
     QUISER.
@@ -2795,7 +2795,7 @@ script 203 mmz1 {
     mugshotShow
         mugshot = 4
     """
-    Você... Você é
+    Voce... Voce é
     quem me entregou
     o Z Saber...
     """
@@ -2820,7 +2820,7 @@ script 204 mmz1 {
         mugshot = 7
     """
     Espere, quem
-    é você...!?
+    é voce...!?
     """
     msgClear
     """
@@ -2828,7 +2828,7 @@ script 204 mmz1 {
     """
     msgClear
     """
-    Isso não
+    Isso nao
     é possível...
     """
     end
@@ -2887,7 +2887,7 @@ script 206 mmz1 {
     """
     msgClear
     """
-    junto com você...
+    junto com voce...
       De forma alguma
       ......
     """
@@ -2895,7 +2895,7 @@ script 206 mmz1 {
     """
     Entendo... Serei só
     um incômodo
-    para você...
+    para voce...
     """
     msgClear
     """
@@ -2999,7 +2999,7 @@ script 211 mmz1 {
         mugshot = 42
     """
     CIEL:
-    "Você alterou
+    "Voce alterou
      a área.
     """
     msgClear
@@ -3017,7 +3017,7 @@ script 211 mmz1 {
     msgClear
     """
     CIEL:
-     Você deve
+     Voce deve
      voltar à base
      agora
     """
@@ -3130,7 +3130,7 @@ script 222 mmz1 {
     """
     msgClear
     """
-    gracas a você.
+    gracas a voce.
     """
     end
 }
@@ -3146,7 +3146,7 @@ script 223 mmz1 {
     msgClear
     """
     pequeno arranhão...
-    Você deveria
+    Voce deveria
     ter bastante
     cuidado, Zero.
     """
@@ -3158,7 +3158,7 @@ script 224 mmz1 {
     """
     Estou muito
     agradecido a
-    você.
+    voce.
     """
     end
 }
@@ -3177,7 +3177,7 @@ script 225 mmz1 {
     """
     msgClear
     """
-    Não sei o que
+    Nao sei o que
     me teria
     acontecido...
     """
@@ -3187,7 +3187,7 @@ script 226 mmz1 {
     mugshotShow
         mugshot = 56
     """
-    Eu não posso crer
+    Eu nao posso crer
     que o ataque
     de Neo Arcadia
     chegou à
@@ -3218,15 +3218,15 @@ script 228 mmz1 {
     mugshotShow
         mugshot = 44
     """
-    Nós não
+    Nós nao
     teríamos
     conseguido sem
-    você...
+    voce...
     """
     msgClear
     """
     Obrigado, Zero.
-    Você é um verdadeiro
+    Voce é um verdadeiro
     
     """
     printCodeName
@@ -3236,7 +3236,7 @@ script 228 mmz1 {
     msgClear
     """
     A propósito,
-    você notou
+    voce notou
     uma estranha sala
     ali perto da
     """
@@ -3251,10 +3251,10 @@ script 229 mmz1 {
     mugshotShow
         mugshot = 44
     """
-    Nós não
+    Nós nao
     teríamos
     conseguido sem
-    você...
+    voce...
     """
     msgClear
     """
@@ -3270,7 +3270,7 @@ script 229 mmz1 {
     msgClear
     """
     A propósito,
-    você notou
+    voce notou
     uma estranha sala
     ali perto da
     """
@@ -3298,7 +3298,7 @@ script 230 mmz1 {
     """
     msgClear
     """
-    Você nos
+    Voce nos
     salvou de novo,
     Zero. Muito
     obrigado.
@@ -3316,7 +3316,7 @@ script 231 mmz1 {
     """
     msgClear
     """
-    o que mais, se não
+    o que mais, se nao
     fosse por sua
     imensa ajuda...
     """
@@ -3354,14 +3354,14 @@ script 232 mmz1 {
     """
     msgClear
     """
-    Zero... Não
+    Zero... Nao
     perderemos
     contra Neo
     Arcadia,
     """
     msgClear
     """
-    não é...?
+    nao é...?
     """
     end
 }
@@ -3378,7 +3378,7 @@ script 234 mmz1 {
     mugshotShow
         mugshot = 56
     """
-    Zero... Você
+    Zero... Voce
     está bem?
     Me pergunto o que
     a gente deveria

@@ -89,7 +89,7 @@ script 2 mmz1 {
     """
     msgClear
     """
-    CIEL:Conto com você,
+    CIEL:Conto com voce,
     """
     msgClear
     """
@@ -99,7 +99,7 @@ script 2 mmz1 {
 }
 script 3 mmz1 {
     """
-    CIEL:Você chegou à
+    CIEL:Voce chegou à
     """
     msgClear
     """
@@ -125,7 +125,7 @@ script 4 mmz1 {
     """
     msgClear
     """
-    CIEL:a você.
+    CIEL:a voce.
     """
     msgClear
     """
@@ -165,7 +165,7 @@ script 6 mmz1 {
     """
     msgClear
     """
-    CIEL:Você tem que evacuar
+    CIEL:Voce tem que evacuar
     """
     msgClear
     """

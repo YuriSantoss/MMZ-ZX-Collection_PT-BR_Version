@@ -30,7 +30,7 @@ script 1 mmz1 {
     """
     msgClear
     """
-    Você deve destruir
+    Voce deve destruir
     a artéria
     principal deles!!
     """
@@ -128,12 +128,12 @@ script 9 mmz1 {
     msgClear
     """
     Mas nunca esperei
-    que você fosse
+    que voce fosse
     tão bom...
     """
     msgClear
     """
-    Você é incrível,
+    Voce é incrível,
     e é isso que
     mais me empolga!
     """
@@ -150,7 +150,7 @@ script 9 mmz1 {
     """
     msgClear
     """
-    Não me decepcione,
+    Nao me decepcione,
     garoto!!
     """
     end
@@ -170,15 +170,15 @@ script 10 mmz1 {
     msgClear
     """
     Vou deixar
-    você viver
+    voce viver
     um pouco mais.
     """
     msgClear
     """
     Certifique-se de
-    não perder antes
+    nao perder antes
     que eu volte a
-    lutar com você!
+    lutar com voce!
     """
     msgClear
     """

@@ -798,7 +798,7 @@ script 26 mmz1 {
     """
     inimigo em algum
     lugar no deserto,
-    y que estao
+    e que estao
     """
     msgClear
     """

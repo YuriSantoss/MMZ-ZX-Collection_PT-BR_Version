@@ -63,14 +63,14 @@ script 4 mmz1 {
     mugshotShow
         mugshot = 19
     """
-    Você deve ser parte
+    Voce deve ser parte
     do lixo.
     """
     msgClear
     """
     He he. Bem a
     tempo. Vou me
-    livrar de vocês
+    livrar de voces
     dois de uma vez!
     """
     end
@@ -127,7 +127,7 @@ script 6 mmz1 {
     """
     msgClear
     """
-    CIEL:Você deve pegá-lo
+    CIEL:Voce deve pegá-lo
     """
     msgClear
     """
@@ -179,7 +179,7 @@ script 10 mmz1 {
 }
 script 11 mmz1 {
     """
-    CIEL:Não por aí.
+    CIEL:Nao por aí.
     """
     end
 }

@@ -91,7 +91,7 @@ script 5 mmz1 {
     mugshotShow
         mugshot = 35
     """
-    Você deve ser o Zero.
+    Voce deve ser o Zero.
     Permita-me
     apresentar-me.
     O meu nome é
@@ -117,7 +117,7 @@ script 5 mmz1 {
     """
     msgClear
     """
-    Você se arrependerá
+    Voce se arrependerá
     e expiará os seus
     pecados, Zero!
     """
