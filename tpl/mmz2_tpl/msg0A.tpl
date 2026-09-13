@@ -2,108 +2,108 @@
 @size 3
 
 script 0 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: ...Zero, ¿me oyes?
-	"""
-	msgClear
-	"""
-	Parece que no puedes
-	"""
-	msgClear
-	"""
-	entrar a través
-	"""
-	msgClear
-	"""
-	de la instalación.
-	"""
-	msgClear
-	"""
-	Debes ingresar
-	"""
-	msgClear
-	"""
-	desde afuera.
-	"""
-	msgClear
-	"""
-	Mantente alerta...
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: ...Zero, esta me ouvindo?
+    """
+    msgClear
+    """
+    Parece que voce nao pode
+    """
+    msgClear
+    """
+    entrar atraves
+    """
+    msgClear
+    """
+    da instalacao.
+    """
+    msgClear
+    """
+    Voce deve entrar
+    """
+    msgClear
+    """
+    pelo lado de fora.
+    """
+    msgClear
+    """
+    Mantenha-se alerta...
+    """
+    end
 }
 script 1 mmz2 {
-	mugshotShow
-		mugshot = 29
-	"""
-	Hola, Zero.
-	Qué gusto volver
-	a verte.
-	"""
-	msgClear
-	"""
-	Me encantaría
-	jugar contigo...
-	Pero, por desgracia,
-	"""
-	msgClear
-	"""
-	no tengo tiempo.
-	"""
-	msgClear
-	"""
-	En cuanto te derrote
-	tendré que ocuparme
-	del comandante
-	"""
-	msgClear
-	"""
-	Elpizo.
-	"""
-	msgClear
-	"""
-	¡Así que vamos,
-	Zero!
-	"""
-	end
+    mugshotShow
+        mugshot = 29
+    """
+    Ola, Zero.
+    Que bom voltar
+    a ver voce.
+    """
+    msgClear
+    """
+    Eu adoraria
+    brincar com voce...
+    Mas, infelizmente,
+    """
+    msgClear
+    """
+    nao tenho tempo.
+    """
+    msgClear
+    """
+    Assim que te derrotar
+    terei de me ocupar
+    com o comandante
+    """
+    msgClear
+    """
+    Elpizo.
+    """
+    msgClear
+    """
+    Entao vamos la,
+    Zero!
+    """
+    end
 }
 script 2 mmz2 {
-	mugshotShow
-		mugshot = 28
-	"""
-	Ja ja ja...
-	"""
-	msgClear
-	"""
-	Mientras jugaba
-	contigo... Elpizo se
-	fue a algún lado...
-	"""
-	msgClear
-	"""
-	Me dejé llevar
-	por la diversión
-	del momento. Qué
-	"""
-	msgClear
-	"""
-	tonta fui...
-	"""
-	msgClear
-	"""
-	Tu fuerza
-	me enloquece...
-	"""
-	msgClear
-	"""
-	La próxima vez...
-	lo haré mejor...
-	"""
-	msgClear
-	"""
-	Así que, nos
-	veremos de nuevo...
-	"""
-	end
+    mugshotShow
+        mugshot = 28
+    """
+    Ha ha ha...
+    """
+    msgClear
+    """
+    Enquanto eu brincava
+    com voce... Elpizo se
+    foi para algum lugar...
+    """
+    msgClear
+    """
+    Me deixei levar
+    pela diversao
+    do momento. Que
+    """
+    msgClear
+    """
+    tola eu fui...
+    """
+    msgClear
+    """
+    A sua forca
+    me enlouquece...
+    """
+    msgClear
+    """
+    Da proxima vez...
+    eu farei melhor...
+    """
+    msgClear
+    """
+    Sendo assim, nos
+    veremos de novo...
+    """
+    end
 }

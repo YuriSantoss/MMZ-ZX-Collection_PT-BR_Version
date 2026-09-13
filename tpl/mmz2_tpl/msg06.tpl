@@ -2,296 +2,296 @@
 @size 14
 
 script 0 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Piloto: No, no podemos
-	"""
-	msgClear
-	"""
-	acercarnos más...
-	"""
-	msgClear
-	"""
-	sino nos detectarán
-	"""
-	msgClear
-	"""
-	en el radar.
-	"""
-	msgClear
-	"""
-	Ciel: ...Zero. Cuando
-	"""
-	msgClear
-	"""
-	llegues al avión
-	"""
-	msgClear
-	"""
-	enemigo, avísame
-	"""
-	msgClear
-	"""
-	activando el Trans
-	"""
-	msgClear
-	"""
-	Server portátil.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Piloto: Nao, nao podemos
+    """
+    msgClear
+    """
+    nos aproximar mais...
+    """
+    msgClear
+    """
+    senao nos detectarao
+    """
+    msgClear
+    """
+    no radar.
+    """
+    msgClear
+    """
+    Ciel: ...Zero. Quando
+    """
+    msgClear
+    """
+    chegar ao aviao
+    """
+    msgClear
+    """
+    inimigo, me avise
+    """
+    msgClear
+    """
+    ativando o Trans
+    """
+    msgClear
+    """
+    Server portatil.
+    """
+    end
 }
 script 1 mmz2 {
-	mugshotShow
-		mugshot = 11
-	"""
-	¡No creas que
-	podrás volver
-	fácilmente, Zero!
-	"""
-	msgClear
-	"""
-	Sé que ya has
-	liberado la
-	bomba...
-	"""
-	msgClear
-	"""
-	Pero, ¡aún puedo
-	seguir con nuestra
-	misión si hago
-	"""
-	msgClear
-	"""
-	que este avión
-	se estrelle en
-	tu base!
-	"""
-	msgClear
-	"""
-	¡Soy Kuwagust
-	Anchus! ¡Seremos
-	una flecha en
-	"""
-	msgClear
-	"""
-	llamas que caerá
-	sobre tu base!
-	"""
-	end
+    mugshotShow
+        mugshot = 11
+    """
+    Nao ache que
+    vai conseguir voltar
+    facilmente, Zero!
+    """
+    msgClear
+    """
+    Eu sei que voce ja
+    liberou a
+    bomba...
+    """
+    msgClear
+    """
+    Mas ainda posso
+    continuar com a nossa
+    missao se fizer
+    """
+    msgClear
+    """
+    este aviao
+    cair na
+    sua base!
+    """
+    msgClear
+    """
+    Eu sou Kuwagust
+    Anchus! Seremos
+    uma flecha em
+    """
+    msgClear
+    """
+    chamas que vai cair
+    sobre a sua base!
+    """
+    end
 }
 script 2 mmz2 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡H... hermanooooo!
-	"""
-	msgClear
-	"""
-	Lo sientooooo...
-	¡Fallé en vengarte,
-	hermanoooo!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    I-Irmaooooo!
+    """
+    msgClear
+    """
+    Desculpeeeeee...
+    Falhei em te vingar,
+    irmaoooo!
+    """
+    end
 }
 script 3 mmz2 {
-	mugshotShow
-		mugshot = 8
-	"""
-	He fijado las
-	coordenadas de
-	transferencia.
-	"""
-	msgClear
-	"""
-	Transfiere a Ciel
-	aquí.
-	"""
-	end
+    mugshotShow
+        mugshot = 8
+    """
+    Eu fixei as
+    coordenadas de
+    transferencia.
+    """
+    msgClear
+    """
+    Transfira a Ciel
+    aqui.
+    """
+    end
 }
 script 4 mmz2 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Liberaré
-	rápidamente
-	la bomba...
-	"""
-	msgClear
-	"""
-	El dispositivo
-	es...
-	"""
-	msgClear
-	"""
-	Aquí está.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Vou liberar
+    rapidamente
+    a bomba...
+    """
+    msgClear
+    """
+    O dispositivo
+    eh...
+    """
+    msgClear
+    """
+    Aqui esta.
+    """
+    end
 }
 script 5 mmz2 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Necesito noventa
-	segundos para
-	liberar el fusible.
-	"""
-	msgClear
-	"""
-	Por favor,
-	cúbreme...
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Preciso de noventa
+    segundos para
+    liberar o fusivel.
+    """
+    msgClear
+    """
+    Por favor,
+    me cubra...
+    """
+    end
 }
 script 6 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: ¡El fusible ha sido
-	"""
-	msgClear
-	"""
-	liberado!
-	"""
-	msgClear
-	"""
-	Operadora: Hemos confirmado
-	"""
-	msgClear
-	"""
-	el fusible ha sido liberado.
-	"""
-	msgClear
-	"""
-	Preparando la transferencia.
-	"""
-	msgClear
-	"""
-	Aseguren su posición.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: O fusivel foi
+    """
+    msgClear
+    """
+    liberado!
+    """
+    msgClear
+    """
+    Operadora: Confirmamos
+    """
+    msgClear
+    """
+    que o fusivel foi liberado.
+    """
+    msgClear
+    """
+    Preparando a transferencia.
+    """
+    msgClear
+    """
+    Garantam a posicao.
+    """
+    end
 }
 script 7 mmz2 {
-	mugshotShow
-		mugshot = 8
-	"""
-	¡Ciel!
-	¡¡Ve adelante!!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Está bien!
-	¡¡Sígueme rápido!!
-	"""
-	end
+    mugshotShow
+        mugshot = 8
+    """
+    Ciel!
+    Va em frente!!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Tudo bem!
+    Me siga rapido!!
+    """
+    end
 }
 script 8 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Posición 
-	"""
-	msgClear
-	"""
-	asegurada.
-	"""
-	msgClear
-	"""
-	Comenzando la transferencia.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Posicao 
+    """
+    msgClear
+    """
+    assegurada.
+    """
+    msgClear
+    """
+    Comecando a transferencia.
+    """
+    end
 }
 script 9 mmz2 {
-	mugshotShow
-		mugshot = 8
-	"""
-	...!?
-	"""
-	end
+    mugshotShow
+        mugshot = 8
+    """
+    ...!?
+    """
+    end
 }
 script 10 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: ¡Es una emergencia,
-	"""
-	msgClear
-	"""
-	Zero!
-	"""
-	msgClear
-	"""
-	Debido a las turbulencias...
-	"""
-	msgClear
-	"""
-	¡La transferencia no 
-	"""
-	msgClear
-	"""
-	funcionará!
-	"""
-	msgClear
-	"""
-	El almacenamiento del avión
-	"""
-	msgClear
-	"""
-	está dañado.
-	"""
-	msgClear
-	"""
-	¡Por favor, escapa por ahí!
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: E uma emergencia,
+    """
+    msgClear
+    """
+    Zero!
+    """
+    msgClear
+    """
+    Devido as turbulencias...
+    """
+    msgClear
+    """
+    A transferencia nao 
+    """
+    msgClear
+    """
+    vai funcionar!
+    """
+    msgClear
+    """
+    O compartimento do aviao
+    """
+    msgClear
+    """
+    esta danificado.
+    """
+    msgClear
+    """
+    Por favor, escape por ai!
+    """
+    end
 }
 script 11 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: ¡Por favor, salta!
-	"""
-	msgClear
-	"""
-	Nuestra aeronave está en
-	"""
-	msgClear
-	"""
-	espera y lista para
-	"""
-	msgClear
-	"""
-	recogerte.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: Por favor, pule!
+    """
+    msgClear
+    """
+    A nossa aeronave esta em
+    """
+    msgClear
+    """
+    espera e pronta para
+    """
+    msgClear
+    """
+    te apanhar.
+    """
+    end
 }
 script 12 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: Terminé 
-	"""
-	msgClear
-	"""
-	aproximadamente
-	"""
-	msgClear
-	"""
-	la mitad de mi análisis...
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: Terminei 
+    """
+    msgClear
+    """
+    aproximadamente
+    """
+    msgClear
+    """
+    a metade da minha analise...
+    """
+    end
 }
 script 13 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: Quizá esté listo
-	"""
-	msgClear
-	"""
-	pronto...
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: Talvez esteja pronto
+    """
+    msgClear
+    """
+    em breve...
+    """
+    end
 }

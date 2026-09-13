@@ -2,1557 +2,1565 @@
 @size 132
 
 script 0 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Lo siento. Fui
-	demasiado duro...
-	"""
-	msgClear
-	"""
-	De todos modos,
-	apreciamos mucho
-	tu cooperación.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Sinto muito. Fui
+    duro demais...
+    """
+    msgClear
+    """
+    De todo modo,
+    apreciamos muito
+    sua cooperacao.
+    """
+    end
 }
 script 1 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Em... ¿Me ayudarás?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Hum... Vai me ajudar?
+      SIM
+      NAO
+    """
+    end
 }
 script 2 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Gracias. Ahora,
-	estas son las
-	misiones que
-	"""
-	msgClear
-	"""
-	quisiera pedirte...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Obrigado. Agora,
+    estas sao as
+    missoes que
+    """
+    msgClear
+    """
+    gostaria de te pedir...
+    """
+    end
 }
 script 3 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	Mira el monitor.
-	¿Puedes verlos?
-	Quizás no sean
-	"""
-	msgClear
-	"""
-	un gran desafío
-	para un héroe
-	legendario,
-	"""
-	msgClear
-	"""
-	pero apreciaríamos
-	mucho tu ayuda.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Olhe o monitor.
+    Consegue ve-los?
+    Talvez nao sejam
+    """
+    msgClear
+    """
+    um grande desafio
+    para um heroi
+    lendario,
+    """
+    msgClear
+    """
+    mas apreciariamos
+    muito a sua ajuda.
+    """
+    end
 }
 script 4 mmz2 {
-	mugshotShow
-		mugshot = 6
-	msgBottom
-	"""
-	Apuesto a que
-	Elpizo está en
-	una de estas áreas.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    msgBottom
+    """
+    Aposto que o
+    Elpizo esta em
+    uma destas areas.
+    """
+    end
 }
 script 5 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Ja ja ja. No te
-	preocupes. Has sido
-	de gran ayuda,
-	"""
-	msgClear
-	"""
-	y no podemos
-	quejarnos, incluso
-	si ahora te niegas
-	"""
-	msgClear
-	"""
-	a ayudarnos.
-	Deja todo en mis
-	manos, deberías
-	"""
-	msgClear
-	"""
-	descansar un poco.
-	Destruiremos Neo
-	Arcadia por
-	"""
-	msgClear
-	"""
-	nuestra cuenta.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Ha ha ha. Nao se
+    preocupe. Voce foi
+    de grande ajuda,
+    """
+    msgClear
+    """
+    e nao podemos
+    reclamar, mesmo se
+    recusar nos ajudar
+    """
+    msgClear
+    """
+    agora.
+    Deixe tudo em minhas
+    maos, voce deveria
+    """
+    msgClear
+    """
+    descansar um pouco.
+    Destruiremos Neo
+    Arcadia por
+    """
+    msgClear
+    """
+    conta propria.
+    """
+    end
 }
 script 6 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Hmm? ¿Qué pasa
-	ahora?
-	"""
-	msgClear
-	"""
-	Nuestras operaciones
-	van bien y todo está
-	en marcha.
-	"""
-	msgClear
-	"""
-	No necesitas
-	preocuparte...
-	"""
-	msgClear
-	"""
-	¿O ya te estás
-	aburriendo de esta
-	vida tranquila?
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Hmm? O que houve
+    agora?
+    """
+    msgClear
+    """
+    Nossas operacoes
+    vao bem e tudo esta
+    nos trilhos.
+    """
+    msgClear
+    """
+    Voce nao precisa
+    se preocupar...
+    """
+    msgClear
+    """
+    Ou ja esta
+    entediado dessa
+    vida pacifica?
+    """
+    end
 }
 script 7 mmz2 {
-	mugshotShow
-		mugshot = 2
-	"""
-	¿Con quién hablar?
-	  ELPIZO
-	  OPERADORA
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    """
+    Com quem falar?
+      ELPIZO
+      OPERADORA
+    """
+    end
 }
 script 8 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Qué ocurre?
-	  COMENZAR MISIÓN
-	  HABLAR
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    O que foi?
+      COMECAR MISSAO
+      FALAR
+    """
+    end
 }
 script 9 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Gracias a ti, hemos
-	completado nuestros
-	preparativos para
-	"""
-	msgClear
-	"""
-	nuestro ataque
-	a gran escala.
-	Ahora déjanos
-	"""
-	msgClear
-	"""
-	el resto a nosotros.
-	Puedes guardar tus
-	datos actuales y
-	"""
-	msgClear
-	"""
-	descansar un poco.
-	Te lo mereces.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Gracas a voce, nos
+    completamos os
+    preparativos para
+    """
+    msgClear
+    """
+    nosso ataque
+    em grande escala.
+    Agora deixe o
+    """
+    msgClear
+    """
+    restante conosco.
+    Pode salvar os seus
+    dados atuais e
+    """
+    msgClear
+    """
+    descansar um pouco.
+    Voce merece.
+    """
+    end
 }
 script 10 mmz2 {
-	mugshotShow
-		mugshot = 2
-	"""
-	¿Con quién hablar?
-	  CIEL
-	  OPERADORA
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    """
+    Com quem falar?
+      CIEL
+      OPERADORA
+    """
+    end
 }
 script 11 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿Cómo puedo ayudar?
-	  COMENZAR MISIÓN
-	  PROCESAR DATOS
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Como posso ajudar?
+      COMECAR MISSAO
+      PROCESSAR DADOS
+    """
+    end
 }
 script 12 mmz2 {
-	mugshotShow
-		mugshot = 6
-	end
+    mugshotShow
+        mugshot = 6
+    end
 }
 script 15 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Por qué no
-	revisamos una
-	misión diferente...?
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Por que nao damos
+    uma olhada em uma
+    missao diferente...?
+    """
+    end
 }
 script 16 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿En cuál estás
-	interesado?
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Em qual voce
+    esta interessado?
+    """
+    end
 }
 script 17 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Creo que podrías
-	estar listo para
-	esta misión.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Acho que voce pode
+    estar pronto para
+    esta missao.
+    """
+    end
 }
 script 18 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Zero, este es el
-	único lugar que no
-	has revisado...
-	"""
-	msgClear
-	"""
-	Si quieres ir allí,
-	habla conmigo,
-	¿de acuerdo?
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Zero, este eh o
+    unico lugar que voce
+    ainda nao checou...
+    """
+    msgClear
+    """
+    Se quiser ir ate la,
+    fale comigo,
+    esta bem?
+    """
+    end
 }
 script 19 mmz2 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    end
 }
 script 20 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	En esta misión
-	quiero que rescates
-	a nuestros
-	"""
-	msgClear
-	"""
-	compañeros.
-	"""
-	msgClear
-	"""
-	Hay unas ruinas
-	conocidas como
-	Dysis, en lo
-	"""
-	msgClear
-	"""
-	profundo del bosque.
-	"""
-	msgClear
-	"""
-	Los exploradores
-	que fueron allí a
-	investigar no han
-	"""
-	msgClear
-	"""
-	regresado aún.
-	Quisiera enviar a
-	alguien a
-	"""
-	msgClear
-	"""
-	rescatarlos, pero
-	considerando nuestro
-	estado actual de
-	"""
-	msgClear
-	"""
-	preparación para
-	las próximas
-	operaciones,
-	"""
-	msgClear
-	"""
-	no tenemos ningún
-	soldado disponible.
-	"""
-	msgClear
-	"""
-	Lamento molestarte,
-	pero ¿podrías ir a
-	buscarlos?
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Nesta missao eu
+    quero que resgate
+    nossos
+    """
+    msgClear
+    """
+    companheiros.
+    """
+    msgClear
+    """
+    Existem ruinas
+    conhecidas como
+    Dysis, bem no
+    """
+    msgClear
+    """
+    fundo da floresta.
+    """
+    msgClear
+    """
+    Os exploradores
+    que foram ate la
+    investigar ainda
+    """
+    msgClear
+    """
+    nao retornaram.
+    Gostaria de enviar
+    alguem para
+    """
+    msgClear
+    """
+    resgata-los, mas
+    considerando nosso
+    estado atual de
+    """
+    msgClear
+    """
+    preparacao para as
+    proximas
+    operacoes,
+    """
+    msgClear
+    """
+    nao temos nenhum
+    soldado disponivel.
+    """
+    msgClear
+    """
+    Desculpe incomodar,
+    mas poderia ir la
+    busca-los?
+    """
+    end
 }
 script 21 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	¿Rescatarlos?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Resgata-los?
+      SIM
+      NAO
+    """
+    end
 }
 script 22 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	Esta misión trata
-	de sabotaje.
-	"""
-	msgClear
-	"""
-	En la Antártida se
-	encuentra uno de los
-	ordenadores que
-	"""
-	msgClear
-	"""
-	controla el sistema
-	de defensa de
-	Neo Arcadia.
-	"""
-	msgClear
-	"""
-	Cuando destruyas al
-	jefe guardián y la
-	sala de servidores,
-	"""
-	msgClear
-	"""
-	la defensa de la
-	fortaleza enemiga
-	se debilitará lo
-	"""
-	msgClear
-	"""
-	suficiente para
-	llevar a cabo la
-	"""
-	msgClear
-	"""
-	“Operación Golpe
-	Justo”.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Esta missao trata
+    de sabotagem.
+    """
+    msgClear
+    """
+    Na Antartida esta
+    localizado um dos
+    computadores que
+    """
+    msgClear
+    """
+    controla o sistema
+    de defesa de
+    Neo Arcadia.
+    """
+    msgClear
+    """
+    Quando voce destruir
+    o chefe guardiao e a
+    sala de servidores,
+    """
+    msgClear
+    """
+    a defesa da
+    fortaleza inimiga
+    ficara fraca o
+    """
+    msgClear
+    """
+    suficiente para
+    levarmos adiante a
+    """
+    msgClear
+    """
+    “Operacao Golpe
+    Justo”.
+    """
+    end
 }
 script 23 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	¿Harás esto?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Voce fara isso?
+      SIM
+      NAO
+    """
+    end
 }
 script 24 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	No hay forma de
-	exterminar a
-	toda Neo Arcadia.
-	"""
-	msgClear
-	"""
-	Los rumores dicen
-	que hay una fábrica
-	de armas en una
-	"""
-	msgClear
-	"""
-	ciudad situada a
-	unos 100 km al
-	norte de nuestra
-	"""
-	msgClear
-	"""
-	Base de la
-	Resistencia...
-	"""
-	msgClear
-	"""
-	Hemos encontrado
-	un reactor que
-	suministra
-	"""
-	msgClear
-	"""
-	electricidad a la
-	fábrica cerca
-	de allí.
-	"""
-	msgClear
-	"""
-	Si destruimos el
-	reactor, podremos
-	reducir el número
-	"""
-	msgClear
-	"""
-	de soldados
-	enemigos.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Nao ha como
+    exterminar
+    toda Neo Arcadia.
+    """
+    msgClear
+    """
+    Os rumores dizem
+    que ha uma fabrica
+    de armas em uma
+    """
+    msgClear
+    """
+    cidade situada a
+    uns 100 km ao
+    norte de nossa
+    """
+    msgClear
+    """
+    Base da
+    Resistencia...
+    """
+    msgClear
+    """
+    Encontramos um
+    reator que
+    fornece
+    """
+    msgClear
+    """
+    eletricidade a
+    fabrica bem
+    perto dali.
+    """
+    msgClear
+    """
+    Se destruirmos o
+    reator, poderemos
+    reduzir o numero
+    """
+    msgClear
+    """
+    de soldados
+    inimigos.
+    """
+    end
 }
 script 25 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	¿Lo harás?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Fara isso?
+      SIM
+      NAO
+    """
+    end
 }
 script 26 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	En esta misión
-	quiero que te
-	apoderes de
-	"""
-	msgClear
-	"""
-	los suministros.
-	Ahora estamos
-	moviendo una gran
-	"""
-	msgClear
-	"""
-	cantidad de tropas,
-	pero nos faltan
-	suministros.
-	"""
-	msgClear
-	"""
-	Por ello, pensamos
-	asaltar un
-	transporte enemigo
-	"""
-	msgClear
-	"""
-	y apoderarnos de
-	sus suministros.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Nesta missao eu
+    quero que voce se
+    apodere dos
+    """
+    msgClear
+    """
+    suprimentos.
+    Agora estamos
+    movendo uma grande
+    """
+    msgClear
+    """
+    quantidade de tropas,
+    mas nos faltam
+    suprimentos.
+    """
+    msgClear
+    """
+    Por isso, pensamos
+    em assaltar um
+    transporte inimigo
+    """
+    msgClear
+    """
+    e pegar todos os
+    seus suprimentos.
+    """
+    end
 }
 script 27 mmz2 {
-	mugshotShow
-		mugshot = 4
-	msgBottom
-	"""
-	¿Me ayudarás?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    msgBottom
+    """
+    Vai me ajudar?
+      SIM
+      NAO
+    """
+    end
 }
 script 28 mmz2 {
-	mugshotShow
-		mugshot = 6
-	msgBottom
-	"""
-	Estas deben ser
-	las ruinas de la
-	civilización perdida
-	"""
-	msgClear
-	"""
-	que Neo Arcadia
-	ha estado
-	administrando.
-	"""
-	msgClear
-	"""
-	Esta zona se
-	considera tierra
-	"""
-	msgClear
-	"""
-	prohibida, donde
-	incluso los
-	"""
-	msgClear
-	"""
-	ciudadanos de Neo
-	Arcadia no pueden
-	entrar...
-	"""
-	msgClear
-	"""
-	No entiendo por
-	qué Elpizo fue
-	ahí...
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    msgBottom
+    """
+    Estas devem ser as
+    ruinas da civilizacao
+    perdida que a
+    """
+    msgClear
+    """
+    Neo Arcadia
+    esteve
+    administrando.
+    """
+    msgClear
+    """
+    Esta zona eh
+    considerada terra
+    """
+    msgClear
+    """
+    proibida, onde
+    mesmo os
+    """
+    msgClear
+    """
+    cidadaos de Neo
+    Arcadia nao podem
+    entrar...
+    """
+    msgClear
+    """
+    Nao entendo por
+    que Elpizo foi
+    ate la...
+    """
+    end
 }
 script 29 mmz2 {
-	mugshotShow
-		mugshot = 6
-	msgBottom
-	"""
-	¿Quieres ir allí?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    msgBottom
+    """
+    Quer ir ate la?
+      SIM
+      NAO
+    """
+    end
 }
 script 30 mmz2 {
-	mugshotShow
-		mugshot = 6
-	msgBottom
-	"""
-	Esta es la
-	instalación
-	"""
-	msgClear
-	"""
-	informática de
-	Neo Arcadia en
-	"""
-	msgClear
-	"""
-	la Antártida. Has
-	destruido la mayor
-	parte, pero algunos
-	"""
-	msgClear
-	"""
-	sistemas siguen
-	funcionando. Parece
-	que Elpizo intenta
-	"""
-	msgClear
-	"""
-	descubrir el código
-	secreto para entrar
-	en las instalaciones
-	"""
-	msgClear
-	"""
-	de Neo Arcadia... Me
-	pregunto si piensa
-	entrar a Neo
-	"""
-	msgClear
-	"""
-	Arcadia solo...
-	"""
-	msgSubEnd
-	"""
-	
-	
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    msgBottom
+    """
+    Esta eh a
+    instalacao de
+    """
+    msgClear
+    """
+    informatica da
+    Neo Arcadia na
+    """
+    msgClear
+    """
+    Antartida. Voce
+    destruiu a maior
+    parte, mas alguns
+    """
+    msgClear
+    """
+    sistemas seguem
+    funcionando. Parece
+    que Elpizo tenta
+    """
+    msgClear
+    """
+    descobrir o codigo
+    secreto para entrar
+    nas instalacoes
+    """
+    msgClear
+    """
+    de Neo Arcadia... Me
+    pergunto se ele
+    pensa em entrar em
+    """
+    msgClear
+    """
+    Neo Arcadia
+    sozinho...
+    """
+    msgSubEnd
+    """
+    
+    
+    """
+    end
 }
 script 31 mmz2 {
-	mugshotShow
-		mugshot = 6
-	msgBottom
-	"""
-	¿Quieres ir allí?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    msgBottom
+    """
+    Quer ir ate la?
+      SIM
+      NAO
+    """
+    end
 }
 script 32 mmz2 {
-	mugshotShow
-		mugshot = 6
-	msgBottom
-	"""
-	Esta es la cueva de
-	cristal donde se
-	estrelló la nave
-	"""
-	msgClear
-	"""
-	de bombardeo que
-	destruimos... Parece
-	que Elpizo estuvo
-	"""
-	msgClear
-	"""
-	allí buscando algo,
-	pero no sé qué es...
-	Como el área está
-	"""
-	msgClear
-	"""
-	muy cerca de nuestra
-	base, pedí a algunos
-	soldados de la
-	"""
-	msgClear
-	"""
-	Resistencia que
-	busquen a Elpizo. No
-	sé si podrán hacerlo
-	"""
-	msgClear
-	"""
-	por sí mismos.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    msgBottom
+    """
+    Esta eh a caverna de
+    cristal onde a nave
+    de bombardeio que
+    """
+    msgClear
+    """
+    destruimos havia
+    caido... Parece
+    que Elpizo esteve
+    """
+    msgClear
+    """
+    la buscando algo,
+    mas nao sei o que eh...
+    Como a area fica
+    """
+    msgClear
+    """
+    muito perto da nossa
+    base, pedi a alguns
+    soldados da
+    """
+    msgClear
+    """
+    Resistencia que
+    busquem Elpizo. Nao
+    sei se conseguirao
+    """
+    msgClear
+    """
+    fazer isso
+    sozinhos.
+    """
+    end
 }
 script 33 mmz2 {
-	mugshotShow
-		mugshot = 6
-	msgBottom
-	"""
-	¿Los ayudarás?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    msgBottom
+    """
+    Voce os ajudara?
+      SIM
+      NAO
+    """
+    end
 }
 script 34 mmz2 {
-	mugshotShow
-		mugshot = 6
-	msgBottom
-	"""
-	Esta es una
-	fábrica en desuso.
-	"""
-	msgClear
-	"""
-	Pero supongo que la
-	reconstruyeron y que
-	funcionaba a
-	"""
-	msgClear
-	"""
-	pequeña escala...
-	¿Por qué este lugar,
-	de todos modos?
-	"""
-	msgClear
-	"""
-	¿A qué fue Elpizo a
-	esta fábrica? No lo
-	entiendo.
-	"""
-	msgClear
-	"""
-	Aun así, algo de lo
-	que estoy segura es
-	que es muy peligroso
-	"""
-	msgClear
-	"""
-	actuar solo.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    msgBottom
+    """
+    Esta eh uma fabrica
+    fora de uso.
+    """
+    msgClear
+    """
+    Mas suponho que a
+    reconstruiram e que
+    ela funcionava em
+    """
+    msgClear
+    """
+    pequena escala...
+    Por que logo este
+    lugar?
+    """
+    msgClear
+    """
+    O que Elpizo foi
+    fazer la?
+    Eu nao entendo.
+    """
+    msgClear
+    """
+    Ainda assim, algo de
+    que tenho certeza eh
+    que eh muito perigoso
+    """
+    msgClear
+    """
+    agir sozinho.
+    """
+    end
 }
 script 35 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Por favor, deténlo.
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Por favor, pare-o.
+      SIM
+      NAO
+    """
+    end
 }
 script 36 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Estás a punto de ir
-	a la primer área de
-	Neo Arcadia...
-	"""
-	msgClear
-	"""
-	Es el templo de
-	la llama.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Voce esta prestes
+    a ir para a primeira
+    area de Neo Arcadia...
+    """
+    msgClear
+    """
+    Eh o templo da
+    chama.
+    """
+    end
 }
 script 37 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿Estás seguro?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Tem certeza?
+      SIM
+      NAO
+    """
+    end
 }
 script 38 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Estás a punto de ir
-	a la segunda área
-	de Neo Arcadia...
-	"""
-	msgClear
-	"""
-	Es el templo del
-	hielo.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Voce esta prestes
+    a ir para a segunda
+    area de Neo Arcadia...
+    """
+    msgClear
+    """
+    Eh o templo do
+    gelo.
+    """
+    end
 }
 script 39 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿Puedes hacerlo?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Consegue fazer isso?
+      SIM
+      NAO
+    """
+    end
 }
 script 40 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Estás a punto de ir
-	a la tercera área
-	de Neo Arcadia...
-	"""
-	msgClear
-	"""
-	Es el templo del
-	viento. Esta es la
-	última área antes
-	"""
-	msgClear
-	"""
-	de la capital de
-	Arcadia.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Voce esta prestes
+    a ir para a terceira
+    area de Neo Arcadia...
+    """
+    msgClear
+    """
+    Eh o templo do
+    vento. Esta eh a
+    ultima area antes
+    """
+    msgClear
+    """
+    da capital de
+    Arcadia.
+    """
+    end
 }
 script 41 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿Quieres ir ahí?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Quer ir para la?
+      SIM
+      NAO
+    """
+    end
 }
 script 42 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Al fin... Aquí está
-	el área final de...
-	Neo Arcadia.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Enfim... Aqui esta
+    a area final de...
+    Neo Arcadia.
+    """
+    end
 }
 script 43 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿Irás...?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Voce ira...?
+      SIM
+      NAO
+    """
+    end
 }
 script 50 mmz2 {
-	mugshotShow
-		mugshot = 75
-	"""
-	Misión
-	comenzando...
-	"""
-	msgClear
-	"""
-	Todos, prepárense
-	para la
-	transferencia.
-	"""
-	end
+    mugshotShow
+        mugshot = 75
+    """
+    Missao
+    comecando...
+    """
+    msgClear
+    """
+    Todos, preparem-se
+    para a
+    transferencia.
+    """
+    end
 }
 script 51 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	Ahora estamos listos
-	para la
-	transferencia...
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    Agora estamos
+    prontos para a
+    transferencia...
+    """
+    end
 }
 script 52 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¡Iniciando
-	transferencia!
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    Iniciando
+    transferencia!
+    """
+    end
 }
 script 53 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Buena suerte.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Boa sorte.
+    """
+    end
 }
 script 54 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Te deseo
-	buena suerte.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Te desejo
+    boa sorte.
+    """
+    end
 }
 script 55 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Por favor, no te
-	exijas demasiado...
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Por favor, nao exija
+    demais de si mesmo...
+    """
+    end
 }
 script 56 mmz2 {
-	mugshotShow
-		mugshot = 75
-	"""
-	Misión
-	cumplida.
-	"""
-	end
+    mugshotShow
+        mugshot = 75
+    """
+    Missao
+    cumprida.
+    """
+    end
 }
 script 57 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	Transferencia en
-	progreso...
-	"""
-	msgClear
-	"""
-	Dos...
-	"""
-	msgClear
-	"""
-	Uno...
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    Transferencia em
+    progresso...
+    """
+    msgClear
+    """
+    Dois...
+    """
+    msgClear
+    """
+    Um...
+    """
+    end
 }
 script 59 mmz2 {
-	mugshotShow
-		mugshot = 75
-	"""
-	Transferencia
-	completada.
-	"""
-	end
+    mugshotShow
+        mugshot = 75
+    """
+    Transferencia
+    concluida.
+    """
+    end
 }
 script 60 mmz2 {
-	mugshotShow
-		mugshot = 75
-	"""
-	Zero va a entrar
-	en acción.
-	"""
-	msgClear
-	"""
-	Todos, prepárense
-	para transferir.
-	"""
-	end
+    mugshotShow
+        mugshot = 75
+    """
+    Zero vai entrar
+    em acao.
+    """
+    msgClear
+    """
+    Todos, preparem-se
+    para transferir.
+    """
+    end
 }
 script 61 mmz2 {
-	mugshotShow
-		mugshot = 75
-	"""
-	Zero está
-	regresando.
-	"""
-	end
+    mugshotShow
+        mugshot = 75
+    """
+    Zero esta
+    retornando.
+    """
+    end
 }
 script 70 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿A dónde transferir?
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    Para onde
+    transferir?
+    """
+    end
 }
 script 71 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿SAND WILDERNESS?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    SAND WILDERNESS?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 72 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿FOREST OF DYSIS?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    FOREST OF DYSIS?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 73 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿ENTRANCE OF C.F.?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    ENTRANCE OF C.F.?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 74 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿POWER ROOM?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    POWER ROOM?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 75 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿TRAIN?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    TRAIN?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 76 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿RESIDENTIAL AREA?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    RESIDENTIAL AREA?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 77 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿BROKEN AIRCRAFT?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    BROKEN AIRCRAFT?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 78 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿ROOF OF C.F.?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    ROOF OF C.F.?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 79 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿FOREST OF NOTUS?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    FOREST OF NOTUS?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 80 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿CRYSTAL CAVE?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    CRYSTAL CAVE?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 81 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿SHUTTLE FACTORY?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    SHUTTLE FACTORY?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 82 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿NEO ARCADIA TEMPLE?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    NEO ARCADIA TEMPLE?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 83 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿TEMPLE OF FIRE?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    TEMPLE OF FIRE?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 84 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿TEMPLE OF ICE?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    TEMPLE OF ICE?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 85 mmz2 {
-	mugshotShow
-		mugshot = 76
-	"""
-	¿TEMPLE OF WIND?
-	  OK
-	  CANCELAR
-	"""
-	end
+    mugshotShow
+        mugshot = 76
+    """
+    TEMPLE OF WIND?
+      OK
+      CANCELAR
+    """
+    end
 }
 script 100 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿Qué ocurre?
-	"""
-	msgClear
-	"""
-	Por favor, dime
-	qué quieres hacer...
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    O que foi?
+    """
+    msgClear
+    """
+    Por favor, me diga
+    o que quer fazer...
+    """
+    end
 }
 script 101 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	  PROCESAR DATOS
-	  SOBRE CIBER-ELFO
-	  HABLAR
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+      PROCESSAR DADOS
+      SOBRE CYBER-ELFO
+      FALAR
+    """
+    end
 }
 script 102 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	  PROCESAR DATOS
-	  SOBRE CIBER-ELFO
-	  HABLAR
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+      PROCESSAR DADOS
+      SOBRE CYBER-ELFO
+      FALAR
+    """
+    end
 }
 script 103 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Por si lo olvidaste,
-	un Ciber-elfo es un
-	tipo de programa
-	"""
-	msgClear
-	"""
-	que fue creado
-	para apoyarnos.
-	"""
-	msgClear
-	"""
-	Normalmente puedes
-	utilizarlo tras
-	descargarlo.
-	"""
-	msgClear
-	"""
-	Pero algunos no se
-	pueden usar si no
-	han sido
-	"""
-	msgClear
-	"""
-	criados.
-	"""
-	msgClear
-	"""
-	También, aunque
-	los creamos con
-	la más avanzada
-	"""
-	msgClear
-	"""
-	tecnología,
-	un Ciber-elfo no
-	puede ser resucitado.
-	"""
-	msgClear
-	"""
-	Así que, por favor,
-	úsalos sabiamente...
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Caso tenha esquecido,
+    um Cyber-elfo eh um
+    tipo de programa
+    """
+    msgClear
+    """
+    que foi criado
+    para nos apoiar.
+    """
+    msgClear
+    """
+    Normalmente pode
+    utiliza-lo apos
+    descarrega-lo.
+    """
+    msgClear
+    """
+    Mas alguns nao
+    podem ser usados
+    se nao tiverem sido
+    """
+    msgClear
+    """
+    criados.
+    """
+    msgClear
+    """
+    Tambem, embora os
+    criemos com
+    a mais avancada
+    """
+    msgClear
+    """
+    tecnologia, um
+    Cyber-elfo nao pode
+    ser ressuscitado.
+    """
+    msgClear
+    """
+    Entao, por favor,
+    use-os com
+    sabedoria...
+    """
+    end
 }
 script 104 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	  GUARDAR DATOS
-	  CARGAR DATOS
-	  BORRAR DATOS
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+      SALVAR DADOS
+      CARREGAR DADOS
+      APAGAR DADOS
+    """
+    end
 }
 script 105 mmz2 {
-	"""
-	¿Dónde guardar?
-	"""
-	end
+    """
+    Onde salvar?
+    """
+    end
 }
 script 106 mmz2 {
-	"""
-	  ¿SOBRE-ESCRIBIR?
-	  SÍ
-	  NO
-	"""
-	end
+    """
+      SOBRESCREVER?
+      SIM
+      NAO
+    """
+    end
 }
 script 107 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿Qué datos cargar?
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Quais dados
+    carregar?
+    """
+    end
 }
 script 108 mmz2 {
-	"""
-	  ¿CARGAR DATOS?
-	  SÍ
-	  NO
-	"""
-	end
+    """
+      CARREGAR DADOS?
+      SIM
+      NAO
+    """
+    end
 }
 script 109 mmz2 {
-	"""
-	¿Qué datos borrar?
-	"""
-	end
+    """
+    Quais dados
+    apagar?
+    """
+    end
 }
 script 110 mmz2 {
-	"""
-	  ¿BORRAR DATOS?
-	  SÍ
-	  NO
-	"""
-	end
+    """
+      APAGAR DADOS?
+      SIM
+      NAO
+    """
+    end
 }
 script 111 mmz2 {
-	"""
-	Los datos han sido
-	guardados.
-	"""
-	end
+    """
+    Os dados foram
+    salvos.
+    """
+    end
 }
 script 112 mmz2 {
-	"""
-	Los datos han sido
-	cargados.
-	"""
-	end
+    """
+    Os dados foram
+    carregados.
+    """
+    end
 }
 script 113 mmz2 {
-	"""
-	Los datos han sido
-	borrados.
-	"""
-	end
+    """
+    Os dados foram
+    apagados.
+    """
+    end
 }
 script 114 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	  DESCARGAR ELFO
-	  ALIMENTAR ELFO
-	  PREGUNTAR POR ELFO
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+      DESCARREGAR ELFO
+      ALIMENTAR ELFO
+      PERGUNTAR DE ELFO
+    """
+    end
 }
 script 120 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Bien hecho, Zero.
-	¡Has sido de gran
-	ayuda!
-	"""
-	msgClear
-	"""
-	Con tu valiosa
-	colaboración, hemos
-	logrado
-	"""
-	msgClear
-	"""
-	recuperar otro
-	Elfo Bebé.
-	"""
-	msgClear
-	"""
-	Ahora tenemos ambos
-	Elfos Bebé que Neo
-	Arcadia mantenía
-	"""
-	msgClear
-	"""
-	dentro de su bóveda.
-	"""
-	msgClear
-	"""
-	Una vez más, quiero
-	agradecerte por
-	tu apoyo.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Bom trabalho, Zero.
+    Voce tem sido de
+    grande ajuda!
+    """
+    msgClear
+    """
+    Com sua valiosa
+    colaboracao, nos
+    conseguimos
+    """
+    msgClear
+    """
+    recuperar outro
+    Elfo Bebe.
+    """
+    msgClear
+    """
+    Agora temos os dois
+    Elfos Bebes que a
+    Neo Arcadia mantinha
+    """
+    msgClear
+    """
+    dentro do seu
+    cofre.
+    """
+    msgClear
+    """
+    Mais uma vez, quero
+    agradecer pelo
+    seu apoio.
+    """
+    end
 }
 script 121 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Bien hecho. Eres
-	tan increíble como
-	yo pensaba que
-	"""
-	msgClear
-	"""
-	serías. Nunca he
-	dudado de tu
-	éxito...
-	"""
-	msgClear
-	"""
-	Gracias a tu colabo-
-	ración, nuestras
-	operaciones están
-	"""
-	msgClear
-	"""
-	progresando bien.
-	Eres de gran ayuda
-	para nosotros.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Bem feito. Voce eh
+    tao incrivel quanto
+    eu pensava que
+    """
+    msgClear
+    """
+    seria. Nunca
+    duvidei do
+    seu sucesso...
+    """
+    msgClear
+    """
+    Gracas a sua colabo-
+    racao, nossas
+    operacoes estao
+    """
+    msgClear
+    """
+    progredindo bem.
+    Voce eh de grande
+    ajuda para nos.
+    """
+    end
 }
 script 122 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Muchas gracias,
-	Zero. Otra situación
-	ha sido resuelta
-	"""
-	msgClear
-	"""
-	gracias a ti, y
-	nuestras operaciones
-	"""
-	msgClear
-	"""
-	avanzan sin
-	problemas. Ahora 
-	tengo mucha confianza
-	"""
-	msgClear
-	"""
-	en nuestro éxito.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Muito obrigado,
+    Zero. Outra situacao
+    foi resolvida
+    """
+    msgClear
+    """
+    gracas a voce, e
+    nossas operacoes
+    """
+    msgClear
+    """
+    avancam sem
+    problemas. Agora 
+    tenho muita confianca
+    """
+    msgClear
+    """
+    em nosso sucesso.
+    """
+    end
 }
 script 123 mmz2 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Excelente. Ahora
-	tenemos suficientes
-	suministros para
-	"""
-	msgClear
-	"""
-	lanzar nuestro
-	ataque a gran escala.
-	Los preparativos
-	"""
-	msgClear
-	"""
-	casi han terminado,
-	y pronto abriremos
-	fuego. Muchas
-	"""
-	msgClear
-	"""
-	gracias por tu
-	apoyo, Zero.
-	Apreciamos tu
-	"""
-	msgClear
-	"""
-	apoyo continuo.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Excelente. Agora
+    temos suprimentos
+    suficientes para
+    """
+    msgClear
+    """
+    lancar nosso
+    ataque em grande
+    escala. Os
+    """
+    msgClear
+    """
+    preparativos quase
+    terminaram, e logo
+    abriremos fogo.
+    """
+    msgClear
+    """
+    Muito obrigado pelo
+    seu apoio, Zero.
+    Apreciamos a sua
+    """
+    msgClear
+    """
+    ajuda continua.
+    """
+    end
 }
 script 124 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	El Dark Elf...
-	Una llave para
-	romper el sello...
-	"""
-	msgClear
-	"""
-	Poder invencible...
-	"""
-	msgClear
-	"""
-	No estoy segura...
-	¿Qué pretende
-	hacer Elpizo...?
-	"""
-	msgClear
-	"""
-	Creo que está mal
-	tratar de traer
-	la paz al mundo
-	"""
-	msgClear
-	"""
-	con poder.
-	"""
-	msgClear
-	"""
-	Por favor, Zero...
-	¡Deténlo, por favor!
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    O Dark Elf...
+    Uma chave para
+    romper o selo...
+    """
+    msgClear
+    """
+    Poder invencivel...
+    """
+    msgClear
+    """
+    Nao tenho certeza...
+    O que Elpizo
+    pretende fazer...?
+    """
+    msgClear
+    """
+    Eu acho que eh
+    errado tentar
+    trazer paz ao mundo
+    """
+    msgClear
+    """
+    pela forca.
+    """
+    msgClear
+    """
+    Por favor, Zero...
+    Pare-o, por favor!
+    """
+    end
 }
 script 125 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Parece que Elpizo
-	ha conseguido el
-	código secreto.
-	"""
-	msgClear
-	"""
-	El código secreto
-	puede abrir la
-	puerta hacia el
-	"""
-	msgClear
-	"""
-	área de máxima
-	seguridad en Neo
-	Arcadia...
-	"""
-	msgClear
-	"""
-	Supongo...
-	El Dark Elf está
-	encerrado allí...
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Parece que Elpizo
+    conseguiu o
+    codigo secreto.
+    """
+    msgClear
+    """
+    O codigo secreto
+    pode abrir a porta
+    para a
+    """
+    msgClear
+    """
+    area de maxima
+    seguranca em
+    Neo Arcadia...
+    """
+    msgClear
+    """
+    Eu suponho que...
+    O Dark Elf esteja
+    trancado la...
+    """
+    end
 }
 script 126 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Parece que ha
-	robado un transporte
-	de la fábrica.
-	"""
-	msgClear
-	"""
-	Es cierto que no
-	puedes viajar a Neo
-	Arcadia con un
-	"""
-	msgClear
-	"""
-	Trans Server
-	portátil, pero...
-	"""
-	msgClear
-	"""
-	¡Elpizo pretende
-	colarse en Neo
-	Arcadia solo!
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Parece que ele
+    roubou um transporte
+    da fabrica.
+    """
+    msgClear
+    """
+    Eh verdade que nao
+    se pode viajar a Neo
+    Arcadia com um
+    """
+    msgClear
+    """
+    Trans Server
+    portatil, mas...
+    """
+    msgClear
+    """
+    Elpizo pretende
+    invadir Neo
+    Arcadia sozinho!
+    """
+    end
 }
 script 127 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	La baliza IFF que
-	Elpizo estaba
-	buscando es...
-	"""
-	msgClear
-	"""
-	Utilizada para que
-	el radar de Neo
-	Arcadia identifique
-	"""
-	msgClear
-	"""
-	si es amigo o
-	enemigo...
-	"""
-	msgClear
-	"""
-	Sé que necesitas
-	una cuando quieres
-	colarte en una base
-	"""
-	msgClear
-	"""
-	enemiga sin ser
-	notado... Pero no
-	"""
-	msgClear
-	"""
-	entiendo por qué
-	está intentando
-	hacer eso...
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    O sinal IFF que
+    Elpizo estava
+    buscando eh...
+    """
+    msgClear
+    """
+    Utilizado para que
+    o radar de Neo
+    Arcadia identifique
+    """
+    msgClear
+    """
+    se eh amigo ou
+    inimigo...
+    """
+    msgClear
+    """
+    Sei que se precisa
+    de um para se
+    infiltrar em uma base
+    """
+    msgClear
+    """
+    inimiga sem ser
+    notado... Mas nao
+    """
+    msgClear
+    """
+    entendo por que
+    ele esta tentando
+    fazer isso...
+    """
+    end
 }
 script 128 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¡Zero! Me alegra
-	que estés bien...
-	Muchas gracias
-	"""
-	msgClear
-	"""
-	por tu esfuerzo.
-	Por favor, descansa
-	un momento.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Zero! Fico feliz
+    que voce esteja bem...
+    Muito obrigado
+    """
+    msgClear
+    """
+    pelo seu esforco.
+    Por favor, descanse
+    um momento.
+    """
+    end
 }
 script 129 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	Zero, gracias
-	por tu esfuerzo.
-	"""
-	msgClear
-	"""
-	Pero no te exijas
-	demasiado...
-	Si algo te pasara...
-	"""
-	msgClear
-	"""
-	Yo...
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Zero, obrigada
+    pelo seu esforco.
+    """
+    msgClear
+    """
+    Mas nao exija
+    demais de si mesmo...
+    Se algo acontecer
+    """
+    msgClear
+    """
+    com voce... Eu...
+    """
+    end
 }
 script 130 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¡Zero! ¿Estás bien?
-	"""
-	msgClear
-	"""
-	Perdón por pedirte
-	arriesgar tu vida...
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Zero! Voce esta bem?
+    """
+    msgClear
+    """
+    Desculpe por te
+    pedir que
+    arrisque sua vida...
+    """
+    end
 }
 script 131 mmz2 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¡Zero! Estuve muy
-	preocupada por ti...
-	"""
-	msgClear
-	"""
-	Pronto podrás
-	llegar a la parte
-	más profunda de
-	"""
-	msgClear
-	"""
-	Neo Arcadia, donde
-	está sellado el
-	Dark Elf.
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Zero! Estive muito
+    preocupada com voce...
+    """
+    msgClear
+    """
+    Logo podera
+    chegar a parte
+    mais profunda de
+    """
+    msgClear
+    """
+    Neo Arcadia, onde
+    o Dark Elf esta
+    selado.
+    """
+    end
 }

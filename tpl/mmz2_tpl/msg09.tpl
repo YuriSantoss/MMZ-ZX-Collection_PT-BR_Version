@@ -2,347 +2,347 @@
 @size 10
 
 script 0 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: ... Lo encontraste.
-	"""
-	msgClear
-	"""
-	Zero... encárgate de él...
-	"""
-	msgClear
-	"""
-	Por favor.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: ... Voce o encontrou.
+    """
+    msgClear
+    """
+    Zero... cuide dele...
+    """
+    msgClear
+    """
+    Por favor.
+    """
+    end
 }
 script 1 mmz2 {
-	mugshotShow
-		mugshot = 23
-	"""
-	¡E... Eeeespera!
-	"""
-	msgClear
-	"""
-	Espera. Espera.
-	Espera.
-	"""
-	msgClear
-	"""
-	¡Nadie puede pasar
-	de aquí, ribbit!
-	"""
-	msgClear
-	"""
-	Esta es una orden
-	del Maestro Harpuia,
-	¡ribbit!
-	"""
-	msgClear
-	"""
-	... ... ...?
-	"""
-	msgClear
-	"""
-	¿Hmm? ¿Hay alguien
-	del otro lado de
-	la puerta? Ribbit.
-	"""
-	msgClear
-	"""
-	No puede ser...
-	Seguro es una
-	falsa alarma.
-	"""
-	msgClear
-	"""
-	Necesito que me
-	cambien el sensor...
-	"""
-	end
+    mugshotShow
+        mugshot = 23
+    """
+    E... Eeeeespera!
+    """
+    msgClear
+    """
+    Espera. Espera.
+    Espera.
+    """
+    msgClear
+    """
+    Ninguem pode passar
+    daqui, ribbit!
+    """
+    msgClear
+    """
+    Esta eh uma ordem
+    do Mestre Harpuia,
+    ribbit!
+    """
+    msgClear
+    """
+    ... ... ...?
+    """
+    msgClear
+    """
+    Hmm? Tem alguem
+    do outro lado da
+    porta? Ribbit.
+    """
+    msgClear
+    """
+    Nao pode ser...
+    Com certeza eh um
+    falso alarme.
+    """
+    msgClear
+    """
+    Preciso que troquem
+    o meu sensor...
+    """
+    end
 }
 script 2 mmz2 {
-	mugshotShow
-		mugshot = 22
-	"""
-	Um... Ugha....
-	"""
-	msgClear
-	"""
-	¡Maestro Harpuia!
-	"""
-	msgClear
-	"""
-	¿Cómo puedo
-	disculparme ante el
-	Maestro Harpuia...?
-	"""
-	msgClear
-	"""
-	¡Ug... Gwaaaah!
-	"""
-	end
+    mugshotShow
+        mugshot = 22
+    """
+    Um... Ugha....
+    """
+    msgClear
+    """
+    Mestre Harpuia!
+    """
+    msgClear
+    """
+    Como posso me
+    desculpar perante o
+    Mestre Harpuia...?
+    """
+    msgClear
+    """
+    Ug... Gwaaaah!
+    """
+    end
 }
 script 3 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	Ja ja ja, Zero.
-	Qué bueno verte
-	de nuevo.
-	"""
-	msgClear
-	"""
-	¿Acaso... me estás
-	buscando?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 8
-	"""
-	Regresa a la base.
-	¿Qué puedes hacer
-	tú solo...?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 79
-	"""
-	En realidad, puedo
-	hacer cualquier cosa
-	y todo...
-	"""
-	msgClear
-	"""
-	Solo necesito
-	obtener algo.
-	"""
-	msgClear
-	"""
-	Descubrí que
-	hay algo que te
-	vuelve invencible
-	"""
-	msgClear
-	"""
-	en cuanto lo
-	consigues...
-	"""
-	msgClear
-	"""
-	Gracias a estos
-	Elfos Bebé...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 8
-	"""
-	¿Te refieres... al
-	Dark Elf...?
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    Ha ha ha, Zero.
+    Que bom te ver
+    de novo.
+    """
+    msgClear
+    """
+    Por acaso... esta
+    me procurando?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 8
+    """
+    Volte para a base.
+    O que voce pode fazer
+    sozinho...?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 79
+    """
+    Na verdade, eu posso
+    fazer qualquer coisa
+    e tudo...
+    """
+    msgClear
+    """
+    So preciso
+    conseguir algo.
+    """
+    msgClear
+    """
+    Descobri que
+    ha algo que te
+    torna invencivel
+    """
+    msgClear
+    """
+    assim que voce
+    o obtem...
+    """
+    msgClear
+    """
+    Gracas a estes
+    Bebes Elfos...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 8
+    """
+    Esta falando... do
+    Dark Elf...?
+    """
+    end
 }
 script 4 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	Sí. Je je je.
-	Antes pensé que
-	era algo de
-	"""
-	msgClear
-	"""
-	mitología... Pero
-	estaba equivocado.
-	He llegado a creer
-	"""
-	msgClear
-	"""
-	en ello. La llave
-	para liberar el
-	sello del Dark Elf
-	"""
-	msgClear
-	"""
-	está en algún lugar
-	por aquí...
-	"""
-	msgClear
-	"""
-	¡Veamos quién
-	la encuentra primero!
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    Sim. He he he.
+    Antes eu achava que
+    era algo da
+    """
+    msgClear
+    """
+    mitologia... Mas
+    eu estava errado.
+    Cheguei a acreditar
+    """
+    msgClear
+    """
+    nisso. A chave
+    para quebrar o
+    selo do Dark Elf
+    """
+    msgClear
+    """
+    esta em algum
+    lugar por aqui...
+    """
+    msgClear
+    """
+    Vamos ver quem
+    a encontra primeiro!
+    """
+    end
 }
 script 5 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	Je je je.
-	"""
-	msgClear
-	"""
-	¡Finalmente,
-	encontré la llave!
-	"""
-	msgClear
-	"""
-	Buen intento, Zero.
-	Je je je.
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    He he he.
+    """
+    msgClear
+    """
+    Finalmente,
+    encontrei a chave!
+    """
+    msgClear
+    """
+    Bom trabalho, Zero.
+    He he he.
+    """
+    end
 }
 script 6 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	¡Gha ja ja ja!
-	"""
-	msgClear
-	"""
-	Ahora... Solo tengo
-	que romper el sello
-	del Dark Elf.
-	"""
-	msgClear
-	"""
-	Entonces seré tan
-	fuerte como tú,
-	Zero.
-	"""
-	msgClear
-	"""
-	¿O debería decir,
-	mas fuerte que
-	tú...?
-	"""
-	msgClear
-	"""
-	Oh, no me malinter-
-	pretes... No usaré
-	este poder para
-	"""
-	msgClear
-	"""
-	el mal.
-	Lo haré por la
-	paz mundial.
-	"""
-	msgClear
-	"""
-	Y por la Srta. Ciel.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 58
-	"""
-	Mi mimi...
-	"""
-	msgClear
-	"""
-	Mam.. ma...
-	Mi Mimimi...
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    Gha ja ja ja!
+    """
+    msgClear
+    """
+    Agora... So preciso
+    quebrar o selo
+    do Dark Elf.
+    """
+    msgClear
+    """
+    Assim serei tao
+    forte quanto voce,
+    Zero.
+    """
+    msgClear
+    """
+    Ou melhor dizendo,
+    mais forte do
+    que voce...?
+    """
+    msgClear
+    """
+    Ah, nao me
+    malinterprete... Nao usarei
+    este poder para
+    """
+    msgClear
+    """
+    o mal.
+    O farei pela
+    paz mundial.
+    """
+    msgClear
+    """
+    E pela Srta. Ciel.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 58
+    """
+    Mi mimi...
+    """
+    msgClear
+    """
+    Mam.. ma...
+    Mi Mimimi...
+    """
+    end
 }
 script 7 mmz2 {
-	mugshotShow
-		mugshot = 85
-	"""
-	... ... ...
-	"""
-	msgClear
-	"""
-	Perdón, Zero...
-	"""
-	msgClear
-	"""
-	No esperaba que
-	se volvieran
-	tan fuertes..
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 8
-	"""
-	X...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 85
-	"""
-	Mientras esté prote-
-	giendo el sello del
-	cuerpo principal,
-	"""
-	msgClear
-	"""
-	no estoy en
-	condiciones de
-	enfrentarlos...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 8
-	"""
-	No te preocupes...
-	"""
-	msgClear
-	"""
-	Yo me encargaré...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 85
-	"""
-	... ... ...
-	"""
-	msgClear
-	"""
-	Está respondiendo
-	a sus hijos...
-	Zero... No tenemos
-	"""
-	msgClear
-	"""
-	tiempo... Debes
-	encontrar una forma
-	de detener a Elpizo.
-	"""
-	end
+    mugshotShow
+        mugshot = 85
+    """
+    ... ... ...
+    """
+    msgClear
+    """
+    Desculpe, Zero...
+    """
+    msgClear
+    """
+    Eu nao esperava que
+    eles fossem ficar
+    tao fortes...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 8
+    """
+    X...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 85
+    """
+    Enquanto estiver prote-
+    gendo o selo do
+    corpo principal,
+    """
+    msgClear
+    """
+    eu nao estou em
+    condicoes de
+    enfrenta-los...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 8
+    """
+    Nao se preocupe...
+    """
+    msgClear
+    """
+    Eu vou dar um jeito...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 85
+    """
+    ... ... ...
+    """
+    msgClear
+    """
+    Esta respondendo
+    aos seus filhos...
+    Zero... Nao temos
+    """
+    msgClear
+    """
+    tempo... Voce deve
+    encontrar um jeito
+    de deter o Elpizo.
+    """
+    end
 }
 script 8 mmz2 {
-	mugshotShow
-		mugshot = 8
-	"""
-	... ... ...
-	"""
-	msgClear
-	"""
-	El Dark Elf...
-	"""
-	msgClear
-	"""
-	... ... ...
-	"""
-	msgClear
-	"""
-	Mision cumplida.
-	Transfieranme
-	de vuelta.
-	"""
-	end
+    mugshotShow
+        mugshot = 8
+    """
+    ... ... ...
+    """
+    msgClear
+    """
+    O Dark Elf...
+    """
+    msgClear
+    """
+    ... ... ...
+    """
+    msgClear
+    """
+    Missao cumprida.
+    Me transfiram
+    de volta.
+    """
+    end
 }
 script 9 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Recibido.
-	"""
-	msgClear
-	"""
-	Iniciando transferencia.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Recebido.
+    """
+    msgClear
+    """
+    Iniciando transferencia.
+    """
+    end
 }

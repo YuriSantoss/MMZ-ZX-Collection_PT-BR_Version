@@ -2,286 +2,286 @@
 @size 13
 
 script 0 mmz2 {
-	end
+    end
 }
 script 1 mmz2 {
-	mugshotShow
-		mugshot = 8
-	"""
-	¡¡Harpuia!!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 79
-	"""
-	¡Ja! ¡Ja! ¡Ja!
-	"""
-	msgClear
-	"""
-	Al fin llegaste
-	hasta aquí, Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 8
+    """
+    Harpuia!!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 79
+    """
+    Ha! Ha! Ha!
+    """
+    msgClear
+    """
+    Enfim chegou
+    ate aqui, Zero.
+    """
+    end
 }
 script 2 mmz2 {
-	mugshotShow
-		mugshot = 79
-	msgBottom
-	"""
-	Mira...
-	"""
-	msgClear
-	"""
-	Esto es...
-	Dark Elf...
-	"""
-	msgClear
-	"""
-	Un Ciber-elfo
-	perfecto, que
-	traerá paz a
-	"""
-	msgClear
-	"""
-	este mundo...
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    msgBottom
+    """
+    Olhe...
+    """
+    msgClear
+    """
+    Isto eh...
+    Dark Elf...
+    """
+    msgClear
+    """
+    Um Cyber-elfo
+    perfeito, que
+     traz paz a
+    """
+    msgClear
+    """
+    este mundo...
+    """
+    end
 }
 script 3 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	Je je, no pasará
-	mucho tiempo antes
-	de que pueda
-	"""
-	msgClear
-	"""
-	eliminar a todos
-	los humanos que
-	desperdician
-	"""
-	msgClear
-	"""
-	nuestra valiosa
-	energía, y destruir
-	"""
-	msgClear
-	"""
-	Neo Arcadia, que
-	los protege.
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    He he, nao vai demorar
+    muito para que eu
+    possa
+    """
+    msgClear
+    """
+    eliminar todos
+    os humanos que
+    desperdicam
+    """
+    msgClear
+    """
+    a nossa valiosa
+    energia, e destruir
+    """
+    msgClear
+    """
+    a Neo Arcadia, que
+    os protege.
+    """
+    end
 }
 script 4 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	Todo lo que debo
-	hacer es...
-	"""
-	msgClear
-	"""
-	Destruir a X, quien
-	ha estado
-	interfiriendo
-	"""
-	msgClear
-	"""
-	con el verdadero
-	renacer del Dark
-	Elf...
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    Tudo o que devo
+    fazer eh...
+    """
+    msgClear
+    """
+    Destruir o X, quem
+    tem estado
+    interferindo
+    """
+    msgClear
+    """
+    com o verdadeiro
+    renascimento do Dark
+    Elf...
+    """
+    end
 }
 script 5 mmz2 {
-	mugshotShow
-		mugshot = 25
-	"""
-	No voy a...
-	permitirlo...
-	"""
-	end
+    mugshotShow
+        mugshot = 25
+    """
+    Eu nao vou...
+    permitir...
+    """
+    end
 }
 script 6 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	¡Tú!
-	¡Aún te atreves a
-	decir algo así...!
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    Voce!
+    Ainda ousa
+    dizer algo assim...!
+    """
+    end
 }
 script 7 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	Sé un buen chico
-	y muere...
-	"""
-	msgClear
-	"""
-	¡Wua ja ja ja ja!
-	"""
-	msgClear
-	"""
-	Debes conocer
-	tu propio valor.
-	¿Te arrepientes
-	"""
-	msgClear
-	"""
-	de no haberme
-	mostrado respeto...?
-	Ahora que soy
-	"""
-	msgClear
-	"""
-	mucho más que tú.
-	He obtenido un
-	poder que nadie
-	"""
-	msgClear
-	"""
-	puede igualar.
-	¡Me he vuelto
-	invencible!
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    Seja um bom garoto
+    e morra...
+    """
+    msgClear
+    """
+    Wua ja ja ja ja!
+    """
+    msgClear
+    """
+    Voce deveria conhecer
+    o seu proprio valor.
+    Se arrepende
+    """
+    msgClear
+    """
+    de nao ter me
+    mostrado respeito...?
+    Agora que eu sou
+    """
+    msgClear
+    """
+    muito mais que voce.
+    Obtive um
+    poder que ninguem
+    """
+    msgClear
+    """
+    pode igualar.
+    Eu me tornei
+    invencivel!
+    """
+    end
 }
 script 8 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	Je je...
-	"""
-	msgClear
-	"""
-	Se está
-	haciendo tarde...
-	Hora de despertar
-	"""
-	msgClear
-	"""
-	al Dark Elf...
-	Celebremos la nueva
-	historia del mundo.
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    He he...
+    """
+    msgClear
+    """
+    Esta ficando
+    tarde...
+    Hora de acordar
+    """
+    msgClear
+    """
+    o Dark Elf...
+    Celebremos a nova
+    historia do mundo.
+    """
+    end
 }
 script 9 mmz2 {
-	mugshotShow
-		mugshot = 79
-	"""
-	¿Por qué no se
-	entretienen un rato?
-	"""
-	msgClear
-	"""
-	Bueno entonces,
-	¡diviértanse!
-	"""
-	end
+    mugshotShow
+        mugshot = 79
+    """
+    Por que voces nao
+    se entretem um pouco?
+    """
+    msgClear
+    """
+    Pois bem,
+    divirtam-se!
+    """
+    end
 }
 script 10 mmz2 {
-	mugshotShow
-		mugshot = 25
-	"""
-	U... Ugh...
-	"""
-	msgClear
-	"""
-	Z...Zero...
-	"""
-	msgClear
-	"""
-	Mátame...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 8
-	"""
-	...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 25
-	"""
-	Solo mátame...
-	"""
-	msgClear
-	"""
-	Pronto seré...
-	controlado por
-	el Elfo Bebé...
-	"""
-	msgClear
-	"""
-	Mátame ahora...
-	¡Y detenlo...!
-	"""
-	end
+    mugshotShow
+        mugshot = 25
+    """
+    U... Ugh...
+    """
+    msgClear
+    """
+    Z...Zero...
+    """
+    msgClear
+    """
+    Me mate...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 8
+    """
+    ...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 25
+    """
+    Apenas me mate...
+    """
+    msgClear
+    """
+    Logo serei...
+    controlado pelo
+    Bebe Elfo...
+    """
+    msgClear
+    """
+    Me mate agora...
+    E o detenha...!
+    """
+    end
 }
 script 11 mmz2 {
-	mugshotShow
-		mugshot = 25
-	"""
-	A... apúrate,
-	Zero...
-	"""
-	msgClear
-	"""
-	Protege al
-	Maestro X...
-	"""
-	msgClear
-	"""
-	y al mundo...
-	de él...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 8
-	"""
-	Entiendo...
-	Déjamelo a mí.
-	"""
-	end
+    mugshotShow
+        mugshot = 25
+    """
+    A... apresse-se,
+    Zero...
+    """
+    msgClear
+    """
+    Proteja o
+    Mestre X...
+    """
+    msgClear
+    """
+    e o mundo...
+    dele...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 8
+    """
+    Entendido...
+    Deixe comigo.
+    """
+    end
 }
 script 12 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: He fijado un
-	"""
-	msgClear
-	"""
-	eje de coordenadas...
-	"""
-	msgClear
-	"""
-	Ahora puedes volver aquí
-	"""
-	msgClear
-	"""
-	cuando quieras...
-	"""
-	msgClear
-	"""
-	Así que por favor regresa
-	"""
-	msgClear
-	"""
-	a la base una vez,
-	"""
-	msgClear
-	"""
-	antes de avanzar más.
-	"""
-	msgClear
-	"""
-	Por favor... Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: Este eh o
+    """
+    msgClear
+    """
+    eixo de coordenadas...
+    """
+    msgClear
+    """
+    Agora voce pode voltar aqui
+    """
+    msgClear
+    """
+    quando quiser...
+    """
+    msgClear
+    """
+    Entao, por favor, retorne
+    """
+    msgClear
+    """
+    para a base uma vez,
+    """
+    msgClear
+    """
+    antes de avancar mais.
+    """
+    msgClear
+    """
+    Por favor... Zero.
+    """
+    end
 }

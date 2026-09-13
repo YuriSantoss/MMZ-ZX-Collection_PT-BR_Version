@@ -1,7 +1,7 @@
 import glob
 
 # Busca todos os arquivos .tpl na pasta do jogo
-arquivos = glob.glob("tpl/mmz1_tpl/*.tpl")
+arquivos = glob.glob("tpl/mmz2_tpl/*.tpl")
 
 for arquivo in arquivos:
     with open(arquivo, 'r', encoding='utf-8') as f:

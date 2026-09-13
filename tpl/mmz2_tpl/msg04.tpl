@@ -2,363 +2,362 @@
 @size 20
 
 script 0 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Las ruinas
-	"""
-	msgClear
-	"""
-	se encuentran más allá
-	"""
-	msgClear
-	"""
-	de este bosque.
-	"""
-	msgClear
-	"""
-	Usa el Trans Server
-	"""
-	msgClear
-	"""
-	portátil y rescata
-	"""
-	msgClear
-	"""
-	a los soldados de la
-	"""
-	msgClear
-	"""
-	resistencia perdidos.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: As ruinas
+    """
+    msgClear
+    """
+    ficam alem
+    """
+    msgClear
+    """
+    desta floresta.
+    """
+    msgClear
+    """
+    Use o Trans Server
+    """
+    msgClear
+    """
+    portatil e resgate
+    """
+    msgClear
+    """
+    os soldados da
+    """
+    msgClear
+    """
+    resistencia perdidos.
+    """
+    end
 }
 script 1 mmz2 {
-	mugshotShow
-		mugshot = 21
-	"""
-	¡Hiss! Esta es un
-	área restringida,
-	incluso para
-	"""
-	msgClear
-	"""
-	nosotros Neo
-	Arcadians...
-	"""
-	msgClear
-	"""
-	Nunca saldrán de
-	aquí vivos. ¡Hiss!
-	"""
-	end
+    mugshotShow
+        mugshot = 21
+    """
+    Hiss! Esta eh uma
+    area restrita,
+    ate mesmo para
+    """
+    msgClear
+    """
+    nos, os de Neo
+    Arcadia...
+    """
+    msgClear
+    """
+    Voces nunca vao sair
+    daqui vivos. Hiss!
+    """
+    end
 }
 script 2 mmz2 {
-	mugshotShow
-		mugshot = 20
-	"""
-	No... Si tan solo ese
-	Elfo Bebé no hubiera
-	sido robado...
-	"""
-	msgClear
-	"""
-	Podría haber destru-
-	ido fácilmente al
-	soldado sin nombre...
-	"""
-	msgClear
-	"""
-	¡Hissssss!
-	"""
-	end
+    mugshotShow
+        mugshot = 20
+    """
+    Nao... Se ao menos aquele
+    Bebe Elfo nao tivesse
+    sido roubado...
+    """
+    msgClear
+    """
+    Eu poderia ter destrui-
+    do facilmente aquele
+    soldado sem nome...
+    """
+    msgClear
+    """
+    Hissssss!
+    """
+    end
 }
 script 3 mmz2 {
-	mugshotShow
-		mugshot = 71
-	"""
-	Gracias, Sr. Zero.
-	Las ruinas están
-	llenas de trampas.
-	"""
-	msgClear
-	"""
-	Por favor, ten
-	cuidado.
-	"""
-	end
+    mugshotShow
+        mugshot = 71
+    """
+    Obrigado, Sr. Zero.
+    As ruinas estao
+    cheias de armadilhas.
+    """
+    msgClear
+    """
+    Por favor, tome
+    cuidado.
+    """
+    end
 }
 script 4 mmz2 {
-	mugshotShow
-		mugshot = 71
-	"""
-	Gracias. Espero
-	que los demás
-	estén bien.
-	"""
-	end
+    mugshotShow
+        mugshot = 71
+    """
+    Obrigado. Espero
+    que os outros
+    estejam bem.
+    """
+    end
 }
 script 5 mmz2 {
-	mugshotShow
-		mugshot = 70
-	"""
-	Muchas gracias...
-	Fui demasiado lejos
-	y me quedé
-	"""
-	msgClear
-	"""
-	atascado...
-	"""
-	end
+    mugshotShow
+        mugshot = 70
+    """
+    Muito obrigado...
+    Eu fui longe demais
+    e fiquei
+    """
+    msgClear
+    """
+    preso...
+    """
+    end
 }
 script 6 mmz2 {
-	mugshotShow
-		mugshot = 70
-	"""
-	Me alegra que
-	hayas venido
-	a ayudarme.
-	"""
-	msgClear
-	"""
-	Muchas gracias.
-	"""
-	end
+    mugshotShow
+        mugshot = 70
+    """
+    Fico feliz que
+    tenha vindo
+    me ajudar.
+    """
+    msgClear
+    """
+    Muito obrigado.
+    """
+    end
 }
 script 7 mmz2 {
-	mugshotShow
-		mugshot = 70
-	"""
-	¡Gracias! Casi pierdo
-	la esperanza de ser
-	rescatado...
-	"""
-	end
+    mugshotShow
+        mugshot = 70
+    """
+    Obrigado! Quase perdi
+    a esperanca de ser
+    resgatado...
+    """
+    end
 }
 script 8 mmz2 {
-	mugshotShow
-		mugshot = 71
-	"""
-	El comandante nos
-	envió a investigar
-	algo llamado
-	"""
-	msgClear
-	"""
-	Elfo Bebé...
-	Pero nos topamos
-	con el ejército
-	"""
-	msgClear
-	"""
-	de Neo Arcadia.
-	Mis compañeros
-	están aún en el
-	"""
-	msgClear
-	"""
-	bosque. ¡Por
-	favor sálvalos,
-	Zero!
-	"""
-	end
+    mugshotShow
+        mugshot = 71
+    """
+    O comandante nos
+    enviou para investigar
+    algo chamado
+    """
+    msgClear
+    """
+    Bebe Elfo...
+    Mas demos de cara
+    com o exercito
+    """
+    msgClear
+    """
+    da Neo Arcadia.
+    Meus companheiros
+    ainda estao na
+    """
+    msgClear
+    """
+    floresta. Por
+    favor, salve-os,
+    Zero!
+    """
+    end
 }
 script 9 mmz2 {
-	mugshotShow
-		mugshot = 21
-	"""
-	Devuélvelo...
-	"""
-	msgClear
-	"""
-	Y puede que tu
-	vida sea perdonada.
-	¡Hiss!
-	"""
-	end
+    mugshotShow
+        mugshot = 21
+    """
+    Devolva-o...
+    """
+    msgClear
+    """
+    E talvez a sua
+    vida seja poupada.
+    Hiss!
+    """
+    end
 }
 script 10 mmz2 {
-	mugshotShow
-		mugshot = 8
-	"""
-	¿Qué estás
-	esperando...?
-	"""
-	msgClear
-	"""
-	¡Corre!
-	"""
-	end
+    mugshotShow
+        mugshot = 8
+    """
+    O que esta
+    esperando...?
+    """
+    msgClear
+    """
+    Corra!
+    """
+    end
 }
 script 11 mmz2 {
-	mugshotShow
-		mugshot = 85
-	"""
-	Ha pasado mucho
-	tiempo...
-	Zero...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 8
-	"""
-	¡X!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 85
-	"""
-	Ya no puedo
-	descansar...
-	"""
-	msgClear
-	"""
-	Ambos Elfos
-	Bebé han
-	despertado...
-	"""
-	msgClear
-	"""
-	Los Elfos Bebé
-	siguen siendo
-	niños...
-	"""
-	msgClear
-	"""
-	Lloran por
-	su madre mientras
-	tiemblan
-	"""
-	msgClear
-	"""
-	de soledad.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 8
-	"""
-	... ... ...
-	¿A qué vas, X?
-	"""
-	end
+    mugshotShow
+        mugshot = 85
+    """
+    Ja faz muito
+    tempo...
+    Zero...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 8
+    """
+    X!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 85
+    """
+    Eu ja nao posso
+    descansar...
+    """
+    msgClear
+    """
+    Ambos os Bebes
+    Elfos despertaram...
+    """
+    msgClear
+    """
+    Os Bebes Elfos
+    continuam sendo
+    criancas...
+    """
+    msgClear
+    """
+    Eles choram por
+    sua mae enquanto
+    tremem
+    """
+    msgClear
+    """
+    de solidao.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 8
+    """
+    ... ... ...
+    Onde esta indo, X?
+    """
+    end
 }
 script 12 mmz2 {
-	mugshotShow
-		mugshot = 85
-	"""
-	Los Elfos Bebé harán
-	cualquier cosa para
-	reunirse con
-	"""
-	msgClear
-	"""
-	su madre.
-	"""
-	msgClear
-	"""
-	Agitar las mentes
-	de los humanos y
-	traer caos...
-	"""
-	msgClear
-	"""
-	Todo es para poder
-	reencontrarse con
-	su madre,
-	"""
-	msgClear
-	"""
-	el Dark Elf...
-	"""
-	msgClear
-	"""
-	El Dark Elf
-	que yo sellé...
-	"""
-	end
+    mugshotShow
+        mugshot = 85
+    """
+    Os Bebes Elfos vao
+    fazer de tudo para
+    se reunirem com
+    """
+    msgClear
+    """
+    a mae deles.
+    """
+    msgClear
+    """
+    Abalar as mentes
+    dos humanos e
+    trazer o caos...
+    """
+    msgClear
+    """
+    Tudo isso eh para poder
+    se reencontrarem com
+    a mae deles,
+    """
+    msgClear
+    """
+    o Dark Elf...
+    """
+    msgClear
+    """
+    O Dark Elf
+    que eu selsei...
+    """
+    end
 }
 script 13 mmz2 {
-	mugshotShow
-		mugshot = 8
-	"""
-	¡Espera, X!
-	"""
-	msgClear
-	"""
-	... ... ...
-	"""
-	msgClear
-	"""
-	El Dark Elf...
-	"""
-	end
+    mugshotShow
+        mugshot = 8
+    """
+    Espere, X!
+    """
+    msgClear
+    """
+    ... ... ...
+    """
+    msgClear
+    """
+    O Dark Elf...
+    """
+    end
 }
 script 14 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Tienes cuatro
-	"""
-	msgClear
-	"""
-	soldados por rescatar.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Voce tem quatro
+    """
+    msgClear
+    """
+    soldados para resgatar.
+    """
+    end
 }
 script 15 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Tienes tres
-	"""
-	msgClear
-	"""
-	soldados por rescatar.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Voce tem tres
+    """
+    msgClear
+    """
+    soldados para resgatar.
+    """
+    end
 }
 script 16 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Tienes dos
-	"""
-	msgClear
-	"""
-	soldados por rescatar.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Voce tem dois
+    """
+    msgClear
+    """
+    soldados para resgatar.
+    """
+    end
 }
 script 17 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Tienes un
-	"""
-	msgClear
-	"""
-	soldado por rescatar.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Voce tem um
+    """
+    msgClear
+    """
+    soldado para resgatar.
+    """
+    end
 }
 script 18 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Has rescatado
-	"""
-	msgClear
-	"""
-	a todos los soldados.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Voce resgatou
+    """
+    msgClear
+    """
+    todos os soldados.
+    """
+    end
 }
 script 19 mmz2 {
-	mugshotShow
-		mugshot = 71
-	"""
-	Uh... ¡Sí...!
-	"""
-	end
+    mugshotShow
+        mugshot = 71
+    """
+    Ah... S-Sim...!
+    """
+    end
 }

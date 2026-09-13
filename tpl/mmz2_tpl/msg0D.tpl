@@ -2,38 +2,38 @@
 @size 1
 
 script 0 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: He fijado un
-	"""
-	msgClear
-	"""
-	eje de coordenadas...
-	"""
-	msgClear
-	"""
-	Ahora puedes volver aquí
-	"""
-	msgClear
-	"""
-	cuando quieras...
-	"""
-	msgClear
-	"""
-	Así que por favor regresa
-	"""
-	msgClear
-	"""
-	a la base una vez,
-	"""
-	msgClear
-	"""
-	antes de avanzar más.
-	"""
-	msgClear
-	"""
-	Por favor... Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: Este eh o
+    """
+    msgClear
+    """
+    eixo de coordenadas...
+    """
+    msgClear
+    """
+    Agora voce pode voltar aqui
+    """
+    msgClear
+    """
+    quando quiser...
+    """
+    msgClear
+    """
+    Entao, por favor, retorne
+    """
+    msgClear
+    """
+    para a base uma vez,
+    """
+    msgClear
+    """
+    antes de avancar mais.
+    """
+    msgClear
+    """
+    Por favor... Zero.
+    """
+    end
 }

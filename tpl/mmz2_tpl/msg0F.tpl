@@ -2,111 +2,111 @@
 @size 4
 
 script 0 mmz2 {
-	end
+    end
 }
 script 1 mmz2 {
-	mugshotShow
-		mugshot = 27
-	"""
-	¡Oye, Zero!
-	"""
-	msgClear
-	"""
-	¿Viniste hasta
-	aquí por Elpizo?
-	¡Lo sabía!
-	"""
-	msgClear
-	"""
-	Está obsesionado
-	con el Dark Elf.
-	¡¡Deja a ese tipo
-	"""
-	msgClear
-	"""
-	a Harpuia y
-	diviértete
-	conmigo mejor!!
-	"""
-	msgClear
-	"""
-	¡Iiieyahh!
-	¡Prepárate para
-	pelear!
-	"""
-	end
+    mugshotShow
+        mugshot = 27
+    """
+    Ei, Zero!
+    """
+    msgClear
+    """
+    Veio ate aqui
+    por causa do Elpizo?
+    Eu sabia!
+    """
+    msgClear
+    """
+    Ele esta obcecado
+    com o Dark Elf.
+    Deixe aquele cara
+    """
+    msgClear
+    """
+    com o Harpuia e
+    divirta-se comigo
+    em vez disso!!
+    """
+    msgClear
+    """
+    Iiieyahh!
+    Prepare-se para
+    lutar!
+    """
+    end
 }
 script 2 mmz2 {
-	mugshotShow
-		mugshot = 27
-	"""
-	¡¡Ngwooooohhh!!
-	"""
-	msgClear
-	"""
-	¡¿Cuál es el
-	problema?!
-	"""
-	msgClear
-	"""
-	¡Aun después de
-	haberme potenciado,
-	"""
-	msgClear
-	"""
-	no soy rival
-	para ti!
-	"""
-	msgClear
-	"""
-	Yo... yo no me
-	rendiré...
-	"""
-	msgClear
-	"""
-	Algún día...
-	¡¡¡te destruiré
-	seguro!!!
-	"""
-	msgClear
-	"""
-	¡Ya lo verás!
-	"""
-	end
+    mugshotShow
+        mugshot = 27
+    """
+    Ngwooooohhh!!
+    """
+    msgClear
+    """
+    Qual eh o
+    problema?!
+    """
+    msgClear
+    """
+    Ainda depois de
+    ter me potenciado,
+    """
+    msgClear
+    """
+    eu nao sou pareo
+    para voce!
+    """
+    msgClear
+    """
+    Eu... eu nao vou
+    desistir...
+    """
+    msgClear
+    """
+    Algum dia...
+    eu vou te destruir
+    com certeza!!!
+    """
+    msgClear
+    """
+    Vai ver so!
+    """
+    end
 }
 script 3 mmz2 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: He fijado un
-	"""
-	msgClear
-	"""
-	eje de coordenadas...
-	"""
-	msgClear
-	"""
-	Ahora puedes volver aquí
-	"""
-	msgClear
-	"""
-	cuando quieras...
-	"""
-	msgClear
-	"""
-	Así que por favor regresa
-	"""
-	msgClear
-	"""
-	a la base una vez,
-	"""
-	msgClear
-	"""
-	antes de avanzar más.
-	"""
-	msgClear
-	"""
-	Por favor... Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: Este eh o
+    """
+    msgClear
+    """
+    eixo de coordenadas...
+    """
+    msgClear
+    """
+    Agora voce pode voltar aqui
+    """
+    msgClear
+    """
+    quando quiser...
+    """
+    msgClear
+    """
+    Entao, por favor, retorne
+    """
+    msgClear
+    """
+    para a base uma vez,
+    """
+    msgClear
+    """
+    antes de avancar mais.
+    """
+    msgClear
+    """
+    Por favor... Zero.
+    """
+    end
 }
