@@ -2,66 +2,66 @@
 @size 3
 
 script 0 mmz3 {
-	mugshotShow
-		mugshot = 43
-	"""
-	Hmph. Me impresiona
-	que hayas llegado
-	a esta base.
-	"""
-	msgClear
-	"""
-	Aun así...
-	"""
-	msgClear
-	"""
-	No puedo
-	deshonrar a
-	Lord Weil,
-	"""
-	msgClear
-	"""
-	el hombre que
-	me devolvió
-	a la vida.
-	"""
-	msgClear
-	"""
-	Tendré que
-	congelarte ahora.
-	Hmph.
-	"""
-	end
+    mugshotShow
+        mugshot = 43
+    """
+    Hmph. Me impressiona
+    que tenha chegado
+    a esta base.
+    """
+    msgClear
+    """
+    Ainda assim...
+    """
+    msgClear
+    """
+    Nao posso
+    desonrar a
+    Lord Weil,
+    """
+    msgClear
+    """
+    o homem que
+    me devolveu
+    a vida.
+    """
+    msgClear
+    """
+    Terei que
+    te congelar agora.
+    Hmph.
+    """
+    end
 }
 script 1 mmz3 {
-	mugshotShow
-		mugshot = 42
-	"""
-	Hmph.
-	"""
-	msgClear
-	"""
-	Un siglo no
-	es suficiente.
-	"""
-	msgClear
-	"""
-	¡Esta vez duerme
-	para siempre!
-	"""
-	end
+    mugshotShow
+        mugshot = 42
+    """
+    Hmph.
+    """
+    msgClear
+    """
+    Um seculo nao
+    eh suficiente.
+    """
+    msgClear
+    """
+    Desta vez durma
+    para sempre!
+    """
+    end
 }
 script 2 mmz3 {
-	mugshotShow
-		mugshot = 42
-	"""
-	*gruñido*
-	Perdóneme...
-	Lord Weil...
-	"""
-	msgClear
-	"""
-	Hm... ¡phahh!
-	"""
-	end
+    mugshotShow
+        mugshot = 42
+    """
+    *grunhido*
+    Me perdoe...
+    Lord Weil...
+    """
+    msgClear
+    """
+    Hm... phahh!
+    """
+    end
 }

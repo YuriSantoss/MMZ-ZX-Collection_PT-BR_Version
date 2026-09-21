@@ -2,69 +2,69 @@
 @size 3
 
 script 0 mmz3 {
-	mugshotShow
-		mugshot = 41
-	"""
-	Mi cuerpo
-	ha vuelto de
-	la ruina...
-	"""
-	msgClear
-	"""
-	Por Lord Weil,
-	quien me dio
-	vida...
-	"""
-	msgClear
-	"""
-	¡He regresado!
-	Y ahora tomaré tu
-	miserable alma.
-	"""
-	msgClear
-	"""
-	¡Veamos si peleas
-	"""
-	msgClear
-	"""
-	como un héroe!
-	"""
-	end
+    mugshotShow
+        mugshot = 41
+    """
+    Meu corpo
+    voltou de
+    a ruina...
+    """
+    msgClear
+    """
+    Por Lord Weil,
+    quem me deu
+    vida...
+    """
+    msgClear
+    """
+    Regressei!
+    E agora tomarei tua
+    miseravel alma.
+    """
+    msgClear
+    """
+    Vejamos se lutas
+    """
+    msgClear
+    """
+    como um heroi!
+    """
+    end
 }
 script 1 mmz3 {
-	mugshotShow
-		mugshot = 40
-	"""
-	¡La justicia está
-	del lado de los
-	Neo Arcadianos!
-	"""
-	end
+    mugshotShow
+        mugshot = 40
+    """
+    A justica esta
+    ao lado dos
+    Neo Arcadianos!
+    """
+    end
 }
 script 2 mmz3 {
-	mugshotShow
-		mugshot = 40
-	"""
-	¡Fue una lucha
-	impresionante!
-	Pero...
-	"""
-	msgClear
-	"""
-	¡El mal siempre
-	fracasa al final!
-	"""
-	msgClear
-	"""
-	¡La historia
-	juzgará quién fue el
-	verdadero vencedor!
-	"""
-	msgClear
-	"""
-	¡Que perezcas,
-	oh antiguo Dios
-	de la Destrucción!
-	"""
-	end
+    mugshotShow
+        mugshot = 40
+    """
+    Foi uma luta
+    impressionante!
+    Mas...
+    """
+    msgClear
+    """
+    O mal sempre
+    fracassa ao final!
+    """
+    msgClear
+    """
+    A historia
+    julgara quem foi o
+    verdadeiro vencedor!
+    """
+    msgClear
+    """
+    Que perecas,
+    oh antigo Deus
+    de a Destruicao!
+    """
+    end
 }

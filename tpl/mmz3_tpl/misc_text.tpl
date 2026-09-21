@@ -2,5558 +2,5558 @@
 @size 1098
 
 script 0 mmz3 {
-	"""
-	[ArrowRight]
-	"""
-	end
+    """
+    [ArrowRight]
+    """
+    end
 }
 script 1 mmz3 {
-	"""
-	SIN DATOS
-	"""
-	end
+    """
+    SEM DADOS
+    """
+    end
 }
 script 2 mmz3 {
-	"""
-	CANCELAR
-	"""
-	end
+    """
+    CANCELAR
+    """
+    end
 }
 script 3 mmz3 {
-	textColorRed
-	"""
-	H
-	"""
-	end
+    textColorRed
+    """
+    H
+    """
+    end
 }
 script 4 mmz3 {
-	textColorRed
-	"""
-	U
-	"""
-	end
+    textColorRed
+    """
+    U
+    """
+    end
 }
 script 5 mmz3 {
-	"""
-	X
-	"""
-	end
+    """
+    X
+    """
+    end
 }
 script 6 mmz3 {
-	"""
-	/
-	"""
-	end
+    """
+    /
+    """
+    end
 }
 script 7 mmz3 {
-	"""
-	:
-	"""
-	end
+    """
+    :
+    """
+    end
 }
 script 8 mmz3 {
-	"""
-	'
-	"""
-	end
+    """
+    '
+    """
+    end
 }
 script 9 mmz3 {
-	"""
-	"
-	"""
-	end
+    """
+    "
+    """
+    end
 }
 script 10 mmz3 {
-	"""
-	 El legendario Reploide Zero
-	    despertó de un largo
-	          sueño...
-	
-	
-	  Junto a la Resistencia de
-	  Ciel, derrotó a Copy X, el
-	  gobernante de Neo Arcadia.
-	
-	
-	
-	
-	
-	   El terror del régimen de
-	     Neo Arcadia terminó,
-	
-	
-	  pero la escasez de energía
-	   siguió siendo un problema
-	          constante.
-	
-	
-	
-	
-	
-	 Ciel se dedicó por completo
-	  a investigar nuevas formas
-	         de energía
-	
-	
-	  Y Elpizo fue nombrado como
-	     el nuevo líder de la
-	         Resistencia.
-	
-	
-	
-	
-	
-	 Sin embargo, dominado por su
-	        deseo de poder, 
-	
-	
-	 Elpizo despertó al Dark Elf,
-	 cuya magia estuvo a punto de
-	  destruir el mundo una vez.
-	
-	
-	
-	
-	
-	    Sediento del poder del
-	   Dark Elf, perdió de vista
-	     su verdadero deber,
-	
-	
-	  y finalmente fue derrotado
-	    tras una feroz batalla.
-	
-	
-	   Sin embargo, el Dark Elf
-	      huyó con un destino
-	         desconocido...
-	
-	
-	
-	
-	
-	  La batalla por el Dark Elf
-	   apenas había comenzado...
-	"""
-	end
+    """
+     O lendario Reploide Zero
+         desperto de um longo
+              sonho...
+    
+    
+     Junto a Resistencia de
+     Ciel, derrotou a Copy X, o
+     governante de Neo Arcadia.
+    
+    
+    
+    
+    
+        O terror do regime de
+          Neo Arcadia terminou,
+    
+    
+     mas a escassez de energia
+        seguiu sendo um problema
+              constante.
+    
+    
+    
+    
+    
+     Ciel se dedicou por completo
+      a investigar novas formas
+              de energia
+    
+    
+     Y Elpizo foi nomeado como
+          o novo lider da
+              Resistencia.
+    
+    
+    
+    
+    
+     No entanto, dominado por seu
+            desejo de poder, 
+    
+    
+     Elpizo desperto ao Dark Elf,
+     cuja magia esteve a ponto de
+     destruir o mundo uma vez.
+    
+    
+    
+    
+    
+        Sedento do poder do
+       Dark Elf, perdeu de vista
+          seu verdadeiro dever,
+    
+    
+     e finalmente foi derrotado
+        tras uma feroz batalha.
+    
+    
+        No entanto, o Dark Elf
+           fui com um destino
+              desconhecido...
+    
+    
+    
+    
+    
+      A batalha pelo Dark Elf
+        apenas havia comecado...
+    """
+    end
 }
 script 11 mmz3 {
-	"""
-	Dos meses después.
-	"""
-	end
+    """
+    Dois meses depois.
+    """
+    end
 }
 script 30 mmz3 {
-	"""
-	0
-	"""
-	end
+    """
+    0
+    """
+    end
 }
 script 31 mmz3 {
-	"""
-	1
-	"""
-	end
+    """
+    1
+    """
+    end
 }
 script 32 mmz3 {
-	"""
-	2
-	"""
-	end
+    """
+    2
+    """
+    end
 }
 script 33 mmz3 {
-	"""
-	3
-	"""
-	end
+    """
+    3
+    """
+    end
 }
 script 34 mmz3 {
-	"""
-	4
-	"""
-	end
+    """
+    4
+    """
+    end
 }
 script 35 mmz3 {
-	"""
-	5
-	"""
-	end
+    """
+    5
+    """
+    end
 }
 script 36 mmz3 {
-	"""
-	6
-	"""
-	end
+    """
+    6
+    """
+    end
 }
 script 37 mmz3 {
-	"""
-	7
-	"""
-	end
+    """
+    7
+    """
+    end
 }
 script 38 mmz3 {
-	"""
-	8
-	"""
-	end
+    """
+    8
+    """
+    end
 }
 script 39 mmz3 {
-	"""
-	9
-	"""
-	end
+    """
+    9
+    """
+    end
 }
 script 40 mmz3 {
-	"""
-	Lv.F
-	"""
-	end
+    """
+    Lv.F
+    """
+    end
 }
 script 41 mmz3 {
-	"""
-	Lv.E
-	"""
-	end
+    """
+    Lv.E
+    """
+    end
 }
 script 42 mmz3 {
-	"""
-	Lv.D
-	"""
-	end
+    """
+    Lv.D
+    """
+    end
 }
 script 43 mmz3 {
-	"""
-	Lv.C
-	"""
-	end
+    """
+    Lv.C
+    """
+    end
 }
 script 44 mmz3 {
-	"""
-	Lv.B
-	"""
-	end
+    """
+    Lv.B
+    """
+    end
 }
 script 45 mmz3 {
-	"""
-	Lv.A
-	"""
-	end
+    """
+    Lv.A
+    """
+    end
 }
 script 46 mmz3 {
-	"""
-	Lv.S
-	"""
-	end
+    """
+    Lv.S
+    """
+    end
 }
 script 47 mmz3 {
-	"""
-	DERELICT SPACECRAFT
-	"""
-	end
+    """
+    DERELICT SPACECRAFT
+    """
+    end
 }
 script 48 mmz3 {
-	"""
-	AEGIS VOLCANO BASE
-	"""
-	end
+    """
+    AEGIS VOLCANO BASE
+    """
+    end
 }
 script 49 mmz3 {
-	"""
-	OCEANIC HWY RUINS
-	"""
-	end
+    """
+    OCEANIC HWY RUINS
+    """
+    end
 }
 script 50 mmz3 {
-	"""
-	W.R. FACTORY
-	"""
-	end
+    """
+    W.R. FACTORY
+    """
+    end
 }
 script 51 mmz3 {
-	"""
-	OLD RESIDENTIAL
-	"""
-	end
+    """
+    OLD RESIDENTIAL
+    """
+    end
 }
 script 52 mmz3 {
-	"""
-	MISSILE FACTORY
-	"""
-	end
+    """
+    MISSILE FACTORY
+    """
+    end
 }
 script 53 mmz3 {
-	"""
-	TWILIGHT DESERT
-	"""
-	end
+    """
+    TWILIGHT DESERT
+    """
+    end
 }
 script 54 mmz3 {
-	"""
-	FOREST OF ANATRE
-	"""
-	end
+    """
+    FOREST OF ANATRE
+    """
+    end
 }
 script 55 mmz3 {
-	"""
-	FRONTLINE ICE BASE
-	"""
-	end
+    """
+    FRONTLINE ICE BASE
+    """
+    end
 }
 script 56 mmz3 {
-	"""
-	AREA X-2
-	"""
-	end
+    """
+    AREA X-2
+    """
+    end
 }
 script 57 mmz3 {
-	"""
-	ENERGY FACILITY
-	"""
-	end
+    """
+    ENERGY FACILITY
+    """
+    end
 }
 script 58 mmz3 {
-	"""
-	SNOWY PLAINS
-	"""
-	end
+    """
+    SNOWY PLAINS
+    """
+    end
 }
 script 59 mmz3 {
-	"""
-	SUNKEN LIBRARY
-	"""
-	end
+    """
+    SUNKEN LIBRARY
+    """
+    end
 }
 script 60 mmz3 {
-	"""
-	GIANT ELEVATOR
-	"""
-	end
+    """
+    GIANT ELEVATOR
+    """
+    end
 }
 script 61 mmz3 {
-	"""
-	SUB ARCADIA
-	"""
-	end
+    """
+    SUB ARCADIA
+    """
+    end
 }
 script 63 mmz3 {
-	"""
-	ÁREA: AEGIS VOLCANO BASE
-	JEFE: BLAZIN' FLIZARD
-	MISIÓN: REC. EJÉRC. N.A.
-	"""
-	end
+    """
+    AREA: AEGIS VOLCANO BASE
+    CHEFE: BLAZIN' FLIZARD
+    MISSAO: REC. EXERC. N.A.
+    """
+    end
 }
 script 64 mmz3 {
-	"""
-	ÁREA: OCEANIC HWY RUINS
-	JEFE: CHILDRE INARABITTA
-	MISIÓN: RASTREAR SEÑAL D.E.
-	"""
-	end
+    """
+    AREA: OCEANIC HWY RUINS
+    CHEFE: CHILDRE INARABITTA
+    MISSAO: RASTREAR SINAL D.E.
+    """
+    end
 }
 script 65 mmz3 {
-	"""
-	ÁREA: W.R. FACTORY
-	JEFE: DEVILBAT SCHILT
-	MISIÓN: DESTRUIR FÁBRICA
-	"""
-	end
+    """
+    AREA: W.R. FACTORY
+    CHEFE: DEVILBAT SCHILT
+    MISSAO: DESTRUIR FABRICA
+    """
+    end
 }
 script 66 mmz3 {
-	"""
-	ÁREA: OLD RESIDENTIAL
-	JEFE: DEATHTANZ MANTISK
-	MISIÓN: BUSCAR DARK ELF
-	"""
-	end
+    """
+    AREA: OLD RESIDENTIAL
+    CHEFE: DEATHTANZ MANTISK
+    MISSAO: BUSCAR DARK ELF
+    """
+    end
 }
 script 67 mmz3 {
-	"""
-	ÁREA: TWILIGHT DESERT
-	JEFE: ANUBIS NECROMANCESS V
-	MISIÓN: COMBATIR EJÉR. N.A.
-	"""
-	end
+    """
+    AREA: TWILIGHT DESERT
+    CHEFE: ANUBIS NECROMANCESS V
+    MISSAO: COMBATER EXER. N.A.
+    """
+    end
 }
 script 68 mmz3 {
-	"""
-	ÁREA: FOREST OF ANATRE
-	JEFE: HANUMACHINE R
-	MISIÓN: COMBATIR EJÉR. N.A.
-	"""
-	end
+    """
+    AREA: FOREST OF ANATRE
+    CHEFE: HANUMACHINE R
+    MISSAO: COMBATER EXER. N.A.
+    """
+    end
 }
 script 69 mmz3 {
-	"""
-	ÁREA: FRONTLINE ICE BASE
-	JEFE: BLIZZACK STAGGROFF R
-	MISIÓN: COMBATIR EJÉR. N.A.
-	"""
-	end
+    """
+    AREA: FRONTLINE ICE BASE
+    CHEFE: BLIZZACK STAGGROFF R
+    MISSAO: COMBATER EXER. N.A.
+    """
+    end
 }
 script 70 mmz3 {
-	"""
-	ÁREA: AREA X-2
-	JEFE: COPY X MARK II
-	MISIÓN: INFILTRAR N.A.
-	"""
-	end
+    """
+    AREA: AREA X-2
+    CHEFE: COPY X MARK II
+    MISSAO: INFILTRAR N.A.
+    """
+    end
 }
 script 71 mmz3 {
-	"""
-	ÁREA: ENERGY FACILITY
-	JEFE: CUBIT FOXTAR
-	MISIÓN: REGISTRAR INSTAL.
-	"""
-	end
+    """
+    AREA: ENERGY FACILITY
+    CHEFE: CUBIT FOXTAR
+    MISSAO: REGISTRAR INSTAL.
+    """
+    end
 }
 script 72 mmz3 {
-	"""
-	ÁREA: SNOWY PLAINS
-	JEFE: GLACIER LE CACTANK
-	MISIÓN: RECUPERAR DATOS
-	"""
-	end
+    """
+    AREA: SNOWY PLAINS
+    CHEFE: GLACIER LE CACTANK
+    MISSAO: RECUPERAR DADOS
+    """
+    end
 }
 script 73 mmz3 {
-	"""
-	ÁREA: SUNKEN LIBRARY
-	JEFE: VOLTEEL BIBLIO
-	MISIÓN: RECUPERAR ARCHIVO
-	"""
-	end
+    """
+    AREA: SUNKEN LIBRARY
+    CHEFE: VOLTEEL BIBLIO
+    MISSAO: RECUPERAR ARQUIVO
+    """
+    end
 }
 script 74 mmz3 {
-	"""
-	ÁREA: GIANT ELEVATOR
-	JEFE: TRETISTA KELVERIAN
-	MISIÓN: REGISTRAR INSTAL.
-	"""
-	end
+    """
+    AREA: GIANT ELEVATOR
+    CHEFE: TRETISTA KELVERIAN
+    MISSAO: REGISTRAR INSTAL.
+    """
+    end
 }
 script 75 mmz3 {
-	"""
-	Misión ya completada.
-	"""
-	end
+    """
+    Missao ja completada.
+    """
+    end
 }
 script 100 mmz3 {
-	"""
-	Martina
-	"""
-	end
+    """
+    Martina
+    """
+    end
 }
 script 101 mmz3 {
-	"""
-	Milvy
-	"""
-	end
+    """
+    Milvy
+    """
+    end
 }
 script 102 mmz3 {
-	"""
-	Elphy
-	"""
-	end
+    """
+    Elphy
+    """
+    end
 }
 script 103 mmz3 {
-	"""
-	Sylphy
-	"""
-	end
+    """
+    Sylphy
+    """
+    end
 }
 script 104 mmz3 {
-	"""
-	Rilphy
-	"""
-	end
+    """
+    Rilphy
+    """
+    end
 }
 script 105 mmz3 {
-	"""
-	Artan
-	"""
-	end
+    """
+    Artan
+    """
+    end
 }
 script 106 mmz3 {
-	"""
-	Zictan
-	"""
-	end
+    """
+    Zictan
+    """
+    end
 }
 script 107 mmz3 {
-	"""
-	Mott
-	"""
-	end
+    """
+    Mott
+    """
+    end
 }
 script 108 mmz3 {
-	"""
-	Dott
-	"""
-	end
+    """
+    Dott
+    """
+    end
 }
 script 109 mmz3 {
-	"""
-	Curiph
-	"""
-	end
+    """
+    Curiph
+    """
+    end
 }
 script 110 mmz3 {
-	"""
-	Luriph
-	"""
-	end
+    """
+    Luriph
+    """
+    end
 }
 script 111 mmz3 {
-	"""
-	Suriph
-	"""
-	end
+    """
+    Suriph
+    """
+    end
 }
 script 112 mmz3 {
-	"""
-	Tiriph
-	"""
-	end
+    """
+    Tiriph
+    """
+    end
 }
 script 113 mmz3 {
-	"""
-	Yuriph
-	"""
-	end
+    """
+    Yuriph
+    """
+    end
 }
 script 114 mmz3 {
-	"""
-	Beriph
-	"""
-	end
+    """
+    Beriph
+    """
+    end
 }
 script 115 mmz3 {
-	"""
-	Wiliph
-	"""
-	end
+    """
+    Wiliph
+    """
+    end
 }
 script 116 mmz3 {
-	"""
-	Cyliph
-	"""
-	end
+    """
+    Cyliph
+    """
+    end
 }
 script 117 mmz3 {
-	"""
-	Snoq
-	"""
-	end
+    """
+    Snoq
+    """
+    end
 }
 script 118 mmz3 {
-	"""
-	Mathiq
-	"""
-	end
+    """
+    Mathiq
+    """
+    end
 }
 script 119 mmz3 {
-	"""
-	Miyaq
-	"""
-	end
+    """
+    Miyaq
+    """
+    end
 }
 script 120 mmz3 {
-	"""
-	Ajiq
-	"""
-	end
+    """
+    Ajiq
+    """
+    end
 }
 script 121 mmz3 {
-	"""
-	Dobuq
-	"""
-	end
+    """
+    Dobuq
+    """
+    end
 }
 script 122 mmz3 {
-	"""
-	Mulaq
-	"""
-	end
+    """
+    Mulaq
+    """
+    end
 }
 script 123 mmz3 {
-	"""
-	Mailla
-	"""
-	end
+    """
+    Mailla
+    """
+    end
 }
 script 124 mmz3 {
-	"""
-	Miulla
-	"""
-	end
+    """
+    Miulla
+    """
+    end
 }
 script 125 mmz3 {
-	"""
-	Cloppe
-	"""
-	end
+    """
+    Cloppe
+    """
+    end
 }
 script 126 mmz3 {
-	"""
-	Sloppe
-	"""
-	end
+    """
+    Sloppe
+    """
+    end
 }
 script 127 mmz3 {
-	"""
-	Putite
-	"""
-	end
+    """
+    Putite
+    """
+    end
 }
 script 128 mmz3 {
-	"""
-	Balette
-	"""
-	end
+    """
+    Balette
+    """
+    end
 }
 script 129 mmz3 {
-	"""
-	Maya
-	"""
-	end
+    """
+    Maya
+    """
+    end
 }
 script 130 mmz3 {
-	"""
-	Kwappa
-	"""
-	end
+    """
+    Kwappa
+    """
+    end
 }
 script 131 mmz3 {
-	"""
-	Gambul
-	"""
-	end
+    """
+    Gambul
+    """
+    end
 }
 script 132 mmz3 {
-	"""
-	Biraid
-	"""
-	end
+    """
+    Biraid
+    """
+    end
 }
 script 133 mmz3 {
-	"""
-	Birleaf
-	"""
-	end
+    """
+    Birleaf
+    """
+    end
 }
 script 134 mmz3 {
-	"""
-	Pitapah
-	"""
-	end
+    """
+    Pitapah
+    """
+    end
 }
 script 135 mmz3 {
-	"""
-	Pitapuh
-	"""
-	end
+    """
+    Pitapuh
+    """
+    end
 }
 script 136 mmz3 {
-	"""
-	Beetack
-	"""
-	end
+    """
+    Beetack
+    """
+    end
 }
 script 137 mmz3 {
-	"""
-	Beenipe
-	"""
-	end
+    """
+    Beenipe
+    """
+    end
 }
 script 138 mmz3 {
-	"""
-	Archim
-	"""
-	end
+    """
+    Archim
+    """
+    end
 }
 script 139 mmz3 {
-	"""
-	Archil
-	"""
-	end
+    """
+    Archil
+    """
+    end
 }
 script 140 mmz3 {
-	"""
-	Byse
-	"""
-	end
+    """
+    Byse
+    """
+    end
 }
 script 141 mmz3 {
-	"""
-	Dylphina
-	"""
-	end
+    """
+    Dylphina
+    """
+    end
 }
 script 142 mmz3 {
-	"""
-	Lizetus
-	"""
-	end
+    """
+    Lizetus
+    """
+    end
 }
 script 143 mmz3 {
-	"""
-	Cottus
-	"""
-	end
+    """
+    Cottus
+    """
+    end
 }
 script 144 mmz3 {
-	"""
-	Shuthas
-	"""
-	end
+    """
+    Shuthas
+    """
+    end
 }
 script 145 mmz3 {
-	"""
-	Malthas
-	"""
-	end
+    """
+    Malthas
+    """
+    end
 }
 script 146 mmz3 {
-	"""
-	Ilethas
-	"""
-	end
+    """
+    Ilethas
+    """
+    end
 }
 script 147 mmz3 {
-	"""
-	Enethas
-	"""
-	end
+    """
+    Enethas
+    """
+    end
 }
 script 148 mmz3 {
-	"""
-	Busras
-	"""
-	end
+    """
+    Busras
+    """
+    end
 }
 script 149 mmz3 {
-	"""
-	Sabras
-	"""
-	end
+    """
+    Sabras
+    """
+    end
 }
 script 150 mmz3 {
-	"""
-	Roderas
-	"""
-	end
+    """
+    Roderas
+    """
+    end
 }
 script 151 mmz3 {
-	"""
-	Boomeras
-	"""
-	end
+    """
+    Boomeras
+    """
+    end
 }
 script 152 mmz3 {
-	"""
-	Clokkle
-	"""
-	end
+    """
+    Clokkle
+    """
+    end
 }
 script 153 mmz3 {
-	"""
-	Metoras
-	"""
-	end
+    """
+    Metoras
+    """
+    end
 }
 script 154 mmz3 {
-	"""
-	Metorika
-	"""
-	end
+    """
+    Metorika
+    """
+    end
 }
 script 155 mmz3 {
-	"""
-	Metorph
-	"""
-	end
+    """
+    Metorph
+    """
+    end
 }
 script 156 mmz3 {
-	"""
-	Metella
-	"""
-	end
+    """
+    Metella
+    """
+    end
 }
 script 157 mmz3 {
-	"""
-	Meterom
-	"""
-	end
+    """
+    Meterom
+    """
+    end
 }
 script 158 mmz3 {
-	"""
-	Kynite
-	"""
-	end
+    """
+    Kynite
+    """
+    end
 }
 script 159 mmz3 {
-	"""
-	Surnite
-	"""
-	end
+    """
+    Surnite
+    """
+    end
 }
 script 160 mmz3 {
-	"""
-	Tenite
-	"""
-	end
+    """
+    Tenite
+    """
+    end
 }
 script 161 mmz3 {
-	"""
-	Stopalla
-	"""
-	end
+    """
+    Stopalla
+    """
+    end
 }
 script 162 mmz3 {
-	"""
-	Stopina
-	"""
-	end
+    """
+    Stopina
+    """
+    end
 }
 script 163 mmz3 {
-	"""
-	Stopule
-	"""
-	end
+    """
+    Stopule
+    """
+    end
 }
 script 164 mmz3 {
-	"""
-	Stopeta
-	"""
-	end
+    """
+    Stopeta
+    """
+    end
 }
 script 165 mmz3 {
-	"""
-	Stoposa
-	"""
-	end
+    """
+    Stoposa
+    """
+    end
 }
 script 166 mmz3 {
-	"""
-	Hanmarga
-	"""
-	end
+    """
+    Hanmarga
+    """
+    end
 }
 script 167 mmz3 {
-	"""
-	Hanmarji
-	"""
-	end
+    """
+    Hanmarji
+    """
+    end
 }
 script 168 mmz3 {
-	"""
-	Hanmarbo
-	"""
-	end
+    """
+    Hanmarbo
+    """
+    end
 }
 script 169 mmz3 {
-	"""
-	Aina
-	"""
-	end
+    """
+    Aina
+    """
+    end
 }
 script 170 mmz3 {
-	"""
-	Acooi
-	"""
-	end
+    """
+    Acooi
+    """
+    end
 }
 script 171 mmz3 {
-	"""
-	Achoon
-	"""
-	end
+    """
+    Achoon
+    """
+    end
 }
 script 172 mmz3 {
-	"""
-	Anater
-	"""
-	end
+    """
+    Anater
+    """
+    end
 }
 script 173 mmz3 {
-	"""
-	Awarne
-	"""
-	end
+    """
+    Awarne
+    """
+    end
 }
 script 174 mmz3 {
-	"""
-	None
-	"""
-	end
+    """
+    None
+    """
+    end
 }
 script 175 mmz3 {
-	textColorRed
-	"""
-	Equip SAT.1
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    Equip SAT.1
+    """
+    textColorWhite
+    end
 }
 script 176 mmz3 {
-	textColorRed
-	"""
-	Equip SAT.2
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    Equip SAT.2
+    """
+    textColorWhite
+    end
 }
 script 177 mmz3 {
-	"""
-	Elfos de
-	Fusion
-	morirán al
-	ser usados.
-	"""
-	end
+    """
+    Elfos de
+    Fusao
+    morirao ao
+    ser usados.
+    """
+    end
 }
 script 178 mmz3 {
-	"""
-	Cría y
-	mejora tus
-	Ciber-elfos.
-	"""
-	end
+    """
+    Cria e
+    melhora teus
+    Ciber-elfos.
+    """
+    end
 }
 script 179 mmz3 {
-	"""
-	Puedes ver
-	una lista de
-	Ciber-elfos.
-	"""
-	end
+    """
+    Podes ver
+    uma lista de
+    Ciber-elfos.
+    """
+    end
 }
 script 180 mmz3 {
-	"""
-	Elige y pulsa A BUTTON.
-	"""
-	end
+    """
+    Escolha e aperte A BUTTON.
+    """
+    end
 }
 script 181 mmz3 {
-	"""
-	Elfos que
-	aumentan
-	vitalidad.
-	"""
-	end
+    """
+    Elfos que
+    aumentam
+    vitalidade.
+    """
+    end
 }
 script 182 mmz3 {
-	"""
-	Elfos que
-	mejoran
-	movimiento
-	o ayudan
-	con ataque.
-	"""
-	end
+    """
+    Elfos que
+    melhoram
+    movimento
+    ou ajudam
+    com ataque.
+    """
+    end
 }
 script 183 mmz3 {
-	"""
-	Elfos que
-	asisten con
-	datos de
-	misión y
-	armas.
-	"""
-	end
+    """
+    Elfos que
+    assistem com
+    dados de
+    missao e
+    armas.
+    """
+    end
 }
 script 184 mmz3 {
-	"""
-	Left or Right elije una etiqueta.
-	"""
-	end
+    """
+    Left or Right escolhe uma etiqueta.
+    """
+    end
 }
 script 185 mmz3 {
-	"""
-	Elige y pulsa A BUTTON.
-	"""
-	end
+    """
+    Escolha e aperte A BUTTON.
+    """
+    end
 }
 script 186 mmz3 {
-	"""
-	Elige y pulsa A BUTTON.
-	"""
-	end
+    """
+    Escolha e aperte A BUTTON.
+    """
+    end
 }
 script 187 mmz3 {
-	"""
-	EC:Req/Disp
-	"""
-	end
+    """
+    EC:Req/Disp
+    """
+    end
 }
 script 188 mmz3 {
-	"""
-	¿Mejorar un
-	nivel?
-	  Sí   No
-	"""
-	end
+    """
+    Deseja melhorar
+    um nivel?
+     Sim    Nao
+    """
+    end
 }
 script 189 mmz3 {
-	"""
-	¿Mejorar a
-	Satélite?
-	  Sí   No
-	"""
-	end
+    """
+    Deseja melhorar
+    a Satelite?
+     Sim    Nao
+    """
+    end
 }
 script 190 mmz3 {
-	"""
-	¿Mejorar a
-	tipo Fusión?
-	  Sí   No
-	"""
-	end
+    """
+    Deseja melhorar
+    a tipo Fusao?
+     Sim    Nao
+    """
+    end
 }
 script 191 mmz3 {
-	"""
-	¿Mejorar a
-	nueva ver.?
-	  Sí   No
-	"""
-	end
+    """
+    Deseja melhorar
+    a nova ver.?
+     Sim    Nao
+    """
+    end
 }
 script 192 mmz3 {
-	"""
-	Elige y pulsa A BUTTON.
-	"""
-	end
+    """
+    Escolha e aperte A BUTTON.
+    """
+    end
 }
 script 193 mmz3 {
-	"""
-	Elige y pulsa A BUTTON.
-	"""
-	end
+    """
+    Escolha e aperte A BUTTON.
+    """
+    end
 }
 script 194 mmz3 {
-	"""
-	EC
-	"""
-	end
+    """
+    EC
+    """
+    end
 }
 script 195 mmz3 {
-	"""
-	Satélite 1
-	no equipado
-	con un Elfo.
-	"""
-	end
+    """
+    Satelite 1
+    nao equipado
+    com um Elfo.
+    """
+    end
 }
 script 196 mmz3 {
-	"""
-	Satélite 2
-	no equipado
-	con un Elfo.
-	"""
-	end
+    """
+    Satelite 2
+    nao equipado
+    com um Elfo.
+    """
+    end
 }
 script 197 mmz3 {
-	"""
-	E-Crystals insuficientes.
-	"""
-	end
+    """
+    E-Crystals insuficientes.
+    """
+    end
 }
 script 198 mmz3 {
-	"""
-	No mejora al estar equipado.
-	"""
-	end
+    """
+    Nao melhora ao estar equipado.
+    """
+    end
 }
 script 199 mmz3 {
-	"""
-	¡Elfo convertido a Sub Tank!
-	"""
-	end
+    """
+    ¡Elfo convertido a Sub Tank!
+    """
+    end
 }
 script 200 mmz3 {
-	"""
-	Doblo tu
-	energía.
-	"""
-	end
+    """
+    Dobro tua
+    energia.
+    """
+    end
 }
 script 201 mmz3 {
-	"""
-	Aumento
-	energía
-	un poco.
-	"""
-	end
+    """
+    Aumento
+    energia
+    um pouco.
+    """
+    end
 }
 script 202 mmz3 {
-	"""
-	Puedo subir
-	energía
-	un poco.
-	"""
-	end
+    """
+    Posso subir
+    energia
+    um pouco.
+    """
+    end
 }
 script 203 mmz3 {
-	"""
-	¡Usa mi
-	poder para
-	subir
-	energía!
-	"""
-	end
+    """
+    Usa meu
+    poder para
+    subir
+    energia!
+    """
+    end
 }
 script 204 mmz3 {
-	"""
-	¡Deja que
-	mejore tu
-	energía!
-	"""
-	end
+    """
+    Deixa que
+    melhore tua
+    energia!
+    """
+    end
 }
 script 205 mmz3 {
-	"""
-	Me vuelvo
-	un Sub Tank
-	para ti.
-	"""
-	end
+    """
+    Me volto
+    um Sub Tank
+    para ti.
+    """
+    end
 }
 script 206 mmz3 {
-	"""
-	¡Si quieres
-	un Sub Tank,
-	ayudo!
-	"""
-	end
+    """
+    Se queres
+    um Sub Tank,
+    ajudo!
+    """
+    end
 }
 script 207 mmz3 {
-	"""
-	¡Usa mi
-	poder para
-	+3 vidas!
-	"""
-	end
+    """
+    Usa meu
+    poder para
+    +3 vidas!
+    """
+    end
 }
 script 208 mmz3 {
-	"""
-	¡Si quieres
-	3 vidas más
-	llámame!
-	"""
-	end
+    """
+    Se queres
+    3 vidas mais
+    me chame!
+    """
+    end
 }
 script 209 mmz3 {
-	"""
-	Mi energía
-	cura 8
-	energía.
-	"""
-	end
+    """
+    Minha energia
+    cura 8
+    energia.
+    """
+    end
 }
 script 210 mmz3 {
-	"""
-	Curo 8
-	energía
-	por ti.
-	"""
-	end
+    """
+    Curo 8
+    energia
+    por ti.
+    """
+    end
 }
 script 211 mmz3 {
-	"""
-	Deja que
-	cure 8
-	energía.
-	"""
-	end
+    """
+    Deixa que
+    cure 8
+    energia.
+    """
+    end
 }
 script 212 mmz3 {
-	"""
-	¿Herido?
-	Curo 8
-	energía.
-	"""
-	end
+    """
+    Ferido?
+    Curo 8
+    energia.
+    """
+    end
 }
 script 213 mmz3 {
-	"""
-	Si te dañan,
-	curo 8 de
-	energía.
-	"""
-	end
+    """
+    Se te danam,
+    curo 8 de
+    energia.
+    """
+    end
 }
 script 214 mmz3 {
-	"""
-	¡Úsame
-	cuando
-	necesites
-	8 energía!
-	"""
-	end
+    """
+    Use-me
+    quando
+    precisares
+    8 energia!
+    """
+    end
 }
 script 215 mmz3 {
-	"""
-	Mi poder
-	cura 8
-	energía.
-	"""
-	end
+    """
+    Meu poder
+    cura 8
+    energia.
+    """
+    end
 }
 script 216 mmz3 {
-	"""
-	Solo para
-	ti, curo
-	8 energía.
-	"""
-	end
+    """
+    Solo para
+    ti, curo
+    8 energia.
+    """
+    end
 }
 script 217 mmz3 {
-	"""
-	¡Puedo curar
-	toda tu
-	energía!
-	"""
-	end
+    """
+    Posso curar
+    toda tua
+    energia!
+    """
+    end
 }
 script 218 mmz3 {
-	"""
-	¡Curo toda
-	la energía
-	total!
-	"""
-	end
+    """
+    Curo toda
+    a energia
+    total!
+    """
+    end
 }
 script 219 mmz3 {
-	"""
-	Deja que
-	cure toda
-	energía.
-	"""
-	end
+    """
+    Deixa que
+    cure toda
+    energia.
+    """
+    end
 }
 script 220 mmz3 {
-	"""
-	¡Te ayudo!
-	¡Curo toda
-	energía!
-	"""
-	end
+    """
+    Te ajudo!
+    Curo toda
+    energia!
+    """
+    end
 }
 script 221 mmz3 {
-	"""
-	¡Es mi
-	tarea
-	curarte
-	totalmente!
-	"""
-	end
+    """
+    E minha
+    tarefa
+    curarte
+    totalmente!
+    """
+    end
 }
 script 222 mmz3 {
-	"""
-	Mi poder
-	te cura
-	totalmente.
-	"""
-	end
+    """
+    Meu poder
+    te cura
+    totalmente.
+    """
+    end
 }
 script 223 mmz3 {
-	"""
-	Daño bajo.
-	Balas dan
-	1 energía.
-	"""
-	end
+    """
+    Dano baixo.
+    Balas dao
+    1 energia.
+    """
+    end
 }
 script 224 mmz3 {
-	"""
-	Daño bajo.
-	Balas dan
-	1 energía.
-	"""
-	end
+    """
+    Dano baixo.
+    Balas dao
+    1 energia.
+    """
+    end
 }
 script 225 mmz3 {
-	"""
-	¡Suelto
-	Energía (S)
-	a tu lado!
-	"""
-	end
+    """
+    Solto
+    Energia (S)
+    a teu lado!
+    """
+    end
 }
 script 226 mmz3 {
-	"""
-	¡Esparzo
-	Energía
-	(S)!
-	"""
-	end
+    """
+    Esparzo
+    Energia
+    (S)!
+    """
+    end
 }
 script 227 mmz3 {
-	"""
-	Trampas ya
-	no serán
-	letales.
-	"""
-	end
+    """
+    Trampas ja
+    nao serao
+    letais.
+    """
+    end
 }
 script 228 mmz3 {
-	"""
-	¡Puedo
-	hacerte
-	más veloz!
-	"""
-	end
+    """
+    Posso
+    fazer-te
+    mais veloz!
+    """
+    end
 }
 script 229 mmz3 {
-	"""
-	¡Subes
-	escaleras
-	más rápido!
-	"""
-	end
+    """
+    Sobes
+    escadas
+    mais rapido!
+    """
+    end
 }
 script 230 mmz3 {
-	"""
-	¡Te ayudo a
-	desafiar la
-	gravedad!
-	"""
-	end
+    """
+    Te ajudo a
+    desafiar a
+    gravidade!
+    """
+    end
 }
 script 231 mmz3 {
-	"""
-	¡No retro-
-	cedes al
-	recibir
-	daño!
-	"""
-	end
+    """
+    Nao retro-
+    cedes ao
+    receber
+    dano!
+    """
+    end
 }
 script 232 mmz3 {
-	"""
-	¡Te salvo
-	si caes en
-	un pozo!
-	"""
-	end
+    """
+    Te salvo
+    se cais em
+    um poco!
+    """
+    end
 }
 script 233 mmz3 {
-	"""
-	¡No te dejo
-	caer en
-	pozos!
-	"""
-	end
+    """
+    Nao te deixo
+    cair em
+    pocos!
+    """
+    end
 }
 script 234 mmz3 {
-	"""
-	Me aferro y
-	freno
-	algunos
-	enemigos.
-	"""
-	end
+    """
+    Me agarro e
+    freno
+    alguns
+    inimigos.
+    """
+    end
 }
 script 235 mmz3 {
-	"""
-	Agarro y
-	freno
-	enemigos.
-	"""
-	end
+    """
+    Agarro e
+    freno
+    inimigos.
+    """
+    end
 }
 script 236 mmz3 {
-	"""
-	¡Disparo al
-	frente para
-	ayudarte!
-	"""
-	end
+    """
+    Disparo ao
+    frente para
+    ajudar-te!
+    """
+    end
 }
 script 237 mmz3 {
-	"""
-	¡Mis balas
-	dan fuego
-	de apoyo!
-	"""
-	end
+    """
+    Minhas balas
+    dao fogo
+    de apoio!
+    """
+    end
 }
 script 238 mmz3 {
-	"""
-	¡Mis tiros
-	van al
-	suelo!
-	"""
-	end
+    """
+    Meus tiros
+    vao ao
+    solo!
+    """
+    end
 }
 script 239 mmz3 {
-	"""
-	¡Mis tiros
-	golpean el
-	suelo!
-	"""
-	end
+    """
+    Meus tiros
+    golpeiam o
+    solo!
+    """
+    end
 }
 script 240 mmz3 {
-	"""
-	¡Doblo los
-	objetos
-	que tomas!
-	"""
-	end
+    """
+    Dobro os
+    objetos
+    que tomas!
+    """
+    end
 }
 script 241 mmz3 {
-	"""
-	¡Enemigos
-	sueltan más
-	objetos!
-	"""
-	end
+    """
+    Inimigos
+    soltam mais
+    objetos!
+    """
+    end
 }
 script 242 mmz3 {
-	"""
-	Presiona Up
-	durante
-	TRIPLE ATK.
-	"""
-	end
+    """
+    Pressiona Up
+    durante
+    TRIPLE ATK.
+    """
+    end
 }
 script 243 mmz3 {
-	"""
-	Presiona Down
-	durante
-	TRIPLE ATK.
-	"""
-	end
+    """
+    Pressiona Down
+    durante
+    TRIPLE ATK.
+    """
+    end
 }
 script 244 mmz3 {
-	"""
-	¡Cuatro
-	tiros para
-	Buster Shot!
-	"""
-	end
+    """
+    Quatro
+    tiros para
+    Buster Shot!
+    """
+    end
 }
 script 245 mmz3 {
-	"""
-	Dash + Up/
-	Down o salto
-	+ Up: giro.
-	"""
-	end
+    """
+    Dash + Up/
+    Down ou salto
+    + Up: giro.
+    """
+    end
 }
 script 246 mmz3 {
-	"""
-	Corta
-	balas para
-	frenarlas.
-	"""
-	end
+    """
+    Corta
+    balas para
+    frena-las.
+    """
+    end
 }
 script 247 mmz3 {
-	"""
-	Bloquea
-	tiros y
-	obtén
-	EC (S).
-	"""
-	end
+    """
+    Bloqueia
+    tiros e
+    obtem
+    EC (S).
+    """
+    end
 }
 script 248 mmz3 {
-	"""
-	+1 a tu
-	Buster Shot.
-	"""
-	end
+    """
+    +1 a teu
+    Buster Shot.
+    """
+    end
 }
 script 249 mmz3 {
-	"""
-	+1 a tu
-	Z Saber.
-	"""
-	end
+    """
+    +1 a teu
+    Z Saber.
+    """
+    end
 }
 script 250 mmz3 {
-	"""
-	+1 a tu
-	Rod.
-	"""
-	end
+    """
+    +1 a teu
+    Rod.
+    """
+    end
 }
 script 251 mmz3 {
-	"""
-	+1 a tu
-	Shield.
-	"""
-	end
+    """
+    +1 a teu
+    Shield.
+    """
+    end
 }
 script 252 mmz3 {
-	"""
-	Acelera
-	carga de
-	arma.
-	"""
-	end
+    """
+    Acelera
+    carga de
+    arma.
+    """
+    end
 }
 script 253 mmz3 {
-	"""
-	Algunos
-	enemigos
-	se vuelven
-	Mettaurs.
-	"""
-	end
+    """
+    Alguns
+    inimigos
+    se voltam
+    Mettaurs.
+    """
+    end
 }
 script 254 mmz3 {
-	"""
-	Puedo volver
-	enemigos en
-	Mettaurs.
-	"""
-	end
+    """
+    Posso voltar
+    inimigos em
+    Mettaurs.
+    """
+    end
 }
 script 255 mmz3 {
-	"""
-	Vuelvo
-	enemigos en
-	Mettaurs.
-	"""
-	end
+    """
+    Volvo
+    inimigos em
+    Mettaurs.
+    """
+    end
 }
 script 256 mmz3 {
-	"""
-	Vuelvo
-	enemigos en
-	Mettaurs.
-	"""
-	end
+    """
+    Volvo
+    inimigos em
+    Mettaurs.
+    """
+    end
 }
 script 257 mmz3 {
-	"""
-	Enemigos
-	serán
-	Mettaurs.
-	"""
-	end
+    """
+    Inimigos
+    serao
+    Mettaurs.
+    """
+    end
 }
 script 258 mmz3 {
-	"""
-	¡Destruyo
-	a todos los
-	enemigos
-	pequeños!
-	"""
-	end
+    """
+    Destruyo
+    a todos os
+    inimigos
+    pequenos!
+    """
+    end
 }
 script 259 mmz3 {
-	"""
-	¡Úsame para
-	borrar
-	enemigos
-	pequeños!
-	"""
-	end
+    """
+    Use-me para
+    apagar
+    inimigos
+    pequenos!
+    """
+    end
 }
 script 260 mmz3 {
-	"""
-	¡Derroto
-	enemigos
-	pequeños
-	al instante!
-	"""
-	end
+    """
+    Derroto
+    inimigos
+    pequenos
+    ao instante!
+    """
+    end
 }
 script 261 mmz3 {
-	"""
-	Ciertos
-	enemigos
-	quedan
-	aturdidos.
-	"""
-	end
+    """
+    Certos
+    inimigos
+    ficam
+    atordoados.
+    """
+    end
 }
 script 262 mmz3 {
-	"""
-	Puedo
-	aturdir
-	ciertos
-	enemigos.
-	"""
-	end
+    """
+    Posso
+    aturdir
+    certos
+    inimigos.
+    """
+    end
 }
 script 263 mmz3 {
-	"""
-	¡Algunos
-	enemigos
-	quedarán
-	aturdidos!
-	"""
-	end
+    """
+    Alguns
+    inimigos
+    ficarao
+    atordoados!
+    """
+    end
 }
 script 264 mmz3 {
-	"""
-	¡Mi tarea
-	es aturdir
-	ciertos
-	enemigos!
-	"""
-	end
+    """
+    Minha tarefa
+    e aturdir
+    certos
+    inimigos!
+    """
+    end
 }
 script 265 mmz3 {
-	"""
-	Mi deber
-	es aturdir
-	algunos
-	enemigos.
-	"""
-	end
+    """
+    Meu dever
+    e aturdir
+    alguns
+    inimigos.
+    """
+    end
 }
-script 266 mmz3 {
-	"""
-	¡Mi tarea es
-	cortar la
-	vida del
-	jefe!
-	"""
-	end
+script 266 mmz35 {
+    """
+    Minha tarefa e
+    cortar a
+    vida do
+    chefe!
+    """
+    end
 }
 script 267 mmz3 {
-	"""
-	¡Reduzco
-	vida de jefe
-	a la mitad!
-	"""
-	end
+    """
+    Reduzco
+    vida de chefe
+    a metade!
+    """
+    end
 }
 script 268 mmz3 {
-	"""
-	¡Cortaré
-	vida del
-	jefe!
-	"""
-	end
+    """
+    Cortarei
+    vida do
+    chefe!
+    """
+    end
 }
 script 269 mmz3 {
-	"""
-	Llega a Lv.A
-	durante la
-	misión.
-	"""
-	end
+    """
+    Chega a Lv.A
+    durante a
+    missao.
+    """
+    end
 }
 script 270 mmz3 {
-	"""
-	Úsame para
-	llegar a
-	Lv.A.
-	"""
-	end
+    """
+    Use-me para
+    chegar a
+    Lv.A.
+    """
+    end
 }
 script 271 mmz3 {
-	"""
-	Te subo a
-	nivel A.
-	"""
-	end
+    """
+    Te subo a
+    nivel A.
+    """
+    end
 }
 script 272 mmz3 {
-	"""
-	Mi energía
-	te lleva a
-	Lv.A.
-	"""
-	end
+    """
+    Minha energia
+    te leva a
+    Lv.A.
+    """
+    end
 }
 script 273 mmz3 {
-	"""
-	¿Lv.A?
-	Pero solo
-	durante
-	la misión.
-	"""
-	end
+    """
+    Lv.A?
+    Pero solo
+    durante
+    a missao.
+    """
+    end
 }
 script 274 mmz3 {
-	"""
-	¡Usa mi
-	poder para
-	+5 vidas!
-	"""
-	end
+    """
+    Usa meu
+    poder para
+    +5 vidas!
+    """
+    end
 }
 script 275 mmz3 {
-	"""
-	¡Si quieres
-	5 vidas más
-	llámame!
-	"""
-	end
+    """
+    Se queres
+    5 vidas mais
+    me chame!
+    """
+    end
 }
 script 276 mmz3 {
-	"""
-	Mi energía
-	cura 16
-	energía.
-	"""
-	end
+    """
+    Minha energia
+    cura 16
+    energia.
+    """
+    end
 }
 script 277 mmz3 {
-	"""
-	Curo 16
-	energía
-	por ti.
-	"""
-	end
+    """
+    Curo 16
+    energia
+    por ti.
+    """
+    end
 }
 script 278 mmz3 {
-	"""
-	Deja que
-	cure 16
-	energía.
-	"""
-	end
+    """
+    Deixa que
+    cure 16
+    energia.
+    """
+    end
 }
 script 279 mmz3 {
-	"""
-	¿Herido?
-	Curo 16
-	energía.
-	"""
-	end
+    """
+    Ferido?
+    Curo 16
+    energia.
+    """
+    end
 }
 script 280 mmz3 {
-	"""
-	Si te dañan,
-	curo 16
-	de energía.
-	"""
-	end
+    """
+    Se te danam,
+    curo 16
+    de energia.
+    """
+    end
 }
 script 281 mmz3 {
-	"""
-	¡Úsame
-	cuando
-	necesites
-	16 energía!
-	"""
-	end
+    """
+    Use-me
+    quando
+    precisares
+    16 energia!
+    """
+    end
 }
 script 282 mmz3 {
-	"""
-	Mi poder
-	cura 16
-	energía.
-	"""
-	end
+    """
+    Meu poder
+    cura 16
+    energia.
+    """
+    end
 }
 script 283 mmz3 {
-	"""
-	Solo para
-	ti, curo
-	16 energía.
-	"""
-	end
+    """
+    Solo para
+    ti, curo
+    16 energia.
+    """
+    end
 }
 script 284 mmz3 {
-	"""
-	¡Curo toda
-	tu energía
-	y 1 tanque!
-	"""
-	end
+    """
+    Curo toda
+    tua energia
+    e 1 tanque!
+    """
+    end
 }
 script 285 mmz3 {
-	"""
-	¡Curo todo
-	y 1 tanque!
-	"""
-	end
+    """
+    Curo tudo
+    e 1 tanque!
+    """
+    end
 }
 script 286 mmz3 {
-	"""
-	Deja que
-	cure toda
-	tu energía
-	y 1 tanque.
-	"""
-	end
+    """
+    Deixa que
+    cure toda
+    tua energia
+    e 1 tanque.
+    """
+    end
 }
 script 287 mmz3 {
-	"""
-	¡Te ayudo!
-	¡Curo toda
-	tu energía
-	y 1 tanque!
-	"""
-	end
+    """
+    Te ajudo!
+    Curo toda
+    tua energia
+    e 1 tanque!
+    """
+    end
 }
 script 288 mmz3 {
-	"""
-	¡Es mi tarea
-	curar todo
-	y 1 tanque
-	totalmente!
-	"""
-	end
+    """
+    E minha tarefa
+    curar tudo
+    e 1 tanque
+    totalmente!
+    """
+    end
 }
 script 289 mmz3 {
-	"""
-	Mi poder
-	cura todo
-	y 1 tanque
-	totalmente.
-	"""
-	end
+    """
+    Meu poder
+    cura tudo
+    e 1 tanque
+    totalmente.
+    """
+    end
 }
 script 290 mmz3 {
-	"""
-	Daño bajo.
-	Balas dan
-	2 energía.
-	"""
-	end
+    """
+    Dano baixo.
+    Balas dao
+    2 energia.
+    """
+    end
 }
 script 291 mmz3 {
-	"""
-	Daño bajo.
-	Balas dan
-	2 energía.
-	"""
-	end
+    """
+    Dano baixo.
+    Balas dao
+    2 energia.
+    """
+    end
 }
 script 292 mmz3 {
-	"""
-	¡Suelto
-	Energía (S)
-	más rápido!
-	"""
-	end
+    """
+    Solto
+    Energia (S)
+    mais rapido!
+    """
+    end
 }
 script 293 mmz3 {
-	"""
-	¡Esparzo
-	Energía (S)
-	rápido!
-	"""
-	end
+    """
+    Esparzo
+    Energia (S)
+    rapido!
+    """
+    end
 }
 script 294 mmz3 {
-	"""
-	¡Disparo a
-	tus enemigos
-	para ayudar!
-	"""
-	end
+    """
+    Disparo a
+    teus inimigos
+    para ajudar!
+    """
+    end
 }
 script 295 mmz3 {
-	"""
-	¡Mis balas
-	eliminan
-	enemigos!
-	"""
-	end
+    """
+    Minhas balas
+    eliminam
+    inimigos!
+    """
+    end
 }
 script 296 mmz3 {
-	"""
-	Bloquea y
-	obtén
-	EC (L)
-	a veces.
-	"""
-	end
+    """
+    Bloqueia e
+    obtem
+    EC (L)
+    a vezes.
+    """
+    end
 }
 script 297 mmz3 {
-	"""
-	None
-	"""
-	end
+    """
+    None
+    """
+    end
 }
 script 300 mmz3 {
-	"""
-	Tu arma principal.
-	"""
-	end
+    """
+    Tua arma principal.
+    """
+    end
 }
 script 301 mmz3 {
-	"""
-	Tu arma secundaria.
-	"""
-	end
+    """
+    Tua arma secundaria.
+    """
+    end
 }
 script 302 mmz3 {
-	"""
-	Tanque de energía extra.
-	"""
-	end
+    """
+    Tanque de energia extra.
+    """
+    end
 }
 script 303 mmz3 {
-	"""
-	Tu Chip de Cabeza.
-	"""
-	end
+    """
+    Teu Chip de Cabeca.
+    """
+    end
 }
 script 304 mmz3 {
-	"""
-	Tu Chip de Cuerpo.
-	"""
-	end
+    """
+    Teu Chip de Corpo.
+    """
+    end
 }
 script 305 mmz3 {
-	"""
-	Tu Chip de Pies.
-	"""
-	end
+    """
+    Teu Chip de Pes.
+    """
+    end
 }
 script 306 mmz3 {
-	"""
-	Abortar misión completada.
-	"""
-	end
+    """
+    Abortar missao completada.
+    """
+    end
 }
 script 307 mmz3 {
-	"""
-	A BUTTON:Esc B BUTTON:Cancel
-	"""
-	end
+    """
+    A BUTTON:Esc B BUTTON:Cancel
+    """
+    end
 }
 script 308 mmz3 {
-	"""
-	¡No puedes escapar ahora!
-	"""
-	end
+    """
+    Nao podes escapar agora!
+    """
+    end
 }
 script 309 mmz3 {
-	"""
-	BUSTER SHOT
-	"""
-	end
+    """
+    BUSTER SHOT
+    """
+    end
 }
 script 310 mmz3 {
-	"""
-	Z SABER
-	"""
-	end
+    """
+    Z SABER
+    """
+    end
 }
 script 311 mmz3 {
-	"""
-	RECOIL ROD
-	"""
-	end
+    """
+    RECOIL ROD
+    """
+    end
 }
 script 312 mmz3 {
-	"""
-	S.BOOMERANG
-	"""
-	end
+    """
+    S.BOOMERANG
+    """
+    end
 }
 script 313 mmz3 {
-	"""
-	Energía restante:
-	"""
-	end
+    """
+    Energia restante:
+    """
+    end
 }
 script 314 mmz3 {
-	"""
-	Chip de Cabeza normal.
-	"""
-	end
+    """
+    Chip de Cabeca normal.
+    """
+    end
 }
 script 315 mmz3 {
-	"""
-	Cura al estar quieto.
-	"""
-	end
+    """
+    Cura ao estar quieto.
+    """
+    end
 }
 script 316 mmz3 {
-	"""
-	Carga arma automáticamente.
-	"""
-	end
+    """
+    Carga arma automaticamente.
+    """
+    end
 }
 script 317 mmz3 {
-	"""
-	Aumenta velocidad de carga.
-	"""
-	end
+    """
+    Aumenta velocidade de carga.
+    """
+    end
 }
 script 318 mmz3 {
-	"""
-	Chip de Cuerpo normal.
-	"""
-	end
+    """
+    Chip de Corpo normal.
+    """
+    end
 }
 script 319 mmz3 {
-	"""
-	Ignora terreno inestable.
-	"""
-	end
+    """
+    Ignora terreno instavel.
+    """
+    end
 }
 script 320 mmz3 {
-	"""
-	Sin retroceso al daño.
-	"""
-	end
+    """
+    Sem retrocesso ao dano.
+    """
+    end
 }
 script 321 mmz3 {
-	"""
-	Activa ataque Trueno.
-	"""
-	end
+    """
+    Ativa ataque Trovao.
+    """
+    end
 }
 script 322 mmz3 {
-	"""
-	Activa ataque Fuego.
-	"""
-	end
+    """
+    Ativa ataque Fogo.
+    """
+    end
 }
 script 323 mmz3 {
-	"""
-	Activa ataque Hielo.
-	"""
-	end
+    """
+    Ativa ataque Gelo.
+    """
+    end
 }
 script 324 mmz3 {
-	"""
-	Chip de Pies normal.
-	"""
-	end
+    """
+    Chip de Pes normal.
+    """
+    end
 }
 script 325 mmz3 {
-	"""
-	Puede saltar en agua.
-	"""
-	end
+    """
+    Pode saltar em agua.
+    """
+    end
 }
 script 326 mmz3 {
-	"""
-	Puede hacer doble salto.
-	"""
-	end
+    """
+    Pode fazer duplo salto.
+    """
+    end
 }
 script 327 mmz3 {
-	"""
-	Atraviesa algunos enemigos.
-	"""
-	end
+    """
+    Atravessa alguns inimigos.
+    """
+    end
 }
 script 328 mmz3 {
-	"""
-	Aumenta velocidad al correr.
-	"""
-	end
+    """
+    Aumenta velocidade ao correr.
+    """
+    end
 }
 script 329 mmz3 {
-	"""
-	Ignora suelo resbaloso.
-	"""
-	end
+    """
+    Ignora solo resvaloso.
+    """
+    end
 }
 script 330 mmz3 {
-	"""
-	Desliza más lento en muro.
-	"""
-	end
+    """
+    Desliza mais lento em muro.
+    """
+    end
 }
 script 331 mmz3 {
-	"""
-	Todos los efectos activados.
-	"""
-	end
+    """
+    Todos os efeitos ativados.
+    """
+    end
 }
 script 374 mmz3 {
-	textColorRed
-	"""
-	Job Complete
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    Job Complete
+    """
+    textColorWhite
+    end
 }
 script 395 mmz3 {
-	"""
-	¿Guardar datos actuales?
-	  SÍ
-	  NO
-	"""
-	end
+    """
+    Salvar dados atuais?
+     SIM
+     NAO
+    """
+    end
 }
 script 396 mmz3 {
-	"""
-	¿A qué archivo?
-	"""
-	end
+    """
+    A que arquivo?
+    """
+    end
 }
 script 397 mmz3 {
-	"""
-	Datos guardados.
-	"""
-	end
+    """
+    Dados salvos.
+    """
+    end
 }
 script 398 mmz3 {
-	"""
-	¿Sobrescribir datos?
-	  SÍ
-	  NO
-	"""
-	end
+    """
+    Sobrescrever dados?
+     SIM
+     NAO
+    """
+    end
 }
 script 399 mmz3 {
-	"""
-	Datos sobrescritos.
-	"""
-	end
+    """
+    Dados sobrescritos.
+    """
+    end
 }
 script 450 mmz3 {
-	"""
-	ReflectLaser
-	"""
-	end
+    """
+    ReflectLaser
+    """
+    end
 }
 script 451 mmz3 {
-	"""
-	V-Shot
-	"""
-	end
+    """
+    V-Shot
+    """
+    end
 }
 script 452 mmz3 {
-	"""
-	BurstShot
-	"""
-	end
+    """
+    BurstShot
+    """
+    end
 }
 script 453 mmz3 {
-	"""
-	BlizzrdArrow
-	"""
-	end
+    """
+    BlizzrdArrow
+    """
+    end
 }
 script 454 mmz3 {
-	"""
-	GaleAttack
-	"""
-	end
+    """
+    GaleAttack
+    """
+    end
 }
 script 455 mmz3 {
-	"""
-	SaberSmash
-	"""
-	end
+    """
+    SaberSmash
+    """
+    end
 }
 script 456 mmz3 {
-	"""
-	SplitHeavens
-	"""
-	end
+    """
+    SplitHeavens
+    """
+    end
 }
 script 457 mmz3 {
-	"""
-	ThrowBlade
-	"""
-	end
+    """
+    ThrowBlade
+    """
+    end
 }
 script 458 mmz3 {
-	"""
-	1000 Slash
-	"""
-	end
+    """
+    1000 Slash
+    """
+    end
 }
 script 459 mmz3 {
-	"""
-	SoulLauncher
-	"""
-	end
+    """
+    SoulLauncher
+    """
+    end
 }
 script 460 mmz3 {
-	"""
-	ShieldSweep
-	"""
-	end
+    """
+    ShieldSweep
+    """
+    end
 }
 script 461 mmz3 {
-	"""
-	OrbitShield
-	"""
-	end
+    """
+    OrbitShield
+    """
+    end
 }
 script 462 mmz3 {
-	"""
-	None learned
-	"""
-	end
+    """
+    None learned
+    """
+    end
 }
 script 463 mmz3 {
-	textColorRed
-	"""
-	BUSTER SHOT
-	"""
-	textColorWhite
-	"""
-	
-	Rebota
-	en muros.
-	"""
-	end
+    textColorRed
+    """
+    BUSTER SHOT
+    """
+    textColorWhite
+    """
+    
+    Rebota
+    em muros.
+    """
+    end
 }
 script 464 mmz3 {
-	textColorRed
-	"""
-	BUSTER SHOT
-	"""
-	textColorWhite
-	"""
-	
-	Divide tiro
-	al usar
-	Chip Trueno.
-	"""
-	end
+    textColorRed
+    """
+    BUSTER SHOT
+    """
+    textColorWhite
+    """
+    
+    Divide tiro
+    ao usar
+    Chip Trovao.
+    """
+    end
 }
 script 465 mmz3 {
-	textColorRed
-	"""
-	BUSTER SHOT
-	"""
-	textColorWhite
-	"""
-	
-	Explota
-	al usar
-	Chip Fuego.
-	"""
-	end
+    textColorRed
+    """
+    BUSTER SHOT
+    """
+    textColorWhite
+    """
+    
+    Explota
+    ao usar
+    Chip Fogo.
+    """
+    end
 }
 script 466 mmz3 {
-	textColorRed
-	"""
-	BUSTER SHOT
-	"""
-	textColorWhite
-	"""
-	
-	Dispara
-	hielo al
-	usar Chip
-	Hielo.
-	"""
-	end
+    textColorRed
+    """
+    BUSTER SHOT
+    """
+    textColorWhite
+    """
+    
+    Dispara
+    gelo ao
+    usar Chip
+    Gelo.
+    """
+    end
 }
 script 467 mmz3 {
-	textColorRed
-	"""
-	Z SABER
-	"""
-	textColorWhite
-	"""
-	
-	Empala
-	enemigos
-	al hacer
-	dash con
-	Saber.
-	"""
-	end
+    textColorRed
+    """
+    Z SABER
+    """
+    textColorWhite
+    """
+    
+    Empala
+    inimigos
+    ao fazer
+    dash com
+    Saber.
+    """
+    end
 }
 script 468 mmz3 {
-	textColorRed
-	"""
-	Z SABER
-	"""
-	textColorWhite
-	"""
-	
-	Presiona Down
-	y slash
-	al caer o
-	deslizarte
-	para atacar
-	abajo.
-	"""
-	end
+    textColorRed
+    """
+    Z SABER
+    """
+    textColorWhite
+    """
+    
+    Pressiona Down
+    e slash
+    ao cair ou
+    deslizar-te
+    para atacar
+    abaixo.
+    """
+    end
 }
 script 469 mmz3 {
-	textColorRed
-	"""
-	Z SABER
-	"""
-	textColorWhite
-	"""
-	
-	Presiona Up
-	y usa Saber
-	para cortar
-	arriba.
-	"""
-	end
+    textColorRed
+    """
+    Z SABER
+    """
+    textColorWhite
+    """
+    
+    Pressiona Up
+    e usa Saber
+    para cortar
+    acima.
+    """
+    end
 }
 script 470 mmz3 {
-	textColorRed
-	"""
-	Z SABER
-	"""
-	textColorWhite
-	"""
-	
-	Presiona Down
-	y slash para
-	lanzar una
-	cuchilla
-	al frente.
-	"""
-	end
+    textColorRed
+    """
+    Z SABER
+    """
+    textColorWhite
+    """
+    
+    Pressiona Down
+    e slash para
+    lancar uma
+    cuchilla
+    ao frente.
+    """
+    end
 }
 script 471 mmz3 {
-	textColorRed
-	"""
-	RECOIL ROD
-	"""
-	textColorWhite
-	"""
-	
-	Usa Rod
-	rápido para
-	ataques
-	multiples.
-	"""
-	end
+    textColorRed
+    """
+    RECOIL ROD
+    """
+    textColorWhite
+    """
+    
+    Usa Rod
+    rapido para
+    ataques
+    multiples.
+    """
+    end
 }
 script 472 mmz3 {
-	textColorRed
-	"""
-	RECOIL ROD
-	"""
-	textColorWhite
-	"""
-	
-	Presiona Up
-	y carga
-	Rod para
-	disparar
-	arriba.
-	"""
-	end
+    textColorRed
+    """
+    RECOIL ROD
+    """
+    textColorWhite
+    """
+    
+    Pressiona Up
+    e carga
+    Rod para
+    disparar
+    acima.
+    """
+    end
 }
 script 473 mmz3 {
-	textColorRed
-	"""
-	S.BOOMERANG
-	"""
-	textColorWhite
-	"""
-	
-	S.Boomerang
-	va por el
-	suelo.
-	"""
-	end
+    textColorRed
+    """
+    S.BOOMERANG
+    """
+    textColorWhite
+    """
+    
+    S.Boomerang
+    vai pelo
+    solo.
+    """
+    end
 }
 script 474 mmz3 {
-	textColorRed
-	"""
-	S.BOOMERANG
-	"""
-	textColorWhite
-	"""
-	
-	Presiona Down
-	y usa S.
-	Boomerang
-	para formar 
-	un escudo.
-	"""
-	end
+    textColorRed
+    """
+    S.BOOMERANG
+    """
+    textColorWhite
+    """
+    
+    Pressiona Down
+    e usa S.
+    Boomerang
+    para formar 
+    um escudo.
+    """
+    end
 }
 script 475 mmz3 {
-	"""
-	None learned
-	
-	"""
-	end
+    """
+    None learned
+    
+    """
+    end
 }
 script 476 mmz3 {
-	"""
-	Pulsa A BUTTON: analizar.
-	"""
-	end
+    """
+    Pulsa A BUTTON: analisar.
+    """
+    end
 }
 script 477 mmz3 {
-	"""
-	Pulsa B BUTTON: salir.
-	"""
-	end
+    """
+    Pulsa B BUTTON: sair.
+    """
+    end
 }
 script 478 mmz3 {
-	"""
-	No.
-	"""
-	end
+    """
+    Nao.
+    """
+    end
 }
 script 479 mmz3 {
-	"""
-	Este disco
-	no ha sido
-	leído.
-	"""
-	end
+    """
+    Este disco
+    nao ha sido
+    lido.
+    """
+    end
 }
 script 510 mmz3 {
-	cmdF7
-		parameter1 = 0
-	"""
-	NEW GAME
-	"""
-	end
+    cmdF7
+        parameter1 = 0
+    """
+    NEW GAME
+    """
+    end
 }
 script 511 mmz3 {
-	cmdF7
-		parameter1 = 1
-	"""
-	NEW GAME
-	"""
-	end
+    cmdF7
+        parameter1 = 1
+    """
+    NEW GAME
+    """
+    end
 }
 script 512 mmz3 {
-	cmdF7
-		parameter1 = 0
-	"""
-	LOAD GAME
-	"""
-	end
+    cmdF7
+        parameter1 = 0
+    """
+    LOAD GAME
+    """
+    end
 }
 script 513 mmz3 {
-	cmdF7
-		parameter1 = 1
-	"""
-	LOAD GAME
-	"""
-	end
+    cmdF7
+        parameter1 = 1
+    """
+    LOAD GAME
+    """
+    end
 }
 script 514 mmz3 {
-	cmdF7
-		parameter1 = 0
-	"""
-	MINI GAMES
-	"""
-	end
+    cmdF7
+        parameter1 = 0
+    """
+    MINI GAMES
+    """
+    end
 }
 script 515 mmz3 {
-	cmdF7
-		parameter1 = 1
-	"""
-	MINI GAMES
-	"""
-	end
+    cmdF7
+        parameter1 = 1
+    """
+    MINI GAMES
+    """
+    end
 }
 script 516 mmz3 {
-	cmdF7
-		parameter1 = 5
-	"""
-	PLEASE WAIT...
-	"""
-	end
+    cmdF7
+        parameter1 = 5
+    """
+    PLEASE WAIT...
+    """
+    end
 }
 script 517 mmz3 {
-	cmdF7
-		parameter1 = 0
-	"""
-	B BUTTON: CANCEL
-	"""
-	end
+    cmdF7
+        parameter1 = 0
+    """
+    B BUTTON: CANCEL
+    """
+    end
 }
 script 518 mmz3 {
-	cmdF7
-		parameter1 = 5
-	"""
-	    Exe 4 is
-	
-	"""
-	cmdF7
-		parameter1 = 5
-	"""
-	selecting chip.
-	"""
-	end
+    cmdF7
+        parameter1 = 5
+    """
+        Exe 4 is
+    
+    """
+    cmdF7
+        parameter1 = 5
+    """
+    selecting chip.
+    """
+    end
 }
 script 519 mmz3 {
-	cmdF7
-		parameter1 = 4
-	"""
-	LINK
-	TERMINATED.
-	"""
-	end
+    cmdF7
+        parameter1 = 4
+    """
+    LINK
+    TERMINATED.
+    """
+    end
 }
 script 520 mmz3 {
-	cmdF7
-		parameter1 = 0
-	"""
-	   CONTINUAR
-	"""
-	end
+    cmdF7
+        parameter1 = 0
+    """
+       CONTINUAR
+    """
+    end
 }
 script 521 mmz3 {
-	cmdF7
-		parameter1 = 1
-	"""
-	   CONTINUAR
-	"""
-	end
+    cmdF7
+        parameter1 = 1
+    """
+       CONTINUAR
+    """
+    end
 }
 script 522 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	CARGAR
-	"""
-	textColorWhite
-	"""
-	  
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	PARTIDA
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+    CARREGAR
+    """
+    textColorWhite
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+    PARTIDA
+    """
+    end
 }
 script 523 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	CARGAR
-	"""
-	textColorWhite
-	"""
-	  
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	PARTIDA
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+    CARREGAR
+    """
+    textColorWhite
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+    PARTIDA
+    """
+    end
 }
 script 524 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	SALIR
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	DEL
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	JUEGO
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+    SAIR
+    """
+    textColorWhite
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+    DEL
+    """
+    textColorWhite
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+    JOGO
+    """
+    end
 }
 script 525 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	SALIR
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	DEL
-	"""
-	textColorWhite
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	JUEGO
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+    SAIR
+    """
+    textColorWhite
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+    DEL
+    """
+    textColorWhite
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+    JOGO
+    """
+    end
 }
 script 526 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	  ZERO
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+     ZERO
+    """
+    end
 }
 script 527 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	  ZERO
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+     ZERO
+    """
+    end
 }
 script 528 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	  CIEL
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+     CIEL
+    """
+    end
 }
 script 529 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	  CIEL
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+     CIEL
+    """
+    end
 }
 script 530 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	 COPY X
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+     COPY X
+    """
+    end
 }
 script 531 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	 COPY X
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+     COPY X
+    """
+    end
 }
 script 532 mmz3 {
-	cmdF7
-		parameter1 = 0
-	"""
-	 HARPUIA
-	"""
-	end
+    cmdF7
+        parameter1 = 0
+    """
+     HARPUIA
+    """
+    end
 }
 script 533 mmz3 {
-	cmdF7
-		parameter1 = 1
-	"""
-	 HARPUIA
-	"""
-	end
+    cmdF7
+        parameter1 = 1
+    """
+     HARPUIA
+    """
+    end
 }
 script 534 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 0
-	"""
-	 FEFNIR
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 0
+    """
+     FEFNIR
+    """
+    end
 }
 script 535 mmz3 {
-	"""
-	 
-	"""
-	cmdF7
-		parameter1 = 1
-	"""
-	 FEFNIR
-	"""
-	end
+    """
+     
+    """
+    cmdF7
+        parameter1 = 1
+    """
+     FEFNIR
+    """
+    end
 }
 script 536 mmz3 {
-	cmdF7
-		parameter1 = 0
-	"""
-	LEVIATHAN
-	"""
-	end
+    cmdF7
+        parameter1 = 0
+    """
+    LEVIATHAN
+    """
+    end
 }
 script 537 mmz3 {
-	cmdF7
-		parameter1 = 1
-	"""
-	LEVIATHAN
-	"""
-	end
+    cmdF7
+        parameter1 = 1
+    """
+    LEVIATHAN
+    """
+    end
 }
 script 538 mmz3 {
-	cmdF7
-		parameter1 = 0
-	"""
-	 PHANTOM
-	"""
-	end
+    cmdF7
+        parameter1 = 0
+    """
+     PHANTOM
+    """
+    end
 }
 script 539 mmz3 {
-	cmdF7
-		parameter1 = 1
-	"""
-	 PHANTOM
-	"""
-	end
+    cmdF7
+        parameter1 = 1
+    """
+     PHANTOM
+    """
+    end
 }
 script 550 mmz3 {
-	"""
-	   STAFF
-	
-	
-	
-	
-	   DIRECTOR
-	      RYOTA ITO
-	      YOSHINORI KAWANO
-	
-	
-	   GAME DESIGNER
-	      YOSHIHISA TSUDA
-	
-	
-	   CHARACTER DESIGNER
-	      TORU NAKAYAMA
-	
-	
-	   CHARACTER STAFF
-	      MASAYA SUZUKI
-	
-	      AKIHIRO NOTSU
-	      YUKIMASA TAMURA
-	      RIE OONISHI
-	
-	      STUDIO A-CAT
-	        KENICHIRO SAKUNO
-	        MASAKO TANAKA
-	        TAKAHIKO KIMURA
-	        TOSHIHIRO HONDA
-	        KAZUNORI YAHATA
-	
-	
-	   BACKGROUND DESIGNERS
-	      MAKOTO YABE
-	
-	      SATORU NARITA
-	      HIDETAKA KATSUKI
-	      HIROYUKI TAMURA
-	
-	
-	   PROGRAMMERS
-	      KAZUTAKA YANAGISAWA
-	
-	      AKIHIRO SHISHIDO
-	      GEN KAMADA
-	
-	
-	   SOUND PRODUCTION
-	   SOUND DESIGNER / MUSIC
-	      IPPO YAMADA
-	
-	
-	   MUSIC
-	      MASAKI SUZUKI
-	      TSUTOMU KURIHARA
-	      LUNA UMEGAKI
-	
-	
-	   VOICE CAST
-	      YUTO KAZAMA
-	      RIE TANAKA
-	
-	      HIROAKI MIURA
-	      YUKIKO HIROTSU
-	      HIDEKI OGIHARA
-	      KEIJI HIRAI
-	      NAOKI YANAGI
-	      HIRO'OMI SUGINO
-	      MUNEHIRO TOKITA
-	      HISAO EGAWA
-	
-	      MEGUMI OGATA
-	      KAZUYA NAKAI
-	      TETSU INADA
-	      YUKA IMAI
-	
-	      JUN'ICHI SUWABE
-	
-	
-	   PACKAGE DESIGNER
-	      MIZUHO TOYONAGA
-	
-	
-	   GAME TESTERS
-	      AKINORI MURATA
-	      MASAHIRO IKEGAWA
-	      TAKAHIRO TOKUDA
-	      SEISHAKU TAKAYAMA
-	
-	
-	   DEBUGGING TEAM
-	      KUNISHIGE MATSUBARA
-	      TETSUNORI MATSUOKA
-	      MAKO FUJIMOTO
-	      HIDEKI TANAKA
-	      KENJI MIYANISHI
-	      NORIKO KAMIKAWA
-	      TAKAYA KONDO
-	      MASAYASU MUKAI
-	
-	
-	   SPECIAL THANKS
-	      KUNIHITO TAKASHIMA
-	      SHINYA IKUTA
-	      SATOSHI UKAI
-	      SHIGEYOSHI KOBAYASHI
-	      MITSUNORI SAKANO
-	      DAISUKE SASAKI
-	      TAKAYUKI SANO
-	      TETSUYA TAKAGI
-	      MAKOTO TOMOZAWA
-	      HIROKO NAKAMURA
-	      ASUKA HAYASHI
-	      TAKESHI HORINOUCHI
-	      NAOTO MINAMIDE
-	
-	      AONI PRODUCTION
-	        KAZUSHI KISEN
-	      HOLY PEAK
-	      AKSENT
-	      DRAMATIC DEPARTMENT
-	      T'S FACTORY
-	      CRYSTA
-	      J&L STUDIO
-	      RIVERSIDE MUSIC
-	        TAKEHIRO KAWABE
-	        AKI TATSUNO
-	
-	      ENTIRE INTI STAFF
-	      ENTIRE CAPCOM STAFF
-	
-	
-	   PRODUCERS
-	      TAKUYA AIZU
-	      KEIJI INAFUNE
-	
-	
-	
-	   PRODUCED AND COPYRIGHT BY
-	      CAPCOM
-	
-	
-	
-	
-	
-	
-	   Thank you for playing!
-	"""
-	end
+    """
+        STAFF
+    
+    
+    
+    
+        DIRECTOR
+          RYOTA ITO
+          YOSHINORI KAWANO
+    
+    
+        GAME DESIGNER
+          YOSHIHISA TSUDA
+    
+    
+        CHARACTER DESIGNER
+          TORU NAKAYAMA
+    
+    
+        CHARACTER STAFF
+          MASAYA SUZUKI
+    
+          AKIHIRO NOTSU
+          YUKIMASA TAMURA
+          RIE OONISHI
+    
+          STUDIO A-CAT
+            KENICHIRO SAKUNO
+            MASAKO TANAKA
+            TAKAHIKO KIMURA
+            TOSHIHIRO HONDA
+            KAZUNORI YAHATA
+    
+    
+        BACKGROUND DESIGNERS
+          MAKOTO YABE
+    
+          SATORU NARITA
+          HIDETAKA KATSUKI
+          HIROYUKI TAMURA
+    
+    
+        PROGRAMMERS
+          KAZUTAKA YANAGISAWA
+    
+          AKIHIRO SHISHIDO
+          GEN KAMADA
+    
+    
+        SOUND PRODUCTION
+        SOUND DESIGNER / MUSIC
+          IPPO YAMADA
+    
+    
+        MUSIC
+          MASAKI SUZUKI
+          TSUTOMU KURIHARA
+          LUNA UMEGAKI
+    
+    
+        VOICE CAST
+          YUTO KAZAMA
+          RIE TANAKA
+    
+          HIROAKI MIURA
+          YUKIKO HIROTSU
+          HIDEKI OGIHARA
+          KEIJI HIRAI
+          NAOKI YANAGI
+          HIRO'OMI SUGINO
+          MUNEHIRO TOKITA
+          HISAO EGAWA
+    
+          MEGUMI OGATA
+          KAZUYA NAKAI
+          TETSU INADA
+          YUKA IMAI
+    
+          JUN'ICHI SUWABE
+    
+    
+        PACKAGE DESIGNER
+          MIZUHO TOYONAGA
+    
+    
+        GAME TESTERS
+          AKINORI MURATA
+          MASAHIRO IKEGAWA
+          TAKAHIRO TOKUDA
+          SEISHAKU TAKAYAMA
+    
+    
+        DEBUGGING TEAM
+          KUNISHIGE MATSUBARA
+          TETSUNORI MATSUOKA
+          MAKO FUJIMOTO
+          HIDEKI TANAKA
+          KENJI MIYANISHI
+          NORIKO KAMIKAWA
+          TAKAYA KONDO
+          MASAYASU MUKAI
+    
+    
+        SPECIAL THANKS
+          KUNIHITO TAKASHIMA
+          SHINYA IKUTA
+          SATOSHI UKAI
+          SHIGEYOSHI KOBAYASHI
+          MITSUNORI SAKANO
+          DAISUKE SASAKI
+          TAKAYUKI SANO
+          TETSUYA TAKAGI
+          MAKOTO TOMOZAWA
+          HIROKO NAKAMURA
+          ASUKA HAYASHI
+          TAKESHI HORINOUCHI
+          NAOTO MINAMIDE
+    
+          AONI PRODUCTION
+            KAZUSHI KISEN
+          HOLY PEAK
+          AKSENT
+          DRAMATIC DEPARTMENT
+          T'S FACTORY
+          CRYSTA
+          J&L STUDIO
+          RIVERSIDE MUSIC
+            TAKEHIRO KAWABE
+            AKI TATSUNO
+    
+          ENTIRE INTI STAFF
+          ENTIRE CAPCOM STAFF
+    
+    
+        PRODUCERS
+          TAKUYA AIZU
+          KEIJI INAFUNE
+    
+    
+    
+        PRODUCED AND COPYRIGHT BY
+          CAPCOM
+    
+    
+    
+    
+    
+    
+        Thank you for playing!
+    """
+    end
 }
 script 700 mmz3 {
-	"""
-	AUTO-CHARGE
-	
-	"""
-	textColorRed
-	"""
-	(Head Chip)
-	"""
-	textColorWhite
-	"""
-	
-	
-	Carga auto.
-	para tus
-	armas.
-	"""
-	end
+    """
+    AUTO-CHARGE
+    
+    """
+    textColorRed
+    """
+    (Head Chip)
+    """
+    textColorWhite
+    """
+    
+    
+    Carga auto.
+    para tuas
+    armas.
+    """
+    end
 }
 script 701 mmz3 {
-	"""
-	AUTO-RECOVER
-	
-	"""
-	textColorRed
-	"""
-	(Head Chip)
-	"""
-	textColorWhite
-	"""
-	
-	
-	Cura auto.
-	de energía
-	vital.
-	"""
-	end
+    """
+    AUTO-RECOVER
+    
+    """
+    textColorRed
+    """
+    (Head Chip)
+    """
+    textColorWhite
+    """
+    
+    
+    Cura auto.
+    de energia
+    vital.
+    """
+    end
 }
 script 702 mmz3 {
-	"""
-	QUICK-CHARGE
-	
-	"""
-	textColorRed
-	"""
-	(Head Chip)
-	"""
-	textColorWhite
-	"""
-	
-	
-	Carga más
-	rápido tus
-	armas.
-	"""
-	end
+    """
+    QUICK-CHARGE
+    
+    """
+    textColorRed
+    """
+    (Head Chip)
+    """
+    textColorWhite
+    """
+    
+    
+    Carga mais
+    rapido tuas
+    armas.
+    """
+    end
 }
 script 703 mmz3 {
-	"""
-	FROG
-	
-	"""
-	textColorRed
-	"""
-	(Foot Chip)
-	"""
-	textColorWhite
-	"""
-	
-	
-	Baja lento
-	en muros
-	altos.
-	"""
-	end
+    """
+    FROG
+    
+    """
+    textColorRed
+    """
+    (Foot Chip)
+    """
+    textColorWhite
+    """
+    
+    
+    Desce lento
+    em muros
+    altos.
+    """
+    end
 }
 script 704 mmz3 {
-	"""
-	SPLASH JUMP
-	
-	"""
-	textColorRed
-	"""
-	(Foot Chip)
-	"""
-	textColorWhite
-	"""
-	
-	
-	Salta en
-	agua sin
-	hundirte.
-	"""
-	end
+    """
+    SPLASH JUMP
+    
+    """
+    textColorRed
+    """
+    (Foot Chip)
+    """
+    textColorWhite
+    """
+    
+    
+    Salta em
+    agua sem
+    te afundar.
+    """
+    end
 }
 script 705 mmz3 {
-	"""
-	ULTIMA FOOT
-	
-	"""
-	textColorRed
-	"""
-	(Foot Chip)
-	"""
-	textColorWhite
-	"""
-	
-	
-	Usa todos
-	los efectos
-	de chip.
-	"""
-	end
+    """
+    ULTIMA FOOT
+    
+    """
+    textColorRed
+    """
+    (Foot Chip)
+    """
+    textColorWhite
+    """
+    
+    
+    Usa todos
+    os efeitos
+    de chip.
+    """
+    end
 }
 script 706 mmz3 {
-	textColorRed
-	"""
-	FILE A
-	"""
-	textColorWhite
-	"""
-	
-	Reploides
-	Mutos tipo
-	bestia
-	defienden
-	a humanos.
-	"""
-	end
+    textColorRed
+    """
+    FILE A
+    """
+    textColorWhite
+    """
+    
+    Reploides
+    Mutos tipo
+    bestia
+    defendem
+    a humanos.
+    """
+    end
 }
 script 707 mmz3 {
-	textColorRed
-	"""
-	FILE B
-	"""
-	textColorWhite
-	"""
-	
-	Neo Arcadia
-	es una
-	utopía de
-	paz sin
-	Mavericks.
-	"""
-	end
+    textColorRed
+    """
+    FILE B
+    """
+    textColorWhite
+    """
+    
+    Neo Arcadia
+    e uma
+    utopia de
+    paz sem
+    Mavericks.
+    """
+    end
 }
 script 708 mmz3 {
-	textColorRed
-	"""
-	FILE C
-	"""
-	textColorWhite
-	"""
-	
-	Ciber-elfos
-	son prog.
-	que ayudan
-	a humanos
-	y Reploides.
-	"""
-	end
+    textColorRed
+    """
+    FILE C
+    """
+    textColorWhite
+    """
+    
+    Ciber-elfos
+    sao prog.
+    que ajudam
+    a humanos
+    e Reploides.
+    """
+    end
 }
 script 709 mmz3 {
-	textColorRed
-	"""
-	FILE D
-	"""
-	textColorWhite
-	"""
-	
-	Weil alteró
-	Mother Elf,
-	iniciando
-	las Guerras
-	Élficas.
-	"""
-	end
+    textColorRed
+    """
+    FILE D
+    """
+    textColorWhite
+    """
+    
+    Weil alterou
+    Mother Elf,
+    iniciando
+    as Guerras
+    Elficas.
+    """
+    end
 }
 script 710 mmz3 {
-	textColorRed
-	"""
-	FILE E
-	"""
-	textColorWhite
-	"""
-	
-	Pantheon son
-	Reploides
-	degradados,
-	copias masi-
-	vas de X.
-	"""
-	end
+    textColorRed
+    """
+    FILE E
+    """
+    textColorWhite
+    """
+    
+    Pantheon sao
+    Reploides
+    degradados,
+    copias masi-
+    vas de X.
+    """
+    end
 }
 script 711 mmz3 {
-	textColorRed
-	"""
-	FILE F
-	"""
-	textColorWhite
-	"""
-	
-	Reploides
-	Mavericks
-	condenados
-	formaron la
-	Resistencia.
-	"""
-	end
+    textColorRed
+    """
+    FILE F
+    """
+    textColorWhite
+    """
+    
+    Reploides
+    Mavericks
+    condenados
+    formaram a
+    Resistencia.
+    """
+    end
 }
 script 712 mmz3 {
-	textColorRed
-	"""
-	FILE G
-	"""
-	textColorWhite
-	"""
-	
-	Ciber-elf X
-	fue el X
-	original,
-	sin cuerpo
-	ahora.
-	"""
-	end
+    textColorRed
+    """
+    FILE G
+    """
+    textColorWhite
+    """
+    
+    Ciber-elf X
+    foi o X
+    original,
+    sem corpo
+    agora.
+    """
+    end
 }
 script 713 mmz3 {
-	textColorRed
-	"""
-	FILE H
-	"""
-	textColorWhite
-	"""
-	
-	Los Cuatro
-	Guardianes
-	son hechos
-	con ADN
-	de X.
-	"""
-	end
+    textColorRed
+    """
+    FILE H
+    """
+    textColorWhite
+    """
+    
+    Os Quatro
+    Guardiões
+    sao feitos
+    com ADN
+    de X.
+    """
+    end
 }
 script 714 mmz3 {
-	textColorRed
-	"""
-	FILE I
-	"""
-	textColorWhite
-	"""
-	
-	Elpizo fue
-	un Reploide
-	de Neo Arc.
-	seducido por
-	el Dark Elf.
-	"""
-	end
+    textColorRed
+    """
+    FILE I
+    """
+    textColorWhite
+    """
+    
+    Elpizo foi
+    um Reploide
+    de Neo Arc.
+    seduzido por
+    o Dark Elf.
+    """
+    end
 }
 script 715 mmz3 {
-	textColorRed
-	"""
-	FILE J
-	"""
-	textColorWhite
-	"""
-	
-	Dark Elf fue
-	Mother Elf
-	antes que
-	Weil la
-	alterara.
-	"""
-	end
+    textColorRed
+    """
+    FILE J
+    """
+    textColorWhite
+    """
+    
+    Dark Elf foi
+    Mother Elf
+    antes que
+    Weil a
+    alterasse.
+    """
+    end
 }
 script 716 mmz3 {
-	textColorRed
-	"""
-	FILE K
-	"""
-	textColorWhite
-	"""
-	
-	Omega fue
-	creado por
-	Weil, luego
-	desterrado
-	al espacio.
-	"""
-	end
+    textColorRed
+    """
+    FILE K
+    """
+    textColorWhite
+    """
+    
+    Omega foi
+    criado por
+    Weil, logo
+    desterrado
+    ao espaco.
+    """
+    end
 }
 script 717 mmz3 {
-	textColorRed
-	"""
-	FILE L
-	"""
-	textColorWhite
-	"""
-	
-	El uso de
-	Dark Elf
-	hizo las
-	Guerras Élf.
-	trágicas.
-	"""
-	end
+    textColorRed
+    """
+    FILE L
+    """
+    textColorWhite
+    """
+    
+    O uso de
+    Dark Elf
+    fez as
+    Guerras Elf.
+    tragicas.
+    """
+    end
 }
 script 718 mmz3 {
-	textColorRed
-	"""
-	FILE M
-	"""
-	textColorWhite
-	"""
-	
-	Maverick
-	ahora es
-	quien lucha
-	contra Neo
-	Arcadia.
-	"""
-	end
+    textColorRed
+    """
+    FILE M
+    """
+    textColorWhite
+    """
+    
+    Maverick
+    agora e
+    quem luta
+    contra Neo
+    Arcadia.
+    """
+    end
 }
 script 719 mmz3 {
-	textColorRed
-	"""
-	FILE N
-	"""
-	textColorWhite
-	"""
-	
-	El virus
-	Sigma volvió
-	a los
-	Reploides en
-	Mavericks.
-	"""
-	end
+    textColorRed
+    """
+    FILE N
+    """
+    textColorWhite
+    """
+    
+    O virus
+    Sigma voltou
+    aos
+    Reploides em
+    Mavericks.
+    """
+    end
 }
 script 720 mmz3 {
-	"""
-	Ciber-elfo
-	"""
-	end
+    """
+    Ciber-elfo
+    """
+    end
 }
 script 721 mmz3 {
-	end
+    end
 }
 script 722 mmz3 {
-	"""
-	estaba
-	dentro.
-	"""
-	end
+    """
+    estava
+    dentro.
+    """
+    end
 }
 script 723 mmz3 {
-	end
+    end
 }
 script 724 mmz3 {
-	"""
-	E-Crystals
-	"""
-	end
+    """
+    E-Crystals
+    """
+    end
 }
 script 725 mmz3 {
-	"""
-	estaban
-	dentro.
-	"""
-	end
+    """
+    estavam
+    dentro.
+    """
+    end
 }
 script 726 mmz3 {
-	"""
-	Omega
-	
-	Reploide con
-	la señal del
-	Dark Elf.
-	"""
-	end
+    """
+    Omega
+    
+    Reploide com
+    o sinal do
+    Dark Elf.
+    """
+    end
 }
 script 727 mmz3 {
-	"""
-	D. Mantisk
-	
-	Usa hoces
-	para elimi-
-	nar viejos
-	Reploides.
-	"""
-	end
+    """
+    D. Mantisk
+    
+    Usa foices
+    para elimi-
+    nar velhos
+    Reploides.
+    """
+    end
 }
 script 728 mmz3 {
-	"""
-	C. Inarbitta
-	
-	Puede
-	hacerse
-	pequeño para
-	ser veloz.
-	"""
-	end
+    """
+    C. Inarbitta
+    
+    Pode
+    fazer-se
+    pequeno para
+    ser veloz.
+    """
+    end
 }
 script 729 mmz3 {
-	"""
-	B. Flizard
-	
-	Lagarto que
-	separa cola
-	y cresta.
-	"""
-	end
+    """
+    B. Flizard
+    
+    Lagarto que
+    separa cauda
+    e crista.
+    """
+    end
 }
 script 730 mmz3 {
-	"""
-	D. Schilt
-	
-	Ataca con
-	drones
-	murciélago
-	de su capa.
-	"""
-	end
+    """
+    D. Schilt
+    
+    Ataca com
+    drones
+    morcego
+    de sua capa.
+    """
+    end
 }
 script 731 mmz3 {
-	"""
-	Crea
-	
-	Elfo Bebé
-	azul nom-
-	brado por
-	Alouette.
-	"""
-	end
+    """
+    Cria
+    
+    Elfo Bebe
+    azul nome-
+    ado por
+    Alouette.
+    """
+    end
 }
 script 732 mmz3 {
-	"""
-	Prea
-	
-	Elfo Bebé
-	rojo nom-
-	brado por
-	Alouette.
-	"""
-	end
+    """
+    Prea
+    
+    Elfo Bebe
+    vermelho nome-
+    ado por
+    Alouette.
+    """
+    end
 }
 script 733 mmz3 {
-	"""
-	Anubis
-	Necromncss V
-	
-	Jackal 'loid
-	revivido por
-	el Dr. Weil.
-	"""
-	end
+    """
+    Anubis
+    Necromncss V
+    
+    Jackal 'loid
+    revivido por
+    o Dr. Weil.
+    """
+    end
 }
 script 734 mmz3 {
-	"""
-	Hanumachne R
-	
-	Mono 'loid
-	revivido por
-	el Dr. Weil.
-	"""
-	end
+    """
+    Hanumachne R
+    
+    Mono 'loid
+    revivido por
+    o Dr. Weil.
+    """
+    end
 }
 script 735 mmz3 {
-	"""
-	B. Stagrff R
-	
-	Reploide
-	alce revi-
-	vido por
-	el Dr. Weil.
-	"""
-	end
+    """
+    B. Stagrff R
+    
+    Reploide
+    alce revi-
+    vido por
+    o Dr. Weil.
+    """
+    end
 }
 script 736 mmz3 {
-	"""
-	Copy X MK.II
-	
-	Revisión de
-	Copy X
-	revivida
-	por Weil.
-	"""
-	end
+    """
+    Copy X MK.II
+    
+    Revisao de
+    Copy X
+    revivida
+    por Weil.
+    """
+    end
 }
 script 737 mmz3 {
-	"""
-	T. Kelverian
-	
-	Separa sus
-	dos cabezas
-	del hombro.
-	"""
-	end
+    """
+    T. Kelverian
+    
+    Separa suas
+    duas cabecas
+    do ombro.
+    """
+    end
 }
 script 738 mmz3 {
-	"""
-	Glacier
-	Le Cactank
-	
-	Brazo con
-	cadenas
-	giratorias.
-	"""
-	end
+    """
+    Glacier
+    Le Cactank
+    
+    Braco com
+    correntes
+    giratorias.
+    """
+    end
 }
 script 739 mmz3 {
-	"""
-	Cubit
-	Foxtar
-	
-	Zorro con
-	9 controles
-	a distancia.
-	"""
-	end
+    """
+    Cubit
+    Foxtar
+    
+    Raposa com
+    9 controles
+    a distancia.
+    """
+    end
 }
 script 740 mmz3 {
-	"""
-	Volteel
-	Biblio
-	
-	Anguila
-	que usa
-	electric.
-	"""
-	end
+    """
+    Volteel
+    Biblio
+    
+    Enguia
+    que usa
+    eletric.
+    """
+    end
 }
 script 741 mmz3 {
-	"""
-	P. Hunter
-	
-	Lleva arma
-	de 3 tiros.
-	"""
-	end
+    """
+    P. Hunter
+    
+    Leva arma
+    de 3 tiros.
+    """
+    end
 }
 script 742 mmz3 {
-	"""
-	P. Guardian
-	
-	Usa garrote
-	eléctrico.
-	"""
-	end
+    """
+    P. Guardian
+    
+    Usa garrote
+    eletrico.
+    """
+    end
 }
 script 743 mmz3 {
-	"""
-	P. Aqua
-	
-	Dispara un
-	arpón desde
-	el brazo.
-	"""
-	end
+    """
+    P. Aqua
+    
+    Dispara um
+    harpoes de
+    o braco.
+    """
+    end
 }
 script 744 mmz3 {
-	"""
-	P. Fist
-	
-	Golpea al
-	acercarse.
-	"""
-	end
+    """
+    P. Fist
+    
+    Golpeia ao
+    aproximar-se.
+    """
+    end
 }
 script 745 mmz3 {
-	"""
-	P. Base
-	
-	Vuela en un
-	aerodesliza-
-	dor y usa
-	un martillo.
-	"""
-	end
+    """
+    P. Base
+    
+     Voa em um
+    aerodesliza-
+    dor e usa
+    um martelo.
+    """
+    end
 }
 script 746 mmz3 {
-	"""
-	Deathlock
-	
-	Hecho con
-	partes
-	viejas de
-	máquinas.
-	"""
-	end
+    """
+    Deathlock
+    
+    Feito com
+    partes
+    velhas de
+    maquinas.
+    """
+    end
 }
 script 747 mmz3 {
-	"""
-	Gyro Cannon
-	
-	Flota con
-	hélice.
-	"""
-	end
+    """
+    Gyro Cannon
+    
+    Flutua com
+    helice.
+    """
+    end
 }
 script 748 mmz3 {
-	"""
-	Grand Cannon
-	
-	Cañón hecho
-	para zonas
-	frías.
-	"""
-	end
+    """
+    Grand Cannon
+    
+    Canhao feito
+    para zonas
+    frias.
+    """
+    end
 }
 script 749 mmz3 {
-	"""
-	Tile Cannon
-	
-	Cañón que se
-	oculta en
-	las paredes.
-	"""
-	end
+    """
+    Tile Cannon
+    
+    Canhao que se
+    oculta em
+    as paredes.
+    """
+    end
 }
 script 750 mmz3 {
-	"""
-	P. Cannon
-	
-	Cañón que
-	ataca desde
-	postes.
-	"""
-	end
+    """
+    P. Cannon
+    
+    Canhao que
+    ataca desde
+    postes.
+    """
+    end
 }
 script 751 mmz3 {
-	"""
-	Heavy Cannon
-	
-	Dispara una
-	bola de una
-	tonelada.
-	"""
-	end
+    """
+    Heavy Cannon
+    
+    Dispara uma
+    bola de uma
+    tonelada.
+    """
+    end
 }
 script 752 mmz3 {
-	"""
-	C. Cannon
-	
-	Dispara 2
-	tiros desde
-	una cápsula.
-	"""
-	end
+    """
+    C. Cannon
+    
+    Dispara 2
+    tiros desde
+    uma capsula.
+    """
+    end
 }
 script 753 mmz3 {
-	"""
-	G. Cannon
-	
-	Crea
-	Mecaniloides
-	pequeños.
-	"""
-	end
+    """
+    G. Cannon
+    
+    Cria
+    Mecaniloides
+    pequenos.
+    """
+    end
 }
 script 754 mmz3 {
-	"""
-	Eye Cannon
-	
-	Detecta y
-	ataca
-	intrusos.
-	"""
-	end
+    """
+    Eye Cannon
+    
+    Detecta e
+    ataca
+    intrusos.
+    """
+    end
 }
 script 755 mmz3 {
-	"""
-	Shrimpolin
-	
-	Se mueve
-	rápido en
-	arena o
-	nieve.
-	"""
-	end
+    """
+    Shrimpolin
+    
+    Se move
+    rapido em
+    areia ou
+    neve.
+    """
+    end
 }
 script 756 mmz3 {
-	"""
-	Volcaire
-	
-	Guarda lava
-	y se divide
-	en el aire.
-	"""
-	end
+    """
+    Volcaire
+    
+    Guarda lava
+    e se divide
+    em o ar.
+    """
+    end
 }
 script 757 mmz3 {
-	"""
-	Claveker
-	
-	Dispara
-	desde el
-	techo.
-	"""
-	end
+    """
+    Claveker
+    
+    Dispara
+    desde o
+    teto.
+    """
+    end
 }
 script 758 mmz3 {
-	"""
-	Petatria
-	
-	Revive si
-	no golpeas
-	su ojo.
-	"""
-	end
+    """
+    Petatria
+    
+    Revive se
+    nao golpeias
+    seu olho.
+    """
+    end
 }
 script 759 mmz3 {
-	"""
-	Shotloid
-	
-	Dispara al
-	moverse
-	en pasos
-	cortos.
-	"""
-	end
+    """
+    Shotloid
+    
+    Dispara ao
+    mover-se
+    em passos
+    curtos.
+    """
+    end
 }
 script 760 mmz3 {
-	"""
-	Seimeran
-	
-	Planta
-	mecaniloide
-	con buen
-	aroma.
-	"""
-	end
+    """
+    Seimeran
+    
+    Planta
+    mecaniloide
+    com bom
+    aroma.
+    """
+    end
 }
 script 761 mmz3 {
-	"""
-	Lamplort
-	
-	Mecaniloide
-	que cocina
-	peces.
-	"""
-	end
+    """
+    Lamplort
+    
+    Mecaniloide
+    que cozinha
+    peixes.
+    """
+    end
 }
 script 762 mmz3 {
-	"""
-	Lemmingles
-	
-	Grupo de 4
-	mecaniloides
-	tipo ratón.
-	"""
-	end
+    """
+    Lemmingles
+    
+    Grupo de 4
+    mecaniloides
+    tipo rato.
+    """
+    end
 }
 script 763 mmz3 {
-	"""
-	Cattatank
-	
-	Bloquea con
-	escudo y
-	luego da
-	golpes.
-	"""
-	end
+    """
+    Cattatank
+    
+    Bloqueia com
+    escudo e
+    logo da
+    golpes.
+    """
+    end
 }
 script 764 mmz3 {
-	"""
-	Top Gabyoall
-	
-	Patrulla
-	suelos y
-	muros.
-	"""
-	end
+    """
+    Top Gabyoall
+    
+    Patrulha
+    solos e
+    muros.
+    """
+    end
 }
 script 765 mmz3 {
-	"""
-	Snakecord
-	
-	Cuelga del
-	techo y
-	muerde al
-	separarse.
-	"""
-	end
+    """
+    Snakecord
+    
+    Pendura de
+    o teto e
+    morde ao
+    separar-se.
+    """
+    end
 }
 script 766 mmz3 {
-	"""
-	Gallisni
-	
-	Aparece si
-	suena la
-	alarma.
-	"""
-	end
+    """
+    Gallisni
+    
+    Aparece se
+    soa a
+    alarma.
+    """
+    end
 }
 script 767 mmz3 {
-	"""
-	Crossbyne
-	
-	Dispara en
-	4 direccio-
-	nes y se
-	teleporta.
-	"""
-	end
+    """
+    Crossbyne
+    
+    Dispara em
+    4 direcco-
+    nes e se
+    teleporta.
+    """
+    end
 }
 script 768 mmz3 {
-	"""
-	Flopper
-	
-	Explota y
-	daña a
-	unidades
-	cercanas.
-	"""
-	end
+    """
+    Flopper
+    
+    Explota e
+    dania a
+    unidades
+    proximas.
+    """
+    end
 }
 script 769 mmz3 {
-	"""
-	PurpleNerple
-	
-	Este enemigo
-	tiene una
-	bomba abajo.
-	"""
-	end
+    """
+    PurpleNerple
+    
+    Este inimigo
+    tem uma
+    bomba abaixo.
+    """
+    end
 }
 script 770 mmz3 {
-	"""
-	Mothjiro
-	
-	Se reúne
-	cerca de
-	la luz.
-	"""
-	end
+    """
+    Mothjiro
+    
+    Se reune
+    perto de
+    a luz.
+    """
+    end
 }
 script 771 mmz3 {
-	"""
-	Batring
-	
-	Bloquea
-	ataques si
-	cierra sus
-	alas.
-	"""
-	end
+    """
+    Batring
+    
+    Bloqueia
+    ataques se
+    fecha suas
+    asas.
+    """
+    end
 }
 script 772 mmz3 {
-	"""
-	Mellnet
-	
-	Abeja
-	mecaniloide
-	que pica.
-	"""
-	end
+    """
+    Mellnet
+    
+    Abelha
+    mecaniloide
+    que pica.
+    """
+    end
 }
 script 773 mmz3 {
-	"""
-	Shotcounter
-	
-	Puede
-	bloquear
-	ataques
-	de frente.
-	"""
-	end
+    """
+    Shotcounter
+    
+    Pode
+    bloquear
+    ataques
+    de frente.
+    """
+    end
 }
 script 774 mmz3 {
-	"""
-	Sharkseal X
-	
-	Tiburón
-	mecaniloide
-	que muerde.
-	"""
-	end
+    """
+    Sharkseal X
+    
+     Tubarao
+    mecaniloide
+    que morde.
+    """
+    end
 }
 script 775 mmz3 {
-	"""
-	Shelluno
-	
-	Ataca por
-	la espalda
-	de su
-	objetivo.
-	"""
-	end
+    """
+    Shelluno
+    
+    Ataca por
+    as costas
+    de seu
+    objetivo.
+    """
+    end
 }
 script 776 mmz3 {
-	"""
-	Icebon
-	
-	Crea hielo
-	bajo agua.
-	"""
-	end
+    """
+    Icebon
+    
+    Cria gelo
+    baixo agua.
+    """
+    end
 }
 script 777 mmz3 {
-	"""
-	Shellcrawler
-	
-	Huye cuando
-	pierde su
-	caparazón.
-	"""
-	end
+    """
+    Shellcrawler
+    
+     Foge quando
+    perde seu
+    cascudo.
+    """
+    end
 }
 script 778 mmz3 {
-	"""
-	Cannonhopper
-	
-	Dispara en
-	techo y
-	suelo.
-	"""
-	end
+    """
+    Cannonhopper
+    
+    Dispara em
+    teto e
+    solo.
+    """
+    end
 }
 script 779 mmz3 {
-	"""
-	Weil
-	
-	Científico
-	creador de
-	Reploides.
-	"""
-	end
+    """
+    Weil
+    
+    Cientifico
+    criador de
+    Reploides.
+    """
+    end
 }
 script 780 mmz3 {
-	"""
-	Ciel
-	
-	Científica
-	experta en
-	energía.
-	"""
-	end
+    """
+    Ciel
+    
+    Cientifica
+    experta em
+    energia.
+    """
+    end
 }
 script 781 mmz3 {
-	"""
-	Cerveau
-	
-	Ingeniero
-	que crea
-	armas de
-	Zero.
-	"""
-	end
+    """
+    Cerveau
+    
+    Engenheiro
+    que cria
+    armas de
+    Zero.
+    """
+    end
 }
 script 782 mmz3 {
-	"""
-	Andrew
-	
-	Reploide
-	viejo que
-	habla mucho.
-	"""
-	end
+    """
+    Andrew
+    
+    Reploide
+    velho que
+    fala muito.
+    """
+    end
 }
 script 783 mmz3 {
-	"""
-	Alouette
-	
-	Aprecia la
-	muñeca que
-	Ciel le dio.
-	"""
-	end
+    """
+    Alouette
+    
+    Aprecia a
+    boneca que
+    Ciel deu.
+    """
+    end
 }
 script 784 mmz3 {
-	"""
-	Hibou
-	
-	Reploide
-	hambriento
-	que come
-	E-Crystals.
-	"""
-	end
+    """
+    Hibou
+    
+    Reploide
+    faminto
+    que come
+    E-Crystals.
+    """
+    end
 }
 script 785 mmz3 {
-	"""
-	Rocinolle
-	
-	Ayuda a
-	Reploides
-	heridos.
-	"""
-	end
+    """
+    Rocinolle
+    
+    Ajuda a
+    Reploides
+    feridos.
+    """
+    end
 }
 script 786 mmz3 {
-	"""
-	Perroquiet
-	
-	Asistente
-	brillante
-	de Ciel.
-	"""
-	end
+    """
+    Perroquiet
+    
+    Assistente
+    brilhante
+    de Ciel.
+    """
+    end
 }
 script 787 mmz3 {
-	"""
-	Autruche
-	
-	Reploide
-	alto con
-	charlas
-	aburridas.
-	"""
-	end
+    """
+    Autruche
+    
+    Reploide
+    alto com
+    conversas
+    chatinhas.
+    """
+    end
 }
 script 788 mmz3 {
-	"""
-	Hirondelle
-	
-	Vuela y
-	recolecta
-	información.
-	"""
-	end
+    """
+    Hirondelle
+    
+    Voa e
+    recolhe
+    informacao.
+    """
+    end
 }
 script 789 mmz3 {
-	"""
-	Doigt
-	
-	Ayudante de
-	Cerveau en
-	la creación
-	de armas.
-	"""
-	end
+    """
+    Doigt
+    
+    Ajudante de
+    Cerveau em
+    a criacao
+    de armas.
+    """
+    end
 }
 script 790 mmz3 {
-	"""
-	Menart
-	
-	Travieso que
-	falta a
-	sus deberes.
-	"""
-	end
+    """
+    Menart
+    
+    Travesso que
+    falta a
+    seus deveres.
+    """
+    end
 }
 script 791 mmz3 {
-	"""
-	Pic
-	
-	Reploide
-	sarcástico
-	y burlón.
-	"""
-	end
+    """
+    Pic
+    
+    Reploide
+    sarcastico
+    e zombeteiro.
+    """
+    end
 }
 script 792 mmz3 {
-	"""
-	Harpuia
-	
-	El astuto
-	líder verde
-	del ejército
-	Rekku.
-	"""
-	end
+    """
+    Harpuia
+    
+    O astuto
+    lider verde
+    de o exercito
+    Rekku.
+    """
+    end
 }
 script 793 mmz3 {
-	"""
-	Fefnir
-	
-	El feroz
-	líder rojo
-	del ejército
-	Jin'en.
-	"""
-	end
+    """
+    Fefnir
+    
+    O feroz
+    lider vermelho
+    de o exercito
+    Jin'en.
+    """
+    end
 }
 script 794 mmz3 {
-	"""
-	Leviathan
-	
-	La astuta
-	líder azul
-	del ejército
-	Meikai.
-	"""
-	end
+    """
+    Leviathan
+    
+    A astuta
+    lider azul
+    de o exercito
+    Meikai.
+    """
+    end
 }
 script 795 mmz3 {
-	"""
-	Phantom
-	
-	El malvado
-	líder oscuro
-	del ejército
-	Zan'ei.
-	"""
-	end
+    """
+    Phantom
+    
+    O malvado
+    lider escuro
+    de o exercito
+    Zan'ei.
+    """
+    end
 }
 script 800 mmz3 {
-	textColorRed
-	"""
-	000
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    000
+    """
+    textColorWhite
+    end
 }
 script 801 mmz3 {
-	textColorRed
-	"""
-	001
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    001
+    """
+    textColorWhite
+    end
 }
 script 802 mmz3 {
-	textColorRed
-	"""
-	002
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    002
+    """
+    textColorWhite
+    end
 }
 script 803 mmz3 {
-	textColorRed
-	"""
-	003
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    003
+    """
+    textColorWhite
+    end
 }
 script 804 mmz3 {
-	textColorRed
-	"""
-	004
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    004
+    """
+    textColorWhite
+    end
 }
 script 805 mmz3 {
-	textColorRed
-	"""
-	005
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    005
+    """
+    textColorWhite
+    end
 }
 script 806 mmz3 {
-	textColorRed
-	"""
-	006
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    006
+    """
+    textColorWhite
+    end
 }
 script 807 mmz3 {
-	textColorRed
-	"""
-	007
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    007
+    """
+    textColorWhite
+    end
 }
 script 808 mmz3 {
-	textColorRed
-	"""
-	008
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    008
+    """
+    textColorWhite
+    end
 }
 script 809 mmz3 {
-	textColorRed
-	"""
-	009
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    009
+    """
+    textColorWhite
+    end
 }
 script 810 mmz3 {
-	textColorRed
-	"""
-	010
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    010
+    """
+    textColorWhite
+    end
 }
 script 811 mmz3 {
-	textColorRed
-	"""
-	011
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    011
+    """
+    textColorWhite
+    end
 }
 script 812 mmz3 {
-	textColorRed
-	"""
-	012
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    012
+    """
+    textColorWhite
+    end
 }
 script 813 mmz3 {
-	textColorRed
-	"""
-	013
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    013
+    """
+    textColorWhite
+    end
 }
 script 814 mmz3 {
-	textColorRed
-	"""
-	014
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    014
+    """
+    textColorWhite
+    end
 }
 script 815 mmz3 {
-	textColorRed
-	"""
-	015
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    015
+    """
+    textColorWhite
+    end
 }
 script 816 mmz3 {
-	textColorRed
-	"""
-	016
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    016
+    """
+    textColorWhite
+    end
 }
 script 817 mmz3 {
-	textColorRed
-	"""
-	017
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    017
+    """
+    textColorWhite
+    end
 }
 script 818 mmz3 {
-	textColorRed
-	"""
-	018
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    018
+    """
+    textColorWhite
+    end
 }
 script 819 mmz3 {
-	textColorRed
-	"""
-	019
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    019
+    """
+    textColorWhite
+    end
 }
 script 820 mmz3 {
-	textColorRed
-	"""
-	020
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    020
+    """
+    textColorWhite
+    end
 }
 script 821 mmz3 {
-	textColorRed
-	"""
-	021
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    021
+    """
+    textColorWhite
+    end
 }
 script 822 mmz3 {
-	textColorRed
-	"""
-	022
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    022
+    """
+    textColorWhite
+    end
 }
 script 823 mmz3 {
-	textColorRed
-	"""
-	023
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    023
+    """
+    textColorWhite
+    end
 }
 script 824 mmz3 {
-	textColorRed
-	"""
-	024
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    024
+    """
+    textColorWhite
+    end
 }
 script 825 mmz3 {
-	textColorRed
-	"""
-	025
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    025
+    """
+    textColorWhite
+    end
 }
 script 826 mmz3 {
-	textColorRed
-	"""
-	026
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    026
+    """
+    textColorWhite
+    end
 }
 script 827 mmz3 {
-	textColorRed
-	"""
-	027
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    027
+    """
+    textColorWhite
+    end
 }
 script 828 mmz3 {
-	textColorRed
-	"""
-	028
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    028
+    """
+    textColorWhite
+    end
 }
 script 829 mmz3 {
-	textColorRed
-	"""
-	029
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    029
+    """
+    textColorWhite
+    end
 }
 script 830 mmz3 {
-	textColorRed
-	"""
-	030
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    030
+    """
+    textColorWhite
+    end
 }
 script 831 mmz3 {
-	textColorRed
-	"""
-	031
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    031
+    """
+    textColorWhite
+    end
 }
 script 832 mmz3 {
-	textColorRed
-	"""
-	032
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    032
+    """
+    textColorWhite
+    end
 }
 script 833 mmz3 {
-	textColorRed
-	"""
-	033
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    033
+    """
+    textColorWhite
+    end
 }
 script 834 mmz3 {
-	textColorRed
-	"""
-	034
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    034
+    """
+    textColorWhite
+    end
 }
 script 835 mmz3 {
-	textColorRed
-	"""
-	035
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    035
+    """
+    textColorWhite
+    end
 }
 script 836 mmz3 {
-	textColorRed
-	"""
-	036
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    036
+    """
+    textColorWhite
+    end
 }
 script 837 mmz3 {
-	textColorRed
-	"""
-	037
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    037
+    """
+    textColorWhite
+    end
 }
 script 838 mmz3 {
-	textColorRed
-	"""
-	038
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    038
+    """
+    textColorWhite
+    end
 }
 script 839 mmz3 {
-	textColorRed
-	"""
-	039
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    039
+    """
+    textColorWhite
+    end
 }
 script 840 mmz3 {
-	textColorRed
-	"""
-	040
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    040
+    """
+    textColorWhite
+    end
 }
 script 841 mmz3 {
-	textColorRed
-	"""
-	041
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    041
+    """
+    textColorWhite
+    end
 }
 script 842 mmz3 {
-	textColorRed
-	"""
-	042
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    042
+    """
+    textColorWhite
+    end
 }
 script 843 mmz3 {
-	textColorRed
-	"""
-	043
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    043
+    """
+    textColorWhite
+    end
 }
 script 844 mmz3 {
-	textColorRed
-	"""
-	044
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    044
+    """
+    textColorWhite
+    end
 }
 script 845 mmz3 {
-	textColorRed
-	"""
-	045
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    045
+    """
+    textColorWhite
+    end
 }
 script 846 mmz3 {
-	textColorRed
-	"""
-	046
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    046
+    """
+    textColorWhite
+    end
 }
 script 847 mmz3 {
-	textColorRed
-	"""
-	047
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    047
+    """
+    textColorWhite
+    end
 }
 script 848 mmz3 {
-	textColorRed
-	"""
-	048
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    048
+    """
+    textColorWhite
+    end
 }
 script 849 mmz3 {
-	textColorRed
-	"""
-	049
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    049
+    """
+    textColorWhite
+    end
 }
 script 850 mmz3 {
-	textColorRed
-	"""
-	050
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    050
+    """
+    textColorWhite
+    end
 }
 script 851 mmz3 {
-	textColorRed
-	"""
-	051
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    051
+    """
+    textColorWhite
+    end
 }
 script 852 mmz3 {
-	textColorRed
-	"""
-	052
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    052
+    """
+    textColorWhite
+    end
 }
 script 853 mmz3 {
-	textColorRed
-	"""
-	053
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    053
+    """
+    textColorWhite
+    end
 }
 script 854 mmz3 {
-	textColorRed
-	"""
-	054
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    054
+    """
+    textColorWhite
+    end
 }
 script 855 mmz3 {
-	textColorRed
-	"""
-	055
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    055
+    """
+    textColorWhite
+    end
 }
 script 856 mmz3 {
-	textColorRed
-	"""
-	056
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    056
+    """
+    textColorWhite
+    end
 }
 script 857 mmz3 {
-	textColorRed
-	"""
-	057
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    057
+    """
+    textColorWhite
+    end
 }
 script 858 mmz3 {
-	textColorRed
-	"""
-	058
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    058
+    """
+    textColorWhite
+    end
 }
 script 859 mmz3 {
-	textColorRed
-	"""
-	059
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    059
+    """
+    textColorWhite
+    end
 }
 script 860 mmz3 {
-	textColorRed
-	"""
-	060
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    060
+    """
+    textColorWhite
+    end
 }
 script 861 mmz3 {
-	textColorRed
-	"""
-	061
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    061
+    """
+    textColorWhite
+    end
 }
 script 862 mmz3 {
-	textColorRed
-	"""
-	062
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    062
+    """
+    textColorWhite
+    end
 }
 script 863 mmz3 {
-	textColorRed
-	"""
-	063
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    063
+    """
+    textColorWhite
+    end
 }
 script 864 mmz3 {
-	textColorRed
-	"""
-	064
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    064
+    """
+    textColorWhite
+    end
 }
 script 865 mmz3 {
-	textColorRed
-	"""
-	065
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    065
+    """
+    textColorWhite
+    end
 }
 script 866 mmz3 {
-	textColorRed
-	"""
-	066
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    066
+    """
+    textColorWhite
+    end
 }
 script 867 mmz3 {
-	textColorRed
-	"""
-	067
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    067
+    """
+    textColorWhite
+    end
 }
 script 868 mmz3 {
-	textColorRed
-	"""
-	068
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    068
+    """
+    textColorWhite
+    end
 }
 script 869 mmz3 {
-	textColorRed
-	"""
-	069
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    069
+    """
+    textColorWhite
+    end
 }
 script 870 mmz3 {
-	textColorRed
-	"""
-	070
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    070
+    """
+    textColorWhite
+    end
 }
 script 871 mmz3 {
-	textColorRed
-	"""
-	071
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    071
+    """
+    textColorWhite
+    end
 }
 script 872 mmz3 {
-	textColorRed
-	"""
-	072
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    072
+    """
+    textColorWhite
+    end
 }
 script 873 mmz3 {
-	textColorRed
-	"""
-	073
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    073
+    """
+    textColorWhite
+    end
 }
 script 874 mmz3 {
-	textColorRed
-	"""
-	074
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    074
+    """
+    textColorWhite
+    end
 }
 script 875 mmz3 {
-	textColorRed
-	"""
-	075
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    075
+    """
+    textColorWhite
+    end
 }
 script 876 mmz3 {
-	textColorRed
-	"""
-	076
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    076
+    """
+    textColorWhite
+    end
 }
 script 877 mmz3 {
-	textColorRed
-	"""
-	077
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    077
+    """
+    textColorWhite
+    end
 }
 script 878 mmz3 {
-	textColorRed
-	"""
-	078
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    078
+    """
+    textColorWhite
+    end
 }
 script 879 mmz3 {
-	textColorRed
-	"""
-	079
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    079
+    """
+    textColorWhite
+    end
 }
 script 880 mmz3 {
-	textColorRed
-	"""
-	080
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    080
+    """
+    textColorWhite
+    end
 }
 script 881 mmz3 {
-	textColorRed
-	"""
-	081
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    081
+    """
+    textColorWhite
+    end
 }
 script 882 mmz3 {
-	textColorRed
-	"""
-	082
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    082
+    """
+    textColorWhite
+    end
 }
 script 883 mmz3 {
-	textColorRed
-	"""
-	083
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    083
+    """
+    textColorWhite
+    end
 }
 script 884 mmz3 {
-	textColorRed
-	"""
-	084
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    084
+    """
+    textColorWhite
+    end
 }
 script 885 mmz3 {
-	textColorRed
-	"""
-	085
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    085
+    """
+    textColorWhite
+    end
 }
 script 886 mmz3 {
-	textColorRed
-	"""
-	086
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    086
+    """
+    textColorWhite
+    end
 }
 script 887 mmz3 {
-	textColorRed
-	"""
-	087
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    087
+    """
+    textColorWhite
+    end
 }
 script 888 mmz3 {
-	textColorRed
-	"""
-	088
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    088
+    """
+    textColorWhite
+    end
 }
 script 889 mmz3 {
-	textColorRed
-	"""
-	089
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    089
+    """
+    textColorWhite
+    end
 }
 script 890 mmz3 {
-	textColorRed
-	"""
-	090
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    090
+    """
+    textColorWhite
+    end
 }
 script 891 mmz3 {
-	textColorRed
-	"""
-	091
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    091
+    """
+    textColorWhite
+    end
 }
 script 892 mmz3 {
-	textColorRed
-	"""
-	092
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    092
+    """
+    textColorWhite
+    end
 }
 script 893 mmz3 {
-	textColorRed
-	"""
-	093
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    093
+    """
+    textColorWhite
+    end
 }
 script 894 mmz3 {
-	textColorRed
-	"""
-	094
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    094
+    """
+    textColorWhite
+    end
 }
 script 895 mmz3 {
-	textColorRed
-	"""
-	095
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    095
+    """
+    textColorWhite
+    end
 }
 script 896 mmz3 {
-	textColorRed
-	"""
-	096
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    096
+    """
+    textColorWhite
+    end
 }
 script 897 mmz3 {
-	textColorRed
-	"""
-	097
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    097
+    """
+    textColorWhite
+    end
 }
 script 898 mmz3 {
-	textColorRed
-	"""
-	098
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    098
+    """
+    textColorWhite
+    end
 }
 script 899 mmz3 {
-	textColorRed
-	"""
-	099
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    099
+    """
+    textColorWhite
+    end
 }
 script 900 mmz3 {
-	textColorRed
-	"""
-	100
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    100
+    """
+    textColorWhite
+    end
 }
 script 901 mmz3 {
-	textColorRed
-	"""
-	101
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    101
+    """
+    textColorWhite
+    end
 }
 script 902 mmz3 {
-	textColorRed
-	"""
-	102
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    102
+    """
+    textColorWhite
+    end
 }
 script 903 mmz3 {
-	textColorRed
-	"""
-	103
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    103
+    """
+    textColorWhite
+    end
 }
 script 904 mmz3 {
-	textColorRed
-	"""
-	104
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    104
+    """
+    textColorWhite
+    end
 }
 script 905 mmz3 {
-	textColorRed
-	"""
-	105
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    105
+    """
+    textColorWhite
+    end
 }
 script 906 mmz3 {
-	textColorRed
-	"""
-	106
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    106
+    """
+    textColorWhite
+    end
 }
 script 907 mmz3 {
-	textColorRed
-	"""
-	107
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    107
+    """
+    textColorWhite
+    end
 }
 script 908 mmz3 {
-	textColorRed
-	"""
-	108
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    108
+    """
+    textColorWhite
+    end
 }
 script 909 mmz3 {
-	textColorRed
-	"""
-	109
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    109
+    """
+    textColorWhite
+    end
 }
 script 910 mmz3 {
-	textColorRed
-	"""
-	110
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    110
+    """
+    textColorWhite
+    end
 }
 script 911 mmz3 {
-	textColorRed
-	"""
-	111
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    111
+    """
+    textColorWhite
+    end
 }
 script 912 mmz3 {
-	textColorRed
-	"""
-	112
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    112
+    """
+    textColorWhite
+    end
 }
 script 913 mmz3 {
-	textColorRed
-	"""
-	113
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    113
+    """
+    textColorWhite
+    end
 }
 script 914 mmz3 {
-	textColorRed
-	"""
-	114
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    114
+    """
+    textColorWhite
+    end
 }
 script 915 mmz3 {
-	textColorRed
-	"""
-	115
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    115
+    """
+    textColorWhite
+    end
 }
 script 916 mmz3 {
-	textColorRed
-	"""
-	116
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    116
+    """
+    textColorWhite
+    end
 }
 script 917 mmz3 {
-	textColorRed
-	"""
-	117
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    117
+    """
+    textColorWhite
+    end
 }
 script 918 mmz3 {
-	textColorRed
-	"""
-	118
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    118
+    """
+    textColorWhite
+    end
 }
 script 919 mmz3 {
-	textColorRed
-	"""
-	119
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    119
+    """
+    textColorWhite
+    end
 }
 script 920 mmz3 {
-	textColorRed
-	"""
-	120
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    120
+    """
+    textColorWhite
+    end
 }
 script 921 mmz3 {
-	textColorRed
-	"""
-	121
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    121
+    """
+    textColorWhite
+    end
 }
 script 922 mmz3 {
-	textColorRed
-	"""
-	122
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    122
+    """
+    textColorWhite
+    end
 }
 script 923 mmz3 {
-	textColorRed
-	"""
-	123
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    123
+    """
+    textColorWhite
+    end
 }
 script 924 mmz3 {
-	textColorRed
-	"""
-	124
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    124
+    """
+    textColorWhite
+    end
 }
 script 925 mmz3 {
-	textColorRed
-	"""
-	125
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    125
+    """
+    textColorWhite
+    end
 }
 script 926 mmz3 {
-	textColorRed
-	"""
-	126
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    126
+    """
+    textColorWhite
+    end
 }
 script 927 mmz3 {
-	textColorRed
-	"""
-	127
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    127
+    """
+    textColorWhite
+    end
 }
 script 928 mmz3 {
-	textColorRed
-	"""
-	128
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    128
+    """
+    textColorWhite
+    end
 }
 script 929 mmz3 {
-	textColorRed
-	"""
-	129
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    129
+    """
+    textColorWhite
+    end
 }
 script 930 mmz3 {
-	textColorRed
-	"""
-	130
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    130
+    """
+    textColorWhite
+    end
 }
 script 931 mmz3 {
-	textColorRed
-	"""
-	131
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    131
+    """
+    textColorWhite
+    end
 }
 script 932 mmz3 {
-	textColorRed
-	"""
-	132
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    132
+    """
+    textColorWhite
+    end
 }
 script 933 mmz3 {
-	textColorRed
-	"""
-	133
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    133
+    """
+    textColorWhite
+    end
 }
 script 934 mmz3 {
-	textColorRed
-	"""
-	134
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    134
+    """
+    textColorWhite
+    end
 }
 script 935 mmz3 {
-	textColorRed
-	"""
-	135
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    135
+    """
+    textColorWhite
+    end
 }
 script 936 mmz3 {
-	textColorRed
-	"""
-	136
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    136
+    """
+    textColorWhite
+    end
 }
 script 937 mmz3 {
-	textColorRed
-	"""
-	137
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    137
+    """
+    textColorWhite
+    end
 }
 script 938 mmz3 {
-	textColorRed
-	"""
-	138
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    138
+    """
+    textColorWhite
+    end
 }
 script 939 mmz3 {
-	textColorRed
-	"""
-	139
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    139
+    """
+    textColorWhite
+    end
 }
 script 940 mmz3 {
-	textColorRed
-	"""
-	140
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    140
+    """
+    textColorWhite
+    end
 }
 script 941 mmz3 {
-	textColorRed
-	"""
-	141
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    141
+    """
+    textColorWhite
+    end
 }
 script 942 mmz3 {
-	textColorRed
-	"""
-	142
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    142
+    """
+    textColorWhite
+    end
 }
 script 943 mmz3 {
-	textColorRed
-	"""
-	143
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    143
+    """
+    textColorWhite
+    end
 }
 script 944 mmz3 {
-	textColorRed
-	"""
-	144
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    144
+    """
+    textColorWhite
+    end
 }
 script 945 mmz3 {
-	textColorRed
-	"""
-	145
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    145
+    """
+    textColorWhite
+    end
 }
 script 946 mmz3 {
-	textColorRed
-	"""
-	146
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    146
+    """
+    textColorWhite
+    end
 }
 script 947 mmz3 {
-	textColorRed
-	"""
-	147
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    147
+    """
+    textColorWhite
+    end
 }
 script 948 mmz3 {
-	textColorRed
-	"""
-	148
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    148
+    """
+    textColorWhite
+    end
 }
 script 949 mmz3 {
-	textColorRed
-	"""
-	149
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    149
+    """
+    textColorWhite
+    end
 }
 script 950 mmz3 {
-	textColorRed
-	"""
-	150
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    150
+    """
+    textColorWhite
+    end
 }
 script 951 mmz3 {
-	textColorRed
-	"""
-	151
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    151
+    """
+    textColorWhite
+    end
 }
 script 952 mmz3 {
-	textColorRed
-	"""
-	152
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    152
+    """
+    textColorWhite
+    end
 }
 script 953 mmz3 {
-	textColorRed
-	"""
-	153
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    153
+    """
+    textColorWhite
+    end
 }
 script 954 mmz3 {
-	textColorRed
-	"""
-	154
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    154
+    """
+    textColorWhite
+    end
 }
 script 955 mmz3 {
-	textColorRed
-	"""
-	155
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    155
+    """
+    textColorWhite
+    end
 }
 script 956 mmz3 {
-	textColorRed
-	"""
-	156
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    156
+    """
+    textColorWhite
+    end
 }
 script 957 mmz3 {
-	textColorRed
-	"""
-	157
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    157
+    """
+    textColorWhite
+    end
 }
 script 958 mmz3 {
-	textColorRed
-	"""
-	158
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    158
+    """
+    textColorWhite
+    end
 }
 script 959 mmz3 {
-	textColorRed
-	"""
-	159
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    159
+    """
+    textColorWhite
+    end
 }
 script 960 mmz3 {
-	textColorRed
-	"""
-	160
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    160
+    """
+    textColorWhite
+    end
 }
 script 961 mmz3 {
-	textColorRed
-	"""
-	161
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    161
+    """
+    textColorWhite
+    end
 }
 script 962 mmz3 {
-	textColorRed
-	"""
-	162
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    162
+    """
+    textColorWhite
+    end
 }
 script 963 mmz3 {
-	textColorRed
-	"""
-	163
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    163
+    """
+    textColorWhite
+    end
 }
 script 964 mmz3 {
-	textColorRed
-	"""
-	164
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    164
+    """
+    textColorWhite
+    end
 }
 script 965 mmz3 {
-	textColorRed
-	"""
-	165
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    165
+    """
+    textColorWhite
+    end
 }
 script 966 mmz3 {
-	textColorRed
-	"""
-	166
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    166
+    """
+    textColorWhite
+    end
 }
 script 967 mmz3 {
-	textColorRed
-	"""
-	167
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    167
+    """
+    textColorWhite
+    end
 }
 script 968 mmz3 {
-	textColorRed
-	"""
-	168
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    168
+    """
+    textColorWhite
+    end
 }
 script 969 mmz3 {
-	textColorRed
-	"""
-	169
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    169
+    """
+    textColorWhite
+    end
 }
 script 970 mmz3 {
-	textColorRed
-	"""
-	170
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    170
+    """
+    textColorWhite
+    end
 }
 script 971 mmz3 {
-	textColorRed
-	"""
-	171
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    171
+    """
+    textColorWhite
+    end
 }
 script 972 mmz3 {
-	textColorRed
-	"""
-	172
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    172
+    """
+    textColorWhite
+    end
 }
 script 973 mmz3 {
-	textColorRed
-	"""
-	173
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    173
+    """
+    textColorWhite
+    end
 }
 script 974 mmz3 {
-	textColorRed
-	"""
-	174
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    174
+    """
+    textColorWhite
+    end
 }
 script 975 mmz3 {
-	textColorRed
-	"""
-	175
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    175
+    """
+    textColorWhite
+    end
 }
 script 976 mmz3 {
-	textColorRed
-	"""
-	176
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    176
+    """
+    textColorWhite
+    end
 }
 script 977 mmz3 {
-	textColorRed
-	"""
-	177
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    177
+    """
+    textColorWhite
+    end
 }
 script 978 mmz3 {
-	textColorRed
-	"""
-	178
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    178
+    """
+    textColorWhite
+    end
 }
 script 979 mmz3 {
-	textColorRed
-	"""
-	179
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    179
+    """
+    textColorWhite
+    end
 }
 script 980 mmz3 {
-	textColorRed
-	"""
-	180
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    180
+    """
+    textColorWhite
+    end
 }
 script 990 mmz3 {
-	"""
-	Dr. Weil
-	"""
-	end
+    """
+    Dr. Weil
+    """
+    end
 }
 script 991 mmz3 {
-	"""
-	Omega
-	"""
-	end
+    """
+    Omega
+    """
+    end
 }
 script 992 mmz3 {
-	"""
-	Dark Elf
-	"""
-	end
+    """
+    Dark Elf
+    """
+    end
 }
 script 993 mmz3 {
-	"""
-	Guerras Élficas
-	"""
-	end
+    """
+    Guerras Elficas
+    """
+    end
 }
 script 1088 mmz3 {
-	textColorRed
-	"""
-	REGLAS
-	"""
-	textColorWhite
-	end
+    textColorRed
+    """
+    REGRAS
+    """
+    textColorWhite
+    end
 }
 script 1089 mmz3 {
-	"""
-	Apunta con +Control Pad y
-	usa B BUTTON para golpear
-	Mellnets con Recoil Rod.
-	Los Mellnets de colores
-	son mas duros y requieren
-	2 disparos o uno cargado.
-	3 fallos = fin del juego.
-	"""
-	end
+    """
+    Apunte com +Control Pad e
+    usa B BUTTON para golpear
+    Mellnets com Recoil Rod.
+    Os Mellnets de cores
+    sao mais duros e requerem
+    2 disparos ou um carregado.
+    3 falhas = fim de jogo.
+    """
+    end
 }
 script 1090 mmz3 {
-	"""
-	Guia 5 joyas de color
-	al vaso del mismo color.
-	Las joyas tomaran todos
-	los giros posibles.
-	Usa A BUTTON o B BUTTON
-	para abrir o cerrar rutas.
-	3 fallos = fin del juego.
-	"""
-	end
+    """
+    Guia 5 joias de cor
+    ao copo de o mesmo cor.
+    As joias tomarao todos
+    os giros possiveis.
+    Usa A BUTTON ou B BUTTON
+    para abrir ou fechar rotas.
+    3 falhas = fim de jogo.
+    """
+    end
 }
 script 1091 mmz3 {
-	"""
-	Usa 3 elementos para
-	destruir paneles en cinta.
-	L BUTTON y R BUTTON
-	cambian elem., B BUTTON
-	ataca. Rayo vence Hielo,
-	Hielo vence Fuego, Fuego
-	vence Rayo. 3 fallos = fin
-	"""
-	end
+    """
+    Usa 3 elementos para
+    destruir paineis em fita.
+    L BUTTON e R BUTTON
+    mudam elem., B BUTTON
+    ataca. Raio vence Gelo,
+    Gelo vence Fogo, Fogo
+    vence Raio. 3 falhas = fim
+    """
+    end
 }
 script 1092 mmz3 {
-	"""
-	Monta a Aztec Falcon y
-	salta obstaculos y corta
-	enemigos. A BUTTON salta;
-	B BUTTON ataca. Termina
-	al recibir 3 golpes,
-	chocar o caer en un
-	hoyo.
-	"""
-	end
+    """
+    Monta a Aztec Falcon e
+    salta obstaculos e corta
+    inimigos. A BUTTON salta;
+    B BUTTON ataca. Termina
+    ao receber 3 golpes,
+    chocar ou cair em um
+    buraco.
+    """
+    end
 }
 script 1093 mmz3 {
-	"""
-	Evita que Carryarms robe
-	los objetos. +Control Pad
-	mueve a Fefnir; B BUTTON
-	para lanzar Meteor Rain.
-	Gana bonus al caer items.
-	Fin si roban un objeto.
-	"""
-	end
+    """
+    Evita que Carryarms roube
+    os objetos. +Control Pad
+    move a Fefnir; B BUTTON
+    para lancar Meteor Rain.
+    Ganhas bonus ao cair itens.
+    Fim se roubam um objeto.
+    """
+    end
 }
 script 1094 mmz3 {
-	"""
-	Mueve a Leviathan
-	con +Control Pad;
-	B BUTTON para lanza.
-	Gana pts. y tiempo
-	golpeando solo
-	Mechaniloids; combos
-	dan bonus. Fin: tiempo.
-	"""
-	end
+    """
+    Move a Leviathan
+    com +Control Pad;
+    B BUTTON para lanca.
+    Ganhas pts. e tempo
+    golpeando so
+    Mechaniloids; combos
+    dao bonus. Fim: tempo.
+    """
+    end
 }
 script 1095 mmz3 {
-	"""
-	Salta de un shuriken a
-	otro. +Control Pad para
-	moverte; A BUTTON salta.
-	Termina si te golpean 3
-	veces o caes de uno.
-	"""
-	end
+    """
+    Salta de um shuriken a
+    outro. +Control Pad para
+    mover-te; A BUTTON salta.
+    Termina se te golpeiam 3
+    vezes ou cais de um.
+    """
+    end
 }
 script 1096 mmz3 {
-	"""
-	Salir del juego y volver
-	a la pantalla de título.
-	El progreso se perderá.
-	"""
-	end
+    """
+    Sair de o jogo e voltar
+    a tela de titulo.
+    O progresso se perdera.
+    """
+    end
 }
 script 1097 mmz3 {
-	"""
-	Salir a la pantalla
-	principal. El progreso
-	no guardado se perderá.
-	"""
-	end
+    """
+    Sair a tela
+    principal. O progresso
+    nao salvo se perdera.
+    """
+    end
 }
