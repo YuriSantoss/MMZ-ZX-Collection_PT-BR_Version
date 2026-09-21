@@ -7,8 +7,9 @@ Ele serviu totalmente como base, pois como sou iniciante não conseguiria fazer 
 
 **Status do MOD**
 
-- Mega Man Zero 1  | Totalmente traduzido (Falta comparação com a do Solid One e correções)
-- Mega Man Zero 2  | Processo não iniciado
+- Mega Man Zero 1  | Totalmente traduzido e corrigido (Falta comparação com a do Solid One)
+- Mega Man Zero 2  | Totalmente traduzido (Falta comparação com a do Solid One e correções)
+- Mega Man Zero 3  | Processo não iniciado
 
 
 
