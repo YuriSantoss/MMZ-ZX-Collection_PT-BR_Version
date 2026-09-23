@@ -2,73 +2,73 @@
 @size 3
 
 script 0 mmz3 {
-	mugshotShow
-		mugshot = 39
-	"""
-	He sido invocado
-	por Lord Weil desde
-	el inframundo
-	"""
-	msgClear
-	"""
-	para continuar mi
-	reinado de terror.
-	"""
-	msgClear
-	"""
-	Antiguo guerrero,
-	ahora es tu
-	turno de yacer
-	"""
-	msgClear
-	"""
-	bajo la tierra...
-	"""
-	msgClear
-	"""
-	¡Vuelve a la
-	tierra contigo!
-	"""
-	end
+    mugshotShow
+        mugshot = 39
+    """
+    Fui invocado
+    pelo Lorde Weil desde
+    o submundo
+    """
+    msgClear
+    """
+    para continuar meu
+    reinado de terror.
+    """
+    msgClear
+    """
+    Antigo guerreiro,
+    agora e sua
+    vez de jazer
+    """
+    msgClear
+    """
+    sob a terra...
+    """
+    msgClear
+    """
+    Volte para a
+    terra com voce!
+    """
+    end
 }
 script 1 mmz3 {
-	mugshotShow
-		mugshot = 38
-	"""
-	No existe la
-	eternidad en
-	este mundo.
-	"""
-	msgClear
-	"""
-	¡Incluso tu vida
-	debe llegar
-	a su fin!
-	"""
-	end
+    mugshotShow
+        mugshot = 38
+    """
+    Nao existe a
+    eternidade neste
+    mundo.
+    """
+    msgClear
+    """
+    Ate a sua vida
+    deve chegar
+    ao fim!
+    """
+    end
 }
 script 2 mmz3 {
-	mugshotShow
-		mugshot = 38
-	"""
-	Tú, el de alma
-	antigua.
-	"""
-	msgClear
-	"""
-	No tienes lugar en el
-	nuevo mundo que Lord
-	Weil está creando.
-	"""
-	msgClear
-	"""
-	Disfrutaré ver
-	tu tormento
-	desde mi tumba...
-	"""
-	msgClear
-	"""
-	¡Jajajajaa!
-	"""
-	end
+    mugshotShow
+        mugshot = 38
+    """
+    Voce, o de alma
+    antiga.
+    """
+    msgClear
+    """
+    Nao tem lugar no
+    novo mundo que o
+    Lorde Weil esta criando.
+    """
+    msgClear
+    """
+    Vou gostar de ver
+    o seu tormento
+    do meu tumulo...
+    """
+    msgClear
+    """
+    Hahahajaa!
+    """
+    end
 }

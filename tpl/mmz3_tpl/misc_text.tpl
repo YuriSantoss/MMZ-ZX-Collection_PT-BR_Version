@@ -1066,7 +1066,7 @@ script 198 mmz3 {
 }
 script 199 mmz3 {
     """
-    ¡Elfo convertido a Sub Tank!
+    Elfo convertido a Sub Tank!
     """
     end
 }
@@ -1608,7 +1608,7 @@ script 265 mmz3 {
     """
     end
 }
-script 266 mmz35 {
+script 266 mmz3 {
     """
     Minha tarefa e
     cortar a

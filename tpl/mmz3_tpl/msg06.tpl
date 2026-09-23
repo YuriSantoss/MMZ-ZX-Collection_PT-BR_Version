@@ -2,140 +2,140 @@
 @size 6
 
 script 0 mmz3 {
-	mugshotShow
-		mugshot = 100
-	"""
-	Operadora:
-	Adelante está la
-	unidad de control
-	"""
-	msgClear
-	"""
-	de la fábrica.
-	"""
-	msgClear
-	"""
-	Los datos de las
-	cámaras de la
-	fábrica se envían
-	"""
-	msgClear
-	"""
-	a esta unidad.
-	"""
-	msgClear
-	"""
-	Destruye las cámaras
-	mientras avanzas.
-	"""
-	end
+    mugshotShow
+        mugshot = 100
+    """
+    Operadora:
+    A frente esta a
+    unidade de controle
+    """
+    msgClear
+    """
+    da fabrica.
+    """
+    msgClear
+    """
+    Os dados das
+    cameras da
+    fabrica sao enviados
+    """
+    msgClear
+    """
+    para esta unidade.
+    """
+    msgClear
+    """
+    Destrua as cameras
+    enquanto avanca.
+    """
+    end
 }
 script 2 mmz3 {
-	mugshotShow
-		mugshot = 27
-	"""
-	Vaya, si no es
-	el héroe legendario.
-	"""
-	msgClear
-	"""
-	Los Mecaniloides
-	hacen todas las
-	reparaciones solos.
-	"""
-	msgClear
-	"""
-	Así que solo estaba
-	disfrutando de un
-	pequeño descanso.
-	"""
-	msgClear
-	"""
-	¡Cómo te atreves a
-	interrumpir mi paz
-	y tranquilidad!
-	"""
-	msgClear
-	"""
-	¿Dónde están tus
-	modales, señor
-	héroe?
-	"""
-	msgClear
-	"""
-	Yo, Devilbat Schilt,
-	de los Numbers de
-	"""
-	msgClear
-	"""
-	Weil, te daré una
-	lección.
-	"""
-	end
+    mugshotShow
+        mugshot = 27
+    """
+    Nossa, se nao e
+    o heroi lendario.
+    """
+    msgClear
+    """
+    Os Mechaniloids
+    fazem todos os
+    reparos sozinhos.
+    """
+    msgClear
+    """
+    Entao eu so estava
+    aproveitando um
+    pequeno descanso.
+    """
+    msgClear
+    """
+    Como ousa
+    interromper minha paz
+    e tranquilidade!
+    """
+    msgClear
+    """
+    Onde estao os
+    seus modos, senhor
+    heroi?
+    """
+    msgClear
+    """
+    Eu, Devilbat Schilt,
+    dos Numbers do
+    """
+    msgClear
+    """
+    Weil, vou te dar
+    uma licao.
+    """
+    end
 }
 script 3 mmz3 {
-	mugshotShow
-		mugshot = 11
-	"""
-	¡Kekeke!
-	"""
-	msgClear
-	"""
-	La primera lección
-	que un caballero
-	debe aprender sobre
-	"""
-	msgClear
-	"""
-	refinamiento es...
-	"""
-	msgClear
-	"""
-	¡Que los intrusos
-	deben morir sin
-	hacer escándalo!
-	"""
-	end
+    mugshotShow
+        mugshot = 11
+    """
+    Kekeke!
+    """
+    msgClear
+    """
+    A primeira licao
+    que um cavalheiro
+    deve aprender sobre
+    """
+    msgClear
+    """
+    refinamento e...
+    """
+    msgClear
+    """
+    Que os intrusos
+    devem morrer sem
+    fazer escandalo!
+    """
+    end
 }
 script 4 mmz3 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡Keke!
-	"""
-	msgClear
-	"""
-	¡La sangre de un
-	héroe de hace un
-	siglo tiene un aroma
-	"""
-	msgClear
-	"""
-	tan delicioso!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Keke!
+    """
+    msgClear
+    """
+    O sangue de um
+    heroi de um seculo
+    atras tem um aroma
+    """
+    msgClear
+    """
+    tao delicioso!
+    """
+    end
 }
 script 5 mmz3 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡Ke...keke!
-	"""
-	msgClear
-	"""
-	Sin modales...
-	¡Sin modales en
-	absoluto!
-	"""
-	msgClear
-	"""
-	¡Intentar desafiar
-	al Lord Weil, qué
-	conducta tan triste!
-	"""
-	msgClear
-	"""
-	¡Ke...kekekekeeee!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Ke...keke!
+    """
+    msgClear
+    """
+    Sem modos...
+    Sem modos
+    algum!
+    """
+    msgClear
+    """
+    Tentar desafiar
+    o Lorde Weil, que
+    conduta tao triste!
+    """
+    msgClear
+    """
+    Ke...kekekekeeee!
+    """
+    end
 }

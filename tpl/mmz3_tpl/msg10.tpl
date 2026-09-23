@@ -2,83 +2,83 @@
 @size 4
 
 script 0 mmz3 {
-	end
+    end
 }
 script 1 mmz3 {
-	mugshotShow
-		mugshot = 21
-	"""
-	Grrr... ¿Así que
-	eres Zero?
-	"""
-	msgClear
-	"""
-	¡Eres tan pequeño
-	que casi te
-	pisoteo!
-	"""
-	msgClear
-	"""
-	Mi nombre es Tretista
-	Kelverian, de los
-	Numbers de Weil.
-	"""
-	msgClear
-	"""
-	Tu cuello es tan
-	pequeño... ¡te
-	lo romperé de
-	"""
-	msgClear
-	"""
-	un solo mordisco!
-	"""
-	msgClear
-	"""
-	¡Grrrrrrr!
-	"""
-	end
+    mugshotShow
+        mugshot = 21
+    """
+    Grrr... Entao
+    voce e o Zero?
+    """
+    msgClear
+    """
+    Voce e tao pequeno
+    que quase te
+    pisei!
+    """
+    msgClear
+    """
+    Meu nome e Tretista
+    Kelverian, dos
+    Numbers do Weil.
+    """
+    msgClear
+    """
+    Seu pescoco e tao
+    pequeno... vou
+    quebra-lo com
+    """
+    msgClear
+    """
+    uma unica mordida!
+    """
+    msgClear
+    """
+    Grrrrrrr!
+    """
+    end
 }
 script 2 mmz3 {
-	mugshotShow
-		mugshot = 20
-	"""
-	¿Qué es esto?
-	"""
-	msgClear
-	"""
-	Ahh, debo haberte
-	pisado.
-	"""
-	msgClear
-	"""
-	¡Eres tan pequeño
-	que ni siquiera
-	me di cuenta!
-	"""
-	end
+    mugshotShow
+        mugshot = 20
+    """
+    O que e isso?
+    """
+    msgClear
+    """
+    Ahh, devo ter
+    pisado em voce.
+    """
+    msgClear
+    """
+    Voce e tao pequeno
+    que nem mesmo
+    notei!
+    """
+    end
 }
 script 3 mmz3 {
-	mugshotShow
-		mugshot = 20
-	"""
-	¿Eh?
-	Zero... ¿Dónde
-	fuiste? No te
-	"""
-	msgClear
-	"""
-	veo...
-	"""
-	msgClear
-	"""
-	¡Y todo mi cuerpo
-	duele... Ay...
-	Aaaay!
-	"""
-	msgClear
-	"""
-	¡Gaarrrwwwrrr!
-	"""
-	end
+    mugshotShow
+        mugshot = 20
+    """
+    Eh?
+    Zero... Onde
+    foi? Nao te
+    """
+    msgClear
+    """
+    vejo...
+    """
+    msgClear
+    """
+    E meu corpo
+    inteiro doi... Ai...
+    Aiiii!
+    """
+    msgClear
+    """
+    Gaarrrwwwrrr!
+    """
+    end
 }

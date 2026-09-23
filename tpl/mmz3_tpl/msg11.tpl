@@ -2,391 +2,391 @@
 @size 19
 
 script 0 mmz3 {
-	end
+    end
 }
 script 1 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¡Dr. Weil!
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Lorde Weil!
+    """
+    end
 }
 script 2 mmz3 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Jejejejejeee...
-	"""
-	msgClear
-	"""
-	Qué noble eres,
-	Zero. Haciendo de
-	héroe tú solo.
-	"""
-	msgClear
-	"""
-	Todos los Reploides
-	del mundo entero
-	están ahora bajo
-	"""
-	msgClear
-	"""
-	mi control.
-	"""
-	msgClear
-	"""
-	Los humanos son como
-	cerdos, dependientes
-	de los Reploides para
-	"""
-	msgClear
-	"""
-	su propia
-	existencia...
-	"""
-	msgClear
-	"""
-	¿Sabes, verdad,
-	que si quisiera,
-	podría exterminar
-	"""
-	msgClear
-	"""
-	a todos los humanos
-	en un abrir y
-	cerrar de ojos?
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Heheheheheee...
+    """
+    msgClear
+    """
+    Que nobre voce e,
+    Zero. Fazendo de
+    heroi sozinho.
+    """
+    msgClear
+    """
+    Todos os Reploides
+    do mundo inteiro
+    estao agora sob
+    """
+    msgClear
+    """
+    o meu controle.
+    """
+    msgClear
+    """
+    Os humanos sao como
+    porcos, dependentes
+    dos Reploides para
+    """
+    msgClear
+    """
+    a sua propria
+    existencia...
+    """
+    msgClear
+    """
+    Sabe, e verdade,
+    que se eu quisesse,
+    poderia exterminar
+    """
+    msgClear
+    """
+    todos os humanos
+    num abrir e
+    fechar de olhos?
+    """
+    end
 }
 script 3 mmz3 {
-	mugshotShow
-		mugshot = 83
-	"""
-	¡Crea! ¡Prea!
-	¡Hagan con este lo
-	que quieran!
-	"""
-	msgClear
-	"""
-	Tengo algunos
-	chillidos de cerdo
-	que disfrutar.
-	"""
-	msgClear
-	"""
-	Los chillidos de
-	cerdos indolentes,
-	desperdiciando sus
-	"""
-	msgClear
-	"""
-	miserables vidas en
-	ocupaciones inútiles.
-	"""
-	msgClear
-	"""
-	¿Les gustaría saber
-	quién gobierna este
-	mundo?
-	"""
-	msgClear
-	"""
-	Jejejejejeee...
-	"""
-	msgClear
-	"""
-	¡Bwahahahahah!
-	"""
-	end
+    mugshotShow
+        mugshot = 83
+    """
+    Crea! Prea!
+    Facam o que quiseres
+    com este!
+    """
+    msgClear
+    """
+    Tenho alguns
+    guinhentos de porco
+    para aproveitar.
+    """
+    msgClear
+    """
+    Os grunhidos de
+    porcos indolentes,
+    desperdicando suas
+    """
+    msgClear
+    """
+    miseraveis vidas em
+    ocupacoes inuteis.
+    """
+    msgClear
+    """
+    Gostariam de saber
+    quem governa este
+    mundo?
+    """
+    msgClear
+    """
+    Heheheheheee...
+    """
+    msgClear
+    """
+    Bwahahahahah!
+    """
+    end
 }
 script 4 mmz3 {
-	mugshotShow
-		mugshot = 102
-	"""
-	¡Ha vuelto!
-	¡El Reploide malo!
-	"""
-	end
+    mugshotShow
+        mugshot = 102
+    """
+    Voltou!
+    O Reploide malvado!
+    """
+    end
 }
 script 5 mmz3 {
-	mugshotShow
-		mugshot = 105
-	"""
-	¡Ha vuelto!
-	¡El Reploide falso!
-	"""
-	end
+    mugshotShow
+        mugshot = 105
+    """
+    Voltou!
+    O Reploide falso!
+    """
+    end
 }
 script 6 mmz3 {
-	mugshotShow
-		mugshot = 102
-	"""
-	¡Te haré pedazos!
-	"""
-	end
+    mugshotShow
+        mugshot = 102
+    """
+    Vou te fazer pedacos!
+    """
+    end
 }
 script 7 mmz3 {
-	mugshotShow
-		mugshot = 105
-	"""
-	¡Te haré trizas!
-	"""
-	end
+    mugshotShow
+        mugshot = 105
+    """
+    Vou te fazer em tiras!
+    """
+    end
 }
 script 8 mmz3 {
-	mugshotShow
-		mugshot = 102
-	"""
-	¡Ajajajajajajaa!
-	¡Está hecho
-	pedazos!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 105
-	"""
-	¡Tejejejeeejee!
-	¡Está hecho
-	trizas!
-	"""
-	end
+    mugshotShow
+        mugshot = 102
+    """
+    Ajajajajajajaa!
+    Esta feito em
+    pedacos!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 105
+    """
+    Tejejejeeejee!
+    Esta feito em
+    tiras!
+    """
+    end
 }
 script 9 mmz3 {
-	mugshotShow
-		mugshot = 102
-	"""
-	Prea, algo no
-	está bien...
-	"""
-	end
+    mugshotShow
+        mugshot = 102
+    """
+    Prea, algo nao
+    esta certo...
+    """
+    end
 }
 script 10 mmz3 {
-	mugshotShow
-		mugshot = 105
-	"""
-	Sí, Crea, algo no
-	está bien...
-	"""
-	end
+    mugshotShow
+        mugshot = 105
+    """
+    Sim, Crea, algo nao
+    esta certo...
+    """
+    end
 }
 script 11 mmz3 {
-	mugshotShow
-		mugshot = 102
-	"""
-	Siento como si me
-	clavaran agujas...
-	"""
-	end
+    mugshotShow
+        mugshot = 102
+    """
+    Sinto como se me
+    orassem agulhas...
+    """
+    end
 }
 script 12 mmz3 {
-	mugshotShow
-		mugshot = 105
-	"""
-	Siento como si me
-	golpearan con
-	mazos y martillos...
-	"""
-	msgClear
-	"""
-	¡Mi...meeeeeee!
-	"""
-	end
+    mugshotShow
+        mugshot = 105
+    """
+    Siento como se me
+    golpearan com
+    mazos e martillos...
+    """
+    msgClear
+    """
+    Mi...meeeeeee!
+    """
+    end
 }
 script 13 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: Zero, ¿estás bien?
-	"""
-	msgClear
-	"""
-	Acabo de recibir nueva
-	"""
-	msgClear
-	"""
-	información de X.
-	"""
-	msgClear
-	"""
-	Regresa a la base
-	"""
-	msgClear
-	"""
-	de la Resistencia.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: Zero, voce esta bem?
+    """
+    msgClear
+    """
+    Acabo de receber nova
+    """
+    msgClear
+    """
+    informacao de X.
+    """
+    msgClear
+    """
+    Retorne para a base
+    """
+    msgClear
+    """
+    da Resistencia.
+    """
+    end
 }
 script 14 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Entendido.
-	Transfiéreme.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Entendido.
+    Transfira-me.
+    """
+    end
 }
 script 15 mmz3 {
-	mugshotShow
-		mugshot = 51
-	"""
-	Nunca pensé que vol-
-	vería a encontrarte
-	en este mundo.
-	"""
-	msgClear
-	"""
-	Si, gracias a Omega y
-	los suyos, el portal
-	al Ciberespacio
-	"""
-	msgClear
-	"""
-	ha sido abierto,
-	entonces el destino
-	es realmente irónico.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Phantom... uno de los
-	Cuatro Guardianes de
-	Neo Arcadia.
-	"""
-	msgClear
-	"""
-	Pero...
-	yo te derroté...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 51
-	"""
-	Este es un mundo de
-	sombras, donde las
-	almas de Reploides y
-	"""
-	msgClear
-	"""
-	los Ciber-elfos
-	viven.
-	"""
-	msgClear
-	"""
-	Tras derrotarme,
-	me convertí en una
-	simple alma, y de
-	"""
-	msgClear
-	"""
-	alguna forma regresé
-	al Ciberespacio.
-	"""
-	msgClear
-	"""
-	Este espacio, donde
-	todos los datos
-	terminan llegando...
-	"""
-	msgClear
-	"""
-	Y allí aprendí
-	todas las verdades.
-	"""
-	msgClear
-	"""
-	Sobre Omega...
-	El Dark Elf...
-	Y sobre ti, Zero...
-	"""
-	msgClear
-	"""
-	Así es.
-	Todo.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Entonces... ¿cuál es
-	tu punto?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 51
-	"""
-	Exactamente este.
-	Nunca tuviste lo
-	necesario para
-	"""
-	msgClear
-	"""
-	ser un héroe.
-	"""
-	msgClear
-	"""
-	No soporto mirarte.
-	¡Ahora es el momento
-	de tu eliminación,
-	"""
-	msgClear
-	"""
-	por mi propia mano!
-	"""
-	end
+    mugshotShow
+        mugshot = 51
+    """
+    Nunca pensei que vol-
+    veria a encontra-lo
+    neste mundo.
+    """
+    msgClear
+    """
+    Sim, gracas a Omega e
+    os seus, o portal
+    para o Ciberespaco
+    """
+    msgClear
+    """
+    foi aberto,
+    entao o destino
+    e realmente ironico.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Phantom... um dos
+    Quatro Guardioes de
+    Neo Arcadia.
+    """
+    msgClear
+    """
+    Mas...
+    eu te derrotei...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 51
+    """
+    Este e um mundo de
+    sombras, onde as
+    almas de Reploides e
+    """
+    msgClear
+    """
+    Ciber-elfos
+    vivem.
+    """
+    msgClear
+    """
+    Apos me derrotar,
+    tornei-me uma
+    simples alma, e de
+    """
+    msgClear
+    """
+    alguma forma regressei
+    ao Ciberespaco.
+    """
+    msgClear
+    """
+    Este espaco, onde
+    todos os dados
+    acabam chegando...
+    """
+    msgClear
+    """
+    E ai aprendi
+    todas as verdades.
+    """
+    msgClear
+    """
+    Sobre Omega...
+    A Dark Elf...
+    E sobre voce, Zero...
+    """
+    msgClear
+    """
+    Assim e.
+    Tudo.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Entao... qual e
+    o seu ponto?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 51
+    """
+    Exatamente este.
+    Nunca tiveste o
+    que e necessario para
+    """
+    msgClear
+    """
+    ser um heroi.
+    """
+    msgClear
+    """
+    Nao suporto olhar para ti.
+    Agora e o momento
+    da sua eliminacao,
+    """
+    msgClear
+    """
+    pelas minhas proprias maos!
+    """
+    end
 }
 script 16 mmz3 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Todas las leyendas
-	son olvidadas al
-	final. ¡Adiós, Zero!
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Todas as lendas
+    sao esquecidas no
+    fim. Adeus, Zero!
+    """
+    end
 }
 script 17 mmz3 {
-	mugshotShow
-		mugshot = 50
-	"""
-	*jadeo*
-	"""
-	msgClear
-	"""
-	De verdad tenías...
-	el alma de un
-	héroe...
-	"""
-	msgClear
-	"""
-	Ve...
-	"""
-	msgClear
-	"""
-	Enfrenta a Omega,
-	y demuestra de lo que
-	ese cuerpo es capaz.
-	"""
-	msgClear
-	"""
-	¿Vacilará tu espada
-	al conocer la
-	verdad?
-	"""
-	msgClear
-	"""
-	¿Tienes lo
-	necesario...
-	para ser un héroe?
-	"""
-	msgClear
-	"""
-	¡Debes ser tú quien
-	lo determine!
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    *arquejo*
+    """
+    msgClear
+    """
+    De verdade tinhas...
+    a alma de um
+    heroi...
+    """
+    msgClear
+    """
+    Vai...
+    """
+    msgClear
+    """
+    Enfrente o Omega,
+    e demonstre do que
+    esse corpo e capaz.
+    """
+    msgClear
+    """
+    Sua espada hesitara
+    ao conhecer a
+    verdade?
+    """
+    msgClear
+    """
+    Tem o que e
+    necessario...
+    para ser um heroi?
+    """
+    msgClear
+    """
+    Deve ser voce quem
+    o determina!
+    """
+    end
 }
 script 18 mmz3 {
-	end
+    end
 }

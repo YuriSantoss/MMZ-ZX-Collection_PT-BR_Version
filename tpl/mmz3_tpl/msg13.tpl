@@ -2,2626 +2,2627 @@
 @size 100
 
 script 0 mmz3 {
-	mugshotShow
-		mugshot = 108
-	"""
-	Srta. Ciel, por
-	favor anímese.
-	"""
-	msgClear
-	"""
-	Todo ha salido bien
-	antes, ¿no es así?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 109
-	"""
-	Así es.
-	"""
-	msgClear
-	"""
-	Confiamos en usted,
-	Srta. Ciel. ¡Y en
-	el Sr. Zero también!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 64
-	"""
-	Gracias a todos.
-	"""
-	end
+    mugshotShow
+        mugshot = 108
+    """
+    Srta. Ciel, por
+    favor, anime-se.
+    """
+    msgClear
+    """
+    Tudo deu certo
+    antes, nao e assim?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 109
+    """
+    Assim e.
+    """
+    msgClear
+    """
+    Confiamos em voce,
+    Srta. Ciel. E no
+    Sr. Zero tambem!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 64
+    """
+    Obrigada a todos.
+    """
+    end
 }
 script 1 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	La simulación
-	tardará un poco más
-	en terminar...
-	"""
-	msgClear
-	"""
-	Creo que vamos a
-	necesitar tu ayuda
-	de nuevo, Zero...
-	"""
-	msgClear
-	"""
-	Pero primero deberías
-	descansar un poco.
-	"""
-	msgClear
-	"""
-	Por ahora...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    A simulacao
+    levara um pouco mais
+    de tempo para terminar...
+    """
+    msgClear
+    """
+    Acho que vamos
+    precisar da sua ajuda
+    de novo, Zero...
+    """
+    msgClear
+    """
+    Mas primeiro deveria
+    descansar um pouco.
+    """
+    msgClear
+    """
+    Por enquanto...
+    """
+    end
 }
 script 2 mmz3 {
-	"""
-	¿Guardar los datos?
-	  SÍ
-	  NO
-	"""
-	end
+    """
+    Salvar os dados?
+      SIM
+      NAO
+    """
+    end
 }
 script 3 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Me encargaré de
-	gestionar los datos,
-	como siempre.
-	"""
-	msgClear
-	"""
-	Si necesitas algo,
-	dímelo.
-	"""
-	msgClear
-	"""
-	Una cosa más...
-	Deberías ir a ver a
-	Cerveau.
-	"""
-	msgClear
-	"""
-	Escuché que ya
-	terminó su analizador
-	de Discos Secretos.
-	"""
-	msgClear
-	"""
-	Si encuentras algún
-	Disco Secreto que
-	no puedas analizar,
-	"""
-	msgClear
-	"""
-	pídele a Cerveau
-	que lo revise por
-	ti.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Vou cuidar de
+    gerenciar os dados,
+    como sempre.
+    """
+    msgClear
+    """
+    Se precisar de algo,
+    me avise.
+    """
+    msgClear
+    """
+    Uma coisa a mais...
+    Deveria ir ver o
+    Cerveau.
+    """
+    msgClear
+    """
+    Ouvi dizer que ele ja
+    terminou o analisador
+    de Discos Secretos.
+    """
+    msgClear
+    """
+    Se encontrar algum
+    Disco Secreto que
+    nao possa analisar,
+    """
+    msgClear
+    """
+    peca ao Cerveau
+    para reviza-lo por
+    voce.
+    """
+    end
 }
 script 4 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¿No deberías
-	descansar? No te
-	exijas demasiado.
-	"""
-	msgClear
-	"""
-	Me encargaré de
-	los datos. Avísame
-	si necesitas algo.
-	"""
-	msgClear
-	"""
-	Una cosa más...
-	Deberías ir a ver a
-	Cerveau.
-	"""
-	msgClear
-	"""
-	Escuché que ya
-	terminó su analizador
-	de Discos Secretos.
-	"""
-	msgClear
-	"""
-	Si encuentras algún
-	Disco Secreto que
-	no puedas analizar,
-	"""
-	msgClear
-	"""
-	pídele a Cerveau
-	que lo revise por
-	ti.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Nao deveria
+    descansar? Nao se
+    exija demais.
+    """
+    msgClear
+    """
+    Vou cuidar dos
+    dados. Me avise
+    se precisar de algo.
+    """
+    msgClear
+    """
+    Uma coisa a mais...
+    Deveria ir ver o
+    Cerveau.
+    """
+    msgClear
+    """
+    Ouvi dizer que ele ja
+    terminou o analisador
+    de Discos Secretos.
+    """
+    msgClear
+    """
+    Se encontrar algum
+    Disco Secreto que
+    nao possa analisar,
+    """
+    msgClear
+    """
+    peca ao Cerveau
+    para reviza-lo por
+    voce.
+    """
+    end
 }
 script 5 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¿Ya hablaste con
-	Cerveau?
-	"""
-	msgClear
-	"""
-	¡Escuché que está
-	ansioso por probar
-	"""
-	msgClear
-	"""
-	su analizador de
-	discos!
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Ja falou com
+    o Cerveau?
+    """
+    msgClear
+    """
+    Ouvi dizer que esta
+    ansioso para testar
+    """
+    msgClear
+    """
+    o seu analisador de
+    discos!
+    """
+    end
 }
 script 6 mmz3 {
-	mugshotShow
-		mugshot = 108
-	"""
-	¿La habitación de
-	Cerveau?
-	"""
-	msgClear
-	"""
-	Pasa por la sala
-	del comandante a
-	la derecha, y es
-	"""
-	msgClear
-	"""
-	la habitación justo
-	enfrente de ti.
-	"""
-	msgClear
-	"""
-	Es conveniente que
-	la base sea tan
-	grande ahora, ¡pero
-	"""
-	msgClear
-	"""
-	también es fácil
-	perderse!
-	"""
-	end
+    mugshotShow
+        mugshot = 108
+    """
+    O quarto do
+    Cerveau?
+    """
+    msgClear
+    """
+    Passe pela sala
+    do comandante a
+    direita, e e
+    """
+    msgClear
+    """
+    o quarto bem
+    na sua frente.
+    """
+    msgClear
+    """
+    E util que
+    a base seja tao
+    grande agora, mas
+    """
+    msgClear
+    """
+    tambem e facil
+    se perder!
+    """
+    end
 }
 script 7 mmz3 {
-	mugshotShow
-		mugshot = 67
-	"""
-	¡Oye, Zero! ¡Estás
-	bien!
-	"""
-	msgClear
-	"""
-	Me enteré de la
-	noticia.
-	"""
-	msgClear
-	"""
-	A pesar de la nueva
-	energía, el mundo
-	aún no está en paz.
-	"""
-	msgClear
-	"""
-	Nunca pensé que la
-	paz sería fácil,
-	pero aun así...
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	En fin, acabo de
-	terminar un arma
-	nueva para ti.
-	"""
-	msgClear
-	"""
-	¡También arreglé tu
-	S.Boomerang!
-	"""
-	msgClear
-	"""
-	¡Toma, es tuya!
-	"""
-	end
+    mugshotShow
+        mugshot = 67
+    """
+    Ei, Zero! Voce esta
+    bem!
+    """
+    msgClear
+    """
+    Fiquei sabendo da
+    noticia.
+    """
+    msgClear
+    """
+    Apesar da nova
+    energia, o mundo
+    ainda nao esta em paz.
+    """
+    msgClear
+    """
+    Nunca pensei que a
+    paz seria facil,
+    mas mesmo assim...
+    """
+    msgClear
+    """
+    ...
+    """
+    msgClear
+    """
+    Enfim, acabei de
+    terminar uma arma
+    nova para voce.
+    """
+    msgClear
+    """
+    Tambem arrumei seu
+    S.Boomerang!
+    """
+    msgClear
+    """
+    Tome, e sua!
+    """
+    end
 }
 script 8 mmz3 {
-	mugshotShow
-		mugshot = 67
-	"""
-	Oh, una cosa más.
-	Sobre los Discos
-	Secretos.
-	"""
-	msgClear
-	"""
-	Los Discos Secretos
-	contienen cosas que
-	"""
-	msgClear
-	"""
-	no puedes
-	decodificar,
-	¿cierto?
-	"""
-	msgClear
-	"""
-	Bueno, yo puedo
-	analizarlos por ti,
-	"""
-	msgClear
-	"""
-	así que ven cuando
-	quieras.
-	"""
-	msgClear
-	"""
-	También puedes hablar
-	conmigo si alguna vez
-	quieres ver el
-	"""
-	msgClear
-	"""
-	contenido de un
-	disco que ya
-	hayamos analizado.
-	"""
-	end
+    mugshotShow
+        mugshot = 67
+    """
+    Ah, uma coisa a mais.
+    Sobre os Discos
+    Secretos.
+    """
+    msgClear
+    """
+    Os Discos Secretos
+    contem coisas que
+    """
+    msgClear
+    """
+    voce nao pode
+    decodificar,
+    nao e?
+    """
+    msgClear
+    """
+    Bem, eu posso
+    analisa-los por voce,
+    """
+    msgClear
+    """
+    entao venha quando
+    quiser.
+    """
+    msgClear
+    """
+    Tambem pode falar
+    comigo se alguma vez
+    quiser ver o
+    """
+    msgClear
+    """
+    conteudo de um
+    disco que ja
+    julgamos analisado.
+    """
+    end
 }
 script 9 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Sr. Zero...
-	"""
-	msgClear
-	"""
-	Por favor, vaya a
-	"""
-	msgClear
-	"""
-	la sala del comandante,
-	"""
-	msgClear
-	"""
-	de inmediato.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Sr. Zero...
+    """
+    msgClear
+    """
+    Por favor, va para
+    """
+    msgClear
+    """
+    a sala do comandante,
+    """
+    msgClear
+    """
+    imediatamente.
+    """
+    end
 }
 script 10 mmz3 {
-	mugshotShow
-		mugshot = 67
-	"""
-	¿Hmm? Zero, te están
-	llamando.
-	"""
-	end
+    mugshotShow
+        mugshot = 67
+    """
+    Hmm? Zero, estao
+    te chamando.
+    """
+    end
 }
 script 11 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Este Recoil Rod
-	parece fácil de
-	usar. Gracias.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Este Recoil Rod
+    parece facil de
+    usar. Obrigado.
+    """
+    end
 }
 script 12 mmz3 {
-	mugshotShow
-		mugshot = 67
-	"""
-	El mundo es demasiado
-	pesado para que Ciel
-	lo enfrente sola...
-	"""
-	msgClear
-	"""
-	Cuida bien de ella,
-	Zero...
-	"""
-	end
+    mugshotShow
+        mugshot = 67
+    """
+    O mundo e pesado
+    demais para a Ciel
+    enfrentar sozinha...
+    """
+    msgClear
+    """
+    Cuide bem dela,
+    Zero...
+    """
+    end
 }
 script 13 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Perdón por tardar
-	tanto, Zero.
-	¿Estás listo?
-	"""
-	msgClear
-	"""
-	Hemos simulado
-	nuestras opciones
-	"""
-	msgClear
-	"""
-	según la información
-	actual.
-	"""
-	msgClear
-	"""
-	Preparé los
-	resultados en forma
-	de misiones.
-	"""
-	msgClear
-	"""
-	Las dos primeras
-	son...
-	"""
-	msgClear
-	"""
-	Misiones para evitar
-	que Neo Arcadia
-	obtenga al Dark Elf.
-	"""
-	msgClear
-	"""
-	Las otras dos son...
-	"""
-	msgClear
-	"""
-	Ataques de guerrilla
-	contra Neo Arcadia
-	"""
-	msgClear
-	"""
-	para proteger a
-	todos de su amenaza.
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	Zero... ¿luchar es
-	nuestra única opción?
-	"""
-	msgClear
-	"""
-	Quiero decir, hemos
-	desarrollado esta
-	nueva energía...
-	"""
-	msgClear
-	"""
-	Pensé que el mundo
-	al fin estaría en
-	paz...
-	"""
-	msgClear
-	"""
-	¿De verdad tenemos
-	que seguir luchando?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Ciel...
-	"""
-	msgClear
-	"""
-	Ya estás haciendo
-	lo mejor que puedes.
-	"""
-	msgClear
-	"""
-	Y no estás sola.
-	"""
-	msgClear
-	"""
-	Deja el resto en
-	nuestras manos.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 64
-	"""
-	Ze...Zero...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 98
-	"""
-	Sr. Zero, estamos
-	listos. Puede partir
-	en cualquier momento.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Desculpe por demorar
+    tanto, Zero.
+    Esta pronto?
+    """
+    msgClear
+    """
+    Simulamos
+    nossas opcoes
+    """
+    msgClear
+    """
+    segundo a informacao
+    atual.
+    """
+    msgClear
+    """
+    Preparei os
+    resultados em forma
+    de missoes.
+    """
+    msgClear
+    """
+    As duas primeiras
+    sao...
+    """
+    msgClear
+    """
+    Missoes para evitar
+    que Neo Arcadia
+    obtenha a Dark Elf.
+    """
+    msgClear
+    """
+    As outras duas sao...
+    """
+    msgClear
+    """
+    Ataques de guerrilha
+    contra Neo Arcadia
+    """
+    msgClear
+    """
+    para proteger a
+    todos de sua ameaca.
+    """
+    msgClear
+    """
+    ...
+    """
+    msgClear
+    """
+    ...
+    """
+    msgClear
+    """
+    Zero... lutar e
+    a nossa unica opcao?
+    """
+    msgClear
+    """
+    Quero dizer, nos
+    desenvolvemos esta
+    nova energia...
+    """
+    msgClear
+    """
+    Pensei que o mundo
+    enfim estaria em
+    paz...
+    """
+    msgClear
+    """
+    Será que realmente
+    temos que continuar
+    lutando?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    Ciel...
+    """
+    msgClear
+    """
+    Voce ja esta fazendo
+    o seu melhor.
+    """
+    msgClear
+    """
+    E nao esta sozinha.
+    """
+    msgClear
+    """
+    Deixe o resto em
+    nossas maos.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 64
+    """
+    Ze...Zero...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 98
+    """
+    Sr. Zero, estamos
+    prontos. Pode partir
+    a qualquer momento.
+    """
+    end
 }
 script 14 mmz3 {
-	mugshotShow
-		mugshot = 98
-	"""
-	¿Elegir una misión?
-	  SÍ
-	  NO
-	"""
-	end
+    mugshotShow
+        mugshot = 98
+    """
+    Eleger uma missao?
+      SIM
+      NAO
+    """
+    end
 }
 script 15 mmz3 {
-	mugshotShow
-		mugshot = 98
-	msgTop
-	"""
-	Cuando esté listo,
-	hágamelo saber.
-	"""
-	end
+    mugshotShow
+        mugshot = 98
+    msgTop
+    """
+    Quando estiver pronto,
+    faca-me saber.
+    """
+    end
 }
 script 16 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Has completado
-	todas las misiones.
-	"""
-	msgClear
-	"""
-	La siguiente misión
-	consiste en decidir
-	qué hacer con una
-	"""
-	msgClear
-	"""
-	fábrica de misiles
-	que fue descubierta
-	recientemente.
-	"""
-	msgClear
-	"""
-	Actualmente también
-	estamos buscando al
-	Dark Elf,
-	"""
-	msgClear
-	"""
-	mientras analizamos
-	soluciones para este
-	problema.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Voce completou
+    todas as missoes.
+    """
+    msgClear
+    """
+    A proxima missao
+    consiste em decidir
+    o que fazer com uma
+    """
+    msgClear
+    """
+    fabrica de misseis
+    que foi descoberta
+    recentemente.
+    """
+    msgClear
+    """
+    Atualmente tambem
+    estamos procurando a
+    Dark Elf,
+    """
+    msgClear
+    """
+    enquanto analisamos
+    solucoes para este
+    problema.
+    """
+    end
 }
 script 17 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Tenemos que hacer
-	algo con ese misil
-	ahora mismo.
-	"""
-	msgClear
-	"""
-	Tuvimos que calcular
-	las coordenadas de
-	transferencia de la
-	"""
-	msgClear
-	"""
-	fábrica de misiles
-	basándonos en anti-
-	guas fotografías
-	"""
-	msgClear
-	"""
-	satelitales...
-	"""
-	msgClear
-	"""
-	...así que las
-	coordenadas serían
-	demasiado peligrosas
-	"""
-	msgClear
-	"""
-	para usarlas como
-	ruta de transferencia
-	directa.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 98
-	"""
-	La ruta terrestre
-	hacia la fábrica de
-	misiles también es
-	"""
-	msgClear
-	"""
-	peligrosa, debido a
-	las patrullas de
-	reconocimiento que
-	"""
-	msgClear
-	"""
-	están buscando en
-	esa área.
-	"""
-	msgClear
-	"""
-	Estamos escaneando en
-	busca del Dark Elf,
-	pero aún sin suerte.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Entendido.
-	"""
-	msgClear
-	"""
-	Avísame si
-	algo cambia.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Temos que fazer
+    algo com esse missel
+    agora mesmo.
+    """
+    msgClear
+    """
+    Tivemos que calcular
+    as coordenadas de
+    transferencia da
+    """
+    msgClear
+    """
+    fabrica de misseis
+    baseando-nos em anti-
+    gas fotografias
+    """
+    msgClear
+    """
+    satelitais...
+    """
+    msgClear
+    """
+    ...entao as
+    coordenadas seriam
+    perigosas demais
+    """
+    msgClear
+    """
+    para usa-las como
+    rota de transferencia
+    direta.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 98
+    """
+    A rota terrestre
+    para a fabrica de
+    misseis tambem e
+    """
+    msgClear
+    """
+    perigosa, devido as
+    patrulhas de
+    reconhecimento que
+    """
+    msgClear
+    """
+    estao procurando
+    nessa area.
+    """
+    msgClear
+    """
+    Estamos escaneando
+    em busca da Dark Elf,
+    mas ainda sem sorte.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Entendido.
+    """
+    msgClear
+    """
+    Avise-me se
+    algo mudar.
+    """
+    end
 }
 script 18 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	De acuerdo.
-	"""
-	msgClear
-	"""
-	Ah, cierto...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    De acordo.
+    """
+    msgClear
+    """
+    Ah, certo...
+    """
+    end
 }
 script 19 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Te contactaremos
-	de inmediato si
-	sabemos algo nuevo.
-	"""
-	msgClear
-	"""
-	Por favor, descansa
-	hasta entonces.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Entraremos em contato
+    imediatamente se
+    soubermos algo novo.
+    """
+    msgClear
+    """
+    Por favor, descansa
+    ate entao.
+    """
+    end
 }
 script 20 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Está bien... pero
-	por favor, intenta
-	no excederte.
-	"""
-	msgClear
-	"""
-	Te contactaremos
-	pronto, así que por
-	ahora descansa.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Tudo bem... mas
+    por favor, tente
+    nao exagerar.
+    """
+    msgClear
+    """
+    Entraremos em contato
+    logo, entao por
+    ora descansa.
+    """
+    end
 }
 script 21 mmz3 {
-	mugshotShow
-		mugshot = 44
-	"""
-	Maestro X...
-	"""
-	msgClear
-	"""
-	¿Aún confía en ese
-	hombre... Weil?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 55
-	"""
-	Su destierro no
-	siguió los ca-ca-
-	nales oficiales.
-	"""
-	msgClear
-	"""
-	Que lo que hi-hizo
-	provocara una ca-
-	tástrofe terrible...
-	"""
-	msgClear
-	"""
-	no-no significa que
-	desterrarlo fuera
-	justificado.
-	"""
-	msgClear
-	"""
-	Ha regresado a
-	Neo Arcadia de
-	forma legal.
-	"""
-	msgClear
-	"""
-	¿Qu-qué razón hay
-	para expulsarlo?
-	"""
-	msgClear
-	"""
-	No te pre-pre-preo-
-	cupes. Aprendió
-	muchas cosas de sus
-	"""
-	msgClear
-	"""
-	errores del pasado.
-	"""
-	msgClear
-	"""
-	Ha-hará las cosas
-	bien es-esta vez.
-	"""
-	end
+    mugshotShow
+        mugshot = 44
+    """
+    Mestre X...
+    """
+    msgClear
+    """
+    Ainda confia nesse
+    homem... Weil?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 55
+    """
+    Seu destierro nao
+    seguiu os ca-ca-
+    nais oficiais.
+    """
+    msgClear
+    """
+    Que o que ele fi-
+    zesse provocasse uma
+    catastrofe terrivel...
+    """
+    msgClear
+    """
+    nao-nao significa que
+    desterra-lo fosse
+    justificado.
+    """
+    msgClear
+    """
+    Ele retornou a
+    Neo Arcadia de
+    forma legal.
+    """
+    msgClear
+    """
+    Qu-qual razao ha
+    para expulsa-lo?
+    """
+    msgClear
+    """
+    Nao se pre-pre-preo-
+    cupe. Ele aprendeu
+    muitas coisas dos seus
+    """
+    msgClear
+    """
+    erros do passado.
+    """
+    msgClear
+    """
+    Ele fa-fara as coisas
+    certas es-esta vez.
+    """
+    end
 }
 script 22 mmz3 {
-	mugshotShow
-		mugshot = 44
-	"""
-	Pero...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Jejeje...
-	Gracias, Maestro X.
-	"""
-	end
+    mugshotShow
+        mugshot = 44
+    """
+    Mas...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Hehehe...
+    Obrigado, Mestre X.
+    """
+    end
 }
 script 23 mmz3 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Yo, Dr. Weil,
-	jamás repetiré mis
-	errores del pasado.
-	"""
-	msgClear
-	"""
-	Nunca más. Sí.
-	Jejeje...
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Eu, Dr. Weil,
+    jamais repetirei meus
+    erros do passado.
+    """
+    msgClear
+    """
+    Nunca mais. Sim.
+    Hehehe...
+    """
+    end
 }
 script 24 mmz3 {
-	mugshotShow
-		mugshot = 59
-	msgBottom
-	"""
-	Aun así, chismear
-	sobre mí a mis
-	espaldas...
-	"""
-	msgClear
-	"""
-	Vaya, ¡cómo han
-	caído los poderosos
-	Cuatro Guardianes!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 44
-	msgBottom
-	"""
-	¡¿Qué?! ¡Weil!
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    msgBottom
+    """
+    Ainda assim, fofocar
+    sobre mim pelas
+    minhas costas...
+    """
+    msgClear
+    """
+    Nossa, como cairam
+    os poderosos
+    Quatro Guardioes!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 44
+    msgBottom
+    """
+    O que?! Weil!
+    """
+    end
 }
 script 25 mmz3 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Maestro X.
-	"""
-	msgClear
-	"""
-	El Dark Elf ha
-	aparecido en
-	Neo Arcadia.
-	"""
-	msgClear
-	"""
-	Área Z-3079...
-	Es el área más
-	lejana desde aquí.
-	"""
-	msgClear
-	"""
-	Un distrito
-	residencial
-	humano.
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Mestre X.
+    """
+    msgClear
+    """
+    A Dark Elf
+    apareceu em
+    Neo Arcadia.
+    """
+    msgClear
+    """
+    Area Z-3079...
+    E a area mais
+    distante daqui.
+    """
+    msgClear
+    """
+    Um distrito
+    residencial
+    humano.
+    """
+    end
 }
 script 26 mmz3 {
-	mugshotShow
-		mugshot = 44
-	"""
-	Iremos.
-	"""
-	msgClear
-	"""
-	Leviathan y Fefnir
-	aún están en
-	mantenimiento,
-	"""
-	msgClear
-	"""
-	pero si apuramos
-	un poco las cosas...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 55
-	"""
-	Harpuia, ¿hasta
-	cuándo piensas
-	actuar como si
-	"""
-	msgClear
-	"""
-	estuvieras al
-	mando?
-	"""
-	msgClear
-	"""
-	Dejando que la
-	Resistencia se
-	salga con la suya
-	"""
-	msgClear
-	"""
-	con incontables
-	levantamientos...
-	"""
-	msgClear
-	"""
-	Incluso dejando
-	que el Dark Elf
-	escape...
-	"""
-	msgClear
-	"""
-	Estoy cansado de
-	g-gente inútil
-	como tú.
-	"""
-	msgClear
-	"""
-	Los Cuatro
-	Guardianes serán
-	destituidos.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 44
-	"""
-	¡¿Pero... Maestro X?!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 55
-	"""
-	Dr. Weil...
-	"""
-	msgClear
-	"""
-	Le encomiendo el
-	mando de nuestros
-	ej-ejércitos.
-	"""
-	msgClear
-	"""
-	¿Aceptará?
-	"""
-	end
+    mugshotShow
+        mugshot = 44
+    """
+     Iremos.
+    """
+    msgClear
+    """
+    Leviathan e Fefnir
+    ainda estao em
+    manutencao,
+    """
+    msgClear
+    """
+    mas se apurarmos
+    um pouco as coisas...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 55
+    """
+    Harpuia, ate
+    quando pensa em
+    agir como se
+    """
+    msgClear
+    """
+    estivesse no
+    comando?
+    """
+    msgClear
+    """
+    Deixando a
+    Resistencia se
+    sair com a sua
+    """
+    msgClear
+    """
+    com incontaveis
+    levantamentos...
+    """
+    msgClear
+    """
+    Ate mesmo deixando
+    a Dark Elf
+    escapar...
+    """
+    msgClear
+    """
+    Estou cansado de
+    g-gente inutil
+    como voce.
+    """
+    msgClear
+    """
+    Os Quatro
+    Guardioes serao
+    destituidos.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 44
+    """
+    Mas... Mestre X?!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 55
+    """
+    Dr. Weil...
+    """
+    msgClear
+    """
+    Eu encomendo o
+    comando dos nossos
+    ex-exercitos.
+    """
+    msgClear
+    """
+    Vai aceitar?
+    """
+    end
 }
 script 27 mmz3 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Jejejeje...
-	¡Sí, señor!
-	"""
-	msgClear
-	"""
-	Capturaré al
-	Dark Elf, sin
-	fallar...
-	"""
-	msgClear
-	"""
-	...antes de que
-	caiga en manos de
-	la Resistencia y
-	"""
-	msgClear
-	"""
-	se convierta en
-	una amenaza para
-	este mundo...
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Hejejeje...
+    Sim, senhor!
+    """
+    msgClear
+    """
+    Capturarei a
+    Dark Elf, sem
+    falhar...
+    """
+    msgClear
+    """
+    ...antes que
+    caia nas maos da
+    Resistencia e
+    """
+    msgClear
+    """
+    se torne uma
+    ameaca para
+    este mundo...
+    """
+    end
 }
 script 28 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Los preparativos
-	para el lanzamiento
-	del misil han
-	"""
-	msgClear
-	"""
-	comenzado.
-	"""
-	msgClear
-	"""
-	No sabemos el área
-	objetivo, pero
-	estamos intentando
-	"""
-	msgClear
-	"""
-	abrirnos paso
-	mediante hackeo y
-	descubrirlo.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 98
-	"""
-	Una enorme energía
-	emana del misil.
-	"""
-	msgClear
-	"""
-	Parece que Omega
-	está a bordo.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 64
-	"""
-	¡¿Omega?!
-	"""
-	msgClear
-	"""
-	¿¡Ese Omega, en el
-	misil!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Os preparativos
+    para o lancamento
+    do missel
+    """
+    msgClear
+    """
+    comecaram.
+    """
+    msgClear
+    """
+    Nao sabemos a area
+    alvo, mas
+    estamos tentando
+    """
+    msgClear
+    """
+    nos abrir caminho
+    mediante hackeamento e
+    descobri-lo.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 98
+    """
+    Uma enorme energia
+    emana do missel.
+    """
+    msgClear
+    """
+    Parece que Omega
+    esta a bordo.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 64
+    """
+    Omega?!
+    """
+    msgClear
+    """
+    Esse Omega, no
+    missel!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    ...
+    """
+    end
 }
 script 29 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Ciel...
-	"""
-	msgClear
-	"""
-	Introduce las
-	coordenadas que
-	encontraste.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Ciel...
+    """
+    msgClear
+    """
+    Insira as
+    coordenadas que
+    encontrou.
+    """
+    end
 }
 script 30 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¡Eso es...
-	peligroso!
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Isso e...
+    perigoso!
+    """
+    end
 }
 script 31 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Operadora.
-	"""
-	msgClear
-	"""
-	Apresúrate y prepara
-	la transferencia.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Operadora.
+    """
+    msgClear
+    """
+    Apresse-se e prepare
+    a transferencia.
+    """
+    end
 }
 script 32 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¡Zero, no estoy
-	segura de esto!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Confío en ti.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Zero, nao estou
+    segura disso!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Confio em voce.
+    """
+    end
 }
 script 33 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    ...
+    """
+    end
 }
 script 34 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	De acuerdo...
-	...Ingresando...los
-	datos...
-	"""
-	msgClear
-	"""
-	¡Por favor,
-	transfiéranlo!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 97
-	"""
-	Entendido.
-	Iniciando los
-	"""
-	msgClear
-	"""
-	preparativos de
-	transferencia.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    De acordo...
+    ...Inserindo...os
+    dados...
+    """
+    msgClear
+    """
+    Por favor,
+    transfira-o!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 97
+    """
+    Entendido.
+    Iniciando os
+    """
+    msgClear
+    """
+    preparativos de
+    transferencia.
+    """
+    end
 }
 script 35 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Zero...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Zero...
+    """
+    end
 }
 script 36 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Me alegra tanto
-	que estés a salvo...
-	"""
-	msgClear
-	"""
-	Por favor... nunca
-	vuelvas a hacer
-	algo tan loco
-	"""
-	msgClear
-	"""
-	como eso...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	...
-	Lo pensaré.
-	"""
-	msgClear
-	"""
-	Por cierto...
-	¿Cómo está Harpuia?
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Me alegra tanto
+    que esteja a salvo...
+    """
+    msgClear
+    """
+    Por favor... nunca
+    volte a fazer
+    algo tao louco
+    """
+    msgClear
+    """
+    como isso...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    ...
+    Vou pensar nisso.
+    """
+    msgClear
+    """
+    A proposito...
+    Como esta o Harpuia?
+    """
+    end
 }
 script 37 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Cerveau lo llevó
-	a la sala de
-	mantenimiento.
-	"""
-	msgClear
-	"""
-	No estaba herido
-	de gravedad,
-	pero...
-	"""
-	msgClear
-	"""
-	Tendrá que descansar
-	y recuperarse por
-	un tiempo.
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	Las cosas se han
-	vuelto realmente
-	horribles...
-	"""
-	msgClear
-	"""
-	Los operadores
-	reunirán toda la
-	información posible.
-	"""
-	msgClear
-	"""
-	Analizar toda esa
-	información tomará
-	un tiempo.
-	"""
-	msgClear
-	"""
-	Intenta descansar
-	un poco hasta
-	entonces.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Estoy bien.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    O Cerveau o levou
+    para a sala de
+    manutencao.
+    """
+    msgClear
+    """
+    Nao estava ferido
+    gravemente,
+    mas...
+    """
+    msgClear
+    """
+    Tera que descansar
+    e se recuperar por
+    um tempo.
+    """
+    msgClear
+    """
+    ...
+    """
+    msgClear
+    """
+    As coisas ficaram
+    realmente
+    horriveis...
+    """
+    msgClear
+    """
+    Os operadores
+    reunirao toda a
+    informacao possivel.
+    """
+    msgClear
+    """
+    Analisar toda essa
+    informacao levara
+    um tempo.
+    """
+    msgClear
+    """
+    Tente descansar
+    um pouco ate
+    la.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    Estou bem.
+    """
+    end
 }
 script 38 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Entonces,
-	al menos...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Entao,
+    ao menos...
+    """
+    end
 }
 script 39 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Aún no entiendo
-	cómo Neo Arcadia
-	pudo disparar un
-	"""
-	msgClear
-	"""
-	misil a un área
-	donde viven
-	humanos...
-	"""
-	msgClear
-	"""
-	...incluso para
-	obtener al Dark Elf...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Ainda nao entendo
+    como Neo Arcadia
+    pude disparar um
+    """
+    msgClear
+    """
+    missel para uma area
+    onde vivem
+    humanos...
+    """
+    msgClear
+    """
+    ...mesmo para
+    obter a Dark Elf...
+    """
+    end
 }
 script 40 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	De acuerdo...
-	"""
-	msgClear
-	"""
-	Aún no entiendo
-	cómo Neo Arcadia
-	pudo disparar un
-	"""
-	msgClear
-	"""
-	misil a un área
-	donde viven
-	humanos...
-	"""
-	msgClear
-	"""
-	...incluso para
-	obtener al Dark Elf.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    De acordo...
+    """
+    msgClear
+    """
+    Ainda nao entendo
+    como Neo Arcadia
+    pude disparar um
+    """
+    msgClear
+    """
+    missel para uma area
+    onde vivem
+    humanos...
+    """
+    msgClear
+    """
+    ...mesmo para
+    obter a Dark Elf.
+    """
+    end
 }
 script 41 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	¡Alguien ha entrado
-	en nuestro circuito
-	de transmisión!
-	"""
-	msgClear
-	"""
-	¡Es Neo Arcadia!
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Alguem invadiu
+    nosso circuito
+    de transmissao!
+    """
+    msgClear
+    """
+    E Neo Arcadia!
+    """
+    end
 }
 script 42 mmz3 {
-	mugshotShow
-		mugshot = 5
-	"""
-	¡Ponlos en línea!
-	"""
-	end
+    mugshotShow
+        mugshot = 5
+    """
+    Ponha-os em linha!
+    """
+    end
 }
 script 43 mmz3 {
-	mugshotShow
-		mugshot = 54
-	msgBottom
-	"""
-	¿P-p-pueden oírme?
-	Miembros de la
-	Resistencia.
-	"""
-	msgClear
-	"""
-	Y... D-Doctora Ciel.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 65
-	"""
-	¡Copy X!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 54
-	"""
-	Tenemos la custodia
-	del D-Dark Elf.
-	"""
-	msgClear
-	"""
-	Pongamos fin a
-	este conflicto
-	insensato.
-	"""
-	msgClear
-	"""
-	Les pedimos que
-	se rindan a
-	n-nosotros.
-	"""
-	end
+    mugshotShow
+        mugshot = 54
+    msgBottom
+    """
+    P-p-pode me ouvir?
+    Membros da
+    Resistencia.
+    """
+    msgClear
+    """
+    E... D-Doutora Ciel.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 65
+    """
+    Copy X!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 54
+    """
+    Temos a custodia
+    da D-Dark Elf.
+    """
+    msgClear
+    """
+    Ponhamos fim a
+    este conflito
+    insensato.
+    """
+    msgClear
+    """
+    Pedimos que
+    se rendam a
+    n-nos.
+    """
+    end
 }
 script 44 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¿Rendirse?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Entréguennos la
-	nueva energía que
-	inventaron,
-	"""
-	msgClear
-	"""
-	el Ciel System.
-	"""
-	msgClear
-	"""
-	Si hacen esto, garan-
-	tizo la seguridad de
-	ustedes, Mavericks.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 64
-	"""
-	Tiene que ser...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Como resultado de
-	nuestro análisis de
-	la información del
-	"""
-	msgClear
-	"""
-	Ciel System que
-	amablemente nos
-	enviaron...
-	"""
-	msgClear
-	"""
-	Hemos determinado
-	que al combinarla
-	con el Dark Elf,
-	"""
-	msgClear
-	"""
-	podría ser posible
-	generar enormes can-
-	tidades de energía.
-	"""
-	msgClear
-	"""
-	Esto resolvería la
-	crisis energética
-	de un solo golpe.
-	"""
-	msgClear
-	"""
-	Ya no habría razón
-	para que lucháramos.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 55
-	"""
-	Ciel...
-	"""
-	msgClear
-	"""
-	Una sola respuesta de
-	usted traerá paz
-	a-al mundo.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Render-se?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Entreguem-nos a
+    nova energia que
+    inventaram,
+    """
+    msgClear
+    """
+    o Ciel System.
+    """
+    msgClear
+    """
+    Se fizerem isso, garan-
+    tizarei a seguranca de
+    voces, Mavericks.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 64
+    """
+    Tem que ser...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Como resultado de
+    nosso analise da
+    informacao do
+    """
+    msgClear
+    """
+    Ciel System que
+    gentilmente nos
+    enviaram...
+    """
+    msgClear
+    """
+    Determinamos
+    que ao combina-lo
+    com a Dark Elf,
+    """
+    msgClear
+    """
+    poderia ser possivel
+    gerar enormes can-
+    tidades de energia.
+    """
+    msgClear
+    """
+    Isso resolveria a
+    crise energetica
+    de um so golpe.
+    """
+    msgClear
+    """
+    Ja nao haveria razao
+    para lutarmos.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 55
+    """
+    Ciel...
+    """
+    msgClear
+    """
+    Uma so resposta de
+    voce trara paz
+    a-ao mundo.
+    """
+    end
 }
 script 45 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	...
-	"""
-	msgClear
-	"""
-	No puedo...
-	"""
-	msgClear
-	"""
-	confiar...en ti.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 55
-	"""
-	¿Qué es e-eso?
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    ...
+    """
+    msgClear
+    """
+    Nao posso...
+    """
+    msgClear
+    """
+    confiar...em voce.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 55
+    """
+    O que e i-isso?
+    """
+    end
 }
 script 46 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¡Estabas dispuesto a
-	sacrificar humanos
-	para obtener al
-	"""
-	msgClear
-	"""
-	Dark Elf!
-	"""
-	msgClear
-	"""
-	No puedo confiar en
-	ti después de ver
-	eso.
-	"""
-	msgClear
-	"""
-	No puedes tener el
-	Ciel System.
-	"""
-	msgClear
-	"""
-	¡Fue creado para que
-	humanos y Reploides
-	vivan en paz!
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Voce estava disposto a
+    sacrificar humanos
+    para obter a
+    """
+    msgClear
+    """
+    Dark Elf!
+    """
+    msgClear
+    """
+    Nao posso confiar em
+    voce depois de ver
+    isso.
+    """
+    msgClear
+    """
+    Nao pode ter o
+    Ciel System.
+    """
+    msgClear
+    """
+    Foi criado para que
+    humanos e Reploides
+    vivam em paz!
+    """
+    end
 }
 script 47 mmz3 {
-	mugshotShow
-		mugshot = 55
-	msgBottom
-	"""
-	¿Esa es... t-tu
-	respuesta?
-	"""
-	msgClear
-	"""
-	Bien.
-	"""
-	msgClear
-	"""
-	Tienen e-el monopolio
-	de los recursos
-	energéticos...
-	"""
-	msgClear
-	"""
-	Y Zero, un Reploide
-	con aterradoras
-	h-habilidades
-	"""
-	msgClear
-	"""
-	de combate...
-	"""
-	msgClear
-	"""
-	¡N-no son más que
-	sucios extremistas!
-	"""
-	msgClear
-	"""
-	Ciel...
-	Me estaba conteni-
-	end-do hasta ahora,
-	"""
-	msgClear
-	"""
-	porque tú estabas
-	aquí, una humana...
-	"""
-	msgClear
-	"""
-	¡Ahora enfrentará
-	las consecuencias,
-	junto con sus
-	"""
-	msgClear
-	"""
-	amigos Mavericks!
-	"""
-	end
+    mugshotShow
+        mugshot = 55
+    msgBottom
+    """
+    Essa e... s-sua
+    resposta?
+    """
+    msgClear
+    """
+    Bem.
+    """
+    msgClear
+    """
+    Tem o-o monopolio
+    dos recursos
+    energeticos...
+    """
+    msgClear
+    """
+    E o Zero, um Reploide
+    com aterrorizantes
+    h-habilidades
+    """
+    msgClear
+    """
+    de combate...
+    """
+    msgClear
+    """
+    N-nao sao mais que
+    sujos extremistas!
+    """
+    msgClear
+    """
+    Ciel...
+    Eu estava me contendo
+    ate agora,
+    """
+    msgClear
+    """
+    porque voce estava
+    aqui, uma humana...
+    """
+    msgClear
+    """
+    Agora enfrentara
+    as consequencias,
+    junto com seus
+    """
+    msgClear
+    """
+    amigos Mavericks!
+    """
+    end
 }
 script 48 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	La transmisión fue
-	cortada.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    A transmissao foi
+    cortada.
+    """
+    end
 }
 script 49 mmz3 {
-	mugshotShow
-		mugshot = 98
-	"""
-	La milicia de Neo
-	Arcadia ha empezado
-	a avanzar hacia
-	"""
-	msgClear
-	"""
-	nuestra base desde
-	múltiples áreas.
-	"""
-	msgClear
-	"""
-	Han iniciado una
-	ofensiva total.
-	"""
-	end
+    mugshotShow
+        mugshot = 98
+    """
+    A milicia de Neo
+    Arcadia comecou
+    a avancar para
+    """
+    msgClear
+    """
+    a nossa base a partir
+    de multiplas areas.
+    """
+    msgClear
+    """
+    Iniciaram uma
+    ofensiva total.
+    """
+    end
 }
 script 50 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Zero...Yo...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Creíste en ti
-	misma y luchaste
-	en consecuencia.
-	"""
-	msgClear
-	"""
-	Lo que sigue...
-	es mi trabajo.
-	"""
-	msgClear
-	"""
-	Dime en qué áreas
-	están.
-	Yo los interceptaré.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 64
-	"""
-	Zero...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 97
-	"""
-	Mostrando los
-	movimientos de Neo
-	Arcadia en el
-	"""
-	msgClear
-	"""
-	monitor...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Zero...Eu...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    Voce acreditou em si
+    mesma e lutou
+    em consequencia.
+    """
+    msgClear
+    """
+    O que se segue...
+    e meu trabalho.
+    """
+    msgClear
+    """
+    Me diga em que areas
+    eles estao.
+    Eu os interceptarei.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 64
+    """
+    Zero...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 97
+    """
+    Mostrando os
+    movimentos de Neo
+    Arcadia no
+    """
+    msgClear
+    """
+    monitor...
+    """
+    end
 }
 script 51 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Sala de mantenimiento
-	"""
-	msgClear
-	"""
-	en uso...
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Sala de manutencao
+    """
+    msgClear
+    """
+    em uso...
+    """
+    end
 }
 script 52 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Así que esto
-	es en lo que
-	terminó todo...
-	"""
-	msgClear
-	"""
-	Dr. Weil como
-	gobernante de
-	Neo Arcadia...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Esos humanos
-	no saben nada...
-	"""
-	msgClear
-	"""
-	No, no es eso.
-	Nunca intentaron
-	aprender nada...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Entao isto
+    foi em que
+    tudo terminou...
+    """
+    msgClear
+    """
+    Dr. Weil como
+    governante de
+    Neo Arcadia...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    Esses humanos
+    nao sabem nada...
+    """
+    msgClear
+    """
+    Nao, nao e isso.
+    Nunca tentaram
+    aprender nada...
+    """
+    end
 }
 script 53 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Vidas con comida
-	y comodidad
-	de sobra...
-	"""
-	msgClear
-	"""
-	La gente ha dejado
-	de molestarse en
-	pensar...
-	"""
-	msgClear
-	"""
-	Aún puede haber
-	personas que
-	quieran actuar.
-	"""
-	msgClear
-	"""
-	Si pudiéramos
-	hacer que esas
-	personas sepan
-	"""
-	msgClear
-	"""
-	lo que el Dr. Weil
-	realmente planea...
-	"""
-	msgClear
-	"""
-	Quizá podamos
-	cambiar Neo Arcadia.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 97
-	"""
-	¿Quién es este
-	Dr. Weil, de
-	todos modos?
-	"""
-	msgClear
-	"""
-	¿Qué ha estado
-	haciendo desde
-	que reapareció?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 98
-	"""
-	Si puedes reunir
-	algo de
-	información...
-	"""
-	msgClear
-	"""
-	podríamos
-	analizarla
-	para saber
-	"""
-	msgClear
-	"""
-	dónde está ahora y
-	qué es lo que ha
-	hecho hasta ahora.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Está bien.
-	"""
-	msgClear
-	"""
-	¿A dónde debo ir?
-	Solo dime...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Vidas com comida
+    e conforto
+    de sobra...
+    """
+    msgClear
+    """
+    As pessoas pararam
+    de se incomodar em
+    pensar...
+    """
+    msgClear
+    """
+    Ainda pode haver
+    pessoas que
+    queiram agir.
+    """
+    msgClear
+    """
+    Se pudessemos
+    fazer com que essas
+    pessoas saibam
+    """
+    msgClear
+    """
+    o que o Dr. Weil
+    realmente planeja...
+    """
+    msgClear
+    """
+    Talvez possamos
+    mudar Neo Arcadia.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 97
+    """
+    Quem e este
+    Dr. Weil, de
+    qualquer modo?
+    """
+    msgClear
+    """
+    O que tem estado
+    fazendo desde
+    que reapareceu?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 98
+    """
+    Se puder reunir
+    um pouco de
+    informacao...
+    """
+    msgClear
+    """
+    poderiamos
+    analisa-la
+    para saber
+    """
+    msgClear
+    """
+    onde esta agora e
+    o que tem
+    feito ate agora.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    Esta bem.
+    """
+    msgClear
+    """
+    Para onde devo ir?
+    So me diga...
+    """
+    end
 }
 script 54 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Sí, pero antes...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Sim, mas antes...
+    """
+    end
 }
 script 55 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Hemos aislado algunos
-	lugares para que
-	reúnas información.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Isolamos alguns
+    lugares para que
+    reuna informacao.
+    """
+    end
 }
 script 56 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Y... listo.
-	"""
-	msgClear
-	"""
-	Acabamos de ingresar
-	los datos recuperados
-	hasta ahora.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 98
-	"""
-	Ahora, comencemos
-	el análisis.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    E... pronto.
+    """
+    msgClear
+    """
+    Acabamos de inserir
+    os dados recuperados
+    ate agora.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 98
+    """
+    Agora, comecemos
+    a analise.
+    """
+    end
 }
 script 57 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Gracias a Zero,
-	hemos reunido
-	mucha información.
-	"""
-	msgClear
-	"""
-	Analizar los datos
-	tomará tiempo, así
-	que por ahora...
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Gracas ao Zero,
+    reunimos
+    muita informacao.
+    """
+    msgClear
+    """
+    Analisar os dados
+    levara tempo, entao
+    por agora...
+    """
+    end
 }
 script 58 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Oh, cierto. Eso
-	me recuerda.
-	"""
-	msgClear
-	"""
-	Cerveau me dijo que
-	el estado de Harpuia
-	ha mejorado mucho.
-	"""
-	msgClear
-	"""
-	¿Por qué no vas
-	a visitarlo?
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Ah, certo. Isso
+    me lembra.
+    """
+    msgClear
+    """
+    O Cerveau me disse que
+    o estado do Harpuia
+    melhorou muito.
+    """
+    msgClear
+    """
+    Por que nao vai
+    visita-lo?
+    """
+    end
 }
 script 59 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Está bien...
-	Pero por favor,
-	no te excedas.
-	"""
-	msgClear
-	"""
-	Oh, cierto. Eso
-	me recuerda.
-	"""
-	msgClear
-	"""
-	Cerveau me dijo que
-	el estado de Harpuia
-	ha mejorado mucho.
-	"""
-	msgClear
-	"""
-	¿Por qué no vas
-	a visitarlo?
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Esta bem...
+    Mas por favor,
+    nao se exceda.
+    """
+    msgClear
+    """
+    Ah, certo. Isso
+    me lembra.
+    """
+    msgClear
+    """
+    O Cerveau me disse que
+    o estado do Harpuia
+    melhorou muito.
+    """
+    msgClear
+    """
+    Por que nao vai
+    visita-lo?
+    """
+    end
 }
 script 60 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Ya puedes
-	ponerte de pie?
-	"""
-	msgClear
-	"""
-	Vaya, Harpuia,
-	no es fácil
-	derribarte...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Ja pode
+    ficar de pe?
+    """
+    msgClear
+    """
+    Nossa, Harpuia,
+    nao e facil
+    derruba-lo...
+    """
+    end
 }
 script 61 mmz3 {
-	mugshotShow
-		mugshot = 45
-	"""
-	¿Qué estás tramando?
-	¿Por qué me 
-	rescataste?
-	"""
-	msgClear
-	"""
-	¿Esperas algún
-	favor a cambio?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Quizá.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    O que esta tramando?
+    Por que me
+    resgatou?
+    """
+    msgClear
+    """
+    Espera algum
+    favor em troca?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Talvez.
+    """
+    end
 }
 script 62 mmz3 {
-	mugshotShow
-		mugshot = 66
-	"""
-	Oh, despertaste.
-	"""
-	msgClear
-	"""
-	¿Cómo te sientes?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 45
-	"""
-	Horrible.
-	"""
-	msgClear
-	"""
-	Solo pensar que
-	ustedes me ayudaron
-	me da náuseas.
-	"""
-	msgClear
-	"""
-	Fui despojado de
-	mi rango y expulsado
-	de Neo Arcadia.
-	"""
-	msgClear
-	"""
-	Soy mercancía
-	descartada...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 66
-	"""
-	Eso no es cierto.
-	"""
-	msgClear
-	"""
-	Solo defendiste
-	tus creencias,
-	igual que nosotros.
-	"""
-	msgClear
-	"""
-	No cometiste
-	ningún error.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 45
-	"""
-	Mis creencias...
-	"""
-	msgClear
-	"""
-	Ya no puedo
-	quedarme de
-	brazos cruzados...
-	"""
-	msgClear
-	"""
-	Debemos proteger
-	a los humanos
-	de Weil.
-	"""
-	msgClear
-	"""
-	Tenemos que
-	detenerlo
-	inmediatamente.
-	"""
-	msgClear
-	"""
-	¡¡¡Ese... ese...
-	Weil!!!
-	"""
-	end
+    mugshotShow
+        mugshot = 66
+    """
+    Oh, acordou.
+    """
+    msgClear
+    """
+    Como se sente?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 45
+    """
+    Horrivel.
+    """
+    msgClear
+    """
+    So de pensar que
+    voces me ajudaram
+    me da nauseas.
+    """
+    msgClear
+    """
+    Fui despojado do
+    meu cargo e expulso
+    de Neo Arcadia.
+    """
+    msgClear
+    """
+    Sou mercadoria
+    descartada...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 66
+    """
+    Isso nao e verdade.
+    """
+    msgClear
+    """
+    So defendeu
+    suas crencas,
+    igual a nos.
+    """
+    msgClear
+    """
+    Nao cometeu
+    nenhum erro.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 45
+    """
+    Minhas crencas...
+    """
+    msgClear
+    """
+    Ja nao posso
+    ficar de
+    bracos cruzados...
+    """
+    msgClear
+    """
+    Devemos proteger
+    os humanos
+    do Weil.
+    """
+    msgClear
+    """
+    Temos que
+    detelo
+    imediatamente.
+    """
+    msgClear
+    """
+    Ese... ese...
+    Weil!!!
+    """
+    end
 }
 script 63 mmz3 {
-	mugshotShow
-		mugshot = 66
-	"""
-	¡Espera!
-	"""
-	msgClear
-	"""
-	¡Tus heridas aún
-	no han sanado
-	por completo!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 45
-	"""
-	Soy un guerrero,
-	nacido para proteger
-	humanos.
-	"""
-	msgClear
-	"""
-	¡Soy un orgulloso
-	guerrero de
-	Neo Arcadia!
-	"""
-	msgClear
-	"""
-	¡No necesito
-	ninguna ayuda!
-	"""
-	msgClear
-	"""
-	Aunque mi cuerpo
-	termine en ruinas...
-	"""
-	msgClear
-	"""
-	¡Seguiré luchando
-	con gusto por la
-	humanidad!
-	"""
-	end
+    mugshotShow
+        mugshot = 66
+    """
+    Espere!
+    """
+    msgClear
+    """
+    Suas feridas ainda
+    nao curaram
+    por completo!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 45
+    """
+    Sou um guerreiro,
+    nascido para proteger
+    humanos.
+    """
+    msgClear
+    """
+    Sou um orgulhoso
+    guerreiro de
+    Neo Arcadia!
+    """
+    msgClear
+    """
+    Nao preciso
+    de nenhuma ajuda!
+    """
+    msgClear
+    """
+    Ainda que meu corpo
+    termine em ruinas...
+    """
+    msgClear
+    """
+    Vou continuar lutando
+    com gosto pela
+    humanidade!
+    """
+    end
 }
 script 64 mmz3 {
-	mugshotShow
-		mugshot = 66
-	"""
-	Así que...
-	"""
-	msgClear
-	"""
-	Harpuia se niega
-	a venir con
-	nosotros.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 66
+    """
+    Entao...
+    """
+    msgClear
+    """
+    Harpuia se recusa
+    a vir com
+    nos.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    ...
+    """
+    end
 }
 script 65 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Sr. Zero...
-	"""
-	msgClear
-	"""
-	Ven a la sala del comandante
-	"""
-	msgClear
-	"""
-	inmediatamente.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Sr. Zero...
+    """
+    msgClear
+    """
+    Venha a sala do comandante
+    """
+    msgClear
+    """
+    imediatamente.
+    """
+    end
 }
 script 66 mmz3 {
-	mugshotShow
-		mugshot = 66
-	"""
-	Te tienen muy
-	ocupado, ¿no,
-	Zero?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Volveré luego.
-	"""
-	end
+    mugshotShow
+        mugshot = 66
+    """
+    Te tem muito
+    ocupado, nao e,
+    Zero?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Volto depois.
+    """
+    end
 }
 script 67 mmz3 {
-	mugshotShow
-		mugshot = 66
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Harpuia...
-	"""
-	msgClear
-	"""
-	Ni se les ocurra
-	morir...
-	"""
-	end
+    mugshotShow
+        mugshot = 66
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Harpuia...
+    """
+    msgClear
+    """
+    Nem pensem em
+    morrer...
+    """
+    end
 }
 script 68 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Estamos analizando
-	los datos. Por favor
-	espera un poco más.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Estamos analisando
+    os dados. Por favor
+    espere um pouco mais.
+    """
+    end
 }
 script 69 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	El análisis de la
-	información está
-	completo.
-	"""
-	msgClear
-	"""
-	La Srta. Ciel
-	informará sobre
-	lo que hallamos.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    A analise da
+    informacao esta
+    completa.
+    """
+    msgClear
+    """
+    A Srta. Ciel
+    informara sobre
+    o que achamos.
+    """
+    end
 }
 script 70 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Zero... lo siento.
-	"""
-	msgClear
-	"""
-	Reuniste mucha
-	información para
-	nosotros, pero...
-	"""
-	msgClear
-	"""
-	Aún no sabemos
-	dónde está
-	Weil.
-	"""
-	msgClear
-	"""
-	Pero sí hemos
-	descubierto qué
-	podría intentar.
-	"""
-	msgClear
-	"""
-	Antes de hablar
-	sobre Weil...
-	"""
-	msgClear
-	"""
-	Abriré el archivo de
-	las Guerras Élficas
-	que encontraste.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Zero... sinto muito.
+    """
+    msgClear
+    """
+    Reuniu muita
+    informacao para
+    nos, mas...
+    """
+    msgClear
+    """
+    Ainda nao sabemos
+    onde esta
+    o Weil.
+    """
+    msgClear
+    """
+    Mas sim descobrimos
+    o que ele
+    poderia tentar.
+    """
+    msgClear
+    """
+    Antes de falar
+    sobre o Weil...
+    """
+    msgClear
+    """
+    Vou abrir o arquivo das
+    Guerras Elficas
+    que voce encontrou.
+    """
+    end
 }
 script 71 mmz3 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	"""
-	Archivo #945388
-	== Guerras Élficas ==
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    """
+    Arquivo #945388
+    == Guerras Elficas ==
+    """
+    end
 }
 script 72 mmz3 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	"""
-	Cerca del final de las
-	Guerras Maverick, muchos
-	Ciber-elfos fueron usados...
-	"""
-	msgClear
-	"""
-	El periodo desde ese
-	momento hasta el fin
-	de los combates fue
-	"""
-	msgClear
-	"""
-	conocido como las
-	Guerras Élficas.
-	"""
-	msgClear
-	"""
-	En particular, el uso del
-	enorme elfo conocido como
-	el "Dark Elf",
-	"""
-	msgClear
-	"""
-	y copias de este elfo,
-	llamadas "Elfos Bebé",
-	"""
-	msgClear
-	"""
-	para amplificar el poder
-	de los Reploides...
-	"""
-	msgClear
-	"""
-	mientras controlaban
-	a dichos Reploides
-	a voluntad...
-	"""
-	msgClear
-	"""
-	hizo de esta la peor
-	guerra registrada
-	en la historia...
-	"""
-	msgClear
-	"""
-	Aunque el uso del
-	Dark Elf puso fin a la
-	guerra en cuatro años...
-	"""
-	msgClear
-	"""
-	Aproximadamente el 90%
-	de todos los Reploides,
-	"""
-	msgClear
-	"""
-	y el 60% de los humanos,
-	fueron aniquilados.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    """
+    Perto do final das
+    Guerras Maverick, muitos
+    Cyber-elves foram usados...
+    """
+    msgClear
+    """
+    O periodo desde esse
+    momento ate o fim
+    dos combates foi
+    """
+    msgClear
+    """
+    conhecido como as
+    Guerras Elficas.
+    """
+    msgClear
+    """
+    Em particular, o uso do
+    enorme elfo conhecido como
+    a "Dark Elf",
+    """
+    msgClear
+    """
+    e copias deste elfo,
+    chamadas "Baby Elves",
+    """
+    msgClear
+    """
+    para amplificar o poder
+    dos Reploides...
+    """
+    msgClear
+    """
+    enquanto controlavam
+    a ditos Reploides
+    a vontade...
+    """
+    msgClear
+    """
+    fez desta a pior
+    guerra registrada
+    na historia...
+    """
+    msgClear
+    """
+    Ainda que o uso da
+    Dark Elf pusse fim a
+    guerra em quatro anos...
+    """
+    msgClear
+    """
+    Aproximadamente 90%
+    de todos os Reploides,
+    """
+    msgClear
+    """
+    e 60% dos humanos,
+    foram aniquilados.
+    """
+    end
 }
 script 73 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	La tecnología usada
-	en aquel tiempo...
-	"""
-	msgClear
-	"""
-	...la tecnología de
-	usar Elfos Bebé para
-	controlar Reploides.
-	"""
-	msgClear
-	"""
-	Debe ser lo que
-	Weil intenta
-	utilizar otra vez.
-	"""
-	msgClear
-	"""
-	Estoy segura de que
-	lo que Zero vio en la
-	fábrica de copias
-	"""
-	msgClear
-	"""
-	del Dark Elf eran
-	máquinas preparadas
-	para este propósito.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    A tecnologia usada
+    naquele tempo...
+    """
+    msgClear
+    """
+    ...a tecnologia de
+    usar Baby Elves para
+    controlar Reploides.
+    """
+    msgClear
+    """
+    Deve ser o que
+    o Weil tenta
+    utilizar outra vez.
+    """
+    msgClear
+    """
+    Estou segura de que
+    o que o Zero viu na
+    fabrica de copias
+    """
+    msgClear
+    """
+    da Dark Elf eram
+    maquinas preparadas
+    para este proposito.
+    """
+    end
 }
 script 74 mmz3 {
-	mugshotShow
-		mugshot = 98
-	"""
-	...
-	"""
-	msgClear
-	"""
-	Jejejeje...
-	"""
-	msgClear
-	"""
-	Excelente trabajo
-	de investigación,
-	Dr. Ciel.
-	"""
-	end
+    mugshotShow
+        mugshot = 98
+    """
+    ...
+    """
+    msgClear
+    """
+    Hejejeje...
+    """
+    msgClear
+    """
+    Excelente trabalho
+    de pesquisa,
+    Dra. Ciel.
+    """
+    end
 }
 script 75 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¿Qué?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 97
-	"""
-	Desafortunadamente...
-	"""
-	msgClear
-	"""
-	...llegaron un
-	poco tarde.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    O que?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 97
+    """
+    Infelizmente...
+    """
+    msgClear
+    """
+    ...chegaram um
+    pouco tarde.
+    """
+    end
 }
 script 76 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¡¿Ese es el
-	Dr. Weil?!
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Esse e o
+    Dr. Weil?!
+    """
+    end
 }
 script 77 mmz3 {
-	mugshotShow
-		mugshot = 58
-	msgBottom
-	"""
-	Jejeje...
-	"""
-	msgClear
-	"""
-	Esta vez, Omega es
-	absolutamente
-	perfecto.
-	"""
-	msgClear
-	"""
-	Ahora puedo
-	manipular a todos
-	los Reploides
-	"""
-	msgClear
-	"""
-	del planeta, sin
-	usar Elfos Bebé,
-	"""
-	msgClear
-	"""
-	y hacer que hagan
-	lo que yo quiera.
-	"""
-	msgClear
-	"""
-	Jejejeje...
-	Hora de empezar,
-	Omega.
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    msgBottom
+    """
+    Hejeje...
+    """
+    msgClear
+    """
+    Desta vez, o Omega e
+    absolutamente
+    perfeito.
+    """
+    msgClear
+    """
+    Agora posso
+    manipular a todos
+    os Reploides
+    """
+    msgClear
+    """
+    do planeta, sem
+    usar Baby Elves,
+    """
+    msgClear
+    """
+    e fazer com que facam
+    o que eu quiser.
+    """
+    msgClear
+    """
+    Hejejeje...
+    Hora de comecar,
+    Omega.
+    """
+    end
 }
 script 78 mmz3 {
-	mugshotShow
-		mugshot = 58
-	msgBottom
-	"""
-	Ahora verán,
-	patéticos humanos,
-	"""
-	msgClear
-	"""
-	lo que obtienen
-	por desterrar al
-	Dr. Weil.
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    msgBottom
+    """
+    Agora verao,
+    pateticos humanos,
+    """
+    msgClear
+    """
+    o que obtem
+    por desterrar o
+    Dr. Weil.
+    """
+    end
 }
 script 79 mmz3 {
-	mugshotShow
-		mugshot = 58
-	msgBottom
-	"""
-	Saboreen el miedo...
-	"""
-	msgClear
-	"""
-	¡Reploides
-	insensatos,
-	que me desterraron!
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    msgBottom
+    """
+    Saboreiem o medo...
+    """
+    msgClear
+    """
+    Reploides
+    insensatos,
+    que me desterraram!
+    """
+    end
 }
 script 80 mmz3 {
-	mugshotShow
-		mugshot = 58
-	msgBottom
-	"""
-	Graben mi nombre
-	en este mundo...
-	"""
-	msgClear
-	"""
-	¡El nombre de su
-	nuevo gobernante!
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    msgBottom
+    """
+    Gravem meu nome
+    neste mundo...
+    """
+    msgClear
+    """
+    O nome do seu
+    novo governante!
+    """
+    end
 }
 script 81 mmz3 {
-	mugshotShow
-		mugshot = 58
-	msgBottom
-	"""
-	Ese nombre es
-	Dr. Weil.
-	"""
-	msgClear
-	"""
-	El mundo entero
-	está en mis
-	manos...
-	"""
-	msgClear
-	"""
-	¡Tengo el poder
-	de aplastarlo
-	entre mis dedos
-	"""
-	msgClear
-	"""
-	en cualquier
-	momento!
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    msgBottom
+    """
+    Esse nome e
+    Dr. Weil.
+    """
+    msgClear
+    """
+    O mundo inteiro
+    esta nas minhas
+    maos...
+    """
+    msgClear
+    """
+    Tenho o poder
+    de esmaga-lo
+    entre meus dedos
+    """
+    msgClear
+    """
+    em qualquer
+    momento!
+    """
+    end
 }
 script 82 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Jejejejejeee...
-	"""
-	msgClear
-	"""
-	¡Bwahahahahah!
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Hejejejejeee...
+    """
+    msgClear
+    """
+    Bwahahahahah!
+    """
+    end
 }
 script 83 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¡No!
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Nao!
+    """
+    end
 }
 script 84 mmz3 {
-	mugshotShow
-		mugshot = 95
-	"""
-	Rrr...grrph...
-	"""
-	end
+    mugshotShow
+        mugshot = 95
+    """
+    Rrr...grrph...
+    """
+    end
 }
 script 85 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¡Esto no puede
-	estar pasando!
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Isto nao pode
+    estar acontecendo!
+    """
+    end
 }
 script 86 mmz3 {
-	mugshotShow
-		mugshot = 94
-	"""
-	Un nuevo mundo...
-	Un nuevo orden...
-	"""
-	msgClear
-	"""
-	La historia vuelve a
-	ponerse en marcha...
-	"""
-	end
+    mugshotShow
+        mugshot = 94
+    """
+    Um novo mundo...
+    Um novo ordem...
+    """
+    msgClear
+    """
+    A historia volta a
+    se por em marcha...
+    """
+    end
 }
 script 87 mmz3 {
-	mugshotShow
-		mugshot = 5
-	"""
-	¡Ciel! ¡Atrás!
-	"""
-	end
+    mugshotShow
+        mugshot = 5
+    """
+    Ciel! Atras!
+    """
+    end
 }
 script 88 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¡¿Zero?!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 94
-	"""
-	Graben su nombre
-	en el mundo... El
-	nombre de nuestro
-	"""
-	msgClear
-	"""
-	gobernante...
-	"""
-	msgClear
-	"""
-	¡Weil! ¡Weil! ¡Weil!
-	¡Weil! ¡Weil! ¡Weil!
-	¡Weil! ¡Weil! ¡Weil!
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Zero?!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 94
+    """
+    Gravem seu nome
+    no mundo... O
+    nome do nosso
+    """
+    msgClear
+    """
+    governante...
+    """
+    msgClear
+    """
+    Weil! Weil! Weil!
+    Weil! Weil! Weil!
+    Weil! Weil! Weil!
+    """
+    end
 }
 script 89 mmz3 {
-	mugshotShow
-		mugshot = 52
-	"""
-	¡Los dos, quietos!
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Os dois, quietos!
+    """
+    end
 }
 script 90 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	¡Argh!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 52
-	"""
-	Tranquila. Solo
-	están inconscientes.
-	"""
-	msgClear
-	"""
-	Lo único que hice
-	fue desactivar el
-	poder del Dark Elf.
-	"""
-	msgClear
-	"""
-	Pero mi poder actual
-	solo puede proteger
-	a los de esta base.
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Argh!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 52
+    """
+    Tranquila. So
+    estao inconscientes.
+    """
+    msgClear
+    """
+    O unico que fiz
+    foi desativar o
+    poder da Dark Elf.
+    """
+    msgClear
+    """
+    Mas meu poder atual
+    so pode proteger
+    os desta base.
+    """
+    end
 }
 script 91 mmz3 {
-	mugshotShow
-		mugshot = 5
-	"""
-	Tardaste bastante,
-	X.
-	"""
-	msgClear
-	"""
-	¿Dónde está Weil?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 52
-	"""
-	En el sistema de
-	energía subterráneo
-	de Neo Arcadia...
-	"""
-	msgClear
-	"""
-	¡"Sub Arcadia"!
-	"""
-	msgClear
-	"""
-	Omega también
-	está allí,
-	transmitiendo el
-	"""
-	msgClear
-	"""
-	poder del Dark
-	Elf por todo
-	el mundo.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Al parecer...
-	"""
-	msgClear
-	"""
-	X y yo somos los
-	únicos que pueden
-	moverse libremente.
-	"""
-	msgClear
-	"""
-	X.
-	"""
-	msgClear
-	"""
-	Dinos las
-	coordenadas de
-	Sub Arcadia.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 52
-	"""
-	¿Así que planeas
-	luchar contra Omega?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Sí...
-	"""
-	msgClear
-	"""
-	¿Por qué?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 52
-	"""
-	Nada... estoy
-	seguro de que
-	estarás bien...
-	"""
-	msgClear
-	"""
-	Ten cuidado, Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 5
+    """
+    Demorou bastante,
+    X.
+    """
+    msgClear
+    """
+    Onde esta o Weil?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 52
+    """
+    No sistema de
+    energia subterraneo
+    de Neo Arcadia...
+    """
+    msgClear
+    """
+    "Sub Arcadia"!
+    """
+    msgClear
+    """
+    Omega tambem
+    esta la,
+    transmitindo o
+    """
+    msgClear
+    """
+    poder da Dark
+    Elf por todo
+    o mundo.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    Ao parecer...
+    """
+    msgClear
+    """
+    X e eu somos os
+    unicos que podem
+    se mover livremente.
+    """
+    msgClear
+    """
+    X.
+    """
+    msgClear
+    """
+    Nos diga as
+    coordenadas de
+    Sub Arcadia.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 52
+    """
+    Entao planeja
+    lutar contra o Omega?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    Sim...
+    """
+    msgClear
+    """
+    Por que?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 52
+    """
+    Nada... estou
+    seguro de que
+    estara bem...
+    """
+    msgClear
+    """
+    Tenha cuidado, Zero.
+    """
+    end
 }
 script 92 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	He...
-	"""
-	msgClear
-	"""
-	He verificado las
-	coordenadas de
-	Sub Arcadia en el
-	"""
-	msgClear
-	"""
-	dispositivo de
-	transferencia.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Transfiéreme.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    He...
+    """
+    msgClear
+    """
+    Verifiquei as
+    coordenadas de
+    Sub Arcadia no
+    """
+    msgClear
+    """
+    dispositivo de
+    transferencia.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Transfira-me.
+    """
+    end
 }
 script 93 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Recibido. Todo el
-	personal, prepárese
-	para transferir.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Recebido. Todo o
+    pessoal, prepare-se
+    para transferir.
+    """
+    end
 }
 script 94 mmz3 {
-	mugshotShow
-		mugshot = 98
-	"""
-	Preparativos para la
-	transferencia
-	completos.
-	"""
-	end
+    mugshotShow
+        mugshot = 98
+    """
+    Preparativos para a
+    transferencia
+    completos.
+    """
+    end
 }
 script 95 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	¡Transfiriendo!
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Transferindo!
+    """
+    end
 }
 script 96 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Datos de coordenadas
-	obtenidos de
-	Original X...
-	"""
-	msgClear
-	"""
-	...han sido
-	ingresados por
-	completo.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Dados de coordenadas
+    obtidos de
+    Original X...
+    """
+    msgClear
+    """
+    ...foram
+    inseridos por
+    completo.
+    """
+    end
 }
 script 97 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Las coordenadas
-	llevan a un
-	laboratorio de
-	"""
-	msgClear
-	"""
-	investigación
-	abandonado.
-	"""
-	msgClear
-	"""
-	Según nuestros
-	registros, ahí era
-	donde Weil
-	"""
-	msgClear
-	"""
-	realizaba sus
-	investigaciones.
-	"""
-	msgClear
-	"""
-	Está justo al lado
-	del lugar donde
-	dormías, Zero.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Weil y Omega
-	están allí,
-	¿verdad?
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    As coordenadas
+    levam a um
+    laboratorio de
+    """
+    msgClear
+    """
+    pesquisa
+    abandonado.
+    """
+    msgClear
+    """
+    Segundo nossos
+    registros, ali era
+    onde o Weil
+    """
+    msgClear
+    """
+    realizava suas
+    pesquisas.
+    """
+    msgClear
+    """
+    Esta bem ao lado
+    do lugar onde
+    dormia, Zero.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    Weil e Omega
+    estao la,
+    nao e?
+    """
+    end
 }
 script 98 mmz3 {
-	mugshotShow
-		mugshot = 64
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Ten cuidado...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 5
-	"""
-	Lo haré.
-	"""
-	msgClear
-	"""
-	Operadora...
-	¿Todo está listo?
-	"""
-	end
+    mugshotShow
+        mugshot = 64
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Tenha cuidado...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 5
+    """
+    O farei.
+    """
+    msgClear
+    """
+    Operadora...
+    Tudo esta pronto?
+    """
+    end
 }
 script 99 mmz3 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Puede partir en
-	cualquier momento,
-	Sr. Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Pode partir a
+    qualquer momento,
+    Sr. Zero.
+    """
+    end
 }

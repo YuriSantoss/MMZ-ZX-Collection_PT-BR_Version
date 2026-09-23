@@ -2,591 +2,591 @@
 @size 29
 
 script 0 mmz3 {
-	mugshotShow
-		mugshot = 100
-	"""
-	Operadora:
-	Primero, por favor
-	ve a la Sala
-	"""
-	msgClear
-	"""
-	de Datos. Ese
-	lugar tiene la
-	mayor probabilidad
-	"""
-	msgClear
-	"""
-	de contener
-	información sobre
-	Weil y Omega.
-	"""
-	end
+    mugshotShow
+        mugshot = 100
+    """
+    Operadora:
+    Primeiro, por favor
+    va para a Sala
+    """
+    msgClear
+    """
+    de Dados. Esse
+    lugar tem a
+    maior probabilidade
+    """
+    msgClear
+    """
+    de conter
+    informacao sobre
+    Weil e Omega.
+    """
+    end
 }
 script 1 mmz3 {
-	mugshotShow
-		mugshot = 100
-	"""
-	Operadora:
-	Esta es la Sala
-	de Datos.
-	"""
-	msgClear
-	"""
-	Busca información
-	sobre Weil en
-	esa consola.
-	"""
-	msgClear
-	"""
-	Después de buscar,
-	se mostrará la ubica-
-	ción de los datos.
-	"""
-	msgClear
-	"""
-	Por favor ve a esa
-	área y recupera
-	los datos.
-	"""
-	end
+    mugshotShow
+        mugshot = 100
+    """
+    Operadora:
+    Esta eh a Sala
+    de Dados.
+    """
+    msgClear
+    """
+    Busque informacao
+    sobre Weil nesse
+    console.
+    """
+    msgClear
+    """
+    Depois de buscar,
+    sera mostrada a localiza-
+    cao dos dados.
+    """
+    msgClear
+    """
+    Por favor, va para
+    essa area e recupere
+    os dados.
+    """
+    end
 }
 script 2 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Presiona Arriba en el +Control Pad.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Pressione Cima no +Control Pad.
+    """
+    end
 }
 script 3 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Cuatro
-	coincidencias...
-	"""
-	msgClear
-	"""
-	Weil, Omega,
-	Dark Elf,
-	Guerras Élficas...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Quatro
+    correspondencias...
+    """
+    msgClear
+    """
+    Weil, Omega,
+    Dark Elf,
+    Guerras Elficas...
+    """
+    end
 }
 script 4 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Tres coincidencias
-	más.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Tres correspondencias
+    mais.
+    """
+    end
 }
 script 5 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Dos coincidencias
-	más.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Duas correspondencias
+    mais.
+    """
+    end
 }
 script 6 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	La última...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    A ultima...
+    """
+    end
 }
 script 7 mmz3 {
-	mugshotShow
-		mugshot = 106
-	"""
-	Selecciona búsqueda.
-	"""
-	end
+    mugshotShow
+        mugshot = 106
+    """
+    Selecionar busca.
+    """
+    end
 }
 script 8 mmz3 {
-	mugshotShow
-		mugshot = 106
-	"""
-	Área con datos
-	de Weil hallada.
-	"""
-	msgClear
-	"""
-	Para buscar más
-	información, usa
-	la consola otra vez.
-	"""
-	end
+    mugshotShow
+        mugshot = 106
+    """
+    Area com dados
+    de Weil encontrada.
+    """
+    msgClear
+    """
+    Para buscar mais
+    informacao, use
+    o console outra vez.
+    """
+    end
 }
 script 9 mmz3 {
-	mugshotShow
-		mugshot = 106
-	"""
-	Área con datos
-	de Omega hallada.
-	"""
-	msgClear
-	"""
-	Para buscar más
-	información, usa
-	la consola otra vez.
-	"""
-	end
+    mugshotShow
+        mugshot = 106
+    """
+    Area com dados
+    de Omega encontrada.
+    """
+    msgClear
+    """
+    Para buscar mais
+    informacao, use
+    o console outra vez.
+    """
+    end
 }
 script 10 mmz3 {
-	mugshotShow
-		mugshot = 106
-	"""
-	Área con datos
-	del Dark Elf hallada.
-	"""
-	msgClear
-	"""
-	Para buscar más
-	información, usa
-	la consola otra vez.
-	"""
-	end
+    mugshotShow
+        mugshot = 106
+    """
+    Area com dados
+    do Dark Elf encontrada.
+    """
+    msgClear
+    """
+    Para buscar mais
+    informacao, use
+    o console outra vez.
+    """
+    end
 }
 script 11 mmz3 {
-	mugshotShow
-		mugshot = 106
-	"""
-	Área con datos
-	sobre las Guerras
-	Élficas hallada.
-	"""
-	msgClear
-	"""
-	Para buscar más
-	información, usa
-	la consola otra vez.
-	"""
-	end
+    mugshotShow
+        mugshot = 106
+    """
+    Area com dados
+    sobre as Guerras
+    Elficas encontrada.
+    """
+    msgClear
+    """
+    Para buscar mais
+    informacao, use
+    o console outra vez.
+    """
+    end
 }
 script 12 mmz3 {
-	mugshotShow
-		mugshot = 35
-	"""
-	¿Quién osa
-	invadir mi
-	territorio?
-	"""
-	msgClear
-	"""
-	...¡Z-Zero! ¡Jejeh!
-	¡Así que eres tú!
-	¡Jejeh!
-	"""
-	end
+    mugshotShow
+        mugshot = 35
+    """
+    Quem ousa
+    invadir meu
+    territorio?
+    """
+    msgClear
+    """
+    ...Z-Zero! Heheh!
+    Entao eh voce!
+    Heheh!
+    """
+    end
 }
 script 13 mmz3 {
-	mugshotShow
-		mugshot = 19
-	"""
-	Soy Volteel
-	Biblio, de los
-	Numbers de Weil.
-	"""
-	msgClear
-	"""
-	¿Qué es eso que
-	llevas ahí?
-	"""
-	msgClear
-	"""
-	¡Devuélveme
-	esos datos!
-	¡Ahooora!
-	"""
-	end
+    mugshotShow
+        mugshot = 19
+    """
+    Sou Volteel
+    Biblio, dos
+    Numbers de Weil.
+    """
+    msgClear
+    """
+    O que eh isso que
+    voce tem ai?
+    """
+    msgClear
+    """
+    Devolva-me
+    esses dados!
+    Agoooora!
+    """
+    end
 }
 script 14 mmz3 {
-	mugshotShow
-		mugshot = 18
-	"""
-	¡Jejejejeh!
-	"""
-	msgClear
-	"""
-	¡No puedes tener
-	estos datos! 
-	"""
-	msgClear
-	"""
-	¡Nyah nyah nyah 
-	nyaaaah nyah!
-	"""
-	end
+    mugshotShow
+        mugshot = 18
+    """
+    Heheheheh!
+    """
+    msgClear
+    """
+    Voce nao pode ter
+    estes dados! 
+    """
+    msgClear
+    """
+    Nyah nyah nyah 
+    nyaaaah nyah!
+    """
+    end
 }
 script 15 mmz3 {
-	mugshotShow
-		mugshot = 18
-	"""
-	¡¿Qué pasa contigo?!
-	"""
-	msgClear
-	"""
-	¡¿Te opones a Lord
-	Weil?! ¡¿No le tienes
-	miedo?!
-	"""
-	msgClear
-	"""
-	¡T-Tú estás loco!
-	"""
-	msgClear
-	"""
-	¡¡¡Aaaaaarrrggghhh!!!
-	"""
-	end
+    mugshotShow
+        mugshot = 18
+    """
+    Qual eh o seu problema?!
+    """
+    msgClear
+    """
+    Voce se opoe a Lord
+    Weil?! Nao tem
+    medo dele?!
+    """
+    msgClear
+    """
+    V-voce esta louco!
+    """
+    msgClear
+    """
+    Aaaaaarrrggghhh!!!
+    """
+    end
 }
 script 16 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Operadora: Misión
-	completada. Iniciando
-	transferencia.
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Operadora: Missao
+    concluida. Iniciando
+    transferencia.
+    """
+    end
 }
 script 17 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	¡Obtuviste los datos
-	"""
-	msgClear
-	"""
-	de Weil!
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Voce obteve os dados
+    """
+    msgClear
+    """
+    de Weil!
+    """
+    end
 }
 script 18 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	¡Obtuviste los datos
-	"""
-	msgClear
-	"""
-	de Omega!
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Voce obteve os dados
+    """
+    msgClear
+    """
+    de Omega!
+    """
+    end
 }
 script 19 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	¡Obtuviste los datos
-	"""
-	msgClear
-	"""
-	del Dark Elf!
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Voce obteve os dados
+    """
+    msgClear
+    """
+    do Dark Elf!
+    """
+    end
 }
 script 20 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	¡Obtuviste los datos
-	"""
-	msgClear
-	"""
-	de las Guerras Élficas!
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Voce obteve os dados
+    """
+    msgClear
+    """
+    das Guerras Elficas!
+    """
+    end
 }
 script 21 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Archivo #650326
-	== Dr. Weil ==
-	"""
-	msgClear
-	"""
-	Originario de
-	Neo Arcadia...
-	"""
-	msgClear
-	"""
-	Creador de Omega...
-	"""
-	msgClear
-	"""
-	Alteró a la Mother
-	Elf, iniciando las
-	Guerras Élficas...
-	"""
-	msgClear
-	"""
-	Desterrado de Neo
-	Arcadia tras las
-	Guerras Élficas...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Arquivo #650326
+    == Dr. Weil ==
+    """
+    msgClear
+    """
+    Originario de
+    Neo Arcadia...
+    """
+    msgClear
+    """
+    Criador de Omega...
+    """
+    msgClear
+    """
+    Alterou a Mother
+    Elf, iniciando as
+    Guerras Elficas...
+    """
+    msgClear
+    """
+    Banido de Neo
+    Arcadia apos as
+    Guerras Elficas...
+    """
+    end
 }
 script 22 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Si podemos analizar
-	estos datos, quizá
-	encontremos nueva
-	"""
-	msgClear
-	"""
-	información
-	sobre Weil...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Se pudermos analisar
+    estes dados, talvez
+    encontremos novas
+    """
+    msgClear
+    """
+    informacoes
+    sobre Weil...
+    """
+    end
 }
 script 23 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Archivo #815156
-	== Omega ==
-	"""
-	msgClear
-	"""
-	El Reploide defini-
-	tivo, creado por el
-	Dr. Weil...
-	"""
-	msgClear
-	"""
-	Posee un poder
-	increíble al
-	combinarse con
-	"""
-	msgClear
-	"""
-	el Dark Elf.
-	"""
-	msgClear
-	"""
-	Desterrado al
-	espacio exterior
-	para evitar
-	"""
-	msgClear
-	"""
-	otra Guerra
-	Élfica...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Arquivo #815156
+    == Omega ==
+    """
+    msgClear
+    """
+    O Reploid defini-
+    tivo, criado pelo
+    Dr. Weil...
+    """
+    msgClear
+    """
+    Possui um poder
+    incrivel ao
+    combinar-se com
+    """
+    msgClear
+    """
+    o Dark Elf.
+    """
+    msgClear
+    """
+    Banido para o
+    espaco exterior
+    para evitar
+    """
+    msgClear
+    """
+    outra Guerra
+    Elfica...
+    """
+    end
 }
 script 24 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Si podemos analizar
-	estos datos, quizá
-	encontremos nueva
-	"""
-	msgClear
-	"""
-	información
-	sobre Omega...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Se pudermos analisar
+    estes dados, talvez
+    encontremos novas
+    """
+    msgClear
+    """
+    informacoes
+    sobre Omega...
+    """
+    end
 }
 script 25 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Archivo #351848
-	== Dark Elf ==
-	"""
-	msgClear
-	"""
-	Conocida
-	oficialmente como
-	"Mother Elf".
-	"""
-	msgClear
-	"""
-	Creador desconocido.
-	"""
-	msgClear
-	"""
-	Este Ciber-elf fue
-	creado originalmente
-	con el propósito
-	"""
-	msgClear
-	"""
-	de restaurar los
-	Programas Maverick a
-	su estado original...
-	"""
-	msgClear
-	"""
-	Pero la Mother Elf
-	fue alterada por
-	el Dr. Weil para
-	"""
-	msgClear
-	"""
-	poder manipular
-	Reploides,
-	reescribiendo
-	"""
-	msgClear
-	"""
-	programas
-	libremente.
-	"""
-	msgClear
-	"""
-	Aunque el combate
-	organizado de los
-	Reploides
-	"""
-	msgClear
-	"""
-	manipulados por la
-	Mother Elf alterada
-	sí puso fin
-	"""
-	msgClear
-	"""
-	a las guerras,
-	este terrible
-	poder fue sellado
-	"""
-	msgClear
-	"""
-	para evitar su
-	mal uso.
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Arquivo #351848
+    == Dark Elf ==
+    """
+    msgClear
+    """
+    Conhecida
+    oficialmente como
+    "Mother Elf".
+    """
+    msgClear
+    """
+    Criador desconhecido.
+    """
+    msgClear
+    """
+    Este Cyber-elf foi
+    criado originalmente
+    com o proposito
+    """
+    msgClear
+    """
+    de restaurar os
+    Programas Maverick ao
+    seu estado original...
+    """
+    msgClear
+    """
+    Mas a Mother Elf
+    foi alterada pelo
+    Dr. Weil para
+    """
+    msgClear
+    """
+    poder manipular
+    Reploids,
+    reescrevendo
+    """
+    msgClear
+    """
+    programas
+    livremente.
+    """
+    msgClear
+    """
+    Embora o combate
+    organizado dos
+    Reploids
+    """
+    msgClear
+    """
+    manipulados pela
+    Mother Elf alterada
+    tenha posto fim
+    """
+    msgClear
+    """
+    as guerras,
+    este terrivel
+    poder foi selado
+    """
+    msgClear
+    """
+    para evitar o
+    seu mau uso.
+    """
+    end
 }
 script 26 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Entonces, el
-	Dark Elf...
-	¿Qué está pasando?
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	Si podemos analizar
-	estos datos, quizá
-	podamos descubrir
-	"""
-	msgClear
-	"""
-	algo nuevo
-	sobre ella...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Entao, o
+    Dark Elf...
+    O que esta havendo?
+    """
+    msgClear
+    """
+    ...
+    """
+    msgClear
+    """
+    Se pudermos analisar
+    estes dados, talvez
+    possamos descobrir
+    """
+    msgClear
+    """
+    algo novo
+    sobre ela...
+    """
+    end
 }
 script 27 mmz3 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Archivo #945388
-	== Guerras Élficas ==
-	"""
-	msgClear
-	"""
-	.......final de las
-	.........Guerras.....
-	Ciber-elfos....usados...
-	"""
-	msgClear
-	"""
-	...........desde ese
-	....................
-	...........................
-	"""
-	msgClear
-	"""
-	....Guerras Élficas........
-	"""
-	msgClear
-	"""
-	...............el uso....
-	.........................
-	...."Dark Elf,"
-	"""
-	msgClear
-	"""
-	y copias..........
-	...................
-	.......
-	"""
-	msgClear
-	"""
-	...amplificar el
-	poder...........
-	"""
-	msgClear
-	"""
-	mientras........
-	............a
-	voluntad...
-	"""
-	msgClear
-	"""
-	..........la peor
-	....en.........
-	..........
-	"""
-	msgClear
-	"""
-	....................
-	.............puso fin...
-	...la guerra...........
-	"""
-	msgClear
-	"""
-	Aproximadamente...90%...
-	.............
-	"""
-	msgClear
-	"""
-	......................
-	.........aniquilados....
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Arquivo #945388
+    == Guerras Elficas ==
+    """
+    msgClear
+    """
+    .......final das
+    .........Guerras.....
+    Cyber-elves....usados...
+    """
+    msgClear
+    """
+    ...........desde esse
+    ....................
+    ...........................
+    """
+    msgClear
+    """
+    ....Guerras Elficas........
+    """
+    msgClear
+    """
+    ...............o uso....
+    .........................
+    ...."Dark Elf,"
+    """
+    msgClear
+    """
+    e copias..........
+    ...................
+    .......
+    """
+    msgClear
+    """
+    ...amplificar o
+    poder...........
+    """
+    msgClear
+    """
+    enquanto........
+    ............a
+    vontade...
+    """
+    msgClear
+    """
+    ..........a pior
+    ....em.........
+    ..........
+    """
+    msgClear
+    """
+    ....................
+    .............pos fim...
+    ...a guerra...........
+    """
+    msgClear
+    """
+    Aproximadamente...90%...
+    .............
+    """
+    msgClear
+    """
+    ......................
+    .........aniquilados....
+    """
+    end
 }
 script 28 mmz3 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel: ¿Zero? Parece que
-	"""
-	msgClear
-	"""
-	esos datos están corruptos.
-	"""
-	msgClear
-	"""
-	Creo que podremos
-	"""
-	msgClear
-	"""
-	repararlos en la base.
-	"""
-	msgClear
-	"""
-	Gracias... Zero...
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: Zero? Parece que
+    """
+    msgClear
+    """
+    esses dados estao corrompidos.
+    """
+    msgClear
+    """
+    Acho que poderemos
+    """
+    msgClear
+    """
+    repara-los na base.
+    """
+    msgClear
+    """
+    Obrigada... Zero...
+    """
+    end
 }
