@@ -2,3397 +2,3396 @@
 @size 231
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 2
-	"""
-	¿Hablar con quién?
-	  Operadora
-	  Ciel
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    """
+    Falar com quem?
+     Operadora
+     Ciel
+    """
+    end
 }
 script 1 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	¿Qué ocurre?
-	  Gestionar datos
-	  Hablar
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    O que houve?
+     Gerenciar dados
+     Falar
+    """
+    end
 }
 script 2 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	  Guardar datos
-	  Cargar datos
-	  Borrar datos
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+     Salvar dados
+     Carregar dados
+     Apagar dados
+    """
+    end
 }
 script 3 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Ah, antes de eso...
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Ah, antes disso...
+    """
+    end
 }
 script 4 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Guardaré tus datos!
-	  Sí
-	  No
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Salvarei seus dados!
+     Sim
+     Nao
+    """
+    end
 }
 script 5 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Todo guardado!
-	"""
-	msgClear
-	"""
-	Estaré aquí en la
-	sala del comandante.
-	"""
-	msgClear
-	"""
-	Si quieres guardar
-	tus datos, solo
-	pasa por aquí.
-	"""
-	msgClear
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Tudo salvo!
+    """
+    msgClear
+    """
+    Estarei aqui na
+    sala do comandante.
+    """
+    msgClear
+    """
+    Se quiser salvar
+    seus dados, eh so
+    passar por aqui.
+    """
+    msgClear
+    """
+    ...
+    """
+    end
 }
 script 6 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	¿Seguro?
-	No te esfuerces
-	demasiado.
-	"""
-	msgClear
-	"""
-	Estaré aquí si
-	cambias de idea.
-	"""
-	msgClear
-	"""
-	Me encargo de los
-	datos. Pasa por aquí
-	si necesitas guardar.
-	"""
-	msgClear
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Certeza?
+    Nao se esforce
+    demais.
+    """
+    msgClear
+    """
+    Estarei aqui se
+    mudar de ideia.
+    """
+    msgClear
+    """
+    Eu cuido dos
+    dados. Passe aqui
+    se precisar salvar.
+    """
+    msgClear
+    """
+    ...
+    """
+    end
 }
 script 7 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Zero...
-	Yo...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Preocuparse no
-	detendrá al ejército
-	de Weil.
-	"""
-	msgClear
-	"""
-	Solo puedes hacer
-	tu mejor esfuerzo y
-	esperar que baste.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Está bien, hagamos
-	lo que podamos para
-	proteger la
-	"""
-	msgClear
-	"""
-	la naturaleza
-	alrededor del Área
-	Zero.
-	"""
-	msgClear
-	"""
-	Espero que la gente
-	del Asentamiento
-	entienda que no
-	"""
-	msgClear
-	"""
-	queremos hacerles
-	daño.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Estoy seguro que sí.
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Zero...
+    Eu...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Se preocupar nao
+    parara o exercito
+    de Weil.
+    """
+    msgClear
+    """
+    So pode fazer
+    o seu melhor e
+    esperar que baste.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Tudo bem, facamos
+    o que pudermos para
+    proteger a
+    """
+    msgClear
+    """
+    natureza ao
+    redor da Area
+    Zero.
+    """
+    msgClear
+    """
+    Espero que o povo
+    do Assentamento
+    entenda que nos nao
+    """
+    msgClear
+    """
+    queremos machuca-los.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Tenho certeza que sim.
+    """
+    end
 }
 script 8 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¡He detectado
-	señales del ejército
-	de Weil!
-	"""
-	msgClear
-	"""
-	¡Hay 8 unidades!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Ragnarok ha
-	comenzado...
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Detectei
+    sinais do exercito
+    de Weil!
+    """
+    msgClear
+    """
+    Ha 8 unidades!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Ragnarok
+    comecou...
+    """
+    end
 }
 script 9 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Mostrando datos
-	en pantalla ahora.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Mostrando dados
+    na tela agora.
+    """
+    end
 }
 script 10 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¿Elegir misión?
-	  Sí
-	  No
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Escolher missao?
+     Sim
+     Nao
+    """
+    end
 }
 script 11 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Avísame cuando estés
-	listo para partir!
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Avise-me quando
+    estiver pronto!
+    """
+    end
 }
 script 12 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Reploides se
-	concentran en
-	Área Zero!
-	"""
-	msgClear
-	"""
-	¡Los Reploides de
-	Weil van hacia el
-	Asentamiento!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¿¡Qué!?
-	¿¡Lo encontraron!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Hay combates por
-	todo el
-	Asentamiento!
-	"""
-	msgClear
-	"""
-	Los Reploides están
-	avanzando.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¡Operadora!
-	¡Transfiéreme al
-	Asentamiento!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Ingresando
-	coordenadas!
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Reploids se
+    concentram na
+    Area Zero!
+    """
+    msgClear
+    """
+    Os Reploids de
+    Weil vao para o
+    Assentamento!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    O que!?
+    O encontraram!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Ha combates por
+    todo o
+    Assentamento!
+    """
+    msgClear
+    """
+    Os Reploids estao
+    avancando.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Operadora!
+    Transfira-me para o
+    Assentamento!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Inserindo
+    coordenadas!
+    """
+    end
 }
 script 13 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	¡Zero! Protege el
-	Asentamiento...
-	Por favor...
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Zero! Proteja o
+    Assentamento...
+    Por favor...
+    """
+    end
 }
 script 14 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Datos guardados!
-	¡Zero, ten cuidado!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Zero!
-	¡Listo para la
-	transferencia!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¡Transfiéreme!
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Dados salvos!
+    Zero, tome cuidado!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Zero!
+    Pronto para a
+    transferencia!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Transfira-me!
+    """
+    end
 }
 script 15 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Zero, ten cuidado!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Zero!
-	¡Listo para la
-	transferencia!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¡Transfiéreme!
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Zero, tome cuidado!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Zero!
+    Pronto para a
+    transferencia!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Transfira-me!
+    """
+    end
 }
 script 16 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Este es el punto
-	donde Craft
-	desapareció tras
-	"""
-	msgClear
-	"""
-	llevarse a Neige.
-	"""
-	msgClear
-	"""
-	Probablemente esta
-	sea la base avanzada
-	de operaciones
-	"""
-	msgClear
-	"""
-	de Ragnarok.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Así que Neige está
-	aquí...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Oye, Zero...
-	"""
-	msgClear
-	"""
-	¿Estamos haciendo
-	lo correcto?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Te refieres a la
-	gente del
-	Asentamiento?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Sí...
-	Incluso si ayudamos
-	a Neige...
-	"""
-	msgClear
-	"""
-	¿De qué servirá si
-	la gente no abre
-	su corazón?
-	"""
-	msgClear
-	"""
-	He estado pensando
-	desde que escuché
-	cuánto odian los
-	"""
-	msgClear
-	"""
-	humanos a los
-	Reploides...
-	"""
-	msgClear
-	"""
-	Me pregunto si
-	podemos hacer de este
-	mundo un lugar mejor.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Este eh o ponto
+    onde Craft
+    desapareceu apos
+    """
+    msgClear
+    """
+    levar Neige.
+    """
+    msgClear
+    """
+    Provavelmente esta
+    eh a base avancada
+    de operacoes
+    """
+    msgClear
+    """
+    de Ragnarok.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Entao Neige esta
+    aqui...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Ei, Zero...
+    """
+    msgClear
+    """
+    Estamos fazendo
+    a coisa certa?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Voce se refere ao
+    povo do
+    Assentamento?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Sim...
+    Mesmo se ajudarmos
+    Neige...
+    """
+    msgClear
+    """
+    De que servira se
+    as pessoas nao
+    abrirem o coracao?
+    """
+    msgClear
+    """
+    Estive pensando
+    desde que ouvi
+    o quanto os
+    """
+    msgClear
+    """
+    humanos odeiam
+    os Reploids...
+    """
+    msgClear
+    """
+    Me pergunto se
+    podemos fazer deste
+    mundo um lugar melhor.
+    """
+    end
 }
 script 17 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Una línea externa.
-	Proviene del
-	Asentamiento.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¿Eh?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Conectando.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 93
-	"""
-	Joven del
-	Asentamiento:
-	"¿Me oyes, Zero...?"
-	"""
-	msgClear
-	"""
-	"No podemos hacer
-	 nada para salvar a
-	 Neige."
-	"""
-	msgClear
-	"""
-	"Los humanos no
-	 somos tan fuertes
-	 como ustedes,
-	"""
-	msgClear
-	"""
-	 Reploides."
-	"""
-	msgClear
-	"""
-	"Pero tenías
-	 razón."
-	"""
-	msgClear
-	"""
-	"Si abandonamos a
-	 Neige, todo este
-	 Asentamiento no
-	"""
-	msgClear
-	"""
-	 significará nada."
-	"""
-	msgClear
-	"""
-	"Desde que todos
-	 decidimos vivir
-	 libres del dominio
-	"""
-	msgClear
-	"""
-	 de Weil, Neige nos
-	 ha ayudado más
-	 veces de las que
-	"""
-	msgClear
-	"""
-	 podemos contar."
-	"""
-	msgClear
-	"""
-	"No tenemos
-	 derecho a pedirte
-	 esto, pero..."
-	"""
-	msgClear
-	"""
-	"Por favor, salva a
-	 Neige por
-	 nosotros."
-	"""
-	msgClear
-	"""
-	"Si de verdad no
-	 eres como Weil y
-	 los demás,
-	"""
-	msgClear
-	"""
-	 por favor
-	 préstanos tu
-	 fuerza."
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Zero!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Salvaré a Neige.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 93
-	"""
-	Joven del
-	Asentamiento:
-	"Gracias...
-	"""
-	msgClear
-	"""
-	 y...buena suerte..."
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Zero, estamos
-	listos cuando tú
-	lo estés.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Zero...
-	¡Ten cuidado ahí
-	fuera!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Operadora,
-	transfiéreme.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Uma linha externa.
+    Vem do
+    Assentamento.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Eh?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Conectando.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 93
+    """
+    Jovem do
+    Assentamento:
+    "Me ouve, Zero...?"
+    """
+    msgClear
+    """
+    "Nao podemos fazer
+     nada para salvar
+     Neige."
+    """
+    msgClear
+    """
+    "Nos humanos nao
+     somos tao fortes
+     quanto voces,
+    """
+    msgClear
+    """
+     Reploids."
+    """
+    msgClear
+    """
+    "Mas voce tinha
+     razao."
+    """
+    msgClear
+    """
+    "Se abandonarmos
+     Neige, todo este
+     Assentamento nao
+    """
+    msgClear
+    """
+     significara nada."
+    """
+    msgClear
+    """
+    "Desde que todos
+     decidimos viver
+     livres do dominio
+    """
+    msgClear
+    """
+     de Weil, Neige nos
+     ajudou mais
+     vezes do que
+    """
+    msgClear
+    """
+     podemos contar."
+    """
+    msgClear
+    """
+    "Nao temos o
+     direito de pedir
+     isso, mas..."
+    """
+    msgClear
+    """
+    "Por favor, salve
+     Neige por
+     nos."
+    """
+    msgClear
+    """
+    "Se voce realmente
+     nao eh como Weil e
+     os outros,
+    """
+    msgClear
+    """
+     por favor
+     empreste-nos sua
+     forca."
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Zero!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Salvarei Neige.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 93
+    """
+    Jovem do
+    Assentamento:
+    "Obrigado...
+    """
+    msgClear
+    """
+     e...boa sorte..."
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Zero, estamos
+    prontos quando voce
+    estiver.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Zero...
+    Tome cuidado la
+    fora!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Operadora,
+    transfira-me.
+    """
+    end
 }
 script 40 mmz4 {
-	mugshotShow
-		mugshot = 13
-	"""
-	¿Necesitas algo?
-	  Recetas
-	  Hablar
-	"""
-	end
+    mugshotShow
+        mugshot = 13
+    """
+    Precisa de algo?
+     Receitas
+     Falar
+    """
+    end
 }
 script 41 mmz4 {
-	mugshotShow
-		mugshot = 15
-	"""
-	¿Qué pasa, Zero?
-	  Elfo
-	  Hablar
-	"""
-	end
+    mugshotShow
+        mugshot = 15
+    """
+    O que foi, Zero?
+     Elfo
+     Falar
+    """
+    end
 }
 script 42 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Estas son las áreas
-	a las que puedes ir.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Estas sao as areas
+    que voce pode ir.
+    """
+    end
 }
 script 43 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	¿Esta misión?
-	  Sí
-	  No
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Esta missao?
+     Sim
+     Nao
+    """
+    end
 }
 script 48 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Está bien...
-	Listo para la
-	transferencia.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Tudo bem...
+    Pronto para a
+    transferencia.
+    """
+    end
 }
 script 49 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Transfiriendo!
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Transferindo!
+    """
+    end
 }
 script 51 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Zero, ten cuidado.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Zero, tome cuidado.
+    """
+    end
 }
 script 53 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Zero...
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Zero...
+    """
+    end
 }
 script 54 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Asegúrate de volver
-	sano y salvo.
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Certifique-se de
+    voltar a salvo.
+    """
+    end
 }
 script 55 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Da lo mejor
-	de ti, Zero...
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    De o seu melhor,
+    Zero...
+    """
+    end
 }
 script 56 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Vuelve con
-	nosotros...
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Volte para
+    nos...
+    """
+    end
 }
 script 59 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	¡Zerooo!
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Zerooo!
+    """
+    end
 }
 script 60 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Transfiriendo...
-	2...
-	1...
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Transferindo...
+    2...
+    1...
+    """
+    end
 }
 script 61 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Bienvenido
-	de vuelta.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Bem-vindo
+    de volta.
+    """
+    end
 }
 script 64 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Un gran cañón de
-	partículas fue
-	colocado en el punto
-	"""
-	msgClear
-	"""
-	A-4 por el ejército
-	de Weil.
-	"""
-	msgClear
-	"""
-	Dispara rayos láser
-	intermitentes que
-	destruyen todo
-	"""
-	msgClear
-	"""
-	en el área.
-	"""
-	msgClear
-	"""
-	Parece funcionar
-	con energía solar.
-	"""
-	msgClear
-	"""
-	Pronto estará al
-	alcance de disparo
-	del Área Zero.
-	"""
-	msgClear
-	"""
-	Corta la energía
-	del cañón antes de
-	que Área Zero
-	"""
-	msgClear
-	"""
-	entre en su alcance.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Um grande canhao de
+    particulas foi
+    colocado no ponto
+    """
+    msgClear
+    """
+    A-4 pelo exercito
+    de Weil.
+    """
+    msgClear
+    """
+    Dispara raios laser
+    intermitentes que
+    destroem tudo
+    """
+    msgClear
+    """
+    na area.
+    """
+    msgClear
+    """
+    Parece funcionar
+    com energia solar.
+    """
+    msgClear
+    """
+    Logo estara ao
+    alcance de tiro
+    da Area Zero.
+    """
+    msgClear
+    """
+    Corte a energia
+    do canhao antes
+    que a Area Zero
+    """
+    msgClear
+    """
+    entre no alcance.
+    """
+    end
 }
 script 65 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Un gran cañón de
-	partículas fue
-	colocado en el punto
-	"""
-	msgClear
-	"""
-	A-4 por el ejército
-	de Weil.
-	"""
-	msgClear
-	"""
-	Dispara rayos láser
-	intermitentes que
-	destruyen todo
-	"""
-	msgClear
-	"""
-	en el área.
-	"""
-	msgClear
-	"""
-	Parece funcionar
-	con energía solar.
-	"""
-	msgClear
-	"""
-	Pronto estará al
-	alcance de disparo
-	del Área Zero.
-	"""
-	msgClear
-	"""
-	Corta la energía
-	del cañón antes de
-	que Área Zero
-	"""
-	msgClear
-	"""
-	entre en su alcance.
-	"""
-	msgClear
-	"""
-	Como está nublado,
-	el cañón no carga
-	al 100%.
-	"""
-	msgClear
-	"""
-	Puede ser tu
-	oportunidad de
-	atacar.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Um grande canhao de
+    particulas foi
+    colocado no ponto
+    """
+    msgClear
+    """
+    A-4 pelo exercito
+    de Weil.
+    """
+    msgClear
+    """
+    Dispara raios laser
+    intermitentes que
+    destroem tudo
+    """
+    msgClear
+    """
+    na area.
+    """
+    msgClear
+    """
+    Parece funcionar
+    com energia solar.
+    """
+    msgClear
+    """
+    Logo estara ao
+    alcance de tiro
+    da Area Zero.
+    """
+    msgClear
+    """
+    Corte a energia
+    do canhao antes
+    que a Area Zero
+    """
+    msgClear
+    """
+    entre no alcance.
+    """
+    msgClear
+    """
+    Como esta nublado,
+    o canhao nao carrega
+    a 100%.
+    """
+    msgClear
+    """
+    Pode ser sua
+    chance de
+    atacar.
+    """
+    end
 }
 script 66 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Recibí un informe de
-	que el submarino
-	taladro gigante está
-	"""
-	msgClear
-	"""
-	patrullando el
-	fondo del mar.
-	Lleva explosivos,
-	"""
-	msgClear
-	"""
-	así que creo que
-	perforará la tierra
-	y detonará.
-	"""
-	msgClear
-	"""
-	Al fracturar una
-	placa tectónica,
-	podrían causar un
-	"""
-	msgClear
-	"""
-	terremoto de
-	proporciones
-	catastróficas.
-	"""
-	msgClear
-	"""
-	Detén el submarino
-	antes de que llegue
-	a su destino.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Recebi um aviso de
+    que o submarino
+    broca gigante esta
+    """
+    msgClear
+    """
+    patrulhando o
+    fundo do mar.
+    Leva explosivos,
+    """
+    msgClear
+    """
+    entao acho que
+    perfurara a terra
+    e detonara.
+    """
+    msgClear
+    """
+    Ao fraturar uma
+    placa tectonica,
+    podera causar um
+    """
+    msgClear
+    """
+    terremoto de
+    proporcoes
+    catastroficas.
+    """
+    msgClear
+    """
+    Pare o submarino
+    antes que chegue
+    ao seu destino.
+    """
+    end
 }
 script 67 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Recibí un informe de
-	que el submarino
-	taladro gigante está
-	"""
-	msgClear
-	"""
-	patrullando el
-	fondo del mar.
-	Lleva explosivos,
-	"""
-	msgClear
-	"""
-	así que creo que
-	perforará la tierra
-	y detonará.
-	"""
-	msgClear
-	"""
-	Al fracturar una
-	placa tectónica,
-	podrían causar un
-	"""
-	msgClear
-	"""
-	terremoto de
-	proporciones
-	catastróficas.
-	"""
-	msgClear
-	"""
-	Detén el submarino
-	antes de que llegue
-	a su destino.
-	"""
-	msgClear
-	"""
-	El clima está
-	soleado, no habrá
-	problemas de radio.
-	"""
-	msgClear
-	"""
-	Ciel podrá ayudarte
-	a encontrar el
-	submarino.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Recebi um aviso de
+    que o submarino
+    broca gigante esta
+    """
+    msgClear
+    """
+    patrulhando o
+    fundo do mar.
+    Leva explosivos,
+    """
+    msgClear
+    """
+    entao acho que
+    perfurara a terra
+    e detonara.
+    """
+    msgClear
+    """
+    Ao fraturar uma
+    placa tectonica,
+    podera causar um
+    """
+    msgClear
+    """
+    terremoto de
+    proporcoes
+    catastroficas.
+    """
+    msgClear
+    """
+    Pare o submarino
+    antes que chegue
+    ao seu destino.
+    """
+    msgClear
+    """
+    O clima esta
+    ensolarado, nao havera
+    problemas de radio.
+    """
+    msgClear
+    """
+    Ciel podera ajudar
+    a encontrar o
+    submarino.
+    """
+    end
 }
 script 68 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Hemos localizado la
-	fortaleza flotante
-	de Weil. Genera
-	"""
-	msgClear
-	"""
-	nubes especiales que
-	provocan relámpagos
-	y lluvia ácida.
-	"""
-	msgClear
-	"""
-	Infiltrate y derriba
-	esa monstruosidad
-	flotante.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Localizamos a
+    fortaleza flutuante
+    de Weil. Gera
+    """
+    msgClear
+    """
+    nuvens especiais que
+    causam relampagos
+    e chuva acida.
+    """
+    msgClear
+    """
+    Infiltre-se e derrube
+    essa monstruosidade
+    flutuante.
+    """
+    end
 }
 script 69 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Hemos localizado la
-	fortaleza flotante
-	de Weil. Genera
-	"""
-	msgClear
-	"""
-	nubes especiales que
-	provocan relámpagos
-	y lluvia ácida.
-	"""
-	msgClear
-	"""
-	Infiltrate y derriba
-	esa monstruosidad
-	flotante.
-	"""
-	msgClear
-	"""
-	Como está soleado,
-	algunas nubes se han
-	disipado.
-	"""
-	msgClear
-	"""
-	La visibilidad es
-	alta. Es un buen
-	momento para atacar.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Localizamos a
+    fortaleza flutuante
+    de Weil. Gera
+    """
+    msgClear
+    """
+    nuvens especiais que
+    causam relampagos
+    e chuva acida.
+    """
+    msgClear
+    """
+    Infiltre-se e derrube
+    essa monstruosidade
+    flutuante.
+    """
+    msgClear
+    """
+    Como esta ensolarado,
+    algumas nuvens
+    se dissiparam.
+    """
+    msgClear
+    """
+    A visibilidade
+    eh alta. Eh um bom
+    momento para atacar.
+    """
+    end
 }
 script 70 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Esta área antes
-	pertenecía a otro
-	grupo de resistencia.
-	"""
-	msgClear
-	"""
-	Ahora Weil la usa
-	como base avanzada.
-	Detecto
-	"""
-	msgClear
-	"""
-	nanomáquinas con
-	forma de planta.
-	Parecen prosperar
-	"""
-	msgClear
-	"""
-	con la energía
-	geotérmica. A este
-	ritmo,
-	"""
-	msgClear
-	"""
-	seguirán hasta
-	engullir Área Zero.
-	Deténlas antes
-	"""
-	msgClear
-	"""
-	de que ocurra.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Esta area antes
+    pertencia a outro
+    grupo da resistencia.
+    """
+    msgClear
+    """
+    Agora Weil a usa
+    como base avancada.
+    Detecto
+    """
+    msgClear
+    """
+    nanomaquinas em
+    forma de planta.
+    Parecem prosperar
+    """
+    msgClear
+    """
+    com a energia
+    geotermica. Neste
+    ritmo,
+    """
+    msgClear
+    """
+    seguirao ate
+    engolir a Area Zero.
+    Pare-as antes
+    """
+    msgClear
+    """
+    que isso ocorra.
+    """
+    end
 }
 script 71 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Esta área antes
-	pertenecía a otro
-	grupo de resistencia.
-	"""
-	msgClear
-	"""
-	Ahora Weil la usa
-	como base avanzada.
-	Detecto
-	"""
-	msgClear
-	"""
-	nanomáquinas con
-	forma de planta.
-	Parecen prosperar
-	"""
-	msgClear
-	"""
-	con la energía
-	geotérmica. A este
-	ritmo,
-	"""
-	msgClear
-	"""
-	seguirán hasta
-	engullir Área Zero.
-	Deténlas antes
-	"""
-	msgClear
-	"""
-	de que ocurra. Está
-	nublado, así que las
-	nanomáquinas y
-	"""
-	msgClear
-	"""
-	los Mecaniloides no
-	rinden al 100%.
-	Ahora es un buen
-	"""
-	msgClear
-	"""
-	momento para atacar.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Esta area antes
+    pertencia a outro
+    grupo da resistencia.
+    """
+    msgClear
+    """
+    Agora Weil a usa
+    como base avancada.
+    Detecto
+    """
+    msgClear
+    """
+    nanomaquinas em
+    forma de planta.
+    Parecem prosperar
+    """
+    msgClear
+    """
+    com a energia
+    geotermica. Neste
+    ritmo,
+    """
+    msgClear
+    """
+    seguirao ate
+    engolir a Area Zero.
+    Pare-as antes
+    """
+    msgClear
+    """
+    que isso ocorra. Esta
+    nublado, entao as
+    nanomaquinas e
+    """
+    msgClear
+    """
+    os Mecaniloides nao
+    rendem 100%.
+    Agora eh um bom
+    """
+    msgClear
+    """
+    momento para atacar.
+    """
+    end
 }
 script 72 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Detecto un aumento
-	anormal en la señal
-	térmica en el punto
-	"""
-	msgClear
-	"""
-	A-2. Parece que Weil
-	ha tomado control de
-	un sol artificial,
-	"""
-	msgClear
-	"""
-	diseñado para el
-	control climático, y
-	lo ha modificado
-	"""
-	msgClear
-	"""
-	para sobrecalentarse.
-	El calor extremo ha
-	secado el área,
-	"""
-	msgClear
-	"""
-	convirtiéndola en un
-	desierto. La
-	desertificación
-	"""
-	msgClear
-	"""
-	se expande hacia
-	Área Zero, detén ese
-	sol antes de que sea
-	"""
-	msgClear
-	"""
-	demasiado tarde.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Detecto um aumento
+    anormal no sinal
+    termico no ponto
+    """
+    msgClear
+    """
+    A-2. Parece que Weil
+    tomou o controle de
+    um sol artificial,
+    """
+    msgClear
+    """
+    feito para o
+    controle climatico, e
+    o modificou
+    """
+    msgClear
+    """
+    para superaquecer.
+    O calor extremo
+    secou a area,
+    """
+    msgClear
+    """
+    tornando-a um
+    deserto. A
+    desertificacao
+    """
+    msgClear
+    """
+    se expande para a
+    Area Zero, pare esse
+    sol antes que seja
+    """
+    msgClear
+    """
+    tarde demais.
+    """
+    end
 }
 script 73 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Detecto un aumento
-	anormal en la señal
-	térmica en el punto
-	"""
-	msgClear
-	"""
-	A-2. Parece que Weil
-	ha tomado control de
-	un sol artificial,
-	"""
-	msgClear
-	"""
-	diseñado para el
-	control climático, y
-	lo ha modificado
-	"""
-	msgClear
-	"""
-	para sobrecalentarse.
-	El calor extremo ha
-	secado el área,
-	"""
-	msgClear
-	"""
-	convirtiéndola en un
-	desierto. La
-	desertificación
-	"""
-	msgClear
-	"""
-	se expande hacia
-	Área Zero, detén ese
-	sol antes de que sea
-	"""
-	msgClear
-	"""
-	demasiado tarde.
-	Ahora está nublado,
-	así que la
-	"""
-	msgClear
-	"""
-	temperatura no es
-	tan alta. Es tu
-	oportunidad
-	"""
-	msgClear
-	"""
-	para atacar.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Detecto um aumento
+    anormal no sinal
+    termico no ponto
+    """
+    msgClear
+    """
+    A-2. Parece que Weil
+    tomou o controle de
+    um sol artificial,
+    """
+    msgClear
+    """
+    feito para o
+    controle climatico, e
+    o modificou
+    """
+    msgClear
+    """
+    para superaquecer.
+    O calor extremo
+    secou a area,
+    """
+    msgClear
+    """
+    tornando-a um
+    deserto. A
+    desertificacao
+    """
+    msgClear
+    """
+    se expande para a
+    Area Zero, pare esse
+    sol antes que seja
+    """
+    msgClear
+    """
+    tarde demais.
+    Agora esta nublado,
+    entao a
+    """
+    msgClear
+    """
+    temperatura nao eh
+    tao alta. Eh sua
+    chance
+    """
+    msgClear
+    """
+    para atacar.
+    """
+    end
 }
 script 74 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	He descubierto un
-	antiguo laboratorio
-	de investigación de
-	"""
-	msgClear
-	"""
-	Ciber-elfos con más
-	de un siglo de
-	antigüedad.
-	"""
-	msgClear
-	"""
-	Algunos experimentos
-	fallidos han estado
-	en hibernación desde
-	"""
-	msgClear
-	"""
-	la guerra... Están
-	empezando a despertar
-	y algunos son muy
-	"""
-	msgClear
-	"""
-	peligrosos.
-	Hay Mecaniloides y
-	Mavericks por todo
-	"""
-	msgClear
-	"""
-	el lugar.
-	Infiltrate y elimina
-	al enemigo.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Descobri um
+    antigo laboratorio
+    de pesquisa de
+    """
+    msgClear
+    """
+    Cyber-elfos com mais
+    de um seculo de
+    idade.
+    """
+    msgClear
+    """
+    Alguns experimentos
+    falhos estiveram
+    em hibernacao desde
+    """
+    msgClear
+    """
+    a guerra... Estao
+    comecando a acordar
+    e alguns sao muito
+    """
+    msgClear
+    """
+    perigosos.
+    Ha Mecaniloides e
+    Mavericks por todo
+    """
+    msgClear
+    """
+    o lugar.
+    Infiltre-se e elimine
+    o inimigo.
+    """
+    end
 }
 script 75 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	He descubierto un
-	antiguo laboratorio
-	de investigación de
-	"""
-	msgClear
-	"""
-	Ciber-elfos con más
-	de un siglo de
-	antigüedad.
-	"""
-	msgClear
-	"""
-	Algunos experimentos
-	fallidos han estado
-	en hibernación desde
-	"""
-	msgClear
-	"""
-	la guerra... Están
-	empezando a despertar
-	y algunos son muy
-	"""
-	msgClear
-	"""
-	peligrosos.
-	Hay Mecaniloides y
-	Mavericks por todo
-	"""
-	msgClear
-	"""
-	el lugar.
-	Infiltrate y elimina
-	al enemigo.
-	"""
-	msgClear
-	"""
-	Está soleado, así
-	que algunas rutas
-	bloqueadas por hielo
-	"""
-	msgClear
-	"""
-	podrían abrirse.
-	Podrías encontrar
-	una ruta oculta.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Descobri um
+    antigo laboratorio
+    de pesquisa de
+    """
+    msgClear
+    """
+    Cyber-elfos com mais
+    de um seculo de
+    idade.
+    """
+    msgClear
+    """
+    Alguns experimentos
+    falhos estiveram
+    em hibernacao desde
+    """
+    msgClear
+    """
+    a guerra... Estao
+    comecando a acordar
+    e alguns sao muito
+    """
+    msgClear
+    """
+    perigosos.
+    Ha Mecaniloides e
+    Mavericks por todo
+    """
+    msgClear
+    """
+    o lugar.
+    Infiltre-se e elimine
+    o inimigo.
+    """
+    msgClear
+    """
+    Esta ensolarado,
+    entao algumas rotas
+    presas pelo gelo
+    """
+    msgClear
+    """
+    podem se abrir.
+    Voce pode achar
+    uma rota oculta.
+    """
+    end
 }
 script 76 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	He detectado un gran
-	flujo magnético en
-	el punto B-1. Los
-	"""
-	msgClear
-	"""
-	pulsos
-	electromagnéticos
-	están generando
-	"""
-	msgClear
-	"""
-	mucho ruido y se
-	está propagando. Es
-	probable que ese
-	"""
-	msgClear
-	"""
-	ruido interfiera con
-	el funcionamiento de
-	los sistemas de
-	"""
-	msgClear
-	"""
-	control ambiental
-	del Área Zero.
-	"""
-	msgClear
-	"""
-	Infiltrate y detén
-	ese dispositivo.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Detectei um grande
+    fluxo magnetico no
+    ponto B-1. Os
+    """
+    msgClear
+    """
+    pulsos
+    eletromagneticos
+    estao gerando
+    """
+    msgClear
+    """
+    muito ruido e esta
+    se propagando. Eh
+    provavel que esse
+    """
+    msgClear
+    """
+    ruido interfira no
+    funcionamento dos
+    sistemas de
+    """
+    msgClear
+    """
+    controle ambiental
+    da Area Zero.
+    """
+    msgClear
+    """
+    Infiltre-se e pare
+    esse dispositivo.
+    """
+    end
 }
 script 77 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	He detectado un gran
-	flujo magnético en
-	el punto B-1. Los
-	"""
-	msgClear
-	"""
-	pulsos
-	electromagnéticos
-	están generando
-	"""
-	msgClear
-	"""
-	mucho ruido y se
-	está propagando. Es
-	probable que ese
-	"""
-	msgClear
-	"""
-	ruido interfiera con
-	el funcionamiento de
-	los sistemas de
-	"""
-	msgClear
-	"""
-	control ambiental
-	del Área Zero.
-	"""
-	msgClear
-	"""
-	Infiltrate y detén
-	ese dispositivo. Los
-	relámpagos que le
-	"""
-	msgClear
-	"""
-	servían de fuente de
-	energía han cesado,
-	dejándolo
-	"""
-	msgClear
-	"""
-	temporalmente
-	inactivo. Es tu
-	oportunidad para
-	"""
-	msgClear
-	"""
-	detenerlo de una vez
-	por todas.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Detectei um grande
+    fluxo magnetico no
+    ponto B-1. Os
+    """
+    msgClear
+    """
+    pulsos
+    eletromagneticos
+    estao gerando
+    """
+    msgClear
+    """
+    muito ruido e esta
+    se propagando. Eh
+    provavel que esse
+    """
+    msgClear
+    """
+    ruido interfira no
+    funcionamento dos
+    sistemas de
+    """
+    msgClear
+    """
+    controle ambiental
+    da Area Zero.
+    """
+    msgClear
+    """
+    Infiltre-se e pare
+    esse dispositivo. Os
+    relampagos que lhe
+    """
+    msgClear
+    """
+    serviam de fonte de
+    energia pararam,
+    deixando-o
+    """
+    msgClear
+    """
+    temporariamente
+    inativo. Eh sua
+    chance para
+    """
+    msgClear
+    """
+    para-lo de uma vez
+    por todas.
+    """
+    end
 }
 script 78 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	He descubierto las
-	ruinas de lo que fue
-	una gran ciudad hace
-	"""
-	msgClear
-	"""
-	un siglo. Parece una
-	ciudad totalmente
-	funcional, pero no
-	"""
-	msgClear
-	"""
-	detecto signos de
-	vida. El sistema de
-	seguridad ha sido
-	"""
-	msgClear
-	"""
-	tomado por un virus.
-	Parece que el
-	sistema está
-	"""
-	msgClear
-	"""
-	expandiéndose y
-	atacando todo a su
-	paso. Detén
-	"""
-	msgClear
-	"""
-	los planes de
-	expansión de la
-	ciudad.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Descobri as
+    ruinas do que foi
+    uma grande cidade ha
+    """
+    msgClear
+    """
+    um seculo. Parece uma
+    cidade totalmente
+    funcional, mas nao
+    """
+    msgClear
+    """
+    detecto sinais de
+    vida. O sistema de
+    seguranca foi
+    """
+    msgClear
+    """
+    tomado por um virus.
+    Parece que o
+    sistema esta
+    """
+    msgClear
+    """
+    se expandindo e
+    atacando tudo em seu
+    caminho. Pare
+    """
+    msgClear
+    """
+    os planos de
+    expansao da
+    cidade.
+    """
+    end
 }
 script 79 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	He descubierto las
-	ruinas de lo que fue
-	una gran ciudad hace
-	"""
-	msgClear
-	"""
-	un siglo. Parece una
-	ciudad totalmente
-	funcional, pero no
-	"""
-	msgClear
-	"""
-	detecto signos de
-	vida. El sistema de
-	seguridad ha sido
-	"""
-	msgClear
-	"""
-	tomado por un virus.
-	Parece que el
-	sistema está
-	"""
-	msgClear
-	"""
-	expandiéndose y
-	atacando todo a su
-	paso. Detén
-	"""
-	msgClear
-	"""
-	los planes de
-	expansión de la
-	ciudad.
-	"""
-	msgClear
-	"""
-	La nevada en el área
-	ha afectado el
-	funcionamiento del
-	"""
-	msgClear
-	"""
-	sistema de seguridad.
-	Es el momento ideal
-	para atacar.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Descobri as
+    ruinas do que foi
+    uma grande cidade ha
+    """
+    msgClear
+    """
+    um seculo. Parece uma
+    cidade totalmente
+    funcional, mas nao
+    """
+    msgClear
+    """
+    detecto sinais de
+    vida. O sistema de
+    seguranca foi
+    """
+    msgClear
+    """
+    tomado por um virus.
+    Parece que o
+    sistema esta
+    """
+    msgClear
+    """
+    se expandindo e
+    atacando tudo em seu
+    caminho. Pare
+    """
+    msgClear
+    """
+    os planos de
+    expansao da
+    cidade.
+    """
+    msgClear
+    """
+    A nevada na area
+    afetou o
+    funcionamento do
+    """
+    msgClear
+    """
+    sistema de seguranca.
+    Eh o momento ideal
+    para atacar.
+    """
+    end
 }
 script 80 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	He ingresado las
-	coordenadas de la
-	Base de
-	"""
-	msgClear
-	"""
-	Teletransporte.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Inseri as
+    coordenadas da
+    Base de
+    """
+    msgClear
+    """
+    Teletransporte.
+    """
+    end
 }
 script 82 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 34
-	"""
-	Usando la Base de
-	Teletransporte,
-	podemos transferirte
-	"""
-	msgClear
-	"""
-	a Ragnarok, pero
-	tendrás que
-	desactivar la
-	"""
-	msgClear
-	"""
-	protección que lo
-	rodea por tu cuenta.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Cómo hago eso?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Puedo ayudar con eso.
-	Cuando te
-	transferimos,
-	"""
-	msgClear
-	"""
-	te convertimos en
-	datos de programa y
-	te enviamos por un
-	"""
-	msgClear
-	"""
-	circuito. Puedo
-	modificar el
-	programa de
-	"""
-	msgClear
-	"""
-	transferencia para
-	que puedas moverte
-	libremente dentro
-	"""
-	msgClear
-	"""
-	del circuito
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Superpone imágenes
-	en el circuito para
-	que puedas ver
-	"""
-	msgClear
-	"""
-	lo que ocurre...
-	Así podrás moverte
-	desde la Base de
-	"""
-	msgClear
-	"""
-	Teletransporte hasta
-	Ragnarok mediante
-	algo similar al
-	"""
-	msgClear
-	"""
-	Ciberespacio. Si
-	avanzas hasta el
-	final del circuito,
-	"""
-	msgClear
-	"""
-	deberías poder
-	desactivar
-	directamente el
-	"""
-	msgClear
-	"""
-	programa de
-	protección. Con eso
-	fuera del camino,
-	"""
-	msgClear
-	"""
-	deberías poder
-	completar la
-	transferencia.
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 34
+    """
+    Usando a Base de
+    Teletransporte,
+    podemos transferir voce
+    """
+    msgClear
+    """
+    para Ragnarok, mas
+    voce tera que
+    desativar a
+    """
+    msgClear
+    """
+    protecao ao redor
+    por conta propria.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Como faco isso?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Posso ajudar com isso.
+    Quando te
+    transferimos,
+    """
+    msgClear
+    """
+    te convertemos em
+    dados de programa e
+    te enviamos por um
+    """
+    msgClear
+    """
+    circuito. Posso
+    modificar o
+    programa de
+    """
+    msgClear
+    """
+    transferencia para
+    que possa se mover
+    livremente dentro
+    """
+    msgClear
+    """
+    do circuito
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Sobrepoe imagens
+    no circuito para
+    que possa ver
+    """
+    msgClear
+    """
+    o que ocorre...
+    Assim podera se mover
+    da Base de
+    """
+    msgClear
+    """
+    Teletransporte ate
+    Ragnarok por meio de
+    algo similar ao
+    """
+    msgClear
+    """
+    Ciberespaco. Se
+    avancar ate o
+    final do circuito,
+    """
+    msgClear
+    """
+    voce podera
+    desativar
+    diretamente o
+    """
+    msgClear
+    """
+    programa de
+    protecao. Com isso
+    fora do caminho,
+    """
+    msgClear
+    """
+    voce devera poder
+    completar a
+    transferencia.
+    """
+    end
 }
 script 83 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 7
-	"""
-	Por fin es la hora
-	de Ragnarok.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Te transferiré al
-	interior. Intenta
-	encontrar una forma
-	"""
-	msgClear
-	"""
-	de desactivar el
-	núcleo de Ragnarok
-	sin destruirlo.
-	"""
-	msgClear
-	"""
-	Si el núcleo es
-	destruido, Ragnarok
-	podría colapsar.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Con Weil y Craft
-	derrotados, ¿quién
-	podría estar
-	"""
-	msgClear
-	"""
-	controlando
-	Ragnarok?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Zero, tengo un mal
-	presentimiento
-	sobre esto.
-	"""
-	msgClear
-	"""
-	Solo ten cuidado,
-	¿de acuerdo?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Está bien...
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 7
+    """
+    Finalmente eh a hora
+    de Ragnarok.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Te transferirei ao
+    interior. Tente
+    encontrar uma forma
+    """
+    msgClear
+    """
+    de desativar o
+    nucleo de Ragnarok
+    sem destrui-lo.
+    """
+    msgClear
+    """
+    Se o nucleo for
+    destruido, Ragnarok
+    podera colapsar.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Com Weil e Craft
+    derrotados, quem
+    poderia estar
+    """
+    msgClear
+    """
+    controlando
+    Ragnarok?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Zero, tenho um mau
+    pressentimento
+    sobre isso.
+    """
+    msgClear
+    """
+    Apenas tome cuidado,
+    tudo bem?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Tudo bem...
+    """
+    end
 }
 script 100 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Algo de la caravana
-	te molesta?
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Algo da caravana
+    te incomoda?
+    """
+    end
 }
 script 101 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Sí...
-	"""
-	msgClear
-	"""
-	Me sorprendió
-	saber que todos
-	los humanos del
-	"""
-	msgClear
-	"""
-	asentamiento odiaban
-	a los Reploides...
-	"""
-	msgClear
-	"""
-	Es que yo...
-	hemos luchado tanto
-	por los Reploides,
-	"""
-	msgClear
-	"""
-	que no sabía que
-	otros humanos
-	pensaban así...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿No dijeron que el
-	asentamiento estaba
-	en un lugar llamado
-	"""
-	msgClear
-	"""
-	Área Zero?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Ahí también
-	deberíamos ir.
-	"""
-	msgClear
-	"""
-	Luchan por mantener
-	su independencia de
-	Weil, y debemos
-	"""
-	msgClear
-	"""
-	ayudarlos.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Haz lo que creas
-	correcto.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Gracias, Zero.
-	Solo necesito algo
-	más de tiempo.
-	"""
-	msgClear
-	"""
-	Quizá sea buen
-	momento para ir
-	donde Cerveau por
-	"""
-	msgClear
-	"""
-	mantenimiento.
-	Luego ven a verme
-	a la sala del
-	"""
-	msgClear
-	"""
-	comandante.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Ah, antes de eso...
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Sim...
+    """
+    msgClear
+    """
+    Fiquei surpresa ao
+    saber que todos
+    os humanos do
+    """
+    msgClear
+    """
+    assentamento odiavam
+    os Reploids...
+    """
+    msgClear
+    """
+    Eh que eu...
+    lutamos tanto
+    pelos Reploids,
+    """
+    msgClear
+    """
+    que eu nao sabia que
+    outros humanos
+    pensavam assim...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Nao disseram que o
+    assentamento estava
+    em um lugar chamado
+    """
+    msgClear
+    """
+    Area Zero?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    La tambem
+    deveriamos ir.
+    """
+    msgClear
+    """
+    Lutam para manter
+    sua independencia de
+    Weil, e devemos
+    """
+    msgClear
+    """
+    ajuda-los.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Faca o que achar
+    correto.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Obrigada, Zero.
+    So preciso de um
+    pouco mais de tempo.
+    """
+    msgClear
+    """
+    Talvez seja um bom
+    momento para ir
+    ao Cerveau para
+    """
+    msgClear
+    """
+    manutencao.
+    Depois venha me ver
+    na sala do
+    """
+    msgClear
+    """
+    comandante.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Ah, antes disso...
+    """
+    end
 }
 script 102 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Bienvenido de
-	vuelta, Zero.
-	"""
-	msgClear
-	"""
-	Parece que los
-	Reploides no
-	sabían de la
-	"""
-	msgClear
-	"""
-	presencia del
-	asentamiento.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Sé que Neige dijo
-	que no fuéramos,
-	pero debemos
-	"""
-	msgClear
-	"""
-	avisarles sobre
-	Ragnarok.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Con el ejército de
-	Weil tan cerca,
-	no podemos
-	"""
-	msgClear
-	"""
-	arriesgarnos a
-	delatar el
-	asentamiento
-	"""
-	msgClear
-	"""
-	transfiriéndote allí.
-	Tendrás que ir
-	a pie,
-	"""
-	msgClear
-	"""
-	sal del tráiler y
-	sigue a la
-	derecha.
-	"""
-	msgClear
-	"""
-	No deberías tardar
-	en llegar.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Ah, y Zero...
-	"""
-	msgClear
-	"""
-	Recibimos datos
-	de un nuevo
-	Ciber-elfo
-	"""
-	msgClear
-	"""
-	de la Base de la
-	Resistencia.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Un nuevo
-	Ciber-elfo?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Han estado
-	investigando
-	Ciber-elfos.
-	"""
-	msgClear
-	"""
-	Tenemos uno de los
-	nuevos en el cuarto
-	de al lado con
-	"""
-	msgClear
-	"""
-	Alouette. Ve a
-	buscarlo con
-	ella.
-	"""
-	msgClear
-	"""
-	También tiene el
-	manual, así que
-	pídele detalles.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Lo haré.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Cuando estés listo,
-	dirígete al
-	asentamiento.
-	"""
-	msgClear
-	"""
-	Luego iré a
-	reunirme contigo
-	en el tráiler.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Bem-vindo de
+    volta, Zero.
+    """
+    msgClear
+    """
+    Parece que os
+    Reploids nao
+    sabiam da
+    """
+    msgClear
+    """
+    presenca do
+    assentamento.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Sei que Neige disse
+    para nao irmos,
+    mas devemos
+    """
+    msgClear
+    """
+    avisa-los sobre
+    Ragnarok.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Com o exercito de
+    Weil tao perto,
+    nao podemos
+    """
+    msgClear
+    """
+    arriscar
+    revelar o
+    assentamento
+    """
+    msgClear
+    """
+    transferindo voce.
+    Voce tera que ir
+    a pe,
+    """
+    msgClear
+    """
+    saia do trailer e
+    siga para a
+    direita.
+    """
+    msgClear
+    """
+    Nao deve demorar
+    para chegar.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Ah, e Zero...
+    """
+    msgClear
+    """
+    Recebemos dados
+    de um novo
+    Cyber-elfo
+    """
+    msgClear
+    """
+    da Base da
+    Resistencia.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Um novo
+    Cyber-elfo?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Eles estiveram
+    pesquisando
+    Cyber-elfos.
+    """
+    msgClear
+    """
+    Temos um dos
+    novos no quarto
+    ao lado com
+    """
+    msgClear
+    """
+    Alouette. Va
+    busca-lo com
+    ela.
+    """
+    msgClear
+    """
+    Ela tambem tem o
+    manual, entao
+    peca os detalhes.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Farei isso.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Quando estiver pronto,
+    va para o
+    assentamento.
+    """
+    msgClear
+    """
+    Depois irei me
+    reunir com voce
+    no trailer.
+    """
+    end
 }
 script 104 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Parece que el jefe
-	de esa área era el
-	reactor de energía
-	"""
-	msgClear
-	"""
-	del rayo de
-	partículas.
-	"""
-	msgClear
-	"""
-	Sin él, la potencia
-	del rayo está
-	disminuyendo poco
-	"""
-	msgClear
-	"""
-	a poco y ya no
-	representa una
-	amenaza para
-	"""
-	msgClear
-	"""
-	Área Zero.
-	"""
-	msgClear
-	"""
-	Buen trabajo,
-	Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Parece que o chefe
+    dessa area era o
+    reator de energia
+    """
+    msgClear
+    """
+    do raio de
+    particulas.
+    """
+    msgClear
+    """
+    Sem ele, a potencia
+    do raio esta
+    diminuindo pouco
+    """
+    msgClear
+    """
+    a pouco e ja nao
+    representa uma
+    ameaca para a
+    """
+    msgClear
+    """
+    Area Zero.
+    """
+    msgClear
+    """
+    Bom trabalho,
+    Zero.
+    """
+    end
 }
 script 105 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Así que el jefe de
-	esta área era uno
-	de los hombres de
-	"""
-	msgClear
-	"""
-	Phantom...
-	"""
-	msgClear
-	"""
-	Phantom perdió la
-	vida en una de
-	nuestras batallas.
-	"""
-	msgClear
-	"""
-	A veces me pregunto
-	si todas nuestras
-	batallas solo están
-	"""
-	msgClear
-	"""
-	creando más dolor
-	en el mundo.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Entao o chefe
+    desta area era um
+    dos homens de
+    """
+    msgClear
+    """
+    Phantom...
+    """
+    msgClear
+    """
+    Phantom perdeu a
+    vida em uma das
+    nossas batalhas.
+    """
+    msgClear
+    """
+    As vezes me pergunto
+    se todas as nossas
+    batalhas so estao
+    """
+    msgClear
+    """
+    criando mais dor
+    no mundo.
+    """
+    end
 }
 script 106 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	No puedo creer que
-	planearan atacar
-	usando esa
-	"""
-	msgClear
-	"""
-	fortaleza voladora.
-	"""
-	msgClear
-	"""
-	Weil va en serio.
-	"""
-	msgClear
-	"""
-	No puedo creer que
-	sea humano. ¿Cómo
-	puede ser tan cruel?
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Nao posso crer que
+    planejavam atacar
+    usando essa
+    """
+    msgClear
+    """
+    fortaleza voadora.
+    """
+    msgClear
+    """
+    Weil esta falando serio.
+    """
+    msgClear
+    """
+    Nao acredito que
+    seja humano. Como
+    pode ser tao cruel?
+    """
+    end
 }
 script 107 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Plantas
-	artificiales...
-	"""
-	msgClear
-	"""
-	Qué irónico que la
-	misma tecnología
-	destinada a proteger
-	"""
-	msgClear
-	"""
-	la naturaleza esté
-	destruyéndola.
-	"""
-	msgClear
-	"""
-	Los humanos son
-	capaces de las cosas
-	más maravillosas y
-	"""
-	msgClear
-	"""
-	las más aterradoras
-	con el poder de la
-	ciencia.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Como científica,
-	me da escalofríos
-	solo pensarlo.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Plantas
+    artificiais...
+    """
+    msgClear
+    """
+    Que ironico que a
+    mesma tecnologia
+    feita para proteger
+    """
+    msgClear
+    """
+    a natureza esteja
+    destruindo-a.
+    """
+    msgClear
+    """
+    Os humanos sao
+    capazes das coisas
+    mais maravilhosas e
+    """
+    msgClear
+    """
+    as mais aterrorizantes
+    com o poder da
+    ciencia.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Como cientista,
+    me da calafrios
+    so de pensar.
+    """
+    end
 }
 script 108 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Bienvenido de
-	vuelta, Zero.
-	¿Cómo te encuentras?
-	"""
-	msgClear
-	"""
-	Aun para ti, ese
-	nivel de calor
-	es peligroso.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¡Me preocupé
-	tanto...!
-	"""
-	msgClear
-	"""
-	Me alegra ver
-	que estás a salvo.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Bem-vindo de
+    volta, Zero.
+    Como voce esta?
+    """
+    msgClear
+    """
+    Ate para voce, esse
+    nivel de calor
+    eh perigoso.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Eu me preocupei
+    tanto...!
+    """
+    msgClear
+    """
+    Fico feliz em ver
+    que voce esta a salvo.
+    """
+    end
 }
 script 109 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Gracias, Zero.
-	"""
-	msgClear
-	"""
-	Ayudaste a contener
-	a los Ciber-elfos.
-	"""
-	msgClear
-	"""
-	Ahora pueden
-	descansar en paz...
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Obrigada, Zero.
+    """
+    msgClear
+    """
+    Ajudou a conter
+    os Cyber-elfos.
+    """
+    msgClear
+    """
+    Agora podem
+    descansar em paz...
+    """
+    end
 }
 script 110 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Lograste detener
-	el ruido que se
-	estaba propagando.
-	"""
-	msgClear
-	"""
-	Y menos mal, porque
-	si hubiera seguido
-	así, incluso este
-	"""
-	msgClear
-	"""
-	tráiler habría
-	estado en peligro.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Conseguiu parar
+    o ruido que
+    estava se propagando.
+    """
+    msgClear
+    """
+    E ainda bem, porque
+    se continuasse
+    assim, ate este
+    """
+    msgClear
+    """
+    trailer estaria
+    em perigo.
+    """
+    end
 }
 script 111 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Hay algo
-	solitario en un
-	pueblo fantasma...
-	"""
-	msgClear
-	"""
-	Incluso si ganamos
-	esta batalla,
-	mientras exista una
-	"""
-	msgClear
-	"""
-	brecha entre humanos
-	y Reploides, cosas
-	así seguirán
-	"""
-	msgClear
-	"""
-	existiendo.
-	"""
-	msgClear
-	"""
-	Debemos hacer lo
-	posible por el
-	futuro de todos.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Ha algo
+    solitario em uma
+    cidade fantasma...
+    """
+    msgClear
+    """
+    Mesmo se ganharmos
+    esta batalha,
+    enquanto houver uma
+    """
+    msgClear
+    """
+    brecha entre humanos
+    e Reploids, coisas
+    assim continuarao
+    """
+    msgClear
+    """
+    existindo.
+    """
+    msgClear
+    """
+    Devemos fazer o
+    possivel pelo
+    futuro de todos.
+    """
+    end
 }
 script 112 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Bienvenido de
-	vuelta, Zero.
-	"""
-	msgClear
-	"""
-	Sé dónde llevaron
-	a Neige.
-	"""
-	msgClear
-	"""
-	Hay una base enemiga
-	al oeste de nuestra
-	posición actual.
-	"""
-	msgClear
-	"""
-	Neige y Craft
-	deberían estar allí.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Estamos listos para
-	la transferencia
-	cuando tú lo estés.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Bem-vindo de
+    volta, Zero.
+    """
+    msgClear
+    """
+    Sei para onde levaram
+    Neige.
+    """
+    msgClear
+    """
+    Ha uma base inimiga
+    a oeste de nossa
+    posicao atual.
+    """
+    msgClear
+    """
+    Neige e Craft
+    devem estar la.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Estamos prontos para
+    a transferencia
+    quando voce estiver.
+    """
+    end
 }
 script 113 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Transferencia
-	completa.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Me alegra verte de
-	vuelta.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Dónde está Neige?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Volvió al
-	Asentamiento para
-	agradecerles a todos.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Ya veo...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¿Crees que de verdad
-	ayudamos a los
-	humanos?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Yo creo que sí...
-	"""
-	msgClear
-	"""
-	Pero aún no hemos
-	terminado, todavía
-	hay trabajo
-	"""
-	msgClear
-	"""
-	por hacer.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Claro!
-	¡Detengamos el plan
-	malvado de Weil!
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Transferencia
+    completa.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Fico feliz em te
+    ver de volta.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Onde esta Neige?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Voltou ao
+    Assentamento para
+    agradecer a todos.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Entendo...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Acha que de verdade
+    ajudamos os
+    humanos?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Eu acho que sim...
+    """
+    msgClear
+    """
+    Mas ainda nao
+    terminamos, ainda
+    ha trabalho
+    """
+    msgClear
+    """
+    para fazer.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Claro!
+    Vamos parar o plano
+    maligno de Weil!
+    """
+    end
 }
 script 114 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Gracias a ti,
-	aseguramos el acceso
-	al Circuito de
-	"""
-	msgClear
-	"""
-	Teletransporte.
-	"""
-	msgClear
-	"""
-	Aún debemos evadir
-	la protección que
-	rodea a Ragnarok,
-	"""
-	msgClear
-	"""
-	pero tengo una idea.
-	"""
-	msgClear
-	"""
-	Continuemos con la
-	siguiente misión
-	cuando estés listo.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Gracas a voce,
+    garantimos o acesso
+    ao Circuito de
+    """
+    msgClear
+    """
+    Teletransporte.
+    """
+    msgClear
+    """
+    Ainda devemos evadir
+    a protecao que
+    rodeia Ragnarok,
+    """
+    msgClear
+    """
+    mas tenho uma ideia.
+    """
+    msgClear
+    """
+    Continuemos com a
+    proxima missao
+    quando estiver pronto.
+    """
+    end
 }
 script 115 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Si no detenemos a
-	Ragnarok, Área Zero
-	está perdida...
-	"""
-	msgClear
-	"""
-	Y lo último de la
-	naturaleza se irá
-	con ello.
-	"""
-	msgClear
-	"""
-	No puedes fallar...
-	El mundo cuenta
-	contigo.
-	"""
-	msgClear
-	"""
-	Y...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Asegúrate de volver,
-	¿sí?
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Se nao pararmos
+    Ragnarok, Area Zero
+    esta perdida...
+    """
+    msgClear
+    """
+    E o ultimo da
+    natureza ira
+    com ele.
+    """
+    msgClear
+    """
+    Voce nao pode falhar...
+    O mundo conta
+    com voce.
+    """
+    msgClear
+    """
+    E...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Certifique-se de voltar,
+    sim?
+    """
+    end
 }
 script 150 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Todas las misiones
-	han sido completadas.
-	"""
-	msgClear
-	"""
-	La situación en
-	Área Zero es
-	estable.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Parece que lo hice
-	a tiempo.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Todas as missoes
+    foram completadas.
+    """
+    msgClear
+    """
+    A situacao na
+    Area Zero eh
+    estavel.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Parece que fiz
+    a tempo.
+    """
+    end
 }
 script 151 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Parece que sí!
-	"""
-	msgClear
-	"""
-	Ahora Área Zero
-	está a salvo.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Parece que sim!
+    """
+    msgClear
+    """
+    Agora a Area Zero
+    esta a salvo.
+    """
+    end
 }
 script 152 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Guardé tus datos
-	por ti.
-	"""
-	msgClear
-	"""
-	Tómate un descanso,
-	te lo mereces.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Salvei seus dados
+    para voce.
+    """
+    msgClear
+    """
+    Tire um descanso,
+    voce merece.
+    """
+    end
 }
 script 153 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	¿Está todo bien?
-	"""
-	msgClear
-	"""
-	Tómate un descanso,
-	te lo mereces.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Esta tudo bem?
+    """
+    msgClear
+    """
+    Tire um descanso,
+    voce merece.
+    """
+    end
 }
 script 154 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Estoy recibiendo
-	noticias de la
-	Base de la
-	"""
-	msgClear
-	"""
-	Resistencia.
-	"""
-	msgClear
-	"""
-	Abriendo canal.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 63
-	"""
-	¡Ciel! ¡Zero!
-	¡Es terrible!
-	"""
-	msgClear
-	"""
-	¡El radar de la
-	base ha detectado
-	una enorme señal
-	"""
-	msgClear
-	"""
-	de energía!
-	"""
-	msgClear
-	"""
-	¡La señal proviene
-	del espacio!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¿¡Del espacio!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 63
-	"""
-	¡La señal de
-	energía está fuera
-	de escala!
-	"""
-	msgClear
-	"""
-	¡Se dirige...
-	a Área Zero!
-	¡Salgan... de ahí!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¿¡Qué es eso!?
-	¡Responde!
-	"""
-	msgClear
-	"""
-	¿¡Qué está pasando
-	allá arriba!?
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Estou recebendo
+    noticias da
+    Base da
+    """
+    msgClear
+    """
+    Resistencia.
+    """
+    msgClear
+    """
+    Abrindo canal.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 63
+    """
+    Ciel! Zero!
+    Eh terrivel!
+    """
+    msgClear
+    """
+    O radar da
+    base detectou
+    um enorme sinal
+    """
+    msgClear
+    """
+    de energia!
+    """
+    msgClear
+    """
+    O sinal vem
+    do espaco!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Do espaco!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 63
+    """
+    O sinal de
+    energia esta fora
+    de escala!
+    """
+    msgClear
+    """
+    Esta indo...
+    para a Area Zero!
+    Saiam... dai!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    O que eh isso!?
+    Responda!
+    """
+    msgClear
+    """
+    O que esta havendo
+    la em cima!?
+    """
+    end
 }
 script 155 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Algo está
-	interfiriendo con
-	la señal!
-	"""
-	msgClear
-	"""
-	La fuente es...
-	¡Neo Arcadia!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 38
-	"""
-	???:
-	"Jejeje..."
-	"""
-	msgClear
-	"""
-	"¡Bwahahaha!"
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Lo sabía...
-	¡Dr. Weil!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 86
-	"""
-	¡Te lo dije, Zero!
-	¡No tienes ninguna
-	posibilidad de
-	"""
-	msgClear
-	"""
-	detener Ragnarok!
-	"""
-	msgClear
-	"""
-	¡Cubrir todo con un
-	manto de destrucción
-	desde la comodidad
-	"""
-	msgClear
-	"""
-	de mi cañón espacial
-	es para lo que
-	Ragnarok fue creado
-	"""
-	msgClear
-	"""
-	desde el principio!
-	"""
-	msgClear
-	"""
-	¡Los Ocho Guerreros
-	no fueron más que
-	una distracción
-	"""
-	msgClear
-	"""
-	mientras completaba
-	Ragnarok!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¡Operadora!
-	¿Puedes transferirme
-	a Ragnarok?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Lo siento, no puedo
-	determinar las
-	coordenadas!
-	"""
-	msgClear
-	"""
-	¡No puedo enviarte a
-	ningún lugar sin un
-	destino!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 86
-	"""
-	¡Jejeje!
-	¡Bwahahaha!
-	"""
-	msgClear
-	"""
-	¡Tu confusión me
-	entusiasma sin
-	límites!
-	"""
-	msgClear
-	"""
-	¡Insectos patéticos
-	arrastrándose y
-	emocionándose por
-	"""
-	msgClear
-	"""
-	su preciosa
-	naturaleza!
-	"""
-	msgClear
-	"""
-	¡Quiero oírlos
-	gritar cuando
-	encuentren su fin!
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Algo esta
+    interferindo no
+    sinal!
+    """
+    msgClear
+    """
+    A fonte eh...
+    Neo Arcadia!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 38
+    """
+    ???:
+    "Hehehe..."
+    """
+    msgClear
+    """
+    "Bwahahaha!"
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Eu sabia...
+    Dr. Weil!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 86
+    """
+    Eu te disse, Zero!
+    Voce nao tem nenhuma
+    chance de
+    """
+    msgClear
+    """
+    parar Ragnarok!
+    """
+    msgClear
+    """
+    Cobrir tudo com um
+    manto de destruicao
+    do conforto
+    """
+    msgClear
+    """
+    do meu canhao espacial
+    eh para o que
+    Ragnarok foi criado
+    """
+    msgClear
+    """
+    desde o inicio!
+    """
+    msgClear
+    """
+    Os Oito Guerreiros
+    nao foram mais que
+    uma distracao
+    """
+    msgClear
+    """
+    enquanto eu completava
+    Ragnarok!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Operadora!
+    Pode me transferir
+    para Ragnarok?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Sinto muito, nao posso
+    determinar as
+    coordenadas!
+    """
+    msgClear
+    """
+    Nao posso enviar voce a
+    lugar nenhum sem um
+    destino!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 86
+    """
+    Hehehe!
+    Bwahahaha!
+    """
+    msgClear
+    """
+    Sua confusao me
+    entusiasma sem
+    limites!
+    """
+    msgClear
+    """
+    Insetos pateticos
+    se arrastrando e
+    se emocionando por
+    """
+    msgClear
+    """
+    sua preciosa
+    natureza!
+    """
+    msgClear
+    """
+    Quero ouvi-los
+    gritar quando
+    encontrarem seu fim!
+    """
+    end
 }
 script 156 mmz4 {
-	mugshotShow
-		mugshot = 38
-	"""
-	???:
-	"¡El único que está
-	 condenado eres tú!"
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 86
-	"""
-	¡Cómo te atreves!
-	"""
-	msgClear
-	"""
-	Esa voz...
-	¿¡Craft!?
-	"""
-	end
+    mugshotShow
+        mugshot = 38
+    """
+    ???:
+    "O unico que esta
+     condenado eh voce!"
+    """
+    msgClear
+    mugshotShow
+        mugshot = 86
+    """
+    Como ousa!
+    """
+    msgClear
+    """
+    Essa voz...
+    Craft!?
+    """
+    end
 }
 script 157 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 38
-	"""
-	Craft:
-	"He destruido el
-	 sistema de control
-	"""
-	msgClear
-	"""
-	 remoto de Ragnarok."
-	"""
-	msgClear
-	"""
-	"¡Ya no soy tu
-	 perro al que tiras
-	 de la cadena!"
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 38
+    """
+    Craft:
+    "Eu destrui o
+     sistema de controle
+    """
+    msgClear
+    """
+     remoto do Ragnarok."
+    """
+    msgClear
+    """
+    "Nao sou mais o seu
+     cao que voce puxa
+     pela coleira!"
+    """
+    end
 }
 script 158 mmz4 {
-	mugshotShow
-		mugshot = 33
-	"""
-	¡Ahora yo controlo
-	Ragnarok!
-	"""
-	msgClear
-	"""
-	Tu cañón espacial
-	ya no apunta a
-	Área Zero...
-	"""
-	msgClear
-	"""
-	¡Ahora apunta hacia
-	ti y Neo Arcadia!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 86
-	"""
-	¡Seducido por las
-	dulces palabras de
-	una mujer!
-	"""
-	msgClear
-	"""
-	¡Increíble!
-	"""
-	msgClear
-	"""
-	¡¿Te das cuenta de
-	cuántos humanos y
-	Reploides viven
-	"""
-	msgClear
-	"""
-	bajo mi control?!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 33
-	"""
-	¿¡Estás diciendo
-	que debo ser un
-	Reploide leal y
-	"""
-	msgClear
-	"""
-	seguirte!?
-	"""
-	msgClear
-	"""
-	Sin actuar...
-	Sin pensar...
-	"""
-	msgClear
-	"""
-	¿Solo esperando
-	tus órdenes?
-	"""
-	msgClear
-	"""
-	¿¡Y estás aprobando
-	la destrucción de la
-	naturaleza,
-	"""
-	msgClear
-	"""
-	luchando solo por
-	sobrevivir!?
-	"""
-	msgClear
-	"""
-	¡Yo... no permitiré
-	que tomes el control!
-	"""
-	msgClear
-	"""
-	¡He luchado
-	demasiado y por
-	tanto tiempo por la
-	"""
-	msgClear
-	"""
-	humanidad como para
-	dejarte hacerlo!
-	"""
-	msgClear
-	"""
-	¡Cambiaré el mundo!
-	"""
-	end
+    mugshotShow
+        mugshot = 33
+    """
+    Agora eu controlo
+    Ragnarok!
+    """
+    msgClear
+    """
+    Seu canhao espacial
+    ja nao aponta para
+    Area Zero...
+    """
+    msgClear
+    """
+    Agora aponta para
+    voce e Neo Arcadia!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 86
+    """
+    Seduzido pelas
+    doces palavras de
+    uma mulher!
+    """
+    msgClear
+    """
+    Incrivel!
+    """
+    msgClear
+    """
+    Voce tem ideia de
+    quantos humanos e
+    Reploids vivem
+    """
+    msgClear
+    """
+    sob meu controle?!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 33
+    """
+    Esta dizendo
+    que devo ser um
+    Reploid leal e
+    """
+    msgClear
+    """
+    te seguir!?
+    """
+    msgClear
+    """
+    Sem agir...
+    Sem pensar...
+    """
+    msgClear
+    """
+    So esperando
+    suas ordens?
+    """
+    msgClear
+    """
+    E voce aprova
+    a destruicao da
+    natureza,
+    """
+    msgClear
+    """
+    lutando so para
+    sobreviver!?
+    """
+    msgClear
+    """
+    Eu... nao permitirei
+    que tome o controle!
+    """
+    msgClear
+    """
+    Eu lutei
+    demais e por
+    tanto tempo pela
+    """
+    msgClear
+    """
+    humanidade para
+    te deixar fazer isso!
+    """
+    msgClear
+    """
+    Mudarei o mundo!
+    """
+    end
 }
 script 159 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	¿¡Qué!? ¿¡Entonces
-	vas a atacar Neo
-	Arcadia en su lugar!?
-	"""
-	msgClear
-	"""
-	¡Aún hay humanos y
-	Reploides allí!
-	"""
-	msgClear
-	"""
-	¡Base de la
-	Resistencia,
-	respondan!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 63
-	"""
-	..el!
-	¡Res...!
-	Cie...
-	"""
-	msgClear
-	"""
-	¡Comunicación
-	restablecida!
-	¡Ciel, responde!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¡Lleven a todos los
-	de la Resistencia a
-	Neo Arcadia!
-	"""
-	msgClear
-	"""
-	¡Saquen a los
-	humanos y Reploides
-	de allí!
-	"""
-	msgClear
-	"""
-	¡Aunque tengan que
-	forzarlos, intenten
-	salvar a tantos
-	"""
-	msgClear
-	"""
-	como puedan!
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    O que!? Entao voce
+    vai atacar Neo
+    Arcadia no lugar!?
+    """
+    msgClear
+    """
+    Ainda ha humanos e
+    Reploids la!
+    """
+    msgClear
+    """
+    Base da
+    Resistencia,
+    respondam!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 63
+    """
+    ..el!
+    Res...!
+    Cie...
+    """
+    msgClear
+    """
+    Comunicacao
+    restabelecida!
+    Ciel, responda!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Levem todos da
+    Resistencia para
+    Neo Arcadia!
+    """
+    msgClear
+    """
+    Tirem os
+    humanos e Reploids
+    de la!
+    """
+    msgClear
+    """
+    Mesmo que tenham
+    que forca-los, tentem
+    salvar tantos
+    """
+    msgClear
+    """
+    quantos puderem!
+    """
+    end
 }
 script 160 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Demasiados ya han
-	sufrido lo
-	suficiente...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 63
-	"""
-	¡Entendido!
-	¡Transmitiré tus
-	órdenes de inmediato!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Preparativos para
-	la transferencia a
-	Ragnarok completos!
-	"""
-	msgClear
-	"""
-	Como las coordenadas
-	se basan en la señal
-	de Craft, esta será
-	"""
-	msgClear
-	"""
-	una transferencia
-	forzada.
-	Además, tu posición
-	"""
-	msgClear
-	"""
-	estará algo alejada
-	de la de Craft en
-	la sala de control.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Está bien, solo
-	transfiéreme...
-	"""
-	msgClear
-	"""
-	Ciel...
-	"""
-	msgClear
-	"""
-	No pierdas la
-	esperanza...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¡Zero!
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Muitos ja
+    sofreram o
+    suficiente...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 63
+    """
+    Entendido!
+    Transmitirei suas
+    ordens agora!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Preparativos para
+    a transferencia a
+    Ragnarok completos!
+    """
+    msgClear
+    """
+    Como as coordenadas
+    baseiam-se no sinal
+    de Craft, esta sera
+    """
+    msgClear
+    """
+    uma transferencia
+    forcada.
+    Alem disso, sua posicao
+    """
+    msgClear
+    """
+    estara meio longe
+    da de Craft na
+    sala de controle.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Tudo bem, so
+    me transfira...
+    """
+    msgClear
+    """
+    Ciel...
+    """
+    msgClear
+    """
+    Nao perca a
+    esperanca...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Zero!
+    """
+    end
 }
 script 170 mmz4 {
-	mugshotShow
-		mugshot = 65
-	"""
-	¡Equipo Colbor
-	reportándose!
-	"""
-	msgClear
-	"""
-	¡Misión cumplida,
-	Ciel!
-	"""
-	end
+    mugshotShow
+        mugshot = 65
+    """
+    Equipe Colbor
+    se apresentando!
+    """
+    msgClear
+    """
+    Missao cumprida,
+    Ciel!
+    """
+    end
 }
 script 171 mmz4 {
-	msgBottom
-	mugshotShow
-		mugshot = 65
-	"""
-	¡Los humanos y
-	Reploides han sido
-	evacuados!
-	"""
-	msgClear
-	"""
-	Neo Arcadia ha sido
-	arrasada por el
-	ataque de Ragnarok...
-	"""
-	msgClear
-	"""
-	No queda nada más
-	que un cráter en el
-	centro donde Weil
-	"""
-	msgClear
-	"""
-	estaba.
-	"""
-	msgClear
-	"""
-	Dudo que haya
-	sobrevivientes en
-	esa área...
-	"""
-	end
+    msgBottom
+    mugshotShow
+        mugshot = 65
+    """
+    Os humanos e
+    Reploids foram
+    evacuados!
+    """
+    msgClear
+    """
+    Neo Arcadia foi
+    arrasada pelo
+    ataque de Ragnarok...
+    """
+    msgClear
+    """
+    Nao restou nada alem
+    de uma cratera no
+    centro onde Weil
+    """
+    msgClear
+    """
+    estava.
+    """
+    msgClear
+    """
+    Duvido que haja
+    sobreviventes
+    nessa area...
+    """
+    end
 }
 script 172 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Ya veo...
-	Buen trabajo,
-	todos...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Continúen buscando
-	posibles
-	sobrevivientes...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 93
-	"""
-	Colbor:
-	"Entendido..."
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Ciel, ¿estás bien?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Estoy bien... Solo
-	un poco cansada...
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Entendo...
+    Bom trabalho,
+    pessoal...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Continuem buscando
+    possiveis
+    sobreviventes...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 93
+    """
+    Colbor:
+    "Entendido..."
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Ciel, voce esta bem?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Estou bem... So
+    um pouco cansada...
+    """
+    end
 }
 script 173 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Comunicación
-	entrante desde una
-	línea externa...
-	"""
-	msgClear
-	"""
-	Es del
-	Asentamiento. La
-	conectaré.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 93
-	"""
-	Neige:
-	"Zero..."
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Neige...
-	"""
-	msgClear
-	"""
-	Fue tal como
-	dijiste...
-	"""
-	msgClear
-	"""
-	No importa lo que
-	haga, mientras siga
-	luchando,
-	"""
-	msgClear
-	"""
-	no soy diferente
-	de Weil.
-	"""
-	msgClear
-	"""
-	Y yo... tuve que
-	luchar contra
-	Craft...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 93
-	"""
-	Neige:
-	"No, Zero..."
-	"Gracias..."
-	"""
-	msgClear
-	"""
-	"Por detener
-	 a Craft..."
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Comunicacao
+    recebida de uma
+    linha externa...
+    """
+    msgClear
+    """
+    Eh do
+    Assentamento. Vou
+    conectar.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 93
+    """
+    Neige:
+    "Zero..."
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Neige...
+    """
+    msgClear
+    """
+    Foi como voce
+    disse...
+    """
+    msgClear
+    """
+    Nao importa o que
+    eu faca, enquanto
+    seguir lutando,
+    """
+    msgClear
+    """
+    nao sou diferente
+    de Weil.
+    """
+    msgClear
+    """
+    E eu... tive que
+    lutar contra
+    Craft...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 93
+    """
+    Neige:
+    "Nao, Zero..."
+    "Obrigada..."
+    """
+    msgClear
+    """
+    "Por parar
+     Craft..."
+    """
+    end
 }
 script 174 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	Ragnarok y Neo
-	Arcadia ya no
-	existen...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	¿Por fin terminó?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	Tantos humanos y
-	Reploides perdieron
-	sus vidas...
-	"""
-	msgClear
-	"""
-	Zero, ¿hicimos lo
-	correcto?
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Ragnarok e Neo
+    Arcadia ja nao
+    existem...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Finalmente acabou?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Tantos humanos e
+    Reploids perderam
+    suas vidas...
+    """
+    msgClear
+    """
+    Zero, fizemos o
+    certo?
+    """
+    end
 }
 script 175 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	¿¡Qué fue eso!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Eso... ¡Vino de
-	Ragnarok!
-	"""
-	msgClear
-	"""
-	¡Sigue
-	operativo!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¡Pero Weil y Craft
-	ya no están!
-	"""
-	msgClear
-	"""
-	¿¡Quién podría estar
-	controlándolo!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¡Operadora!
-	¡Envíame de vuelta
-	a Ragnarok!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡No puedo! Solo
-	la sala de control
-	está conectada.
-	"""
-	msgClear
-	"""
-	Hay protección en
-	el circuito hacia
-	el centro.
-	"""
-	msgClear
-	"""
-	¡No podemos
-	transferirte desde
-	el punto de acceso
-	"""
-	msgClear
-	"""
-	del tráiler!
-	"""
-	msgClear
-	"""
-	Ragnarok está
-	acelerando...
-	"""
-	msgClear
-	"""
-	Y se dirige
-	directamente a...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Qué ocurre?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Se dirige
-	directamente a
-	Área Zero!
-	"""
-	msgClear
-	"""
-	¡Alguien intenta
-	estrellarlo!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¿¡Qué!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Aún hay algo de
-	tiempo antes de que
-	impacte, pero no
-	"""
-	msgClear
-	"""
-	podemos desactivar
-	la protección del
-	circuito desde aquí!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿¡No hay nada que
-	podamos hacer!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 93
-	"""
-	Neige:
-	"¡Zero! ¡Ciel!"
-	"¿¡Están bien!?"
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    O que foi isso!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Isso... Veio de
+    Ragnarok!
+    """
+    msgClear
+    """
+    Ainda esta
+    operando!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Mas Weil e Craft
+    ja nao estao la!
+    """
+    msgClear
+    """
+    Quem poderia estar
+    controlando-o!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Operadora!
+    Envie-me de volta
+    a Ragnarok!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Nao posso! So
+    a sala de controle
+    esta conectada.
+    """
+    msgClear
+    """
+    Ha protecao no
+    circuito ate
+    o centro.
+    """
+    msgClear
+    """
+    Nao podemos
+    transferir voce
+    do ponto de acesso
+    """
+    msgClear
+    """
+    do trailer!
+    """
+    msgClear
+    """
+    Ragnarok esta
+    acelerando...
+    """
+    msgClear
+    """
+    E se dirige
+    diretamente para...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    O que houve?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Esta indo
+    diretamente para
+    a Area Zero!
+    """
+    msgClear
+    """
+    Alguem tenta
+    colidi-lo!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    O que!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Ainda ha um pouco
+    de tempo antes do
+    impacto, mas nao
+    """
+    msgClear
+    """
+    podemos desativar
+    a protecao do
+    circuito daqui!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Nao ha nada que
+    possamos fazer!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 93
+    """
+    Neige:
+    "Zero! Ciel!"
+    "Voces estao bem!?"
+    """
+    end
 }
 script 176 mmz4 {
-	mugshotShow
-		mugshot = 59
-	"""
-	¡Neige!
-	Ragnarok está...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 93
-	"""
-	Neige:
-	"¡Lo escuché!"
-	"""
-	msgClear
-	"""
-	"¡Te estoy enviando
-	 unas coordenadas,
-	 podrías llegar
-	"""
-	msgClear
-	"""
-	 a Ragnarok con
-	 ellas!"
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	A...
-	¿A dónde llevan?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 93
-	"""
-	Neige:
-	"A la Base de
-	 Teletransporte en
-	"""
-	msgClear
-	"""
-	 Neo Arcadia."
-	"""
-	msgClear
-	"""
-	"Fue diseñada
-	 originalmente para
-	 transferir tropas.
-	"""
-	msgClear
-	"""
-	 ¡Podría tener la
-	 energía suficiente
-	 para enviarte a
-	"""
-	msgClear
-	"""
-	 Ragnarok!"
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Coordenadas
-	recibidas desde el
-	Asentamiento.
-	"""
-	msgClear
-	"""
-	Ingresándolas ahora.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	¡Zero!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Si es nuestra única
-	oportunidad, tengo
-	que aprovecharla.
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    """
+    Neige!
+    Ragnarok esta...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 93
+    """
+    Neige:
+    "Eu ouvi!"
+    """
+    msgClear
+    """
+    "Estou te enviando
+     umas coordenadas,
+     voce podera chegar
+    """
+    msgClear
+    """
+     a Ragnarok com
+     elas!"
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    Para...
+    Onde levam?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 93
+    """
+    Neige:
+    "Para a Base de
+     Teletransporte em
+    """
+    msgClear
+    """
+     Neo Arcadia."
+    """
+    msgClear
+    """
+    "Ela foi feita
+     originalmente para
+     transferir tropas.
+    """
+    msgClear
+    """
+    "Pode ter a
+     energia suficiente
+     para te enviar a
+    """
+    msgClear
+    """
+     Ragnarok!"
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Coordenadas
+    recebidas do
+    Assentamento.
+    """
+    msgClear
+    """
+    Inserindo-as agora.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Zero!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Se eh a nossa unica
+    chance, tenho
+    que aproveita-la.
+    """
+    end
 }
 script 177 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Coordenadas hacia
-	la Base de
-	Teletransporte
-	"""
-	msgClear
-	"""
-	establecidas.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Coordenadas para
+    a Base de
+    Teletransporte
+    """
+    msgClear
+    """
+    definidas.
+    """
+    end
 }
 script 178 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¿Transf. a T. Base?
-	  Sí
-	  No
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Transf. T. Base?
+     Sim
+     Nao
+    """
+    end
 }
 script 179 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Preparativos de
-	transferencia
-	completos!
-	"""
-	msgClear
-	"""
-	¡Transfiriendo!
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Preparativos de
+    transferencia
+    completos!
+    """
+    msgClear
+    """
+    Transferindo!
+    """
+    end
 }
 script 180 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	De acuerdo,
-	añadiré la Base
-	al mapa.
-	"""
-	msgClear
-	"""
-	Estará disponible
-	cuando estés listo.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Tudo bem,
+    adicionarei a Base
+    ao mapa.
+    """
+    msgClear
+    """
+    Estara disponivel
+    quando estiver pronto.
+    """
+    end
 }
 script 217 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	Hard Mode
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	msgClear
-	"""
-	Puedes jugar en hard mode.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    Hard Mode
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    msgClear
+    """
+    Pode jogar no hard mode.
+    """
+    end
 }
 script 218 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	Ultimate Mode
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	msgClear
-	"""
-	Puedes jugar en
-	"""
-	msgClear
-	"""
-	ultimate mode.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    Ultimate Mode
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    msgClear
+    """
+    Voce pode jogar no
+    """
+    msgClear
+    """
+    ultimate mode.
+    """
+    end
 }
 script 220 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	"Plant Panic"
-	"""
-	textColorWhite
-	"""
-	
-	
-	"""
-	textColorRed
-	"""
-	Mini Game
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    "Plant Panic"
+    """
+    textColorWhite
+    """
+    
+    
+    """
+    textColorRed
+    """
+    Mini Game
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    end
 }
 script 221 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	"Busy Basket"
-	"""
-	textColorWhite
-	"""
-	
-	
-	"""
-	textColorRed
-	"""
-	Mini Game
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    "Busy Basket"
+    """
+    textColorWhite
+    """
+    
+    
+    """
+    textColorRed
+    """
+    Mini Game
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    end
 }
 script 222 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	"Lumberjack"
-	"""
-	textColorWhite
-	"""
-	
-	
-	"""
-	textColorRed
-	"""
-	Mini Game
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    "Lumberjack"
+    """
+    textColorWhite
+    """
+    
+    
+    """
+    textColorRed
+    """
+    Mini Game
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    end
 }
 script 223 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	"Lava Surf"
-	"""
-	textColorWhite
-	"""
-	
-	
-	"""
-	textColorRed
-	"""
-	Mini Game
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    "Lava Surf"
+    """
+    textColorWhite
+    """
+    
+    
+    """
+    textColorRed
+    """
+    Mini Game
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    end
 }
 script 224 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	"Elf Chase"
-	"""
-	textColorWhite
-	"""
-	
-	
-	"""
-	textColorRed
-	"""
-	Mini Game
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    "Elf Chase"
+    """
+    textColorWhite
+    """
+    
+    
+    """
+    textColorRed
+    """
+    Mini Game
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    end
 }
 script 225 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	"Slam Harvest"
-	"""
-	textColorWhite
-	"""
-	
-	
-	"""
-	textColorRed
-	"""
-	Mini Game
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    "Slam Harvest"
+    """
+    textColorWhite
+    """
+    
+    
+    """
+    textColorRed
+    """
+    Mini Game
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    end
 }
 script 226 mmz4 {
-	mugshotShow
-		mugshot = 2
-	msgBottom
-	textColorRed
-	"""
-	"Energy Lab"
-	"""
-	textColorWhite
-	"""
-	
-	
-	"""
-	textColorRed
-	"""
-	Mini Game
-	"""
-	textColorWhite
-	"""
-	 añadido.
-	"""
-	end
+    mugshotShow
+        mugshot = 2
+    msgBottom
+    textColorRed
+    """
+    "Energy Lab"
+    """
+    textColorWhite
+    """
+    
+    
+    """
+    textColorRed
+    """
+    Mini Game
+    """
+    textColorWhite
+    """
+     adicionado.
+    """
+    end
 }
 script 230 mmz4 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¿Salir del Mini Game?
-	  Sí
-	  No
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    Sair do Mini Game?
+     Sim
+     Nao
+    """
+    end
 }

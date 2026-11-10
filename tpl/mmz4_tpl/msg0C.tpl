@@ -2,195 +2,195 @@
 @size 19
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 36
-	"""
-	Operadora:
-	"Zero..."
-	"""
-	msgClear
-	"""
-	"Esta área está
-	 controlada desde
-	 dos ubicaciones."
-	"""
-	msgClear
-	"""
-	"Una es la torre de
-	 control y la otra
-	"""
-	msgClear
-	"""
-	 es la sala de
-	 computadoras
-	 más allá de ella."
-	"""
-	msgClear
-	"""
-	"Sigue adelante y
-	 detén esa torre
-	 de control."
-	"""
-	end
+    mugshotShow
+        mugshot = 36
+    """
+    Operadora:
+    "Zero..."
+    """
+    msgClear
+    """
+    "Esta area eh
+     controlada de duas
+     localizacoes."
+    """
+    msgClear
+    """
+    "Uma eh a torre de
+     controle e a outra"
+    """
+    msgClear
+    """
+     eh a sala de
+     computadores
+     alem dela."
+    """
+    msgClear
+    """
+    "Siga em frente e
+     pare essa torre
+     de controle."
+    """
+    end
 }
 script 1 mmz4 {
-	mugshotShow
-		mugshot = 36
-	"""
-	Operadora:
-	"¡Zero, ahí está la
-	 torre de control!"
-	"""
-	msgClear
-	"""
-	"No puedes
-	 destruirla
-	 directamente,
-	"""
-	msgClear
-	"""
-	 pero puedes sacar
-	 el disco clave y
-	 desactivarla."
-	"""
-	end
+    mugshotShow
+        mugshot = 36
+    """
+    Operadora:
+    "Zero, la esta a
+     torre de controle!"
+    """
+    msgClear
+    """
+    "Voce nao pode
+     destrui-la
+     diretamente,"
+    """
+    msgClear
+    """
+     mas pode tirar
+     o disco chave e
+     desativa-la."
+    """
+    end
 }
 script 16 mmz4 {
-	mugshotShow
-		mugshot = 31
-	"""
-	¡Kyakya!
-	¡Te he estado
-	esperando, Zero!
-	"""
-	msgClear
-	"""
-	¡Me dejaste en
-	ridículo la última
-	vez que nos vimos!
-	"""
-	msgClear
-	"""
-	¡Pero te aseguro
-	que no pasará
-	de nuevo!
-	"""
-	msgClear
-	"""
-	¡Soy Cocapetri, de
-	los ocho guerreros
-	Einherjar!
-	"""
-	msgClear
-	"""
-	¡Veremos Ragnarok
-	hasta el final!
-	¡Kyakya!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Así que tú eres
-	el que controla
-	la seguridad aquí?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 31
-	"""
-	¡Kyakya!
-	¿Sorprendido?
-	"""
-	msgClear
-	"""
-	¡Es todo gracias
-	al programa virus
-	de Lord Weil!
-	"""
-	msgClear
-	"""
-	¡Se encarga de los
-	intrusos sin que yo
-	mueva un dedo!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Así que eres del tipo
-	que no puede hacer
-	nada por sí mismo...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 31
-	"""
-	¡Kya! ¡Primero
-	"esbirro", y
-	ahora esto!
-	"""
-	msgClear
-	"""
-	¡Imperdonable!
-	"""
-	msgClear
-	"""
-	¡Te convertiré
-	en un adorno de
-	jardín!
-	"""
-	end
+    mugshotShow
+        mugshot = 31
+    """
+    Kyakya!
+    Estive te
+    esperando, Zero!
+    """
+    msgClear
+    """
+    Voce me fez passar
+    vergonha da ultima
+    vez que nos vimos!
+    """
+    msgClear
+    """
+    Mas te garanto
+    que nao acontecera
+    de novo!
+    """
+    msgClear
+    """
+    Sou Cocapetri, dos
+    oito guerreiros
+    Einherjar!
+    """
+    msgClear
+    """
+    Veremos Ragnarok
+    ate o final!
+    Kyakya!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Entao voce eh
+    quem controla
+    a seguranca aqui?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 31
+    """
+    Kyakya!
+    Surpreso?
+    """
+    msgClear
+    """
+    Eh tudo gracas
+    ao programa virus
+    do Lorde Weil!
+    """
+    msgClear
+    """
+    Ele cuida dos
+    intrusos sem que eu
+    mova um dedo!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Entao voce eh do tipo
+    que nao pode fazer
+    nada por si mesmo...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 31
+    """
+    Kya! Primeiro
+    "capanga", e
+    agora isso!
+    """
+    msgClear
+    """
+    Imperdoavel!
+    """
+    msgClear
+    """
+    Vou te transformar
+    em um enfeite de
+    jardim!
+    """
+    end
 }
 script 17 mmz4 {
-	mugshotShow
-		mugshot = 31
-	"""
-	¡Kyakya!
-	"""
-	msgClear
-	"""
-	¿Tienes problemas
-	para moverte ahí,
-	tipo duro?
-	"""
-	msgClear
-	"""
-	Oh, lo siento.
-	¡Fue mi culpa!
-	"""
-	msgClear
-	"""
-	¿Y ahora quién no
-	puede hacer nada por
-	sí mismo? ¡Kyakya!
-	"""
-	end
+    mugshotShow
+        mugshot = 31
+    """
+    Kyakya!
+    """
+    msgClear
+    """
+    Esta com problemas
+    para se mover ai,
+    durao?
+    """
+    msgClear
+    """
+    Oh, desculpe.
+    Foi minha culpa!
+    """
+    msgClear
+    """
+    E agora quem nao
+    pode fazer nada por
+    si mesmo? Kyakya!
+    """
+    end
 }
 script 18 mmz4 {
-	mugshotShow
-		mugshot = 31
-	"""
-	Kya...kya...
-	¿Por qué no puedo
-	moverme?
-	"""
-	msgClear
-	"""
-	No me habré
-	convertido en
-	piedra, ¿verdad?
-	"""
-	msgClear
-	"""
-	No...es...
-	el miedo lo que
-	me paraliza...
-	"""
-	msgClear
-	"""
-	Kuh...
-	¡Kyakyaaa!
-	"""
-	end
+    mugshotShow
+        mugshot = 31
+    """
+    Kya...kya...
+    Por que nao posso
+    me mover?
+    """
+    msgClear
+    """
+    Nao devo ter
+    virado pedra,
+    nao eh?
+    """
+    msgClear
+    """
+    Nao...eh...
+    o medo que me
+    paralisa...
+    """
+    msgClear
+    """
+    Kuh...
+    Kyakyaaa!
+    """
+    end
 }

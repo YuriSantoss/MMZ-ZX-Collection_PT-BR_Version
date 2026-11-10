@@ -2,373 +2,373 @@
 @size 23
 
 script 0 mmz4 {
-	end
+    end
 }
 script 10 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¡Ya disparó!
-	"""
-	msgClear
-	"""
-	¡Ciel!
-	¡Responde!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 36
-	"""
-	Zzz...zzz...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	No funciona...
-	¿Qué está pasando
-	ahí arriba?
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Ja disparou!
+    """
+    msgClear
+    """
+    Ciel!
+    Responda!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 36
+    """
+    Zzz...zzz...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Nao funciona...
+    O que esta havendo
+    la em cima?
+    """
+    end
 }
 script 11 mmz4 {
-	mugshotShow
-		mugshot = 33
-	"""
-	Zero...
-	¿Qué haces aquí?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¡No dejaré que
-	dispares otra vez!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 33
-	"""
-	Viniste por
-	Weil, ¿no?
-	"""
-	msgClear
-	"""
-	Ragnarok se está
-	cargando para un
-	segundo disparo.
-	"""
-	msgClear
-	"""
-	Esto cambiará el
-	mundo y a las
-	personas en él...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Crees que Neige
-	aprobaría lo que
-	estás haciendo?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 33
-	"""
-	Sé que lo que hago
-	me hace parecerme
-	a Weil.
-	"""
-	msgClear
-	"""
-	¡No me importa si
-	la gente piensa
-	que soy un Maverick!
-	"""
-	msgClear
-	"""
-	Alguien tiene que
-	dar un paso al frente
-	y cambiar el rumbo
-	"""
-	msgClear
-	"""
-	de la humanidad.
-	"""
-	end
+    mugshotShow
+        mugshot = 33
+    """
+    Zero...
+    O que faz aqui?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Nao deixarei que
+    dispare outra vez!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 33
+    """
+    Vio por Weil,
+    nao eh?
+    """
+    msgClear
+    """
+    Ragnarok esta se
+    carregando para um
+    segundo disparo.
+    """
+    msgClear
+    """
+    Isso mudara o
+    mundo e as
+    pessoas nele...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Acha que Neige
+    aprovana o que
+    esta fazendo?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 33
+    """
+    Sei que o que faco
+    me faz parecer
+    com Weil.
+    """
+    msgClear
+    """
+    Nao me importa se
+    o povo pensa
+    que sou um Maverick!
+    """
+    msgClear
+    """
+    Alguem tem que
+    dar um passo a frente
+    e mudar o rumo
+    """
+    msgClear
+    """
+    da humanidade.
+    """
+    end
 }
 script 12 mmz4 {
-	mugshotShow
-		mugshot = 33
-	"""
-	Zero...
-	Sé lo que intentas
-	decir...
-	"""
-	msgClear
-	"""
-	¡Pero los ideales
-	nobles no salvarán
-	ninguna vida!
-	"""
-	end
+    mugshotShow
+        mugshot = 33
+    """
+    Zero...
+    Sei o que tenta
+    dizer...
+    """
+    msgClear
+    """
+    Mas os ideais
+    nobres nao salvara-o
+    nenhuma vida!
+    """
+    end
 }
 script 13 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Solo somos
-	Reploides diseñados
-	para la guerra.
-	"""
-	msgClear
-	"""
-	No nos corresponde
-	cambiar el mundo.
-	"""
-	msgClear
-	"""
-	Eso depende de
-	humanos como Ciel
-	y Neige.
-	"""
-	msgClear
-	"""
-	Como Reploides,
-	solo podemos
-	prestar nuestra
-	"""
-	msgClear
-	"""
-	fuerza a quienes
-	confiamos.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 33
-	"""
-	¿Confiar? ¿Y en
-	quién debería
-	confiar?
-	"""
-	msgClear
-	"""
-	¿En los humanos que
-	no hacen nada
-	mientras su mundo
-	"""
-	msgClear
-	"""
-	se desmorona?
-	"""
-	msgClear
-	"""
-	¿En los humanos que
-	nos temen, a sus
-	propias creaciones?
-	"""
-	msgClear
-	"""
-	¿O en los humanos
-	que intentan
-	conquistar el mundo?
-	"""
-	msgClear
-	"""
-	¿¡Peleamos entre
-	nosotros por ellos!?
-	"""
-	msgClear
-	"""
-	Este mundo grita de
-	dolor bajo ellos...
-	"""
-	msgClear
-	"""
-	¿Por qué debería
-	confiar en alguien?
-	"""
-	msgClear
-	"""
-	¿Cómo puedes confiar
-	en ellos? ¿Cómo
-	puedes luchar?
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    So somos
+    Reploids projetados
+    para a guerra.
+    """
+    msgClear
+    """
+    Nao nos cabe
+    mudar o mundo.
+    """
+    msgClear
+    """
+    Isso depende de
+    humanos como Ciel
+    e Neige.
+    """
+    msgClear
+    """
+    Como Reploids,
+    so podemos
+    prestar nossa
+    """
+    msgClear
+    """
+    forca a quem
+    confiamos.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 33
+    """
+    Confiar? E em
+    quem deveria
+    confiar?
+    """
+    msgClear
+    """
+    Nos humanos que
+    nao fazem nada
+    enquanto seu mundo
+    """
+    msgClear
+    """
+    se desmorona?
+    """
+    msgClear
+    """
+    Nos humanos que
+    nos temem, a suas
+    proprias criacoes?
+    """
+    msgClear
+    """
+    Ou nos humanos
+    que tentam
+    conquistar o mundo?
+    """
+    msgClear
+    """
+    Lutamos entre
+    nos por eles!?
+    """
+    msgClear
+    """
+    Este mundo grita de
+    dor sob eles...
+    """
+    msgClear
+    """
+    Por que deveria
+    confiar em alguem?
+    """
+    msgClear
+    """
+    Como pode confiar
+    neles? Como
+    pode lutar?
+    """
+    end
 }
 script 14 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Hice una promesa a
-	un amigo y pienso
-	cumplirla.
-	"""
-	msgClear
-	"""
-	A alguien que
-	creía que la
-	armonía entre
-	"""
-	msgClear
-	"""
-	humanos y
-	Reploides era
-	posible.
-	"""
-	msgClear
-	"""
-	Confío en ese
-	amigo.
-	"""
-	msgClear
-	"""
-	Y confío en los
-	humanos en los que
-	ese amigo confía...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 33
-	"""
-	Ya...veo...
-	"""
-	msgClear
-	"""
-	Ni siquiera pude
-	llegar a confiar
-	en Neige...
-	"""
-	msgClear
-	"""
-	Aunque siempre
-	dijo la verdad...
-	"""
-	msgClear
-	"""
-	¡Agh!
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Fiz uma promessa a
+    um amigo e penso
+    em cumprila.
+    """
+    msgClear
+    """
+    A alguem que
+    acreditava que a
+    armonia entre
+    """
+    msgClear
+    """
+    humanos e
+    Reploids era
+    possivel.
+    """
+    msgClear
+    """
+    Confio nesse
+    amigo.
+    """
+    msgClear
+    """
+    E confio nos
+    humanos em quem
+    esse amigo confia...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 33
+    """
+    Entao...vejo...
+    """
+    msgClear
+    """
+    Nem sequer pude
+    chegar a confiar
+    na Neige...
+    """
+    msgClear
+    """
+    Embora sempre
+    disse a verdade...
+    """
+    msgClear
+    """
+    Agh!
+    """
+    end
 }
 script 15 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¡Craft!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 33
-	"""
-	Deja mi cuerpo...
-	aquí...
-	"""
-	msgClear
-	"""
-	Ya no puedo...ver
-	a Neige...
-	"""
-	msgClear
-	"""
-	No quiero...hacerla
-	sufrir más...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Haré lo que me
-	pediste.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 33
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Los humanos...
-	Los Reploides...
-	El mundo...
-	"""
-	msgClear
-	"""
-	Y Neige...
-	Cuida...de ellos.
-	"""
-	msgClear
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Craft!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 33
+    """
+    Deixe meu corpo...
+    aqui...
+    """
+    msgClear
+    """
+    Ja nao posso...ver
+    a Neige...
+    """
+    msgClear
+    """
+    Nao quero...faze-la
+    sofrer mais...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Farei o que me
+    pediu.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 33
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Os humanos...
+    Os Reploids...
+    O mundo...
+    """
+    msgClear
+    """
+    E Neige...
+    Cuide...deles.
+    """
+    msgClear
+    """
+    ...
+    """
+    end
 }
 script 16 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    ...
+    """
+    end
 }
 script 17 mmz4 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel:"¡Zero! ¡Responde!"
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: "Zero! Responda!"
+    """
+    end
 }
 script 18 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Ciel...
-	Detuve
-	Ragnarok...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Ciel...
+    Parei
+    Ragnarok...
+    """
+    end
 }
 script 19 mmz4 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel:"¿Y Craft?"
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: "E Craft?"
+    """
+    end
 }
 script 20 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Y a Craft...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    E o Craft...
+    """
+    end
 }
 script 21 mmz4 {
-	mugshotShow
-		mugshot = 0
-	"""
-	Ciel:"Lo siento..."
-	"""
-	msgClear
-	"""
-	"No sé qué decir..."
-	"""
-	end
+    mugshotShow
+        mugshot = 0
+    """
+    Ciel: "Sinto muito..."
+    """
+    msgClear
+    """
+    "Nao sei o que dizer..."
+    """
+    end
 }
 script 22 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	No tienes que
-	decir nada...
-	"""
-	msgClear
-	"""
-	Misión cumplida...
-	Ya vuelvo...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Nao tem que
+    dizer nada...
+    """
+    msgClear
+    """
+    Missao cumprida...
+    Ja volto...
+    """
+    end
 }

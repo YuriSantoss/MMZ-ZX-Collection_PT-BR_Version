@@ -2,136 +2,136 @@
 @size 19
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 36
-	"""
-	Operadora:
-	"Encontré una puerta
-	 en otra zona con
-	"""
-	msgClear
-	"""
-	 un bloqueo especial
-	 y parece que
-	 necesitarás una
-	"""
-	msgClear
-	"""
-	 tarjeta llave para
-	 abrirla."
-	"""
-	msgClear
-	"""
-	"Esto no tiene
-	 relación directa
-	 con tu misión
-	"""
-	msgClear
-	"""
-	 actual, pero quería
-	 avisarte por si
-	"""
-	msgClear
-	"""
-	 quieres ir a
-	 revisarla."
-	"""
-	end
+    mugshotShow
+        mugshot = 36
+    """
+    Operadora:
+    "Encontrei uma porta
+     em outra zona com
+    """
+    msgClear
+    """
+     um bloqueio especial
+     e parece que
+     precisara de um
+    """
+    msgClear
+    """
+     cartao-chave para
+     abri-la."
+    """
+    msgClear
+    """
+    "Isso nao tem
+     relacao direta
+     com sua missao
+    """
+    msgClear
+    """
+     atual, mas queria
+     avisa-lo caso
+    """
+    msgClear
+    """
+     queira ir
+     verifica-la."
+    """
+    end
 }
 script 16 mmz4 {
-	mugshotShow
-		mugshot = 27
-	"""
-	Gaaah...
-	Me hiciste esperar,
-	héroe.
-	"""
-	msgClear
-	"""
-	Pensé que mis
-	ayudantes te habrían
-	hecho pedazos.
-	"""
-	msgClear
-	"""
-	Y aquí me apresuré
-	a preparar todo
-	para ti.
-	"""
-	msgClear
-	"""
-	¡Aunque claro, nadie
-	puede seguirme el
-	ritmo!
-	"""
-	msgClear
-	"""
-	Al menos espero que
-	logres hacer esto
-	interesante.
-	"""
-	msgClear
-	"""
-	Después de todo,
-	eres un héroe.
-	"""
-	end
+    mugshotShow
+        mugshot = 27
+    """
+    Gaaah...
+    Voce me fez esperar,
+    heroi.
+    """
+    msgClear
+    """
+    Pensei que meus
+    ajudantes teriam te
+    feito em pedacos.
+    """
+    msgClear
+    """
+    E aqui me apressei
+    em preparar tudo
+    para voce.
+    """
+    msgClear
+    """
+    Embora claro, ninguem
+    possa seguir o meu
+    ritmo!
+    """
+    msgClear
+    """
+    Ao menos espero que
+    consiga fazer isso
+    interessante.
+    """
+    msgClear
+    """
+    Afinal de contas,
+    voce eh um heroi.
+    """
+    end
 }
 script 17 mmz4 {
-	mugshotShow
-		mugshot = 27
-	"""
-	¡Gaaah!
-	¿¡Qué!?
-	¿¡Ya terminó!?
-	"""
-	msgClear
-	"""
-	¡Qué aburrido!
-	Deberías dejar eso
-	de ser héroe.
-	"""
-	end
+    mugshotShow
+        mugshot = 27
+    """
+    Gaaah!
+    O que!?
+    Ja acabou!?
+    """
+    msgClear
+    """
+    Que chato!
+    Voce devia deixar
+    isso de ser heroi.
+    """
+    end
 }
 script 18 mmz4 {
-	mugshotShow
-		mugshot = 27
-	"""
-	¿¡Gaaah!?
-	"""
-	msgClear
-	"""
-	Jeje... Nada mal...
-	Fiel a tu título de
-	héroe...
-	"""
-	msgClear
-	"""
-	Pero aún no ha
-	terminado. ¡Ni de
-	lejos!
-	"""
-	msgClear
-	"""
-	El verdadero poder
-	de Ragnarok apenas
-	está comenzando...
-	"""
-	msgClear
-	"""
-	Jeje... ¡Ve
-	preparando tu lista
-	de excusas cuando
-	"""
-	msgClear
-	"""
-	tengas que explicar
-	por qué no pudiste
-	salvar Área Zero!
-	"""
-	msgClear
-	"""
-	¡Graaah!
-	"""
-	end
+    mugshotShow
+        mugshot = 27
+    """
+    Gaaah!?
+    """
+    msgClear
+    """
+    Hehe... Nada mal...
+    Fiel ao seu titulo de
+    heroi...
+    """
+    msgClear
+    """
+    Mas ainda nao
+    acabou. Nem de
+    longe!
+    """
+    msgClear
+    """
+    O verdadeiro poder
+    de Ragnarok mal
+    esta comecando...
+    """
+    msgClear
+    """
+    Hehe... Va
+    preparando sua lista
+    de desculpas quando
+    """
+    msgClear
+    """
+    tiver que explicar
+    por que nao conseguiu
+    salvar a Area Zero!
+    """
+    msgClear
+    """
+    Graaah!
+    """
+    end
 }

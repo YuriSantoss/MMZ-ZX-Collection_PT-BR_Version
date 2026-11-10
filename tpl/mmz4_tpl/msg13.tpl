@@ -2,459 +2,458 @@
 @size 16
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Averiguaste algo
-	sobre Área Zero?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	Sí...
-	No está lejos de
-	aquí.
-	"""
-	msgClear
-	"""
-	Neige y los demás
-	deberían llegar
-	pronto.
-	"""
-	msgClear
-	"""
-	Área Zero es el
-	lugar de las Guerras
-	Maverick, donde
-	"""
-	msgClear
-	"""
-	la colonia espacial
-	Eurasia se
-	estrelló...
-	"""
-	msgClear
-	"""
-	Muchas vidas se
-	perdieron allí...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Área Zero es un
-	recordatorio doloroso
-	de una guerra
-	"""
-	msgClear
-	"""
-	pasada...
-	"""
-	msgClear
-	"""
-	¿Ahora viven
-	humanos allí?
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Descobriu algo
+    sobre a Area Zero?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Sim...
+    Nao fica longe
+    daqui.
+    """
+    msgClear
+    """
+    Neige e os outros
+    devem chegar
+    em breve.
+    """
+    msgClear
+    """
+    A Area Zero e o
+    lugar das Guerras
+    Maverick, onde
+    """
+    msgClear
+    """
+    a colonia espacial
+    Eurasia caiu...
+    """
+    msgClear
+    """
+    Muitas vidas se
+    perderam ali...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    A Area Zero e um
+    lembrete doloroso
+    de uma guerra
+    """
+    msgClear
+    """
+    passada...
+    """
+    msgClear
+    """
+    Humanos vivem
+    la agora?
+    """
+    end
 }
 script 1 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Se envió información
-	sobre Área Zero
-	desde la Base de
-	"""
-	msgClear
-	"""
-	la Resistencia.
-	"""
-	msgClear
-	"""
-	Desde el accidente
-	de la colonia
-	espacial, la zona
-	"""
-	msgClear
-	"""
-	estuvo cerrada, pero
-	al parecer la tierra
-	se ha renovado y
-	"""
-	msgClear
-	"""
-	la naturaleza se
-	vuelve más abundante
-	cada vez más.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	¿¡La naturaleza
-	está regresando al
-	Área Zero!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	Se dice que es por
-	un sistema ambiental
-	activo desde el
-	"""
-	msgClear
-	"""
-	accidente.
-	"""
-	msgClear
-	"""
-	No es mucho, pero
-	aún representa
-	esperanza para
-	"""
-	msgClear
-	"""
-	la humanidad.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 7
-	"""
-	¿Has logrado
-	encontrar el
-	asentamiento
-	"""
-	msgClear
-	"""
-	humano?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	No había suficiente
-	información para
-	localizarlo con
-	"""
-	msgClear
-	"""
-	precisión.
-	"""
-	msgClear
-	"""
-	Debemos investigar
-	Área Zero más de
-	cerca.
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Informacoes sobre
+    a Area Zero foram
+    enviadas da Base da
+    """
+    msgClear
+    """
+    Resistencia.
+    """
+    msgClear
+    """
+    Desde o acidente
+    da colonia
+    espacial, a zona
+    """
+    msgClear
+    """
+    esteve fechada, mas
+    ao que parece a terra
+    se renovou e
+    """
+    msgClear
+    """
+    a natureza esta se
+    tornando cada vez mais
+    abundante.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    A natureza
+    esta voltando a
+    Area Zero!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Dizem que e devido
+    a um sistema ambiental
+    ativo desde o
+    """
+    msgClear
+    """
+    acidente.
+    """
+    msgClear
+    """
+    Nao e muito, mas
+    ainda representa
+    esperanca para
+    """
+    msgClear
+    """
+    a humanidade.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 7
+    """
+    Conseguiu
+    encontrar o
+    assentamento
+    """
+    msgClear
+    """
+    humano?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Nao havia informacao
+    suficiente para
+    localiza-lo com
+    """
+    msgClear
+    """
+    precisao.
+    """
+    msgClear
+    """
+    Devemos investigar
+    a Area Zero mais de
+    perto.
+    """
+    end
 }
 script 2 mmz4 {
-	mugshotShow
-		mugshot = 7
-	"""
-	Zero, ¿puedes salir
-	y revisar?
-	"""
-	msgClear
-	"""
-	Te seguiremos en
-	el tráiler.
-	"""
-	end
+    mugshotShow
+        mugshot = 7
+    """
+    Zero, pode sair
+    e dar uma olhada?
+    """
+    msgClear
+    """
+    Vamos te seguir no
+    trailer.
+    """
+    end
 }
 script 3 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¿Vas al Área Zero?
-	  Sí
-	  No
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Vai para a Area Zero?
+     Sim
+     Nao
+    """
+    end
 }
 script 4 mmz4 {
-	mugshotShow
-		mugshot = 4
-	"""
-	Entendido.
-	Operadora,
-	transpórtame.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	De acuerdo.
-	Coordenadas
-	configuradas...
-	"""
-	end
+    mugshotShow
+        mugshot = 4
+    """
+    Entendido.
+    Operadora,
+    transporte-me.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    De acordo.
+    Coordenadas
+    configuradas...
+    """
+    end
 }
 script 5 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¿¡Cómo puede ser!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	¿Cómo qué puede
-	ser?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Detecto varias
-	señales Reploide!
-	"""
-	msgClear
-	"""
-	Creo que son de
-	Neo Arcadia...
-	"""
-	msgClear
-	"""
-	¡No, son Reploides
-	de Weil!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	"""
-	¡¿Qué hacen en
-	Área Zero!?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Operadora, llévame
-	allí. ¡Rápido!
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Como pode ser!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Como o que pode
+    ser?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 34
+    """
+    Detecto varios
+    sinais de Reploid!
+    """
+    msgClear
+    """
+    Acho que sao de
+    Neo Arcadia...
+    """
+    msgClear
+    """
+    Nao, sao Reploids
+    de Weil!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    """
+    O que fazem na
+    Area Zero!?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Operadora, me leve
+    ate la. Rapido!
+    """
+    end
 }
 script 6 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Entendido.
-	Estoy lista
-	cuando quieras...
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Entendido.
+    Estou pronta
+    quando quiser...
+    """
+    end
 }
 script 10 mmz4 {
-	mugshotShow
-		mugshot = 51
-	"""
-	¡Eh tú!
-	¡Alto!
-	"""
-	end
+    mugshotShow
+        mugshot = 51
+    """
+    Ei voce!
+    Para!
+    """
+    end
 }
 script 11 mmz4 {
-	mugshotShow
-		mugshot = 51
-	"""
-	Eres un Reploide.
-	¡Este no es lugar
-	para ti!
-	"""
-	msgClear
-	"""
-	¡Fuera de aquí!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 58
-	"""
-	¡Espera!
-	¡Tenemos que decirte
-	algo!
-	"""
-	end
+    mugshotShow
+        mugshot = 51
+    """
+    Voce e um Reploid.
+    Este nao e lugar
+    para voce!
+    """
+    msgClear
+    """
+    Fora daqui!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 58
+    """
+    Espere!
+    Temos que te dizer
+    uma coisa!
+    """
+    end
 }
 script 12 mmz4 {
-	mugshotShow
-		mugshot = 61
-	"""
-	Te dijimos que
-	salieras...
-	"""
-	end
+    mugshotShow
+        mugshot = 61
+    """
+    Dissemos para
+    voce sair...
+    """
+    end
 }
 script 13 mmz4 {
-	mugshotShow
-		mugshot = 58
-	"""
-	Weil va a destruir
-	este lugar.
-	"""
-	msgClear
-	"""
-	Si se van ahora,
-	aún hay tiempo.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 51
-	"""
-	Hmph...
-	¿Otra guerra de
-	Reploides?
-	"""
-	msgClear
-	"""
-	Primero las Guerras
-	Maverick, luego
-	las Guerras Élficas,
-	"""
-	msgClear
-	"""
-	y ahora Weil...
-	"""
-	msgClear
-	"""
-	¿Cuánto tiempo
-	tendrá que sufrir
-	el mundo mientras
-	"""
-	msgClear
-	"""
-	llevas a cabo tus
-	pequeñas guerras?
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    """
+    Weil vai destruir
+    este lugar.
+    """
+    msgClear
+    """
+    Se partirem agora,
+    ainda ha tempo.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 51
+    """
+    Hmph...
+    Outra guerra de
+    Reploids?
+    """
+    msgClear
+    """
+    Primeiro as Guerras
+    Maverick, depois
+    as Guerras Elficas,
+    """
+    msgClear
+    """
+    e agora Weil...
+    """
+    msgClear
+    """
+    Ate quando o mundo
+    vai ter que sofrer
+    enquanto voces
+    """
+    msgClear
+    """
+    conduzem suas
+    pequenas guerras?
+    """
+    end
 }
 script 14 mmz4 {
-	mugshotShow
-		mugshot = 58
-	"""
-	¿Eh?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 51
-	"""
-	Déjanos en paz.
-	"""
-	msgClear
-	"""
-	Este asentamiento
-	fue construido por
-	humanos, 
-	"""
-	msgClear
-	"""
-	para humanos,
-	y lo protegeremos
-	nosotros mismos.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 58
-	"""
-	Pero es peligroso
-	que luchen contra
-	Weil solos...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 51
-	"""
-	¿Quieres que
-	humanos y Reploides
-	unamos fuerzas?
-	"""
-	msgClear
-	"""
-	¡No seas tonta!
-	"""
-	msgClear
-	"""
-	Ustedes, Reploides,
-	y sus guerras nos
-	metieron en este
-	"""
-	msgClear
-	"""
-	lío.
-	"""
-	msgClear
-	"""
-	No tenemos razón
-	para confiar en
-	ti.
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    """
+    Eh?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 51
+    """
+    Nos deixe em paz.
+    """
+    msgClear
+    """
+    Este assentamento
+    foi construido por
+    humanos, 
+    """
+    msgClear
+    """
+    para humanos,
+    e nos mesmo o
+    protegeremos.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 58
+    """
+    Mas e perigoso
+    lutarem contra
+    Weil sozinhos...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 51
+    """
+    Quer que
+    humanos e Reploids
+    unamos forcas?
+    """
+    msgClear
+    """
+    Nao seja tola!
+    """
+    msgClear
+    """
+    Voces, Reploids,
+    e suas guerras nos
+    meteram nesta
+    """
+    msgClear
+    """
+    confusao.
+    """
+    msgClear
+    """
+    Nao temos motivo
+    para confiar em
+    voce.
+    """
+    end
 }
 script 15 mmz4 {
-	mugshotShow
-		mugshot = 58
-	"""
-	¡P-pero... solo
-	estábamos tratando
-	de protegerlos!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Ahorra tus fuerzas.
-	"""
-	msgClear
-	"""
-	Neige dijo que
-	no seríamos
-	bienvenidos...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 58
-	"""
-	¡P-pero!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Les dijimos lo que
-	sabemos.
-	"""
-	msgClear
-	"""
-	Depende de ellos
-	decidir qué hacer
-	con eso.
-	"""
-	msgClear
-	"""
-	¿No es así,
-	Neige?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 61
-	"""
-	Así es...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Voy a volver al
-	tráiler.
-	"""
-	msgClear
-	"""
-	El enemigo hará
-	su movimiento final
-	pronto.
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    """
+    M-mas... so
+    estavamos tentando
+    protege-los!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Poupe suas forcas.
+    """
+    msgClear
+    """
+    Neige disse que
+    nao serioamos
+    bem-vindos...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 58
+    """
+    M-mas!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Dissemos a eles o
+    que sabemos.
+    """
+    msgClear
+    """
+    Cabe a eles
+    decidir o que fazer
+    com isso.
+    """
+    msgClear
+    """
+    Nao e assim,
+    Neige?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 61
+    """
+    E assim...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Vou voltar ao
+    trailer.
+    """
+    msgClear
+    """
+    O inimigo fara
+    seu movimento final
+    em breve.
+    """
+    end
 }

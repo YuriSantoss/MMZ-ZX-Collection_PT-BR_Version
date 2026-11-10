@@ -2,3045 +2,3042 @@
 @size 248
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 61
-	"""
-	Oh...
-	"""
-	msgClear
-	"""
-	¡Creí haberte
-	advertido antes!
-	"""
-	msgClear
-	"""
-	No hay nada que
-	puedas hacer aquí.
-	"""
-	end
+    mugshotShow
+        mugshot = 61
+    """
+    Oh...
+    """
+    msgClear
+    """
+    Achei que te avisei
+    antes!
+    """
+    msgClear
+    """
+    Nao ha nada que
+    possa fazer aqui.
+    """
+    end
 }
 script 1 mmz4 {
-	mugshotShow
-		mugshot = 9
-	"""
-	Solo vas a
-	reavivar emociones
-	contenidas.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 61
-	"""
-	Así que da media
-	vuelta y regresa.
-	"""
-	end
+    mugshotShow
+        mugshot = 9
+    """
+    Voce so vai
+    reavivar emocoes
+    contidas.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 61
+    """
+    Entao dê meia
+    volta e retorne.
+    """
+    end
 }
 script 2 mmz4 {
-	mugshotShow
-		mugshot = 61
-	"""
-	¿Otra vez aquí?
-	"""
-	msgClear
-	"""
-	Si sigues viniendo,
-	no tardarán en
-	descubrir
-	"""
-	msgClear
-	"""
-	quién eres en
-	realidad.
-	"""
-	end
+    mugshotShow
+        mugshot = 61
+    """
+    De novo aqui?
+    """
+    msgClear
+    """
+    Se continuar vindo,
+    nao vao demorar para
+    descobrir
+    """
+    msgClear
+    """
+    quem e de
+    verdade.
+    """
+    end
 }
 script 3 mmz4 {
-	mugshotShow
-		mugshot = 61
-	"""
-	Es mejor que no
-	vuelvas a venir
-	aquí.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 9
-	"""
-	¿Entendido?
-	"""
-	end
+    mugshotShow
+        mugshot = 61
+    """
+    E melhor nao
+    vir aqui de
+    novo.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 9
+    """
+    Entendido?
+    """
+    end
 }
 script 8 mmz4 {
-	mugshotShow
-		mugshot = 61
-	"""
-	¿Tú otra vez?
-	"""
-	msgClear
-	"""
-	¿Qué quieres ahora?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 9
-	"""
-	Como periodista,
-	me encantaría hacer
-	un reportaje
-	"""
-	msgClear
-	"""
-	sobre ti...
-	"""
-	msgClear
-	"""
-	Pero esta gente que
-	huye de Neo Arcadia
-	me necesita.
-	"""
-	msgClear
-	"""
-	Espero que cuando
-	esto termine, me
-	dejes entrevistarte.
-	"""
-	end
+    mugshotShow
+        mugshot = 61
+    """
+    Voce de novo?
+    """
+    msgClear
+    """
+    O que quer agora?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 9
+    """
+    Como jornalista,
+    eu adoraria fazer
+    uma reportagem
+    """
+    msgClear
+    """
+    sobre voce...
+    """
+    msgClear
+    """
+    Mas essa gente que
+    foge de Neo Arcadia
+    precisa de mim.
+    """
+    msgClear
+    """
+    Espero que quando
+    isso terminar, me
+    deixe te entrevistar.
+    """
+    end
 }
 script 9 mmz4 {
-	mugshotShow
-		mugshot = 9
-	"""
-	¿Pasa algo?
-	"""
-	msgClear
-	"""
-	Siento decepcionarte,
-	pero no tengo mucho
-	que decir...
-	"""
-	msgClear
-	"""
-	Soy mejor haciendo
-	entrevistas que
-	respondiéndolas.
-	"""
-	end
+    mugshotShow
+        mugshot = 9
+    """
+    Aconteceu algo?
+    """
+    msgClear
+    """
+    Sinto decepciona-lo,
+    mas nao tenho muito
+    o que dizer...
+    """
+    msgClear
+    """
+    Sou melhor fazendo
+    entrevistas do que
+    respondendo a elas.
+    """
+    end
 }
 script 14 mmz4 {
-	mugshotShow
-		mugshot = 9
-	"""
-	Gracias, Zero...
-	"""
-	msgClear
-	"""
-	Solo quería
-	decírtelo otra vez.
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	Nunca habría
-	imaginado que el
-	Reploide que derrotó
-	"""
-	msgClear
-	"""
-	a nuestro líder
-	sería quien nos
-	salvaría...
-	"""
-	msgClear
-	"""
-	Cometí uno de los
-	peores errores que
-	una periodista puede
-	"""
-	msgClear
-	"""
-	cometer...
-	"""
-	msgClear
-	"""
-	Basé todas mis
-	opiniones en la
-	información y
-	"""
-	msgClear
-	"""
-	rumores del gobierno
-	sin verificar los
-	hechos por mí
-	"""
-	msgClear
-	"""
-	misma...
-	"""
-	msgClear
-	"""
-	Vaya periodista...
-	"""
-	end
+    mugshotShow
+        mugshot = 9
+    """
+    Obrigada, Zero...
+    """
+    msgClear
+    """
+    So queria te
+    dizer isso de novo.
+    """
+    msgClear
+    """
+    ...
+    """
+    msgClear
+    """
+    Nunca teria
+    imaginado que o
+    Reploid que derrotou
+    """
+    msgClear
+    """
+    nosso lider seria
+    quem nos salvaria...
+    """
+    msgClear
+    """
+    Cometi um dos
+    piores erros que
+    uma jornalista pode
+    """
+    msgClear
+    """
+    cometer...
+    """
+    msgClear
+    """
+    Baseei todas as minhas
+    opiniaos na
+    informacao e
+    """
+    msgClear
+    """
+    rumores do governo
+    sem verificar os
+    fatos por mim
+    """
+    msgClear
+    """
+    mesma...
+    """
+    msgClear
+    """
+    Bela jornalista...
+    """
+    end
 }
 script 15 mmz4 {
-	mugshotShow
-		mugshot = 97
-	"""
-	...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 9
-	"""
-	Lo siento.
-	"""
-	msgClear
-	"""
-	Estaba pensando en
-	Craft...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 97
-	"""
-	¿Dónde está el
-	Craft que conocí?
-	"""
-	msgClear
-	"""
-	¿Cómo puedo hacer
-	que me escuche?
-	"""
-	msgClear
-	"""
-	Por favor, dímelo,
-	Zero...
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    ...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 9
+    """
+    Sinto muito.
+    """
+    msgClear
+    """
+    Estava pensando em
+    Craft...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 97
+    """
+    Onde esta o
+    Craft que conheci?
+    """
+    msgClear
+    """
+    Como posso fazer
+    ele me ouvir?
+    """
+    msgClear
+    """
+    Por favor, me diga,
+    Zero...
+    """
+    end
 }
 script 18 mmz4 {
-	mugshotShow
-		mugshot = 97
-	"""
-	...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 9
-	"""
-	Zero...
-	Gracias...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 97
-	"""
-	Craft me escuchó,
-	¿verdad?
-	"""
-	msgClear
-	"""
-	Antes del final,
-	volvió a ser el
-	Craft que conocía
-	"""
-	msgClear
-	"""
-	y amaba, ¿no?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 9
-	"""
-	Gracias...
-	Todo es gracias a
-	tu ayuda...
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    ...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 9
+    """
+    Zero...
+    Obrigada...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 97
+    """
+    Craft me ouviu,
+    nao ouviu?
+    """
+    msgClear
+    """
+    Antes do fim,
+    ele voltou a ser o
+    Craft que conhecia
+    """
+    msgClear
+    """
+    e amava, nao e?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 9
+    """
+    Obrigada...
+    Tudo gracas a
+    sua ajuda...
+    """
+    end
 }
 script 19 mmz4 {
-	mugshotShow
-		mugshot = 9
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Esto lleva a la Base
-	de Teletransporte,
-	¿verdad?
-	"""
-	msgClear
-	"""
-	Es peligroso, así
-	que por favor ten
-	cuidado...
-	"""
-	end
+    mugshotShow
+        mugshot = 9
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Isso leva a Base
+    de Teletransporte,
+    nao e?
+    """
+    msgClear
+    """
+    E perigoso, entao
+    por favor tome
+    cuidado...
+    """
+    end
 }
 script 20 mmz4 {
-	mugshotShow
-		mugshot = 9
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Eres la última
-	esperanza de la
-	humanidad.
-	"""
-	msgClear
-	"""
-	Eres el único que
-	puede salvar este
-	mundo.
-	"""
-	end
+    mugshotShow
+        mugshot = 9
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Voce e a ultima
+    esperanca da
+    humanidade.
+    """
+    msgClear
+    """
+    Voce e o unico que
+    pode salvar este
+    mundo.
+    """
+    end
 }
 script 21 mmz4 {
-	mugshotShow
-		mugshot = 9
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Me pregunto qué
-	habría pasado si
-	no estuvieras aquí.
-	"""
-	msgClear
-	"""
-	Por favor...
-	"""
-	msgClear
-	"""
-	Cuida de nosotros.
-	"""
-	end
+    mugshotShow
+        mugshot = 9
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Me pergunto o que
+    teria acontecido se
+    voce nao estivesse aqui.
+    """
+    msgClear
+    """
+    Por favor...
+    """
+    msgClear
+    """
+    Cuide de nos.
+    """
+    end
 }
 script 22 mmz4 {
-	mugshotShow
-		mugshot = 9
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Por fin has llegado
-	tan lejos...
-	"""
-	msgClear
-	"""
-	De verdad eres una
-	leyenda...
-	"""
-	msgClear
-	"""
-	Como periodista,
-	o incluso como
-	ser humano,
-	"""
-	msgClear
-	"""
-	tengo miles de
-	preguntas, pero
-	pueden esperar
-	"""
-	msgClear
-	"""
-	para otro día.
-	"""
-	msgClear
-	"""
-	Zero... Solo...
-	"""
-	msgClear
-	"""
-	Asegúrate de volver
-	de una pieza.
-	"""
-	end
+    mugshotShow
+        mugshot = 9
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Finalmente chegou
+    tao longe...
+    """
+    msgClear
+    """
+    Voce e realmente uma
+    lenda...
+    """
+    msgClear
+    """
+    Como jornalista,
+    ou mesmo como
+    ser humano,
+    """
+    msgClear
+    """
+    tenho milhares de
+    perguntas, mas
+    podem esperar
+    """
+    msgClear
+    """
+    para outro dia.
+    """
+    msgClear
+    """
+    Zero... So...
+    """
+    msgClear
+    """
+    Certifique-se de voltar
+    inteiro.
+    """
+    end
 }
 script 23 mmz4 {
-	mugshotShow
-		mugshot = 9
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Asegúrate de volver
-	de una pieza.
-	"""
-	end
+    mugshotShow
+        mugshot = 9
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Certifique-se de voltar
+    inteiro.
+    """
+    end
 }
 script 28 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	¡Oye!
-	"""
-	msgClear
-	"""
-	¿¡Qué crees que
-	estás haciendo!?
-	"""
-	msgClear
-	"""
-	¡Este es un hogar
-	para humanos!
-	"""
-	msgClear
-	"""
-	¡A menos que tengas
-	algo que hacer aquí,
-	lárgate!
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Ei!
+    """
+    msgClear
+    """
+    O que pensa que
+    esta fazendo!?
+    """
+    msgClear
+    """
+    Este e um lar
+    para humanos!
+    """
+    msgClear
+    """
+    A menos que tenha
+    algo para fazer aqui,
+    dê o fora!
+    """
+    end
 }
 script 29 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	¡Sigues ahí!
-	"""
-	msgClear
-	"""
-	¡Estás colmando
-	mi paciencia!
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Ainda esta ai!
+    """
+    msgClear
+    """
+    Esta esgotando
+    a minha paciencia!
+    """
+    end
 }
 script 30 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	¡Te dije que no
-	vinieras aquí!
-	"""
-	msgClear
-	"""
-	¿Nunca aprendes?
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Eu disse para nao
+    vir aqui!
+    """
+    msgClear
+    """
+    Nunca aprende?
+    """
+    end
 }
 script 31 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	¡No querrás poner a
-	prueba los límites
-	de mi generosidad!
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Nao vai querer testar
+    os limites da
+    minha generosidade!
+    """
+    end
 }
 script 36 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Tú otra vez...
-	"""
-	msgClear
-	"""
-	No lo entiendes,
-	¿verdad?
-	"""
-	msgClear
-	"""
-	Te daré esto si
-	prometes no volver.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Voce de novo...
+    """
+    msgClear
+    """
+    Nao entende,
+    nao e?
+    """
+    msgClear
+    """
+    Te dou isso se
+    prometer nao voltar.
+    """
+    end
 }
 script 37 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Alguna "leyenda"
-	derrotó a X...
-	"""
-	msgClear
-	"""
-	¡Ahora Neo Arcadia
-	está en caos!
-	"""
-	msgClear
-	"""
-	El único Reploide
-	que nos protegió
-	fue X.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Alguma "lenda"
+    derrotou X...
+    """
+    msgClear
+    """
+    Agora Neo Arcadia
+    esta em caos!
+    """
+    msgClear
+    """
+    O unico Reploid
+    que nos protegeu
+    foi X.
+    """
+    end
 }
 script 40 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Hmph.
-	"""
-	msgClear
-	"""
-	Pensar que eres la
-	leyenda que derrotó
-	a X.
-	"""
-	msgClear
-	"""
-	Casi lograste
-	engañarme.
-	"""
-	msgClear
-	"""
-	De cualquier forma,
-	no quiero tener nada
-	que ver
-	"""
-	msgClear
-	"""
-	con Reploides.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Hmph.
+    """
+    msgClear
+    """
+    Pensar que e a
+    lenda que derrotou
+    a X.
+    """
+    msgClear
+    """
+    Quase conseguiu
+    me enganar.
+    """
+    msgClear
+    """
+    De qualquer forma,
+    nao quero ter nada
+    a ver
+    """
+    msgClear
+    """
+    com Reploids.
+    """
+    end
 }
 script 41 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	¿Por qué no vamos
-	a salvarla?
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	Nos traicionó.
-	"""
-	msgClear
-	"""
-	¡No tenemos ninguna
-	obligación de ayudar!
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Por que nao vamos
+    salva-la?
+    """
+    msgClear
+    """
+    ...
+    """
+    msgClear
+    """
+    Ela nos traiu.
+    """
+    msgClear
+    """
+    Nao temos nenhuma
+    obrigacao de ajudar!
+    """
+    end
 }
 script 42 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Lamento lo que dije
-	antes...
-	"""
-	msgClear
-	"""
-	Gracias por salvar
-	a Neige.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Sinto muito pelo que disse
+    antes...
+    """
+    msgClear
+    """
+    Obrigado por salvar
+    a Neige.
+    """
+    end
 }
 script 43 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Quizá no todos los
-	Reploides sean malos
-	después de todo.
-	"""
-	msgClear
-	"""
-	Estoy empezando a
-	verlos con una luz
-	completamente nueva.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Talvez nem todos os
+    Reploids sejam maus
+    afinal.
+    """
+    msgClear
+    """
+    Estou comecando a
+    ve-los com uma luz
+    completamente nova.
+    """
+    end
 }
 script 46 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Oye, Zero...
-	"""
-	msgClear
-	"""
-	Espero que humanos y
-	Reploides puedan
-	vivir juntos en paz.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Ei, Zero...
+    """
+    msgClear
+    """
+    Espero que humanos e
+    Reploids possam
+    viver juntos em paz.
+    """
+    end
 }
 script 47 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Área Zero no es
-	mucho ahora, pero
-	algún día espero que
-	"""
-	msgClear
-	"""
-	se convierta en un
-	lugar del que
-	podamos sentirnos
-	"""
-	msgClear
-	"""
-	orgullosos de
-	traer a los
-	Neoarcadianos.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    A Area Zero nao e
+    muito agora, mas
+    um dia espero que
+    """
+    msgClear
+    """
+    se torne um
+    lugar do qual
+    possamos nos sentir
+    """
+    msgClear
+    """
+    orgulhosos de
+    trazer os
+    Neoarcadianos.
+    """
+    end
 }
 script 48 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Debo admitir que me
-	sorprendió saber
-	que eras el
-	"""
-	msgClear
-	"""
-	legendario Zero.
-	"""
-	msgClear
-	"""
-	Ya no me sorprende
-	tanto ahora que te
-	conozco mejor, y
-	"""
-	msgClear
-	"""
-	por eso estoy
-	agradecido...
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Devo admitir que me
+    surpreendeu saber
+    que era o
+    """
+    msgClear
+    """
+    legendario Zero.
+    """
+    msgClear
+    """
+    Ja nao me surpreende
+    tanto agora que te
+    conheco melhor, e
+    """
+    msgClear
+    """
+    por isso estou
+    agradecido...
+    """
+    end
 }
 script 49 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Para el legendario
-	Reploide, imaginaba
-	a alguien un poco
-	"""
-	msgClear
-	"""
-	más malvado.
-	"""
-	msgClear
-	"""
-	Alguien más como
-	Weil.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Para o legendario
+    Reploid, imaginava
+    alguem um pouco
+    """
+    msgClear
+    """
+    mais malvado.
+    """
+    msgClear
+    """
+    Alguem mais como
+    Weil.
+    """
+    end
 }
 script 50 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	Te debo mucho.
-	"""
-	msgClear
-	"""
-	Todos aquí en el
-	Asentamiento también.
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Te devo muito.
+    """
+    msgClear
+    """
+    Todos aqui no
+    Assentamento tambem.
+    """
+    end
 }
 script 51 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	¡Zero!
-	"""
-	msgClear
-	"""
-	¡Nunca olvidaremos
-	lo que hiciste por
-	nosotros!
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Zero!
+    """
+    msgClear
+    """
+    Nunca esqueceremos
+    o que fez por
+    nos!
+    """
+    end
 }
 script 56 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Eres un Reploide,
-	¿verdad?
-	"""
-	msgClear
-	"""
-	Este no es realmente
-	un lugar para ti.
-	"""
-	msgClear
-	"""
-	¡Nadie aquí confía
-	en los Reploides!
-	"""
-	msgClear
-	"""
-	Excepto X...
-	"""
-	msgClear
-	"""
-	Es la única
-	excepción que se me
-	ocurre.
-	"""
-	msgClear
-	"""
-	Pero ese Reploide
-	lo derrotó.
-	"""
-	msgClear
-	"""
-	¿¡Quién se atrevería
-	a hacerle algo así a
-	nuestro protector!?
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Voce e um Reploid,
+    nao e?
+    """
+    msgClear
+    """
+    Este nao e realmente
+    um lugar para voce.
+    """
+    msgClear
+    """
+    Ninguem aqui confia
+    nos Reploids!
+    """
+    msgClear
+    """
+    Exceto X...
+    """
+    msgClear
+    """
+    E a unica
+    excecao que me
+    ocorre.
+    """
+    msgClear
+    """
+    Mas aquele Reploid
+    o derrotou.
+    """
+    msgClear
+    """
+    Quem ousaria
+    fazer algo assim ao
+    nosso protetor!?
+    """
+    end
 }
 script 57 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	¡Oye, tú!
-	"""
-	msgClear
-	"""
-	No sabes nada
-	sobre el Reploide
-	que derrotó a X,
-	"""
-	msgClear
-	"""
-	¿verdad?
-	"""
-	msgClear
-	"""
-	Neige dijo que era
-	un Reploide con el
-	cabello largo...
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Ei, voce!
+    """
+    msgClear
+    """
+    Nao sabe nada
+    sobre o Reploid
+    que derrotou a X,
+    """
+    msgClear
+    """
+    nao e?
+    """
+    msgClear
+    """
+    Neige disse que era
+    um Reploid com o
+    cabelo comprido...
+    """
+    end
 }
 script 58 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	¿Ragnarok?
-	"""
-	msgClear
-	"""
-	¡Nosotros, los
-	humanos, queremos
-	vivir sin la ayuda
-	"""
-	msgClear
-	"""
-	de los Reploides, y
-	nos negamos a tener
-	miedo de algo así!
-	"""
-	msgClear
-	"""
-	Quizá viniste a
-	advertirnos, pero lo
-	único que haces es
-	"""
-	msgClear
-	"""
-	causar problemas.
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Ragnarok?
+    """
+    msgClear
+    """
+    Nos, os
+    humanos, queremos
+    viver sem a ajuda
+    """
+    msgClear
+    """
+    dos Reploids, e
+    nos recusamos a ter
+    medo de algo assim!
+    """
+    msgClear
+    """
+    Talvez tenha vindo nos
+    avisar, mas tudo o
+    que faz e
+    """
+    msgClear
+    """
+    causar problemas.
+    """
+    end
 }
 script 59 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Si sigues rondando
-	por aquí así,
-	alguien podría
-	"""
-	msgClear
-	"""
-	pensar que eres un
-	enemigo y atacarte
-	por error.
-	"""
-	msgClear
-	"""
-	¡No digas que no te
-	lo advertí!
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Se continuar rondando
+    por aqui assim,
+    alguem podera
+    """
+    msgClear
+    """
+    pensar que e um
+    inimigo e te atacar
+    por engano.
+    """
+    msgClear
+    """
+    Nao diga que nao
+    te avisei!
+    """
+    end
 }
 script 64 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	No importa cuántas
-	veces nos adviertas.
-	¡No nos iremos!
-	"""
-	msgClear
-	"""
-	Este es nuestro
-	nuevo paraíso.
-	"""
-	msgClear
-	"""
-	¡Deja de actuar como
-	si fueras un héroe!
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Nao importa quantas
+    vezes nos avise.
+    Nao vamos nos ir!
+    """
+    msgClear
+    """
+    Este e o nosso
+    novo paraiso.
+    """
+    msgClear
+    """
+    Pare de agir como
+    se fosse um heroi!
+    """
+    end
 }
 script 65 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Te mostraremos que
-	los humanos podemos
-	vivir muy bien
-	"""
-	msgClear
-	"""
-	sin ustedes,
-	Reploides. ¡No nece-
-	sitamos su ayuda!
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Vamos te mostrar que
+    os humanos podem
+    viver muito bem
+    """
+    msgClear
+    """
+    sem voces,
+    Reploids. Nao precisamos
+    da sua ajuda!
+    """
+    end
 }
 script 68 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Neige estuvo con los
-	Reploides todo este
-	tiempo...
-	"""
-	msgClear
-	"""
-	¡No puedo creerlo!
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Neige esteve com os
+    Reploids o tempo
+    todo...
+    """
+    msgClear
+    """
+    Nao posso acreditar!
+    """
+    end
 }
 script 69 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Es culpa de Neige
-	que el Asentamiento
-	fuera atacado.
-	"""
-	msgClear
-	"""
-	¡Es toda su culpa
-	que estemos en
-	peligro!
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    E culpa da Neige
+    que o Assentamento
+    foi atacado.
+    """
+    msgClear
+    """
+    E toda culpa dela
+    estarmos em
+    perigo!
+    """
+    end
 }
 script 70 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Tú eres Zero...
-	"""
-	msgClear
-	"""
-	Todavía me cuesta
-	creerlo...
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Voce e o Zero...
+    """
+    msgClear
+    """
+    Ainda me custa
+    acreditar...
+    """
+    end
 }
 script 71 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Supongo que debería
-	darte las gracias...
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Suponho que deveria
+    te agradecer...
+    """
+    end
 }
 script 74 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	No creí que humanos
-	y Reploides pudieran
-	volver a vivir
-	"""
-	msgClear
-	"""
-	juntos en paz, pero
-	tal vez algún día...
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Nao achei que humanos
+    e Reploids pudessem
+    voltar a viver
+    """
+    msgClear
+    """
+    juntos em paz, mas
+    talvez algum dia...
+    """
+    end
 }
 script 75 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Quiero hacer del
-	Asentamiento un
-	lugar tan pacífico
-	"""
-	msgClear
-	"""
-	que Neige pueda
-	traer a la gente
-	de Neo Arcadia.
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Quero fazer do
+    Assentamento um
+    lugar tao pacifico
+    """
+    msgClear
+    """
+    que a Neige possa
+    trazer a gente
+    de Neo Arcadia.
+    """
+    end
 }
 script 76 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Aún es temprano,
-	pero este lugar es
-	la reunión de
-	"""
-	msgClear
-	"""
-	nuestras esperanzas
-	y sueños...
-	"""
-	msgClear
-	"""
-	Algún día podría
-	convertirse en un
-	próspero paraíso.
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Ainda e cedo,
+    mas este lugar e
+    a reuniao de
+    """
+    msgClear
+    """
+    nossas esperancas
+    e sonhos...
+    """
+    msgClear
+    """
+    Algum dia podera
+    se tornar um
+    paraiso prospero.
+    """
+    end
 }
 script 77 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Nosotros, los
-	humanos, solíamos
-	vivir bajo la
-	"""
-	msgClear
-	"""
-	protección de Neo
-	Arcadia...
-	Escapamos después de
-	"""
-	msgClear
-	"""
-	que el lugar fuera
-	transformado por el
-	Dr. Weil. Pronto
-	"""
-	msgClear
-	"""
-	nos dimos cuenta de
-	lo difícil que era
-	sobrevivir por
-	"""
-	msgClear
-	"""
-	nuestra cuenta.
-	"""
-	msgClear
-	"""
-	Pero no me arrepiento
-	de nada...
-	"""
-	msgClear
-	"""
-	Nuestro futuro está
-	aquí, en Área Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Nos, os
+    humanos, costumamos
+    viver sob a
+    """
+    msgClear
+    """
+    protecao de Neo
+    Arcadia...
+    Escapamos depois de
+    """
+    msgClear
+    """
+    o lugar ser
+    transformado pelo
+    Dr. Weil. Logo
+    """
+    msgClear
+    """
+    percebemos o
+    quanto era dificil
+    sobreviver por
+    """
+    msgClear
+    """
+    nossa conta.
+    """
+    msgClear
+    """
+    Mas nao me arrependo
+    de nada...
+    """
+    msgClear
+    """
+    Nosso futuro esta
+    aqui, na Area Zero.
+    """
+    end
 }
 script 78 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Gracias, Zero...
-	"""
-	msgClear
-	"""
-	Nos has ayudado a
-	darnos cuenta de
-	nuestro error.
-	"""
-	msgClear
-	"""
-	Aunque Neo Arcadia
-	no nos hubiera
-	atacado, igual
-	"""
-	msgClear
-	"""
-	nos habríamos
-	desmoronado...
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Obrigado, Zero...
+    """
+    msgClear
+    """
+    Nos ajudou a
+    perceber o
+    nosso erro.
+    """
+    msgClear
+    """
+    Embora Neo Arcadia
+    nao nos tivesse
+    atacado, mesmo assim
+    """
+    msgClear
+    """
+     teriamos
+    desmoronado...
+    """
+    end
 }
 script 79 mmz4 {
-	mugshotShow
-		mugshot = 47
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Sabes, no nos
-	molestaría que
-	volvieras a pasar.
-	"""
-	msgClear
-	"""
-	Nos uniremos para
-	transformar esta
-	tierra en un
-	"""
-	msgClear
-	"""
-	maravilloso lugar
-	para humanos y
-	Reploides.
-	"""
-	end
+    mugshotShow
+        mugshot = 47
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Sabe, nao nos
+    importaria que
+    passasse de novo.
+    """
+    msgClear
+    """
+    Vamos nos unir para
+    transformar esta
+    terra em um
+    """
+    msgClear
+    """
+    lugar maravilhoso
+    para humanos e
+    Reploids.
+    """
+    end
 }
 script 84 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡Ah!
-	¡Un Reploide!
-	"""
-	msgClear
-	"""
-	Guau...
-	"""
-	msgClear
-	"""
-	¡Es la primera vez
-	que veo uno tan de
-	cerca!
-	"""
-	msgClear
-	"""
-	...
-	"""
-	msgClear
-	"""
-	Oh, pero...
-	"""
-	msgClear
-	"""
-	No puedo ser amable
-	porque todos se
-	enojarán conmigo...
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Ah!
+    Um Reploid!
+    """
+    msgClear
+    """
+    Uau...
+    """
+    msgClear
+    """
+    E a primeira vez
+    que vejo um tao de
+    perto!
+    """
+    msgClear
+    """
+    ...
+    """
+    msgClear
+    """
+    Ah, mas...
+    """
+    msgClear
+    """
+    Nao posso ser legal
+    porque todos vao
+    ficar bravos comigo...
+    """
+    end
 }
 script 85 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	Lo siento, señor.
-	"""
-	msgClear
-	"""
-	De verdad quería ser
-	tu amigo. ¡Nos
-	vemos!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Desculpe, senhor.
+    """
+    msgClear
+    """
+    Eu realmente queria ser
+    seu amigo. Nos
+    vemos!
+    """
+    end
 }
 script 86 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡Hola, señor!
-	"""
-	msgClear
-	"""
-	¡Qué bueno verte
-	de nuevo!
-	"""
-	msgClear
-	"""
-	Pero... ¿deberías
-	estar aquí?
-	"""
-	msgClear
-	"""
-	Todos en el
-	Asentamiento están
-	muy enojados.
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Ola, senhor!
+    """
+    msgClear
+    """
+    Que bom te ver
+    de novo!
+    """
+    msgClear
+    """
+    Mas... deveria
+    estar aqui?
+    """
+    msgClear
+    """
+    Todos no
+    Assentamento estao
+    muito bravos.
+    """
+    end
 }
 script 87 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	Señor...
-	"""
-	msgClear
-	"""
-	¡No creo que seas un
-	Reploide malo!
-	"""
-	msgClear
-	"""
-	Si lo fueras,
-	¿por qué nos
-	ayudarías, no?
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Senhor...
+    """
+    msgClear
+    """
+    Nao acho que seja um
+    Reploid mau!
+    """
+    msgClear
+    """
+    Se fosse,
+    por que nos
+    ajudaria, nao e?
+    """
+    end
 }
 script 92 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡Hola, Sr. Reploide!
-	"""
-	msgClear
-	"""
-	Ah, cierto...
-	"""
-	msgClear
-	"""
-	Cuando salíamos de
-	Neo Arcadia, recogí
-	esto.
-	"""
-	msgClear
-	"""
-	No nos sirve a los
-	humanos, ¡tómalo!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Ola, Sr. Reploid!
+    """
+    msgClear
+    """
+    Ah, e verdade...
+    """
+    msgClear
+    """
+    Quando sai de
+    Neo Arcadia, peguei
+    isso.
+    """
+    msgClear
+    """
+    Nao serve para nos,
+    humanos, pegue!
+    """
+    end
 }
 script 93 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	Hola, Sr. Reploide...
-	"""
-	msgClear
-	"""
-	¿Has visto un
-	S-Crystal?
-	"""
-	msgClear
-	"""
-	Puedes crear uno
-	con algo llamado
-	Ceratanium
-	"""
-	msgClear
-	"""
-	y partes de
-	enemigos, ¿sabes?
-	"""
-	msgClear
-	"""
-	Creo que la receta
-	pedía un tipo de
-	Variant, un robot
-	"""
-	msgClear
-	"""
-	que escupe otros
-	robots y algo con
-	un cuerpo naranja.
-	"""
-	msgClear
-	"""
-	Mi papá era
-	científico, así que
-	he oído cosas así.
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Ola, Sr. Reploid...
+    """
+    msgClear
+    """
+    Ja viu um
+    S-Crystal?
+    """
+    msgClear
+    """
+    Pode criar um
+    com algo chamado
+    Ceratanium
+    """
+    msgClear
+    """
+    e partes de
+    inimigos, sabe?
+    """
+    msgClear
+    """
+    Acho que a receita
+    pedia um tipo de
+    Variant, um robo
+    """
+    msgClear
+    """
+    que cuspe outros
+    robos e algo com
+    um corpo laranja.
+    """
+    msgClear
+    """
+    Meu pai era
+    cientista, entao
+    ouvi coisas assim.
+    """
+    end
 }
 script 96 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡No eras solo un
-	Reploide, eras EL
-	Reploide!
-	"""
-	msgClear
-	"""
-	Gracias por salvar
-	a todos...
-	"""
-	msgClear
-	"""
-	Señor...
-	"""
-	msgClear
-	"""
-	¡Prométeme que
-	salvarás a Neige!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Voce nao era apenas um
+    Reploid, era O
+    Reploid!
+    """
+    msgClear
+    """
+    Obrigado por salvar
+    a todos...
+    """
+    msgClear
+    """
+    Senhor...
+    """
+    msgClear
+    """
+    Prometa que vai
+    salvar a Neige!
+    """
+    end
 }
 script 97 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡Por favor, señor!
-	"""
-	msgClear
-	"""
-	Nadie más quiere ir
-	a ayudarla...
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Por favor, senhor!
+    """
+    msgClear
+    """
+    Ninguem mais quer ir
+    ajuda-la...
+    """
+    end
 }
 script 98 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡Gracias, señor!
-	"""
-	msgClear
-	"""
-	¡Todos los demás
-	también piensan que
-	eres genial!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Obrigado, senhor!
+    """
+    msgClear
+    """
+    Todos os outros
+    tambem acham que
+    voce e demais!
+    """
+    end
 }
 script 99 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡Sabía que salvarías
-	a Neige, de verdad
-	lo sabía!
-	"""
-	msgClear
-	"""
-	¡Después de todo,
-	eres EL Reploide!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Sabia que salvaria
+    a Neige, de verdade
+    sabia!
+    """
+    msgClear
+    """
+    Afinal de contas,
+    voce e O Reploid!
+    """
+    end
 }
 script 102 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	Quiero ser fuerte
-	como tú algún día...
-	"""
-	msgClear
-	"""
-	¡Así también podré
-	proteger a todos!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Quero ser forte
+    como voce um dia...
+    """
+    msgClear
+    """
+    Assim tambem poderei
+    proteger a todos!
+    """
+    end
 }
 script 103 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	Si algún día me
-	vuelvo fuerte...
-	"""
-	msgClear
-	"""
-	¡Nunca usaré mi
-	poder para el mal
-	como Neo Arcadia!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Se um dia me
+    tornar forte...
+    """
+    msgClear
+    """
+    Nunca usarei meu
+    poder para o mal
+    como Neo Arcadia!
+    """
+    end
 }
 script 104 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	Mi mamá y mi papá
-	aún están en Neo
-	Arcadia...
-	"""
-	msgClear
-	"""
-	¡Pero estoy bien!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Minha mae e meu pai
+    ainda estao em Neo
+    Arcadia...
+    """
+    msgClear
+    """
+    Mas estou bem!
+    """
+    end
 }
 script 105 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡Soy fuerte, así que
-	no los necesito!
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Sou forte, entao
+    nao preciso deles!
+    """
+    end
 }
 script 106 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	Señor...
-	"""
-	msgClear
-	"""
-	Cuando ya no estemos
-	en guerra, ¿te
-	irás?
-	"""
-	msgClear
-	"""
-	Será muy solitario
-	sin ti...
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Senhor...
+    """
+    msgClear
+    """
+    Quando nao estarmos
+    mais em guerra, vai
+    embora?
+    """
+    msgClear
+    """
+    Sera muito solitario
+    sem voce...
+    """
+    end
 }
 script 107 mmz4 {
-	mugshotShow
-		mugshot = 48
-	"""
-	¡La próxima vez que
-	me veas, seré más
-	fuerte!
-	"""
-	msgClear
-	"""
-	Lo prometo.
-	"""
-	end
+    mugshotShow
+        mugshot = 48
+    """
+    Da proxima vez que
+    me ver, serei mais
+    forte!
+    """
+    msgClear
+    """
+    Eu prometo.
+    """
+    end
 }
 script 112 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Eres el Reploide de
-	hace un momento,
-	¿verdad?
-	"""
-	msgClear
-	"""
-	Gracias por la ayuda,
-	pero no te
-	necesitamos aquí.
-	"""
-	msgClear
-	"""
-	Este Asentamiento es
-	solo para humanos...
-	"""
-	msgClear
-	"""
-	Puede que tengas tus
-	razones, ¡pero la
-	entrada de Reploides
-	"""
-	msgClear
-	"""
-	está prohibida!
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Voce e o Reploid de
+    agora pouco,
+    nao e?
+    """
+    msgClear
+    """
+    Obrigado pela ajuda,
+    mas nao precisamos
+    de voce aqui.
+    """
+    msgClear
+    """
+    Este Assentamento e
+    apenas para humanos...
+    """
+    msgClear
+    """
+    Pode ter suas
+    razoes, mas a
+    entrada de Reploids
+    """
+    msgClear
+    """
+    e proibida!
+    """
+    end
 }
 script 113 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	¿Necesitas algo?
-	"""
-	msgClear
-	"""
-	Odio decirlo, pero
-	los Reploides siempre
-	causan problemas.
-	"""
-	msgClear
-	"""
-	¡Y los humanos
-	inocentes son
-	siempre los que
-	"""
-	msgClear
-	"""
-	se ven envueltos en
-	esos problemas!
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Precisa de algo?
+    """
+    msgClear
+    """
+    Odeio dizer, mas
+    os Reploids sempre
+    causam problemas.
+    """
+    msgClear
+    """
+    E os humanos
+    inocentes sao
+    sempre os que
+    """
+    msgClear
+    """
+    se dao mal com
+    esses problemas!
+    """
+    end
 }
 script 114 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	¿Volviste para
-	molestar a los
-	humanos?
-	"""
-	msgClear
-	"""
-	Seguro estás
-	pensando, "¿qué
-	pueden hacer estos
-	"""
-	msgClear
-	"""
-	humanos patéticos
-	sin mí?"
-	"""
-	msgClear
-	"""
-	Queremos crear un
-	Asentamiento libre de
-	Reploides como tú.
-	"""
-	msgClear
-	"""
-	Así que deja de
-	merodear por aquí.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Voltou para
+    incomodar os
+    humanos?
+    """
+    msgClear
+    """
+    Com certeza esta
+    pensando, "o que
+    esses humanos
+    """
+    msgClear
+    """
+    pateticos farao
+    sem mim?"
+    """
+    msgClear
+    """
+    Queremos criar um
+    Assentamento livre de
+    Reploids como voce.
+    """
+    msgClear
+    """
+    Entao pare de
+    rondar por aqui.
+    """
+    end
 }
 script 115 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Tú otra vez...
-	"""
-	msgClear
-	"""
-	¿No escuchaste lo
-	que te dije la
-	última vez?
-	"""
-	msgClear
-	"""
-	¡No vuelvas a
-	mostrarte por aquí!
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Voce de novo...
+    """
+    msgClear
+    """
+    Nao ouviu o que
+    eu disse da
+    ultima vez?
+    """
+    msgClear
+    """
+    Nao volte a
+    aparecer por aqui!
+    """
+    end
 }
 script 120 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Oye, tú...
-	"""
-	msgClear
-	"""
-	Eres un Reploide de
-	combate, ¿no?
-	"""
-	msgClear
-	"""
-	Quizá no te interese,
-	pero tengo un mal
-	recuerdo de uno...
-	"""
-	msgClear
-	"""
-	Nuestro líder X fue
-	derrotado por un
-	Reploide legendario
-	"""
-	msgClear
-	"""
-	con una espada
-	brillante.
-	"""
-	msgClear
-	"""
-	Fue entonces cuando
-	nuestra utopía de
-	Neo Arcadia cayó.
-	"""
-	msgClear
-	"""
-	Duele solo
-	pensarlo...
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Ei, voce...
+    """
+    msgClear
+    """
+    E um Reploid de
+    combate, nao e?
+    """
+    msgClear
+    """
+    Talvez nao te interesse,
+    mas tenho uma ma
+    lembranca de um...
+    """
+    msgClear
+    """
+    Nosso lider X foi
+    derrotado por um
+    Reploid legendario
+    """
+    msgClear
+    """
+    com uma espada
+    brilhante.
+    """
+    msgClear
+    """
+    Foi entao que
+    nossa utopia de
+    Neo Arcadia caiu.
+    """
+    msgClear
+    """
+    Doe so de
+    pensar nisso...
+    """
+    end
 }
 script 121 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	¿Qué ocurre?
-	"""
-	msgClear
-	"""
-	No sabías de ese
-	Reploide, ¿verdad?
-	"""
-	msgClear
-	"""
-	Odio la violencia,
-	pero si ALGUNA VEZ
-	lo encuentro, yo...
-	"""
-	msgClear
-	"""
-	Haré que ese
-	Reploide comparta
-	el destino de X.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    O que houve?
+    """
+    msgClear
+    """
+    Nao sabia desse
+    Reploid, sabia?
+    """
+    msgClear
+    """
+    Odeio violencia,
+    mas se ALGUMA VEZ
+    o encontrar, eu...
+    """
+    msgClear
+    """
+     Farei aquele
+    Reploid compartilhar
+    do destino de X.
+    """
+    end
 }
 script 124 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	*suspiro*
-	Nuestro pobre
-	Asentamiento...
-	"""
-	msgClear
-	"""
-	¡Ahh!
-	"""
-	msgClear
-	"""
-	Sabía que un
-	Reploide traería
-	problemas.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    *suspiro*
+    Nosso pobre
+    Assentamento...
+    """
+    msgClear
+    """
+    Ahh!
+    """
+    msgClear
+    """
+    Sabia que um
+    Reploid traria
+    problemas.
+    """
+    end
 }
 script 125 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	¿Neige?
-	"""
-	msgClear
-	"""
-	¿Por qué deberíamos
-	arriesgarnos por
-	ella?
-	"""
-	msgClear
-	"""
-	¡Se merece lo que
-	le pase!
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Neige?
+    """
+    msgClear
+    """
+    Por que deveriamos
+    nos arriscar por
+    ela?
+    """
+    msgClear
+    """
+    Ela merece o que
+    lhe acontecer!
+    """
+    end
 }
 script 126 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	¡Hmph!
-	¿Así que eres el
-	Reploide legendario?
-	"""
-	msgClear
-	"""
-	No puedo creerlo.
-	"""
-	msgClear
-	"""
-	Lo siento...
-	"""
-	msgClear
-	"""
-	Nos salvaste, no
-	debería hablar así.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Hmph!
+    Entao voce e o
+    Reploid legendario?
+    """
+    msgClear
+    """
+    Nao posso acreditar.
+    """
+    msgClear
+    """
+    Sinto muito...
+    """
+    msgClear
+    """
+    Nos salvou, nao
+    deveria falar assim.
+    """
+    end
 }
 script 127 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Gracias por
-	salvar a Neige...
-	"""
-	msgClear
-	"""
-	Sin ti, no sé qué
-	habría pasado con
-	ella.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Obrigado por
+    salvar a Neige...
+    """
+    msgClear
+    """
+    Sem voce, nao sei o que
+    teria acontecido com
+    ela.
+    """
+    end
 }
 script 130 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Desde que el Dr.
-	Weil tomó el control,
-	Neo Arcadia se ha
-	"""
-	msgClear
-	"""
-	llenado de horror
-	y miedo...
-	"""
-	msgClear
-	"""
-	Aún se me llenan los
-	ojos de lágrimas al
-	recordar el
-	"""
-	msgClear
-	"""
-	sufrimiento de
-	quienes me
-	rodeaban...
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Desde que o Dr.
+    Weil assumiu o controle,
+    Neo Arcadia se
+    """
+    msgClear
+    """
+    encheu de horror
+    e medo...
+    """
+    msgClear
+    """
+    Ainda se enchem os
+    olhos de lagrimas ao
+    lembrar do
+    """
+    msgClear
+    """
+    sofrimento de
+    quem me
+    cercava...
+    """
+    end
 }
 script 131 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Nunca hablé con
-	Reploides desde que
-	uno de ellos
-	"""
-	msgClear
-	"""
-	mató a mis padres...
-	"""
-	msgClear
-	"""
-	Después de conocerte,
-	sé que hay algunos
-	Reploides buenos.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Nunca falei com
+    Reploids desde que
+    um deles
+    """
+    msgClear
+    """
+    matou meus pais...
+    """
+    msgClear
+    """
+    Depois de te conhecer,
+    sei que ha alguns
+    Reploids bons.
+    """
+    end
 }
 script 132 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Una vez que mi vida
-	fuera se estabilice,
-	quiero traer a mis
-	"""
-	msgClear
-	"""
-	hermanos aquí desde
-	Neo Arcadia.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Assim que minha vida
+    aqui fora se estabilizar,
+    quero trazer meus
+    """
+    msgClear
+    """
+    irmaos para ca de
+    Neo Arcadia.
+    """
+    end
 }
 script 133 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Me pregunto cómo
-	estarán mis hermanos
-	ahora...
-	"""
-	msgClear
-	"""
-	No puedo esperar
-	para verlos de
-	nuevo.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Me pergunto como
+    estarao meus irmaos
+    agora...
+    """
+    msgClear
+    """
+    Nao vejo a hora
+    de ve-los de
+    novo.
+    """
+    end
 }
 script 134 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Área Zero...
-	"""
-	msgClear
-	"""
-	Sin naturaleza...
-	Sin esperanza...
-	"""
-	msgClear
-	"""
-	Todos habían
-	renunciado a este
-	mundo...
-	"""
-	msgClear
-	"""
-	Pero el mundo no
-	había renunciado.
-	"""
-	msgClear
-	"""
-	Este lugar es el
-	comienzo de un
-	nuevo inicio.
-	"""
-	msgClear
-	"""
-	Zero...
-	"""
-	msgClear
-	"""
-	Ahora, humanos y
-	Reploides deben
-	trabajar juntos
-	"""
-	msgClear
-	"""
-	para preservar esta
-	valiosa oportunidad
-	para las futuras
-	"""
-	msgClear
-	"""
-	generaciones.
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Area Zero...
+    """
+    msgClear
+    """
+    Sem natureza...
+    Sem esperanca...
+    """
+    msgClear
+    """
+    Todos tinham
+    desistido deste
+    mundo...
+    """
+    msgClear
+    """
+    Mas o mundo nao
+    tinha desistido.
+    """
+    msgClear
+    """
+    Este lugar e o
+    inicio de um
+    novo comeco.
+    """
+    msgClear
+    """
+    Zero...
+    """
+    msgClear
+    """
+    Agora, humanos e
+    Reploids devem
+    trabalhar juntos
+    """
+    msgClear
+    """
+    para preservar esta
+    valiosa oportunidade
+    para as futuras
+    """
+    msgClear
+    """
+    geracoes.
+    """
+    end
 }
 script 135 mmz4 {
-	mugshotShow
-		mugshot = 50
-	"""
-	Cuando salí por
-	primera vez de Neo
-	Arcadia, nunca
-	"""
-	msgClear
-	"""
-	pensé que confiaría
-	en un Reploide.
-	Zero, si hay otros
-	"""
-	msgClear
-	"""
-	como tú, la
-	humanidad está en
-	buenas manos...
-	"""
-	end
+    mugshotShow
+        mugshot = 50
+    """
+    Quando sai pela
+    primeira vez de Neo
+    Arcadia, nunca
+    """
+    msgClear
+    """
+    pensei que confiaria
+    em um Reploid.
+    Zero, se ha outros
+    """
+    msgClear
+    """
+    como voce, a
+    humanidade esta em
+    boas maos...
+    """
+    end
 }
 script 140 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Oh, Sr. Reploide...
-	"""
-	msgClear
-	"""
-	No deberías estar
-	aquí...
-	"""
-	msgClear
-	"""
-	Hay muchas personas
-	por aquí a las que
-	no les gustan los
-	"""
-	msgClear
-	"""
-	Reploides...
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Oh, Sr. Reploid...
+    """
+    msgClear
+    """
+    Nao deveria estar
+    aqui...
+    """
+    msgClear
+    """
+    Ha muitas pessoas
+    por aqui que
+    nao gostam de
+    """
+    msgClear
+    """
+    Reploids...
+    """
+    end
 }
 script 141 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Sr. Reploide...
-	"""
-	msgClear
-	"""
-	Deberías irte de
-	aquí.
-	"""
-	msgClear
-	"""
-	Es mejor para
-	ambos así...
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Sr. Reploid...
+    """
+    msgClear
+    """
+    Deveria sair
+    daqui.
+    """
+    msgClear
+    """
+    E melhor para
+    ambos assim...
+    """
+    end
 }
 script 142 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Sr. Reploide, lo
-	siento...
-	"""
-	msgClear
-	"""
-	La gente de por aquí
-	no es amable con los
-	Reploides...
-	"""
-	msgClear
-	"""
-	Pero...
-	"""
-	msgClear
-	"""
-	Es porque todos se
-	han visto envueltos
-	en las
-	"""
-	msgClear
-	"""
-	guerras entre
-	Reploides...
-	"""
-	msgClear
-	"""
-	No pueden evitar
-	sentirse así.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Sr. Reploid, sinto
+    muito...
+    """
+    msgClear
+    """
+    O pessoal daqui
+    nao e amable com os
+    Reploids...
+    """
+    msgClear
+    """
+    Mas...
+    """
+    msgClear
+    """
+    E porque todos se
+    envolveram nas
+    """
+    msgClear
+    """
+    guerras entre
+    Reploids...
+    """
+    msgClear
+    """
+    Eles nao podem
+    evitar se sentir assim.
+    """
+    end
 }
 script 143 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Incluso mi familia
-	se vio afectada...
-	"""
-	msgClear
-	"""
-	Desaparecieron
-	durante las guerras
-	de Reploides.
-	"""
-	msgClear
-	"""
-	De verdad desearía
-	poder ver a mamá y
-	papá otra vez.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Ate minha familia
+    foi afetada...
+    """
+    msgClear
+    """
+    Desapareceram
+    durante as guerras
+    de Reploids.
+    """
+    msgClear
+    """
+    De verdade queria
+    poder ver a mama e
+    o papa de novo.
+    """
+    end
 }
 script 148 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Sr. Reploide...
-	"""
-	msgClear
-	"""
-	Es mejor que no
-	vuelvas a dejarte
-	ver por aquí.
-	"""
-	msgClear
-	"""
-	Sé que no eres un
-	mal tipo y todo...
-	"""
-	msgClear
-	"""
-	¡Ah, casi lo olvido!
-	"""
-	msgClear
-	"""
-	Encontré esto y
-	quería dártelo.
-	"""
-	msgClear
-	"""
-	Pero no se lo digas
-	a nadie. Me daría
-	miedo pensar qué
-	"""
-	msgClear
-	"""
-	pasaría si supieran
-	que ayudo a un
-	Reploide.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Sr. Reploid...
+    """
+    msgClear
+    """
+    E melhor nao
+    voltar a se
+    deixar ver por aqui.
+    """
+    msgClear
+    """
+    Sei que nao e um
+    mau tipo nem nada...
+    """
+    msgClear
+    """
+    Ah, quase esqueci!
+    """
+    msgClear
+    """
+    Encontrei isso e
+    queria te dar.
+    """
+    msgClear
+    """
+    Mas nao conte a
+    ninguem. Teria
+    medo de pensar o que
+    """
+    msgClear
+    """
+    aconteceria se soubessem
+    que ajudo um
+    Reploid.
+    """
+    end
 }
 script 149 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	¿Así que esto es
-	Área Zero?
-	"""
-	msgClear
-	"""
-	Al parecer, aquí
-	cayó la colonia
-	hace mucho...
-	"""
-	msgClear
-	"""
-	Fue mucho antes
-	incluso del tiempo
-	de mis abuelos.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Entao isto e a
+    Area Zero?
+    """
+    msgClear
+    """
+    Aparentemente, aqui
+    caiu a colonia
+    ha muito tempo...
+    """
+    msgClear
+    """
+    Foi muito antes
+    ate do tempo
+    dos meus avos.
+    """
+    end
 }
 script 152 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Así que eras ese
-	famoso Reploide todo
-	este tiempo, ¿eh?
-	"""
-	msgClear
-	"""
-	Si de verdad lo
-	eres, entonces...
-	"""
-	msgClear
-	"""
-	¡Por favor, ayuda a
-	Neige!
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Entao voce era esse
+    famoso Reploid o tempo
+    todo, hein?
+    """
+    msgClear
+    """
+    Se de fato o
+    e, entao...
+    """
+    msgClear
+    """
+    Por favor, ajude a
+    Neige!
+    """
+    end
 }
 script 153 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Sé que no está bien
-	que los mismos
-	humanos que hablaban
-	"""
-	msgClear
-	"""
-	mal de ti ahora te
-	hagan peticiones,
-	pero tú eres
-	"""
-	msgClear
-	"""
-	el único que puede
-	salvar a Neige...
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Sei que nao e certo
+    que os mesmos
+    humanos que falavam
+    """
+    msgClear
+    """
+    mal de voce agora te
+    facam pedidos,
+    mas voce e
+    """
+    msgClear
+    """
+    o unico que pode
+    salvar a Neige...
+    """
+    end
 }
 script 154 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Gracias, Sr. Zero.
-	"""
-	msgClear
-	"""
-	El que hayas salvado
-	a Neige ayuda a que
-	la gente del
-	"""
-	msgClear
-	"""
-	Asentamiento se
-	sienta completa otra
-	vez, de algún modo.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Obrigado, Sr. Zero.
+    """
+    msgClear
+    """
+    O fato de ter salvo
+    a Neige ajuda a que
+    o pessoal do
+    """
+    msgClear
+    """
+    Assentamento se
+    sinta completo de
+    novo, de algum modo.
+    """
+    end
 }
 script 155 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Era tal como lo
-	pensaba.
-	"""
-	msgClear
-	"""
-	Sabía que no eras
-	malo después de
-	todo.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Era tal como eu
+    pensava.
+    """
+    msgClear
+    """
+    Sabia que nao era
+    mau afinal de
+    contas.
+    """
+    end
 }
 script 158 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Sr. Zero...
-	"""
-	msgClear
-	"""
-	Estaba muy
-	preocupada cuando
-	salí de Neo Arcadia
-	"""
-	msgClear
-	"""
-	por primera vez,
-	pero ahora sé que
-	puedo lograrlo en
-	"""
-	msgClear
-	"""
-	Área Zero.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Sr. Zero...
+    """
+    msgClear
+    """
+    Estava muito
+    preocupada quando
+    sai de Neo Arcadia
+    """
+    msgClear
+    """
+    pela primeira vez,
+    mas agora sei que
+    posso conseguir na
+    """
+    msgClear
+    """
+    Area Zero.
+    """
+    end
 }
 script 159 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Sr. Zero...
-	"""
-	msgClear
-	"""
-	Me pregunto si el
-	corazón humano puede
-	sanar como la
-	"""
-	msgClear
-	"""
-	naturaleza en
-	Área Zero...
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Sr. Zero...
+    """
+    msgClear
+    """
+    Me pergunto se o
+    coracao humano pode
+    curar como a
+    """
+    msgClear
+    """
+    natureza na
+    Area Zero...
+    """
+    end
 }
 script 160 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Sr. Zero...
-	"""
-	msgClear
-	"""
-	Gracias a usted,
-	vuelvo a ver sonrisas
-	en los rostros de la
-	"""
-	msgClear
-	"""
-	gente aquí en el
-	Asentamiento...
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Sr. Zero...
+    """
+    msgClear
+    """
+    Gracas ao senhor,
+    volto a ver sorrisos
+    nos rostos do
+    """
+    msgClear
+    """
+    pessoal aqui no
+    Assentamento...
+    """
+    end
 }
 script 161 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Ayer salí a caminar
-	fuera del
-	Asentamiento y
-	"""
-	msgClear
-	"""
-	¡encontré un trébol
-	de cuatro hojas!
-	"""
-	msgClear
-	"""
-	Mi abuela solía
-	decirme que los
-	tréboles de cuatro
-	"""
-	msgClear
-	"""
-	hojas le recordaban
-	a su amable profesor
-	Reploide...
-	"""
-	msgClear
-	"""
-	Me pregunto si
-	humanos y Reploides
-	volverán a vivir en
-	"""
-	msgClear
-	"""
-	armonía así algún
-	día.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Ontem fui caminhar
+    fora do
+    Assentamento e
+    """
+    msgClear
+    """
+    encontrei um trevo
+    de quatro folhas!
+    """
+    msgClear
+    """
+    Minha avo costumava
+    me dizer que os
+    trevos de quatro
+    """
+    msgClear
+    """
+    folhas lembravam
+    seu amable professor
+    Reploid...
+    """
+    msgClear
+    """
+    Me pergunto se
+    humanos e Reploids
+    voltarao a viver em
+    """
+    msgClear
+    """
+    armonia assim um
+    dia.
+    """
+    end
 }
 script 162 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Sr. Zero...
-	"""
-	msgClear
-	"""
-	Cuando esta guerra
-	termine, se irá,
-	¿verdad?
-	"""
-	msgClear
-	"""
-	¿Volveremos a
-	encontrarnos?
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Sr. Zero...
+    """
+    msgClear
+    """
+    Quando esta guerra
+    terminar, vai se ir,
+    nao vai?
+    """
+    msgClear
+    """
+    Vamos nos encontrar
+    de novo?
+    """
+    end
 }
 script 163 mmz4 {
-	mugshotShow
-		mugshot = 52
-	"""
-	Supongo que es tu
-	deber ayudar a todos
-	los humanos y
-	"""
-	msgClear
-	"""
-	Reploides
-	ahí fuera...
-	"""
-	msgClear
-	"""
-	Me pondrá triste
-	verte ir, pero espero
-	con ilusión volver a
-	"""
-	msgClear
-	"""
-	verte algún día.
-	"""
-	end
+    mugshotShow
+        mugshot = 52
+    """
+    Suponho que seja seu
+    dever ajudar todos
+    os humanos e
+    """
+    msgClear
+    """
+    Reploids
+    por ai...
+    """
+    msgClear
+    """
+    Vai me dar tristeza
+    ve-lo ir, mas espero
+    com ilusao voltar a
+    """
+    msgClear
+    """
+    ve-lo um dia.
+    """
+    end
 }
 script 168 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡Oye!
-	¿No eres uno de esos
-	Reploides?
-	"""
-	msgClear
-	"""
-	¡No puedes entrar
-	así sin más en el
-	Asentamiento humano!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Ei!
+    Nao e um desses
+    Reploids?
+    """
+    msgClear
+    """
+    Nao pode entrar
+    assim sem mais no
+    Assentamento humano!
+    """
+    end
 }
 script 169 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	No necesitamos
-	Reploides por aquí.
-	"""
-	msgClear
-	"""
-	Podemos protegernos
-	solos perfectamente
-	sin ustedes.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Nao precisamos
+    de Reploids por aqui.
+    """
+    msgClear
+    """
+    Podemos nos proteger
+    sozinhos perfeitamente
+    sem voces.
+    """
+    end
 }
 script 170 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡Oye, tú!
-	"""
-	msgClear
-	"""
-	¡Si sigues
-	deambulando así,
-	los soldados
-	"""
-	msgClear
-	"""
-	Neoarcadianos te
-	encontrarán!
-	"""
-	msgClear
-	"""
-	¡Y ese atuendo es
-	demasiado
-	llamativo!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Ei, voce!
+    """
+    msgClear
+    """
+    Se continuar
+    andando por ai assim,
+    os soldados
+    """
+    msgClear
+    """
+    Neoarcadianos vao te
+    encontrar!
+    """
+    msgClear
+    """
+    E essa roupa e
+    chamativa demais!
+    """
+    end
 }
 script 171 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡Hmph!
-	"""
-	msgClear
-	"""
-	¡Por fin llegamos
-	hasta Área Zero, y
-	no vamos a dejar
-	"""
-	msgClear
-	"""
-	que un Reploide
-	venga a arruinarlo!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Hmph!
+    """
+    msgClear
+    """
+    Finalmente chegamos
+    ate a Area Zero, e
+    nao vamos deixar
+    """
+    msgClear
+    """
+    que um Reploid
+    venha estragar tudo!
+    """
+    end
 }
 script 176 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Estamos colocando
-	trampas fuera del
-	Asentamiento para
-	"""
-	msgClear
-	"""
-	asegurarnos de que
-	los Reploides no nos
-	ataquen...
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Estamos colocando
+    armadilhas fora do
+    Assentamento para
+    """
+    msgClear
+    """
+    nos certificar de que
+    os Reploids nao nos
+    ataquem...
+    """
+    end
 }
 script 177 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡Te demostraremos
-	que podemos
-	cuidarnos solos!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Vamos te provar
+    que podemos
+    nos cuidar sozinhos!
+    """
+    end
 }
 script 180 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Y yo que creía que
-	Neige era una de
-	nosotros.
-	"""
-	msgClear
-	"""
-	Era amiga de ese
-	Reploide,
-	increíble.
-	"""
-	msgClear
-	"""
-	Seguro está
-	revelando nuestra
-	ubicación a Neo
-	"""
-	msgClear
-	"""
-	Arcadia en este
-	momento.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    E eu que achava que
+    a Neige era uma de
+    nos.
+    """
+    msgClear
+    """
+    Era amiga daquele
+    Reploid,
+    incrivel.
+    """
+    msgClear
+    """
+    Com certeza esta
+    revelando nossa
+    localizacao para Neo
+    """
+    msgClear
+    """
+    Arcadia neste
+    momento.
+    """
+    end
 }
 script 181 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Pensar que seríamos
-	traicionados por uno
-	de los nuestros...
-	"""
-	msgClear
-	"""
-	Estamos perdidos.
-	"""
-	msgClear
-	"""
-	Y después de todo
-	lo que pasamos al
-	dejar Neo Arcadia.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Pensar que seriamos
+    traidos por um
+    dos nossos...
+    """
+    msgClear
+    """
+    Estamos perdidos.
+    """
+    msgClear
+    """
+    E depois de tudo
+    o que passamos ao
+    deixar Neo Arcadia.
+    """
+    end
 }
 script 182 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Neige no era una
-	traidora...
-	"""
-	msgClear
-	"""
-	Probablemente era
-	quien más creía
-	en nosotros.
-	"""
-	msgClear
-	"""
-	Lamento todas las
-	cosas terribles que
-	dije sobre ella.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Neige nao era uma
+    traidora...
+    """
+    msgClear
+    """
+    Provavelmente era
+    quem mais acreditava
+    em nos.
+    """
+    msgClear
+    """
+    Sinto muito por todas as
+    coisas terriveis que
+    disse sobre ela.
+    """
+    end
 }
 script 183 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Lamento todo lo que
-	dije sobre ti
-	también.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Sinto muito por tudo o
+    que disse sobre voce
+    tambem.
+    """
+    end
 }
 script 186 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Tu líder también es
-	humana, ¿verdad?
-	"""
-	msgClear
-	"""
-	Probablemente como
-	Neige...
-	"""
-	msgClear
-	"""
-	De carácter fuerte,
-	inteligente y muy
-	querida.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Seu lider tambem e
+    humana, nao e?
+    """
+    msgClear
+    """
+    Provavelmente como
+    a Neige...
+    """
+    msgClear
+    """
+    De carater forte,
+    inteligente e muito
+    querida.
+    """
+    end
 }
 script 187 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Ustedes en la
-	Resistencia también
-	dejaron Neo Arcadia.
-	"""
-	msgClear
-	"""
-	Si ustedes pudieron,
-	tal vez nosotros
-	también tengamos una
-	"""
-	msgClear
-	"""
-	oportunidad.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Voces na
+    Resistencia tambem
+    deixaram Neo Arcadia.
+    """
+    msgClear
+    """
+    Se voces puderam,
+    talvez nos
+    tambem tenhamos uma
+    """
+    msgClear
+    """
+    chance.
+    """
+    end
 }
 script 188 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Área Zero se ha
-	convertido en un
-	segundo hogar
-	"""
-	msgClear
-	"""
-	para nosotros.
-	"""
-	msgClear
-	"""
-	Trabajaremos duro
-	para mantenerlo.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    A Area Zero se
+    tornou um
+    segundo lar
+    """
+    msgClear
+    """
+    para nos.
+    """
+    msgClear
+    """
+    Vamos trabalhar duro
+    para mante-lo.
+    """
+    end
 }
 script 189 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Cuesta creer que la
-	colonia cayó aquí
-	hace tanto tiempo
-	"""
-	msgClear
-	"""
-	después de ver toda
-	la naturaleza que
-	crece a nuestro
-	"""
-	msgClear
-	"""
-	alrededor.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Custa creer que a
+    colonia caiu aqui
+    ha tanto tempo
+    """
+    msgClear
+    """
+    depois de ver toda
+    a natureza que
+    cresce ao nosso
+    """
+    msgClear
+    """
+    redor.
+    """
+    end
 }
 script 190 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Área Zero...
-	"""
-	msgClear
-	"""
-	Tal vez algún día
-	se convierta en un
-	paraíso próspero
-	"""
-	msgClear
-	"""
-	y lleno de vida.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Area Zero...
+    """
+    msgClear
+    """
+    Talvez algum dia
+    se torne um
+    paraiso prospero
+    """
+    msgClear
+    """
+    e cheio de vida.
+    """
+    end
 }
 script 191 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Mucho después de que
-	las cicatrices
-	desaparezcan, aún
-	"""
-	msgClear
-	"""
-	debemos recordar
-	las cosas terribles
-	que ocurrieron
-	"""
-	msgClear
-	"""
-	aquí...
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Muito depois de que
+    as cicatrizes
+    desaparecam, ainda
+    """
+    msgClear
+    """
+    devemos lembrar
+    das coisas terriveis
+    que ocorreram
+    """
+    msgClear
+    """
+    aqui...
+    """
+    end
 }
 script 196 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¿Eres un Reploide?
-	"""
-	msgClear
-	"""
-	Entonces...
-	"""
-	msgClear
-	"""
-	¿Has oído hablar de
-	la científica que
-	descubrió a su propio
-	"""
-	msgClear
-	"""
-	Reploide Maverick?
-	"""
-	msgClear
-	"""
-	Supongo que hay
-	gente dispuesta a
-	acoger incluso a
-	"""
-	msgClear
-	"""
-	Reploides así.
-	Es algo curioso,
-	¿sabes?
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    E um Reploid?
+    """
+    msgClear
+    """
+    Entao...
+    """
+    msgClear
+    """
+    Ouviu falar da
+    cientista que
+    descobriu seu proprio
+    """
+    msgClear
+    """
+    Reploid Maverick?
+    """
+    msgClear
+    """
+    Suponho que ha
+    gente disposta a
+    acolher ate
+    """
+    msgClear
+    """
+    Reploids assim.
+    E algo curioso,
+    sabe?
+    """
+    end
 }
 script 197 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Sobre lo que te
-	decía antes, el
-	legendario
-	"""
-	msgClear
-	"""
-	Reploide que la
-	científica encontró
-	derrotó a nuestro
-	"""
-	msgClear
-	"""
-	líder y puso fin a
-	los largos años de
-	paz en Neo Arcadia.
-	"""
-	msgClear
-	"""
-	¿No es terrible?
-	Lo escuché todo de
-	Neige, ¿sabes?
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Sobre o que te
+    dizia antes, o
+    legendario
+    """
+    msgClear
+    """
+    Reploid que a
+    cientista encontrou
+    derrotou nosso
+    """
+    msgClear
+    """
+    lider e pos fim aos
+    longos anos de
+    paz em Neo Arcadia.
+    """
+    msgClear
+    """
+    Nao e terrivel?
+    Ouvi tudo da
+    Neige, sabe?
+    """
+    end
 }
 script 198 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	No es fácil para los
-	humanos salir adelan-
-	te solos, ¿sabes?
-	"""
-	msgClear
-	"""
-	Por eso todos aquí
-	trabajan.
-	"""
-	msgClear
-	"""
-	Incluso un pequeño
-	como Typhon o una
-	chica joven como
-	"""
-	msgClear
-	"""
-	Brise...
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Nao e facil para os
+    humanos seguirem em
+    frente sozinhos, sabe?
+    """
+    msgClear
+    """
+    Por isso todos aqui
+    trabalham.
+    """
+    msgClear
+    """
+    Ate um pequeno
+    como Typhon ou uma
+    garota jovem como
+    """
+    msgClear
+    """
+    Brise...
+    """
+    end
 }
 script 199 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Los humanos tenemos
-	que comer, ¿sabes?
-	"""
-	msgClear
-	"""
-	Y no podemos
-	simplemente
-	apagarnos cuando se
-	"""
-	msgClear
-	"""
-	nos acaba la
-	energía.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Os humanos temos
+    que comer, sabe?
+    """
+    msgClear
+    """
+    E nao podemos
+    simplesmente
+    nos desligar quando
+    """
+    msgClear
+    """
+    acaba a
+    energia.
+    """
+    end
 }
 script 204 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Aún hay mucha gente
-	que no logró salir
-	a tiempo de
-	"""
-	msgClear
-	"""
-	Neo Arcadia,
-	¿sabes?...
-	"""
-	msgClear
-	"""
-	Neige hará lo
-	posible por traerlos
-	aquí.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Ainda ha muita gente
+    que nao conseguiu sair
+    a tempo de
+    """
+    msgClear
+    """
+    Neo Arcadia,
+    sabe?...
+    """
+    msgClear
+    """
+    Neige fara o
+     possivel para traze-los
+    aqui.
+    """
+    end
 }
 script 205 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	No hay garantía de
-	sobrevivir aquí
-	fuera, ¿sabes?...
-	"""
-	msgClear
-	"""
-	Pero todos sabíamos
-	en qué nos metíamos
-	al arriesgarnos
-	"""
-	msgClear
-	"""
-	a escapar.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Nao ha garantia de
+    sobreviver aqui
+    fora, sabe?...
+    """
+    msgClear
+    """
+    Mas todos sabiamos
+    no que nos metiamos
+    ao arriscar
+    """
+    msgClear
+    """
+    fugir.
+    """
+    end
 }
 script 208 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Siento no haberlo
-	dicho antes, pero
-	gracias.
-	"""
-	msgClear
-	"""
-	Me siento tan
-	patético al necesitar
-	la ayuda de un
-	"""
-	msgClear
-	"""
-	Reploide, ya sabes.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Sinto nao ter
+    dito antes, mas
+    obrigado.
+    """
+    msgClear
+    """
+    Me sinto tao
+    patetico ao precisar
+    da ajuda de um
+    """
+    msgClear
+    """
+    Reploid, sabe.
+    """
+    end
 }
 script 209 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Confiaba en Neige,
-	ya sabes...
-	"""
-	msgClear
-	"""
-	Y resulta que está
-	con uno de los
-	Reploides de Weil...
-	"""
-	msgClear
-	"""
-	¡No puedo perdonarla
-	por lo que nos ha
-	hecho!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Convia na Neige,
+    sabe...
+    """
+    msgClear
+    """
+    E acontece que esta
+    com um dos
+    Reploids de Weil...
+    """
+    msgClear
+    """
+    Nao posso perdoa-la
+    pelo o que nos
+    fez!
+    """
+    end
 }
 script 210 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Gracias por
-	ayudarnos incluso
-	después de la forma
-	"""
-	msgClear
-	"""
-	en que te tratamos.
-	"""
-	msgClear
-	"""
-	No sé qué más decir
-	aparte de gracias.
-	"""
-	msgClear
-	"""
-	Toma esto como un
-	pequeño símbolo de
-	mi gratitud.
-	"""
-	msgClear
-	"""
-	Lo encontré entre
-	las cosas de por
-	allá, ¿sabes?
-	"""
-	msgClear
-	"""
-	Quizá tú puedas
-	hacer mejor uso de
-	esto que yo.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Obrigado por
+    nos ajudar mesmo
+    depois da forma
+    """
+    msgClear
+    """
+    em que te tratamos.
+    """
+    msgClear
+    """
+    Nao sei o que mais dizer
+     alem de obrigado.
+    """
+    msgClear
+    """
+    Tome isso como um
+    pequeno simbolo de
+    minha gratidao.
+    """
+    msgClear
+    """
+    O encontrei entre
+    as coisas por
+    la, sabe?
+    """
+    msgClear
+    """
+    Talvez voce possa
+    fazer melhor uso de
+    isso do que eu.
+    """
+    end
 }
 script 211 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Humanos y Reploides
-	quizá no sean tan
-	diferentes después
-	"""
-	msgClear
-	"""
-	de todo.
-	"""
-	msgClear
-	"""
-	Creo que ambos
-	buscamos lo mismo,
-	¿sabes?
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Humanos e Reploids
+    talvez nao sejam tao
+    diferentes depois
+    """
+    msgClear
+    """
+    de tudo.
+    """
+    msgClear
+    """
+    Acho que ambos
+    buscamos a mesma coisa,
+    sabe?
+    """
+    end
 }
 script 214 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Lo oí de Neige...
-	"""
-	msgClear
-	"""
-	El Reploide que nos
-	atacó ya no está.
-	"""
-	msgClear
-	"""
-	Debe ser duro para
-	Neige, ya sabes.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Ouvi da Neige...
+    """
+    msgClear
+    """
+    O Reploid que nos
+    atacou ja nao esta.
+    """
+    msgClear
+    """
+    Deve ser duro para
+    a Neige, sabe.
+    """
+    end
 }
 script 215 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Si Neige lo amaba,
-	ese Reploide debió
-	ser bueno.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Se a Neige o amava,
+    esse Reploid deve ter
+    sido bom.
+    """
+    end
 }
 script 216 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Si hubiéramos tenido
-	un Reploide como tú
-	cuidándonos,
-	"""
-	msgClear
-	"""
-	Neo Arcadia quizás
-	nunca habría
-	llegado a ser así.
-	"""
-	msgClear
-	"""
-	Pero no nos
-	arrepentimos de nada
-	de las vidas que
-	"""
-	msgClear
-	"""
-	hemos llevado.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Se tivessemos tido
+    um Reploid como voce
+    nos cuidando,
+    """
+    msgClear
+    """
+    Neo Arcadia talvez
+    nunca teria
+    chegado a ser assim.
+    """
+    msgClear
+    """
+    Mas nao nos
+    arrependemos de nada
+    das vidas que
+    """
+    msgClear
+    """
+    levamos.
+    """
+    end
 }
 script 217 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Si nos hubiéramos
-	quedado en Neo
-	Arcadia, quién sabe
-	"""
-	msgClear
-	"""
-	qué habría sido de
-	nuestros futuros...
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Se tivessemos ficado
+    em Neo
+    Arcadia, quem sabe
+    """
+    msgClear
+    """
+    o que teria sido dos
+    nossos futuros...
+    """
+    end
 }
 script 218 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	No puedo agradecerte
-	lo suficiente...
-	"""
-	msgClear
-	"""
-	No me caías bien
-	cuando los Reploides
-	de Weil nos atacaron
-	"""
-	msgClear
-	"""
-	por primera vez,
-	pero ahora me alegra
-	haberte conocido.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Nao posso te agradecer
+    o suficiente...
+    """
+    msgClear
+    """
+    Voce nao me caia bem
+    quando os Reploids
+    de Weil nos atacaram
+    """
+    msgClear
+    """
+    pela primeira vez,
+    mas agora fico feliz
+    por ter te conhecido.
+    """
+    end
 }
 script 219 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¿Puedes darle un
-	mensaje a tu líder
-	por mí?
-	"""
-	msgClear
-	"""
-	"Comencemos un nuevo
-	capítulo en la
-	historia de humanos
-	"""
-	msgClear
-	"""
-	y Reploides..."
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Pode dar uma
+    mensagem ao seu lider
+    por mim?
+    """
+    msgClear
+    """
+    "Comecemos um novo
+    capitulo na
+    historia de humanos
+    """
+    msgClear
+    """
+    e Reploids..."
+    """
+    end
 }
 script 224 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¿¡Qué haces aquí,
-	Reploide!?
-	"""
-	msgClear
-	"""
-	Para lo único que
-	sirven es para
-	provocar guerras.
-	"""
-	msgClear
-	"""
-	¿Qué tienes que ver
-	con advertirnos a
-	nosotros, los
-	"""
-	msgClear
-	"""
-	humanos?
-	"""
-	msgClear
-	"""
-	¡Deja de fingir que
-	eres tan noble!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    O que faz aqui,
+    Reploid!?
+    """
+    msgClear
+    """
+    Para a unica coisa
+    que servem e para
+    provocar guerras.
+    """
+    msgClear
+    """
+    O que voce tem a ver
+    com nos avisar a
+    nos, os
+    """
+    msgClear
+    """
+    humanos?
+    """
+    msgClear
+    """
+    Pare de fingir que
+    e tao nobre!
+    """
+    end
 }
 script 225 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡No eres diferente
-	al Dr. Weil!
-	"""
-	msgClear
-	"""
-	¡Solo estás sembrando
-	miedo entre nosotros,
-	los humanos!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Voce nao e diferente
+    do Dr. Weil!
+    """
+    msgClear
+    """
+    Esta apenas semeando
+    medo entre nos,
+    os humanos!
+    """
+    end
 }
 script 226 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¿Cuántos humanos han
-	muerto en nombre de
-	la "justicia"?
-	"""
-	msgClear
-	"""
-	¡Todo es culpa de ese
-	Reploide rojo que la
-	líder de la
-	"""
-	msgClear
-	"""
-	Resistencia encontró!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Quantos humanos
+    morreram em nome da
+    "justica"?
+    """
+    msgClear
+    """
+    Tudo e culpa daquele
+    Reploid vermelho que a
+    lider da
+    """
+    msgClear
+    """
+    Resistencia encontrou!
+    """
+    end
 }
 script 227 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Lo siento...
-	Me pasé.
-	"""
-	msgClear
-	"""
-	Es que eres un
-	Reploide como ese
-	malvado.
-	"""
-	msgClear
-	"""
-	No sé nada sobre
-	Ragnarok, pero no
-	confío en ti.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Sinto muito...
+    Passei dos limites.
+    """
+    msgClear
+    """
+    E que voce e um
+    Reploid como aquele
+    malvado.
+    """
+    msgClear
+    """
+    Nao sei nada sobre
+    Ragnarok, mas nao
+    confio em voce.
+    """
+    end
 }
 script 232 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	No importa lo que
-	digas, estás
-	perdiendo el tiempo.
-	"""
-	msgClear
-	"""
-	No necesitamos tu
-	ayuda para detener
-	a Ragnarok.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Nao importa o que
+    diga, esta
+    perdendo tempo.
+    """
+    msgClear
+    """
+    Nao precisamos da sua
+    ajuda para deter
+    o Ragnarok.
+    """
+    end
 }
 script 233 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Si dependemos de su
-	ayuda, ¿qué sentido
-	tuvo dejar
-	"""
-	msgClear
-	"""
-	Neo Arcadia desde
-	un principio?
-	"""
-	msgClear
-	"""
-	Hemos decidido
-	forjar nuestro
-	propio destino.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Se dependermos da sua
+    ajuda, qual sentido
+    teve deixar
+    """
+    msgClear
+    """
+    Neo Arcadia desde
+    o principio?
+    """
+    msgClear
+    """
+    Decidimos
+    forjar o nosso
+    proprio destino.
+    """
+    end
 }
 script 236 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Ni siquiera pudimos
-	proteger nuestro
-	Asentamiento.
-	"""
-	msgClear
-	"""
-	Somos tan
-	patéticos...
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Nem sequer pudemos
+    proteger nosso
+    Assentamento.
+    """
+    msgClear
+    """
+    Somos tao
+    pateticos...
+    """
+    end
 }
 script 237 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Todo esto es culpa
-	de los Reploides...
-	"""
-	msgClear
-	"""
-	Los problemas los
-	siguen como perros
-	callejeros tras
-	"""
-	msgClear
-	"""
-	las sobras.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Tudo isso e culpa
+    dos Reploids...
+    """
+    msgClear
+    """
+    Os problemas os
+    seguem como caes
+    de rua tras
+    """
+    msgClear
+    """
+    as sobras.
+    """
+    end
 }
 script 238 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Gra-gracias por
-	salvar a Neige...
-	"""
-	msgClear
-	"""
-	Supongo que no todos
-	los Reploides son
-	malos.
-	"""
-	msgClear
-	"""
-	¡Oh!
-	"""
-	msgClear
-	"""
-	¡Toma, esto!
-	"""
-	msgClear
-	"""
-	Parece ser un
-	instructivo, pero no
-	logro entender
-	"""
-	msgClear
-	"""
-	nada de él.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Obrigado por
+    salvar a Neige...
+    """
+    msgClear
+    """
+    Suponho que nem todos
+    os Reploids sao
+    maus.
+    """
+    msgClear
+    """
+    Ah!
+    """
+    msgClear
+    """
+    Tome, isso!
+    """
+    msgClear
+    """
+    Parece ser um
+    manual, mas nao
+    consigo entender
+    """
+    msgClear
+    """
+    nada dele.
+    """
+    end
 }
 script 239 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Tus compañeros
-	también dejaron
-	Neo Arcadia...
-	"""
-	msgClear
-	"""
-	Supongo que fue el
-	destino que
-	termináramos juntos.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Seus companheiros
+    tambem deixaram
+    Neo Arcadia...
+    """
+    msgClear
+    """
+    Suponho que foi o
+    destino que
+    terminassemos juntos.
+    """
+    end
 }
 script 242 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¿¡Es cierto que
-	Ragnarok va a caer
-	sobre Área Zero!?
-	"""
-	msgClear
-	"""
-	Apenas logramos
-	escapar de Neo
-	Arcadia con vida, y
-	"""
-	msgClear
-	"""
-	¿termina así?
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    E verdade que o
+    Ragnarok vai cair
+    sobre a Area Zero!?
+    """
+    msgClear
+    """
+    Mal conseguimos
+    escapar de Neo
+    Arcadia com vida, e
+    """
+    msgClear
+    """
+    termina assim?
+    """
+    end
 }
 script 243 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¿No hay algo que
-	podamos hacer para
-	detener a Ragnarok?
-	"""
-	msgClear
-	"""
-	¡Por favor, tienes
-	que ayudarnos!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Nao ha algo que
+    possamos fazer para
+    deter o Ragnarok?
+    """
+    msgClear
+    """
+    Por favor, voce tem
+    que nos ajudar!
+    """
+    end
 }
 script 244 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Si Ragnarok cae,
-	será como el otro
-	impacto otra vez...
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Se o Ragnarok cair,
+    sera como o outro
+    impacto de novo...
+    """
+    end
 }
 script 245 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Tendremos que vivir
-	ese triste destino
-	una vez más.
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Teremos que viver
+    esse triste destino
+    mais uma vez.
+    """
+    end
 }
 script 246 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	Tuvimos nuestras
-	diferencias, pero me
-	alegra que al final
-	"""
-	msgClear
-	"""
-	hayamos sido amigos.
-	¡Gracias por todo!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Tivemos nossas
+    diferencas, mas fico
+    feliz que no final
+    """
+    msgClear
+    """
+     tenhamos sido amigos.
+    Obrigado por tudo!
+    """
+    end
 }
 script 247 mmz4 {
-	mugshotShow
-		mugshot = 10
-	"""
-	¡Ven a verme cuando
-	pases por aquí!
-	"""
-	msgClear
-	"""
-	¡Me alegrará volver
-	a verte!
-	"""
-	end
+    mugshotShow
+        mugshot = 10
+    """
+    Venha me ver quando
+    passar por aqui!
+    """
+    msgClear
+    """
+    Vou ficar feliz em
+    voltar a ve-lo!
+    """
+    end
 }

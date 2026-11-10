@@ -2,112 +2,112 @@
 @size 19
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 36
-	"""
-	Operadora:
-	"Esta zona está
-	 llena de
-	"""
-	msgClear
-	"""
-	 nanomáquinas."
-	"""
-	msgClear
-	"""
-	"Las enredaderas de
-	 nanomáquinas que
-	 bloquean el camino
-	"""
-	msgClear
-	"""
-	 pueden eliminarse
-	 con el Buster o el
-	 Saber..."
-	"""
-	msgClear
-	"""
-	"O incluso
-	 arrancarse con el
-	 Zero Knuckle."
-	"""
-	end
+    mugshotShow
+        mugshot = 36
+    """
+    Operadora:
+    "Esta zona esta
+     cheia de
+    """
+    msgClear
+    """
+     nanomaquinas."
+    """
+    msgClear
+    """
+    "As trepadeiras de
+     nanomaquinas que
+     bloqueiam o caminho
+    """
+    msgClear
+    """
+     podem ser eliminadas
+     com o Buster ou o
+     Saber..."
+    """
+    msgClear
+    """
+     Ou ate mesmo
+     arrancadas com o
+     Zero Knuckle."
+    """
+    end
 }
 script 16 mmz4 {
-	mugshotShow
-		mugshot = 23
-	"""
-	Vaya, pensé que
-	había entrado una
-	rata, pero eras tú.
-	"""
-	msgClear
-	"""
-	Te estás tomando
-	muchas molestias por
-	el medio ambiente.
-	"""
-	msgClear
-	"""
-	Lástima que todo ese
-	esfuerzo será en
-	vano.
-	"""
-	msgClear
-	"""
-	No tienes ninguna
-	posibilidad de
-	detener Ragnarok.
-	"""
-	msgClear
-	"""
-	Si vas a desperdiciar
-	energía, dámela a mí.
-	"""
-	msgClear
-	"""
-	¡Te dejaré seco!
-	"""
-	end
+    mugshotShow
+        mugshot = 23
+    """
+    Nossa, achei que
+    tinha entrado um
+    rato, mas era voce.
+    """
+    msgClear
+    """
+    Esta tendo
+    muito trabalho por
+    causa do meio ambiente.
+    """
+    msgClear
+    """
+    Pena que todo esse
+    esforco sera em
+    vao.
+    """
+    msgClear
+    """
+    Voce nao tem nenhuma
+    chance de
+    parar Ragnarok.
+    """
+    msgClear
+    """
+    Se vai desperdicancar
+    energia, de-a para mim.
+    """
+    msgClear
+    """
+    Vou te deixar seco!
+    """
+    end
 }
 script 17 mmz4 {
-	mugshotShow
-		mugshot = 23
-	"""
-	¿Qué?
-	¿Eso fue todo?
-	¿Ya terminaste?
-	"""
-	msgClear
-	"""
-	Entonces hemos
-	terminado aquí.
-	¡Serás un gran
-	"""
-	msgClear
-	"""
-	fertilizante!
-	"""
-	end
+    mugshotShow
+        mugshot = 23
+    """
+    O que?
+    Isso foi tudo?
+    Ja terminou?
+    """
+    msgClear
+    """
+    Entao nos
+    terminamos aqui.
+    Voce sera um otimo
+    """
+    msgClear
+    """
+    fertilizante!
+    """
+    end
 }
 script 18 mmz4 {
-	mugshotShow
-		mugshot = 23
-	"""
-	¡Agh... Aah!
-	¡Me estoy
-	marchitando!
-	"""
-	msgClear
-	"""
-	Soy una flor
-	cortada antes de
-	poder florecer...
-	"""
-	msgClear
-	"""
-	¡Agh... Aah!
-	¡Lord Weiiil!
-	"""
-	end
+    mugshotShow
+        mugshot = 23
+    """
+    Agh... Aah!
+    Estou me
+    murchando!
+    """
+    msgClear
+    """
+    Sou uma flor
+    cortada antes de
+    poder desabrochar...
+    """
+    msgClear
+    """
+    Agh... Aah!
+    Lorde Weiiil!
+    """
+    end
 }

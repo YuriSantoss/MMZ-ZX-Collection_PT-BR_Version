@@ -2,127 +2,127 @@
 @size 19
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 36
-	"""
-	Operadora:
-	"¡Zero!"
-	"""
-	msgClear
-	"""
-	"¡No podemos detener
-	 ese rayo de partícu-
-	 las desde afuera!"
-	"""
-	msgClear
-	"""
-	"¡Infíltrate y
-	 deténlo desde
-	 dentro!"
-	"""
-	msgClear
-	"""
-	"Estoy buscando
-	 una entrada."
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	No hay problema...
-	"""
-	msgClear
-	"""
-	Entraré por el
-	cañón.
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 36
-	"""
-	Operadora:
-	"¡Eso es muy
-	 peligroso!"
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	Parece que se está
-	cargando...
-	"""
-	msgClear
-	"""
-	No hay tiempo.
-	¡Comenzando misión!
-	"""
-	end
+    mugshotShow
+        mugshot = 36
+    """
+    Operadora:
+    "Zero!"
+    """
+    msgClear
+    """
+    "Nao podemos parar
+     esse raio de particulas
+     de fora!"
+    """
+    msgClear
+    """
+    "Infiltre-se e
+     pare-o de
+     dentro!"
+    """
+    msgClear
+    """
+    "Estou procurando
+     uma entrada."
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Sem problema...
+    """
+    msgClear
+    """
+    Vou entrar pelo
+    canhao.
+    """
+    msgClear
+    mugshotShow
+        mugshot = 36
+    """
+    Operadora:
+    "Isso e muito
+     perigoso!"
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    Parece que esta
+    carregando...
+    """
+    msgClear
+    """
+    Nao ha tempo.
+    Iniciando missao!
+    """
+    end
 }
 script 16 mmz4 {
-	mugshotShow
-		mugshot = 17
-	"""
-	Ragnarok hará
-	despertar a los
-	humanos de su
-	"""
-	msgClear
-	"""
-	estupidez...
-	"""
-	msgClear
-	"""
-	¡Es el gran plan de
-	nuestro grupo bajo
-	el Cmdt. Craft!
-	"""
-	msgClear
-	"""
-	¡Soy uno de los
-	guerreros Einherjar,
-	"""
-	msgClear
-	"""
-	Heat Genblem!
-	"""
-	msgClear
-	"""
-	¡Derrotaré a todo
-	el que se interponga
-	en nuestro camino!
-	"""
-	end
+    mugshotShow
+        mugshot = 17
+    """
+    Ragnarok fara
+    despertar os
+    humanos da sua
+    """
+    msgClear
+    """
+    estupidez...
+    """
+    msgClear
+    """
+    E o grande plano de
+    nosso grupo sob
+    o Cmdt. Craft!
+    """
+    msgClear
+    """
+    Sou um dos
+    guerreiros Einherjar,
+    """
+    msgClear
+    """
+    Heat Genblem!
+    """
+    msgClear
+    """
+    Vou derrotar todos
+    os que se interpuserem
+    no nosso caminho!
+    """
+    end
 }
 script 17 mmz4 {
-	mugshotShow
-		mugshot = 17
-	"""
-	¡Objetivo
-	destruido!
-	"""
-	msgClear
-	"""
-	¡Ragnarok
-	continuará!
-	"""
-	end
+    mugshotShow
+        mugshot = 17
+    """
+    Alvo
+    destruido!
+    """
+    msgClear
+    """
+    Ragnarok
+    continuara!
+    """
+    end
 }
 script 18 mmz4 {
-	mugshotShow
-		mugshot = 17
-	"""
-	¡Gragh!
-	"""
-	msgClear
-	"""
-	¡No logré destruir
-	mi objetivo!
-	"""
-	msgClear
-	"""
-	Lo siento, te fallé,
-	Cmdt. Craft...
-	¡Graaagh!
-	"""
-	end
+    mugshotShow
+        mugshot = 17
+    """
+    Gragh!
+    """
+    msgClear
+    """
+    Nao consegui destruir
+    meu alvo!
+    """
+    msgClear
+    """
+    Desculpe, te falhei,
+    Cmdt. Craft...
+    Graaagh!
+    """
+    end
 }

@@ -2,283 +2,279 @@
 @size 14
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	Ragnarok...
-	"""
-	msgClear
-	"""
-	se está...
-	"""
-	msgClear
-	"""
-	desmoronando...
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Ragnarok...
+    """
+    msgClear
+    """
+    esta...
+    desmoronando...
+    """
+    end
 }
 script 1 mmz4 {
-	mugshotShow
-		mugshot = 34
-	msgTop
-	"""
-	Ragnarok ha entrado
-	en la atmósfera.
-	"""
-	msgClear
-	"""
-	La mayor parte
-	se quemará al
-	ingresar...
-	"""
-	msgClear
-	"""
-	El impacto con
-	Área Zero ha sido
-	evitado.
-	"""
-	msgClear
-	"""
-	Misión...
-	completada...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 59
-	msgBottom
-	"""
-	¡Zero! ¡Responde,
-	Zero!
-	"""
-	msgClear
-	"""
-	Zero... por favor...
-	Responde...
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    msgTop
+    """
+    Ragnarok entrou
+    na atmosfera.
+    """
+    msgClear
+    """
+    A maior parte
+    vai queimar ao
+    entrar...
+    """
+    msgClear
+    """
+    O impacto com
+    a Area Zero foi
+    evitado.
+    """
+    msgClear
+    """
+    Missao...
+    concluida...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 59
+    msgBottom
+    """
+    Zero! Responda,
+    Zero!
+    """
+    msgClear
+    """
+    Zero... por favor...
+    Responda...
+    """
+    end
 }
 script 2 mmz4 {
-	mugshotShow
-		mugshot = 34
-	msgTop
-	"""
-	No hay respuesta
-	del receptor...
-	"""
-	msgClear
-	"""
-	La conexión se ha
-	perdido...
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    msgTop
+    """
+    Sem resposta
+    do receptor...
+    """
+    msgClear
+    """
+    A conexao foi
+    perdida...
+    """
+    end
 }
 script 3 mmz4 {
-	mugshotShow
-		mugshot = 59
-	msgBottom
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 59
+    msgBottom
+    """
+    ...
+    """
+    end
 }
 script 4 mmz4 {
-	mugshotShow
-		mugshot = 34
-	"""
-	¡Ciel!
-	"""
-	end
+    mugshotShow
+        mugshot = 34
+    """
+    Ciel!
+    """
+    end
 }
 script 5 mmz4 {
-	mugshotShow
-		mugshot = 49
-	msgBottom
-	"""
-	¡Oh!
-	¡Una estrella fugaz!
-	"""
-	end
+    mugshotShow
+        mugshot = 49
+    msgBottom
+    """
+    Oh!
+    Uma estrela cadente!
+    """
+    end
 }
 script 6 mmz4 {
-	mugshotShow
-		mugshot = 49
-	msgBottom
-	"""
-	¡Guau, mira!
-	¡Muchas estrellas
-	fugaces!
-	"""
-	end
+    mugshotShow
+        mugshot = 49
+    msgBottom
+    """
+    Uau, olhe!
+    Muitas estrelas
+    cadentes!
+    """
+    end
 }
 script 7 mmz4 {
-	mugshotShow
-		mugshot = 45
-	"""
-	No, esos son
-	fragmentos de
-	Ragnarok...
-	"""
-	msgClear
-	"""
-	¿Eso significa que...
-	estamos a salvo?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 97
-	"""
-	Craft...
-	"""
-	msgClear
-	"""
-	Zero...
-	"""
-	end
+    mugshotShow
+        mugshot = 45
+    """
+    Nao, aquilo sao
+    fragmentos de
+    Ragnarok...
+    """
+    msgClear
+    """
+    Isso significa que...
+    estamos a salvo?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 97
+    """
+    Craft...
+    """
+    msgClear
+    """
+    Zero...
+    """
+    end
 }
 script 8 mmz4 {
-	mugshotShow
-		mugshot = 12
-	"""
-	...
-	¿Lograste...
-	contactar con Zero?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 58
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 12
+    """
+    ...
+    Conseguiu...
+    falar com o Zero?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 58
+    """
+    ...
+    """
+    end
 }
 script 9 mmz4 {
-	mugshotShow
-		mugshot = 12
-	"""
-	...
-	"""
-	msgClear
-	"""
-	Zero, por qué...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 64
-	"""
-	Cómo pudo
-	pasar esto...
-	"""
-	msgClear
-	"""
-	Después de salvarnos
-	a todos...
-	"""
-	msgClear
-	"""
-	Y justo cuando
-	humanos y Reploides
-	por fin estaban
-	"""
-	msgClear
-	"""
-	unidos...
-	"""
-	msgClear
-	"""
-	¿Qué haremos ahora?
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 45
-	"""
-	...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 97
-	"""
-	...
-	"""
-	end
+    mugshotShow
+        mugshot = 12
+    """
+    ...
+    """
+    msgClear
+    """
+    Zero, por que...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 64
+    """
+    Como isso pudo
+    acontecer...
+    """
+    msgClear
+    """
+    Depois de nos salvar
+    a todos...
+    """
+    msgClear
+    """
+    E justamente quando
+    humanos e Reploids
+    finalmente estavam
+    """
+    msgClear
+    """
+    unidos...
+    """
+    msgClear
+    """
+    O que faremos agora?
+    """
+    msgClear
+    mugshotShow
+        mugshot = 45
+    """
+    ...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 97
+    """
+    ...
+    """
+    end
 }
 script 10 mmz4 {
-	mugshotShow
-		mugshot = 58
-	"""
-	Está bien...
-	"""
-	msgClear
-	"""
-	Estoy segura de que
-	Zero aún está...
-	ahí fuera...
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    """
+    Esta tudo bem...
+    """
+    msgClear
+    """
+    Tenho certeza de que
+    o Zero ainda esta...
+    la fora...
+    """
+    end
 }
 script 11 mmz4 {
-	mugshotShow
-		mugshot = 6
-	"""
-	¡Y algún día volverá
-	con nosotros!
-	"""
-	end
+    mugshotShow
+        mugshot = 6
+    """
+    E algum dia ele voltara
+    para nos!
+    """
+    end
 }
 script 12 mmz4 {
-	mugshotShow
-		mugshot = 97
-	"""
-	Ciel...
-	"""
-	end
+    mugshotShow
+        mugshot = 97
+    """
+    Ciel...
+    """
+    end
 }
 script 13 mmz4 {
-	mugshotShow
-		mugshot = 58
-	msgBottom
-	"""
-	Zero...
-	Tú creíste en
-	nosotros...
-	us...
-	"""
-	msgClear
-	"""
-	Ahora es nuestro
-	turno de demostrarte
-	que tu confianza en
-	"""
-	msgClear
-	"""
-	nosotros no fue
-	en vano...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 6
-	"""
-	Mira, Zero...
-	Haré de este mundo
-	un lugar mejor...
-	"""
-	msgClear
-	"""
-	Uno donde humanos y
-	Reploides puedan
-	caminar de la mano,
-	"""
-	msgClear
-	"""
-	viviendo en paz...
-	"""
-	msgClear
-	"""
-	Solo vuelve algún
-	día... Yo...
-	"""
-	msgClear
-	"""
-	¡Creo en ti!
-	"""
-	end
+    mugshotShow
+        mugshot = 58
+    msgBottom
+    """
+    Zero...
+    Voce acreditou em
+    nos...
+    """
+    msgClear
+    """
+    Agora e a nossa vez de
+    te provar que a sua
+    confianca em
+    """
+    msgClear
+    """
+    nos nao foi
+    em vao...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 6
+    """
+    Olhe, Zero...
+     Farei deste mundo
+    um lugar melhor...
+    """
+    msgClear
+    """
+    Um onde humanos e
+    Reploids possam
+    andar de maos dadas,
+    """
+    msgClear
+    """
+    vivendo em paz...
+    """
+    msgClear
+    """
+    Apenas volte algum
+    dia... Eu...
+    """
+    msgClear
+    """
+    Acredito em voce!
+    """
+    end
 }

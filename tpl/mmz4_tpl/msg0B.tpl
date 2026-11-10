@@ -2,136 +2,136 @@
 @size 19
 
 script 0 mmz4 {
-	mugshotShow
-		mugshot = 36
-	"""
-	Operadora:
-	"Desde el interior
-	 del edificio
-	"""
-	msgClear
-	"""
-	 adelante..."
-	"""
-	msgClear
-	"""
-	"Detecto un campo
-	 magnético
-	 poderoso."
-	"""
-	msgClear
-	"""
-	"Debido al campo,
-	 tu salto podría
-	 verse afectado."
-	"""
-	msgClear
-	"""
-	"Si compartes
-	 polaridad, saltarás
-	 más alto..."
-	"""
-	msgClear
-	"""
-	"Si es distinta,
-	 saltarás más bajo."
-	"""
-	msgClear
-	"""
-	"Hay cápsulas que
-	 pueden cambiar tu
-	 polaridad
-	"""
-	msgClear
-	"""
-	 magnética..."
-	"""
-	msgClear
-	"""
-	"Úsalas sabiamente
-	 para avanzar."
-	"""
-	end
+    mugshotShow
+        mugshot = 36
+    """
+    Operadora:
+    "Do interior
+     do edificio
+    """
+    msgClear
+    """
+     a frente..."
+    """
+    msgClear
+    """
+    "Detecto um campo
+     magnetico
+     poderoso."
+    """
+    msgClear
+    """
+    "Devido ao campo,
+     seu pulo pode
+     ser afetado."
+    """
+    msgClear
+    """
+    "Se tiver a mesma
+     polaridade, pulara
+     mais alto..."
+    """
+    msgClear
+    """
+    "Se for diferente,
+     pulara mais baixo."
+    """
+    msgClear
+    """
+    "Ha capsulas que
+     podem mudar sua
+     polaridade
+    """
+    msgClear
+    """
+     magnetica..."
+    """
+    msgClear
+    """
+    "Use-as sabiamente
+     para avancar."
+    """
+    end
 }
 script 16 mmz4 {
-	mugshotShow
-		mugshot = 29
-	"""
-	¡Rrroar!
-	"""
-	msgClear
-	"""
-	Tú... ¡Por fin...
-	has...llegado...
-	Zero!
-	"""
-	msgClear
-	"""
-	¡No...dejaré...
-	que...detengas...
-	Ragnarok!
-	"""
-	msgClear
-	"""
-	¡Yo soy...el...
-	gran...Mino...
-	Magnus!
-	"""
-	msgClear
-	"""
-	Yo...te...
-	aplastaré...
-	y luego...Uhm...
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 4
-	"""
-	La verdad no tengo
-	tiempo para oír
-	el resto de esto.
-	"""
-	msgClear
-	"""
-	¡Vamos!
-	"""
-	msgClear
-	mugshotShow
-		mugshot = 29
-	"""
-	¡Rrroar!
-	"""
-	end
+    mugshotShow
+        mugshot = 29
+    """
+    Rrroar!
+    """
+    msgClear
+    """
+    Voce... Finalmente...
+    chegou...
+    Zero!
+    """
+    msgClear
+    """
+    Nao...deixarei...
+    que...pare...
+    Ragnarok!
+    """
+    msgClear
+    """
+    Eu sou...o...
+    grande...Mino...
+    Magnus!
+    """
+    msgClear
+    """
+    Eu...vou...
+    te esmagar...
+    e entao...Uhm...
+    """
+    msgClear
+    mugshotShow
+        mugshot = 4
+    """
+    A verdade eh que nao
+    tenho tempo para
+    ouvir o resto disso.
+    """
+    msgClear
+    """
+    Vamos!
+    """
+    msgClear
+    mugshotShow
+        mugshot = 29
+    """
+    Rrroar!
+    """
+    end
 }
 script 17 mmz4 {
-	mugshotShow
-		mugshot = 29
-	"""
-	¡Lo... logré!
-	¡Lo... logré!
-	"""
-	msgClear
-	"""
-	¡Lo...hice...
-	yo solo!
-	"""
-	end
+    mugshotShow
+        mugshot = 29
+    """
+    Con...segui!
+    Con...segui!
+    """
+    msgClear
+    """
+    Eu...fiz isso...
+    sozinho!
+    """
+    end
 }
 script 18 mmz4 {
-	mugshotShow
-		mugshot = 29
-	"""
-	¿¡Roar!?
-	"""
-	msgClear
-	"""
-	¿Yo...yo...
-	perdí?
-	"""
-	msgClear
-	"""
-	¡Cómo...puede...
-	estar...pasando!
-	"""
-	end
+    mugshotShow
+        mugshot = 29
+    """
+    Roar!?
+    """
+    msgClear
+    """
+    Eu...eu...
+    perdi?
+    """
+    msgClear
+    """
+    Como...isso pode...
+    estar...acontecendo!
+    """
+    end
 }
